@@ -79,7 +79,8 @@
     "project": "w3pn-events",
     "event": "w3pn-summit-rome-2023",
     "people": [
-      "Catsnacks and Serinko"
+      "Catsnacks",
+      "Serinko|serinko"
     ]
   },
   {
@@ -203,6 +204,8 @@
     "publishedAt": "2024-05-31T10:04:18Z",
     "desc": "Seth For Privacy - Long advocate for privacy, self-sovereignty & free software.\n\nFreedom.tech: https://freedom.tech founder.\nX: https://x.com/sethforprivacy",
     "duration": 188,
+    "project": "w3pn-events",
+    "event": "w3pn-summit-prague-2024",
     "name": "Seth For Privacy video intervention",
     "people": [
       "Seth For Privacy|sethforprivacy"

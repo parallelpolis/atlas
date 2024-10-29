@@ -833,7 +833,7 @@
   speakers: []
 
 - id: w3pn-summit-prague-2023
-  name: "Web3Privacy Now Summit #1 Prague 2023"
+  name: "Web3Privacy Now Summit #1"
   project: w3pn-events
   seq: 1
   date: "2023-06-05"

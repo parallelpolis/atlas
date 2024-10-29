@@ -198,8 +198,12 @@
     "publishedAt": "2023-08-08T15:34:34Z",
     "desc": "Ole Ersson / Kailash Ecovillage is an example of the transformation of a derelict apartment complex into a model of sustainable development and community building.",
     "duration": 1298,
+    "project": "ethprague",
+    "event": "ethprague23",
     "name": "Kailash Ecovillage, a model for a sustainably focused intentional community in Portland, Oregon USA",
-    "people": []
+    "people": [
+      "Ole Ersson"
+    ]
   },
   {
     "id": "daHI1F-rR0k",
@@ -477,8 +481,12 @@
     "publishedAt": "2023-08-08T16:16:53Z",
     "desc": "Michael / There are many problems that Web3 users in a multi-chain world face when interacting with various dapps, which negatively affects the mass adoption of Web3",
     "duration": 971,
+    "project": "ethprague",
+    "event": "ethprague23",
     "name": "How to create a frictionless Web3 user experience through implementing Account Abstraction",
-    "people": []
+    "people": [
+      "Michael"
+    ]
   },
   {
     "id": "OinSCw9Y24c",
@@ -525,7 +533,7 @@
     "event": "ethprague23",
     "name": "Livestream Interview with Brewster Kahle",
     "people": [
-      "Brewster Kahle"
+      "Brewster Kahle|brewster-kahle"
     ]
   },
   {
@@ -537,6 +545,8 @@
     "publishedAt": "2023-08-08T17:28:12Z",
     "desc": "Paul Graham Raven / The unbearable lightness of solarpunk: utopian visions and infrastructural complications",
     "duration": 2414,
+    "project": "ethprague",
+    "event": "ethprague23",
     "name": "The unbearable lightness of solarpunk: utopian visions and invisible infrastructures",
     "people": [
       "Paul Graham Raven"
@@ -653,7 +663,7 @@
     "event": "ethprague23",
     "name": "Livestream Interview with Ameen Soleimani",
     "people": [
-      "Ameen Soleimani"
+      "Ameen Soleimani|ameen-soleimani"
     ]
   },
   {
@@ -731,7 +741,7 @@
     "duration": 243,
     "name": "Livestream Interview with Christoph Jentzsch",
     "people": [
-      "Christoph Jentzsch"
+      "Christoph Jentzsch|christoph-jentzsch"
     ]
   },
   {
@@ -1121,7 +1131,10 @@
     "desc": "Federico Kunze Küllmer, Daniel Burckhardt / This workshop will dive deep into the IBC protocol, exploring how it enables cross-chain apps and discussing how Evmos simplifies it via its EVM Extensions. At the end of the workshop, developers will be able to understand and create interoperable dApps using Solidity and IBC.",
     "duration": 3406,
     "name": "Crossing the Interoperability Bridge: A Deep Dive into Building Interoperable dApps with IBC",
-    "people": []
+    "people": [
+      "Federico Kunze Küllmer",
+      "Daniel Burckhardt"
+    ]
   },
   {
     "id": "LoIOr0SKu0w",
@@ -1308,6 +1321,8 @@
     "publishedAt": "2023-08-08T20:58:49Z",
     "desc": "Ivo Georgiev / There's undoubtedly more we can do to improve Ethereum wallet UX, and there's two technologies competing for this: MPC (multi-party computation) and smart wallets.",
     "duration": 1162,
+    "project": "ethprague",
+    "event": "ethprague23",
     "name": "The Future of Wallets: MPC vs Smart Wallets and How Account Abstraction is improving UX",
     "people": []
   },
@@ -1320,8 +1335,16 @@
     "publishedAt": "2023-08-08T21:15:09Z",
     "desc": "Camila Ramos Garzon, Avihu Mordechai Levy, Laurence Kirk, Toghrul Maharramov, Alex Gluchowski / Zero-knowledge technology allows for secure and private transactions without the need for a trusted third party.",
     "duration": 2842,
-    "name": "Exploring the Future and Potential of Zero-Knowledge Technology",
-    "people": []
+    "project": "ethprague",
+    "event": "ethprague23",
+    "name": "Panel: Exploring the Future and Potential of Zero-Knowledge Technology",
+    "people": [
+      "Camila Ramos Garzon",
+      "Avihu Mordechai Levy",
+      "Laurence Kirk",
+      "Toghrul Maharramov",
+      "Alex Gluchowski"
+    ]
   },
   {
     "id": "XYeAyjG7IOk",

@@ -19,7 +19,7 @@ projects:
     types: [ presentation, archive ]
     img: ../instances/zero.webp
     caption: |
-      Information and aggregation portal interconnecting whole movement. Includes a [Parallel Glossary](/glossary) and list of all Instances, Concepts, Events and archive with all videos (managed by [PP0](/i/zero)).
+      Information and aggregation portal interconnecting whole movement. Includes a [Parallel Glossary](/glossary) and list of all Instances, Concepts, Events and archive with all videos (managed by [PP0](/s/pp0)).
     refs:
       web: https://paralelnipolis.info
 

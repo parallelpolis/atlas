@@ -1245,3 +1245,11 @@
   img: eleonore-blanc.jpg
   refs:
     twitter: blockblanc
+
+- id: dcbuilder
+  name: DCBuilder
+  altNames:
+    - dcbuilder.eth
+  img: dcbuilder.jpg
+  refs:
+    twitter: DCbuild3r

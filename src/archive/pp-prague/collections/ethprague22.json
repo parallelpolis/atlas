@@ -392,7 +392,7 @@
     "event": "ethprague22",
     "name": "Live Interview: DCBuilder",
     "people": [
-      "DCBuilder",
+      "DCBuilder|dcbuilder",
       "Sara Polak|sara-polak"
     ],
     "target": "pp-prague",
@@ -507,11 +507,16 @@
     "videoId": "_18NbMzLla4",
     "url": "https://www.youtube.com/watch?v=_18NbMzLla4",
     "publishedAt": "2023-08-09T20:41:05Z",
-    "desc": "Diego Losada, Fernando Collado / The main goal is to contribute to the network decentralization by making it easier and affordable for regular users to run nodes (and staking) on resource-constrained devices as well as helping to test the next major Ethereum upgrade (The Merge).",
+    "desc": "The main goal is to contribute to the network decentralization by making it easier and affordable for regular users to run nodes (and staking) on resource-constrained devices as well as helping to test the next major Ethereum upgrade (The Merge).",
     "duration": 1176,
     "name": "Ethereum on Resource constrained devices. Running nodes, staking and The Merge",
-    "people": [],
+    "people": [
+      "Diego Losada",
+      "Fernando Collado"
+    ],
     "target": "pp-prague",
+    "project": "ethprague",
+    "event": "ethprague22",
     "imgHash": "13e2d890c83b2c17738296f074b0e9f0969717c3c2ed6ba01ec3d584dcadf0ce"
   },
   {

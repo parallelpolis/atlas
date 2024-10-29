@@ -9,3 +9,6 @@ collections:
     type: flat
     engine: people
     sort: [ merit, desc ]
+  books:
+    type: flat
+    engine: books

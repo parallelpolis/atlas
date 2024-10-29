@@ -8,8 +8,12 @@
     "publishedAt": "2023-08-07T10:41:20Z",
     "desc": "Eleonore Blanc / August 10th 2022, Alex Pertsev, Tornado Cash builder was arrested in the Netherlands and incarcerated ever since. Let's dive into the pre trial, Tornado Cash and how we can counter this chilling effect and be more prepared in the future.",
     "duration": 1250,
+    "project": "ethprague",
+    "event": "ethprague23",
     "name": "In the eye of the Tornado, a deep dive into the Alex Pertsev \"pre\" trial. The Case for Freedom",
-    "people": []
+    "people": [
+      "Eleonore Blanc"
+    ]
   },
   {
     "id": "rf3SOkaOfgo",

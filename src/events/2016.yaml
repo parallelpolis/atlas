@@ -1,0 +1,238 @@
+- id: hcpp16
+  name: "HCPP16: Decentralized"
+  date: "2016-09-30"
+  major: true
+  project: hcpp
+  place:
+    city: Prague
+    country: cz
+  days: 3
+  seq: 3
+  refs:
+    web: https://decentralized.hcpp.cz
+  speakers:
+    - andreas-antonopoulos
+    - juraj-bednar
+    - juraj-karpis
+    - adam-kaleb-ernest
+    - joerg-platzer
+    - pamela-morgan
+    - wilder
+    - sam-patterson
+    - paul-rosenberg
+    - timothy-c-may
+
+- id: 2016-05-10-bitsquare-the-decentralized-bitcoin-exchange-en
+  name: Bitsquare - The Decentralized Bitcoin Exchange (EN)
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2016-05-10'
+  startTime: '2016-05-10T18:30:00+02:00'
+  endTime: '2016-05-10T21:30:00+02:00'
+  description: >-
+    Bitsquare is the first decentralized, open and secure Bitcoin exchange with
+    privacy by design. — Bitsquare is not a company. Rather, it is implemented
+    as a Decentralized Autonomous Organization with distributed ownership.
+
+
+    During the meetup, Manfred Karrer, the creator of Bitsquare, will cover the
+    questions why a decentralized Bitcoin exchange is needed and how to build
+    it. He will focus on the political and conceptual aspects and will give a
+    short demo of the software...
+
+
+    Meetup is in English. For news see Facebook event
+    (https://www.facebook.com/events/963973413718007).
+
+
+    http://photos2.meetupstatic.com/photos/event/7/e/d/8/600_449552472.jpeg
+  refs:
+    meetup_id: '230800440'
+    meetup: https://www.meetup.com/paralelnipolis/events/230800440/
+
+- id: 2016-04-12-hivemind-power-of-decentralized-mind-cz
+  name: Hivemind - power of decentralized mind (CZ)
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2016-04-12'
+  startTime: '2016-04-12T18:30:00+02:00'
+  endTime: '2016-04-12T21:30:00+02:00'
+  description: >-
+    Meetup is held in Czech, but you are welcome to visit us at our Bitcoin
+    Coffee and have your first coffee for bitcoin anyway.
+
+
+    Ambicí projektu Hivemind je předpovídat budoucnost pomocí decentralizované
+    kolektivní mysli postavené na bitcoinovém blockchainu. Roger Ver prohlásil
+    Hivemind za nejdůležitější projekt od Bitcoinu. Podobně i Tomáš Forgáč, host
+    našeho setkání, jej považuje za jednu z mála skutečně významných aplikací
+    blockchainové technologie. Proč? To se dozvíte v jeho přednášce již toto
+    úterý.
+
+
+    Více ve facebookové události
+    (https://www.facebook.com/events/555520327962033).
+
+
+    http://photos3.meetupstatic.com/photos/event/7/1/6/6/600_448709030.jpeg
+  refs:
+    meetup_id: '230253654'
+    meetup: https://www.meetup.com/paralelnipolis/events/230253654/
+
+
+- id: 2016-04-05-bitcoin-meetup-with-adam-back-en
+  name: Bitcoin meetup with Adam Back (EN)
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2016-04-05'
+  startTime: '2016-04-05T18:30:00+02:00'
+  endTime: '2016-04-05T21:30:00+02:00'
+  speakers:
+    - adam-back
+  description: >-
+    On April 5, once again we are going to host a very special guest — Adam
+    Back, a British cryptographer and crypto-hacker whose work directly inspired
+    creation of Bitcoin and who has been involved in it since the very
+    beginning. We will be glad to have him in Paralelni Polis!
+
+
+    Entrance is free and no registration is needed. You can support us by
+    donating to http://j.mp/1CaXM1R3UnAjXx7zWixoVE6GfJqwhMfz6
+
+
+    Meetup is in English. For news see Facebook event
+    (https://www.facebook.com/events/1517231445250991).
+
+
+    http://photos3.meetupstatic.com/photos/event/2/3/5/2/600_448449042.jpeg
+  refs:
+    meetup_id: '230069612'
+    meetup: https://www.meetup.com/paralelnipolis/events/230069612/
+
+
+- id: 2016-03-22-mastering-bitcoin-with-andreas-antonopoulos-en
+  name: Mastering Bitcoin with Andreas Antonopoulos (EN)
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2016-03-22'
+  startTime: '2016-03-22T18:00:00+01:00'
+  endTime: '2016-03-22T21:00:00+01:00'
+  speakers:
+    - andreas-antonopoulos
+  description: >-
+    Andreas Antonopoulos who has legendary status in the Bitcoin community has
+    accepted our invitation and will come to speak to Paralelni Polis. He is
+    author of the book Mastering Bitcoin and is widely recognized as an
+    authority on Bitcoin.
+
+
+    Don't hesitate to buy your own copy of Mastering Bitcoin from amazon.de
+    (http://amzn.to/24ltXeY) and bring it to the event for signing.
+
+
+    Meetup is in English. For detail see Facebook event
+    (https://www.facebook.com/events/254946958169811/).
+
+
+    http://photos4.meetupstatic.com/photos/event/e/6/4/6/600_447118950.jpeg
+  refs:
+    meetup_id: '229031225'
+    meetup: https://www.meetup.com/paralelnipolis/events/229031225/
+
+
+- id: 2016-02-23-the-bitcoin-gospel-with-roger-ver-en
+  name: The Bitcoin Gospel with Roger Ver (EN)
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2016-02-23'
+  startTime: '2016-02-23T18:30:00+01:00'
+  endTime: '2016-02-23T21:30:00+01:00'
+  description: >-
+    Finally a meetup in English! Let's watch a short documentary The Bitcoin
+    Gospel and have a hangout with Roger Ver aka Bitcoin Jesus!
+
+
+    The documentary looks at the history, the ideologies, and the conflict
+    between the politics of the early-adopters and the VCs/entrepreneurs pushing
+    to take Bitcoin mainstream. Roger Ver is ex-US citizen who has been a long
+    time proponent of voluntaryism and is most well know for his work promoting
+    Bitcoin.
+
+
+    For detail see Facebook event
+    (https://www.facebook.com/events/1014667931905797/).
+
+
+    http://photos1.meetupstatic.com/photos/event/b/2/8/600_446942856.jpeg
+  refs:
+    meetup_id: '228909153'
+    meetup: https://www.meetup.com/paralelnipolis/events/228909153/
+
+
+- id: 2016-02-02-how-everything-started
+  name: How everything started
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2016-02-02'
+  startTime: '2016-02-02T19:00:00+01:00'
+  endTime: '2016-02-02T22:00:00+01:00'
+  speakers:
+    - martin-sip
+    - slush
+  description: >-
+    Do you know how Bitcoin started? During the meetup, Marek Palatinus and
+    Martin Sip will talk about Bitcoin Whitepaper and first developments around
+    Bitcoin community.
+
+
+    Meetup is held in Czech, but you are welcome to visit us at our Bitcoin
+    Coffee and have your first coffee for bitcoin anyway.
+
+
+    For detail see Facebook event
+    (https://www.facebook.com/events/1669013386713391).
+  refs:
+    meetup_id: '228495734'
+    meetup: https://www.meetup.com/paralelnipolis/events/228495734/
+
+
+- id: 2016-01-26-bitcoin-money-of-the-future-book-launch
+  name: 'Bitcoin: Money of the future - Book launch'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2016-01-26'
+  startTime: '2016-01-26T18:30:00+01:00'
+  endTime: '2016-01-26T21:30:00+01:00'
+  description: >-
+    Book launch of Bitcoin: Money of the Future by Dominik Stroukal and Jan
+    Skalický. Meetup is held in Czech, but you are welcome to visit us at our
+    Bitcoin Coffee and have your first coffee for bitcoin anyway.
+
+
+    Detail https://www.facebook.com/events/219141221758197
+  speakers:
+    - dominik-stroukal
+  refs:
+    meetup_id: '228241832'
+    meetup: https://www.meetup.com/paralelnipolis/events/228241832/

@@ -1,0 +1,743 @@
+- id: w3pn-eth-cypherpunk-congress-2024
+  date: '2024-11-11'
+  project: w3pn-events
+  major: true
+  name: Ethereum Cypherpunk Congress @ Devcon 7
+  place:
+    city: Bangkok
+    country: th
+  refs:
+    luma: w3pn-meetup-devcon7
+    web: https://congress.web3privacy.info/
+  speakers:
+    - vitalik-buterin
+    - jarrad-hope
+    - amir-taaki
+    - rachel-rose
+    - exiledsurfer
+  description: |
+    Join the largest freedom & privacy activism gathering facilitated by the Web3Privacy now collective + [rave](https://lu.ma/gqmn3nsl)
+
+- id: hcpp24
+  name: "HCPP24: Hardcore"
+  date: "2024-10-04"
+  major: true
+  days: 3
+  seq: 11
+  project: hcpp
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
+  refs:
+    web: https://hardcore.hcpp.cz
+  speakers:
+    - mario
+    - exiledsurfer
+    - amir-taaki
+    - jaromil
+    - jarrad-hope
+    - mitch-altman
+    - juraj-bednar
+    - wilder
+    - yisi-liu
+    - paul-rosenberg
+    - kristian-csepcsar
+    - maxim-orlovsky
+    - ajs
+    - ryan-lackey
+    - florian-glatz
+    - oskar-thoren
+    - christian-lewe
+  organizers:
+    - kx
+
+- id: 2024-09-25-solana-meetup-or-nfts-with-utility
+  name: Solana MeetUp | NFTs with Utility
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2024-09-25'
+  startTime: '2024-09-25T18:00:00+02:00'
+  endTime: '2024-09-25T20:00:00+02:00'
+  description: >-
+    Join us and explore the world of Solana, one of the fastest and most
+    efficient blockchain platforms today.
+
+
+    This time on… **NFTs with Utility**!
+
+
+    We’ll cover:
+
+
+    **1\. Introduction:** Discover how Web3 Patreon models utilize NFTs for
+    artist subscriptions, access to premium content, and building an OG
+    community. Learn how these NFTs can be traded, offering fans rewards for
+    their support.
+
+
+    **2\. Project Concept:** A look at innovative applications, like how these
+    models can transform the relationship between artists and their supporters.
+
+
+    **3\. Live Demo:** Watch how these NFT-based systems work in practice.
+
+
+    **4\. Future Development:** Discuss potential advancements and future
+    directions for Web3 Patreon models.
+
+
+    **5\. Q&A and Discussion:** Engage in an interactive conversation and get
+    your questions answered.
+
+
+    Don’t miss this exciting chance to learn and connect!
+
+
+    **[BOOK YOUR SPOT HERE](https://tix.secondculture.cz/SOL/), the entry is
+    free ⚡**
+  refs:
+    meetup_id: '303463731'
+    meetup: https://www.meetup.com/paralelnipolis/events/303463731/
+
+
+- id: 2024-09-18-after-work-rave-or-dj-chubasquero
+  name: AFTER WORK RAVE | Dj Chubasquero
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2024-09-18'
+  startTime: '2024-09-18T18:00:00+02:00'
+  endTime: '2024-09-18T21:00:00+02:00'
+  description: >-
+    Get ready to unwind and let loose at the very first After Work Rave, brought
+    to you in collaboration with Akropolis Underground! 🎛️🍹
+
+
+    Join us for an electrifying evening with a live DJ, cool drinks, and an
+    unbeatable atmosphere.
+
+
+    Emerging **[DJ Chubasquero](https://soundcloud.com/chubasqueromusic)** is a
+    music lover who enjoys discovering new tracks and sharing them on the dance
+    floor. Whether it’s intense morning techno or a laid-back deep house at
+    sunset, he always ensures his sets get you moving and lift your spirits.
+
+
+    It’s the perfect way to kick back after a long day and enjoy great company.
+
+
+    Don’t miss out—see you there!
+
+
+    **[BOOK YOUR SPOT HERE](https://tix.secondculture.cz/AWR/), the entry is
+    free ⚡**
+  refs:
+    meetup_id: '303463695'
+    meetup: https://www.meetup.com/paralelnipolis/events/303463695/
+
+
+- id: 2024-06-28-kyborgismus-security-circus
+  name: Kyborgismus Security Circus!?
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2024-06-28'
+  startTime: '2024-06-28T18:00:00+02:00'
+  endTime: '2024-06-28T20:00:00+02:00'
+  description: >-
+    Roll up, roll up! Welcome to the Kyborgismus Security Circus!
+
+
+    Join us on June 28, 2024, at 18:00 at Paralelní Polis for an evening of
+    thrilling discussions, entertaining presentations, and networking
+    opportunities. Hosted by Kyborgismus, this unique meetup combines the
+    excitement of a circus with critical insights into privacy and security.
+    Whether you're a high-wire expert or just stepping into the ring, you'll
+    find something to captivate and educate.
+
+
+    Come for the fun, stay for the knowledge, and leave with new friends and
+    fresh perspectives. Don't miss out on the greatest show in security!
+  refs:
+    meetup_id: '301860652'
+    meetup: https://www.meetup.com/paralelnipolis/events/301860652/
+
+
+- id: 2024-06-16-scrybz-paralelni-polis
+  name: ' SCRYBZ @ PARALELNI POLIS'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2024-06-16'
+  startTime: '2024-06-16T17:00:00+02:00'
+  endTime: '2024-06-16T22:00:00+02:00'
+  description: >-
+    We are [SCRYBZ collective](http://linktr.ee/scrybz)!
+
+
+    Exposing contemporary art for healing the individual within the collective
+    force. Desire is to craft real connections – events that offer an
+    amalgamation of Art, Music and Bitcoin.
+
+
+    ​We are moving from Berlin to Prague for a **Sunday 16th June** OrdArt
+    kick-off after the BTCP conference. The exhibition is set to stay on for
+    over a month – taking over the legendary Paralelní Polis.
+
+
+    ​​Through the Sunday’s event, we will present an introduction to Ordinals
+    and Inscriptions with a small onboarding workshop + Q/A if there is
+    interest. Might touch on the connections between physical and digital art
+    too. Additional info TBA!
+
+
+    ​​More about artists and workshops will be shared on our
+    [Twitter](https://twitter.com/ordinalscrybz) and
+    [Instagram](https://www.instagram.com/scrybz.collective/)!
+
+    ​Participants will again have a chance to mint art & get runedrop :))
+  refs:
+    meetup_id: '301658837'
+    meetup: https://www.meetup.com/paralelnipolis/events/301658837/
+
+
+- id: 2024-06-16-bitcoin-beer-paralelni-polis
+  name: Bitcoin Beer @Paralelní Polis
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2024-06-16'
+  startTime: '2024-06-16T15:00:00+02:00'
+  endTime: '2024-06-16T22:00:00+02:00'
+  description: >-
+    🍻 Calling all Bitcoiners and beer lovers 🍻
+
+
+    Hey there!
+
+
+    Last year's beer bash on the terrace of Paralelní Polis was an absolute
+    blast, wasn't it? Oh yes, last year we couldn't resist a cheeky glance over
+    at our Ethereum friends 😏, and let's just say, it was quite the spectacle.
+
+
+    Well, guess what? We're doing it again, and this time it's going to be even
+    better!
+
+
+    Join us on Sunday, June 16th, for a laid-back, post-conference hangout where
+    Bitcoiners from near and far can come together and unwind before heading
+    back to reality.
+
+
+    So mark your calendars, spread the word, and get ready to raise a glass to
+    another unforgettable evening in the epicenter of Prague's crypto scene.
+
+
+    See you there! ⚡
+  refs:
+    meetup_id: '300923227'
+    meetup: https://www.meetup.com/paralelnipolis/events/300923227/
+
+
+- id: 2024-06-07-monero-konferenco-4
+  name: Monero Konferenco 4
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2024-06-07'
+  major: true
+  startTime: '2024-06-07T10:00:00+02:00'
+  endTime: '2024-06-09T20:00:00+02:00'
+  description: >-
+    ### **A CONFERENCE & HACKATHON IN PRIVACY-ENHANCING TECHNOLOGIES AND
+    DISTRIBUTED SYSTEMS**
+
+
+    Monero Konferenco (“MoneroKon”) is an annual meeting of privacy advocates,
+    cypherpunks, researchers, and developers and is designed to disseminate
+    scientific and technical results in privacy-enhancing technologies and
+    distributed systems. Marking its fourth year, the upcoming 3-day event will
+    be held once again at the renowned Paralelní Polis in the Czech Republic
+    from 7th-9th of June 2024. Come participate in discussions and help us move
+    privacy forward one conversation at a time.
+
+
+    **[Learn more!](https://monerokon.com/)**
+  refs:
+    meetup_id: '300284665'
+    meetup: https://www.meetup.com/paralelnipolis/events/300284665/
+
+- id: w3pn-summit-prague-2024
+  name: Web3Privacy Now Prague 2024
+  date: "2024-05-30"
+  major: true
+  project: w3pn-events
+  seq: 8
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha  
+  speakers:
+    - wilder
+    - mario
+
+- id: w3pn-summit-rome-2024
+  name: Web3Privacy Now Rome 2024
+  project: w3pn-events
+  seq: 10
+  date: "2024-10-03"
+  major: true
+  place:
+    city: Rome
+    country: it
+  speakers: []
+
+- id: pd24
+  name: "Pizza Day Prague 2024: Scaling Wars"
+  date: "2024-05-18"
+  major: true
+  project: pizza-day
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
+  days: 2
+  seq: 3
+  speakers:
+    - mario
+    - 0xorkun
+    - musalbas
+    - exiledsurfer
+    - juraj-bednar
+  organizers:
+    - mario
+    - kx
+  startTime: '2024-05-18T10:00:00+02:00'
+  endTime: '2024-05-19T20:00:00+02:00'
+  description: >-
+    ##### **Welcome to the 3rd annual Pizza Day Prague!**
+
+
+    As we gather once again to celebrate the evolution of Bitcoin and its impact
+    on our world, this year’s conference explores a crucial battleground.
+
+
+    The Scaling Wars represent a pivotal moment in Bitcoin’s journey, a battle
+    to address the growing pains and ensure the continued relevance of
+    peer-to-peer electronic cash. As the demand for Bitcoin transactions rises,
+    questions about network capacity, transaction speed, and fees become
+    increasingly urgent. The decentralization ethos that underpins Bitcoin’s
+    essence faces challenges as the community navigates the delicate balance
+    between scalability and maintaining the trustless nature of the network.
+
+
+    The Scaling Wars encompass not only technical considerations but also
+    ideological discussions about the very soul of Bitcoin. Should we prioritize
+    on-chain scaling or explore layer-two solutions? How do we ensure
+    inclusivity and avoid centralization without compromising efficiency?
+
+
+    Together, we can navigate the challenges of scaling, foster innovation, and
+    ensure that the original spirit of Bitcoin thrives in the face of adversity.
+    Join us in Prague for Pizza Day 2024 – where the aroma of freshly baked
+    ideas and the zest of intellectual exchange promise to make this a landmark
+    event in the ongoing saga of Bitcoin’s evolution.
+
+
+    **[Let the scaling wars begin.](https://pizzaday.cz/)**
+  refs:
+    meetup_id: '300284599'
+    meetup: https://www.meetup.com/paralelnipolis/events/300284599/
+
+- id: 2024-05-17-pizza-day-prague-2024-social
+  name: Pizza Day Prague 2024 "SOCIAL" (warm-up)
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2024-05-17'
+  startTime: '2024-05-17T18:00:00+02:00'
+  endTime: '2024-05-17T23:59:00+02:00'
+  description: >-
+    Join us on Friday, May 17 from 6 pm for the warm-up social before Pizza Day
+    Prague 2024!
+
+
+    You will have the opportunity to meet others, chat, and get hyped before the
+    conference.
+
+    ️
+
+    See you there, pizza lovers! 🍕
+
+
+    **[Pizza Day Prague 2024](https://pizzaday.cz)** is a 2-day international
+    conference marking the 14th anniversary of the first real-world Bitcoin
+    payment.
+  refs:
+    meetup_id: '300998943'
+    meetup: https://www.meetup.com/paralelnipolis/events/300998943/
+
+
+- id: 2024-04-18-za-hranicemi-komfortni-zony-i-domova-zivot-v-paname
+  name: 'Za hranicemi komfortní zóny i domova: Život v Panamě'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2024-04-18'
+  startTime: '2024-04-18T17:30:00+02:00'
+  endTime: '2024-04-18T22:00:00+02:00'
+  description: >-
+    Vstupte do světa, kde se hranice komfortní zóny neznají limit a domov je
+    tam, kde otevřete laptop 🌴
+
+
+    Jmenuji se Denisa a zvu vás na přednášku ‘Za hranicemi komfortní zóny i
+    domova: Život v Panamě’, kde se podělím o svůj příběh odvahy, adaptability a
+    nekonečného objevování 🤩
+
+
+    Připravte se na průvodce životem, který je stejně neotřelý a otevřený, jako
+    jsem já – od pražských ulic a sterilních officů až do srdce Latinské
+    Ameriky, můžu vám rozšířit pohled na nový způsob myšlení a práce. Na této
+    cestě prozkoumáme, jaké to je žít v Panamě, vzdorovat kultuře jako cizinec
+    👀, navigovat byrokracií a korupci 💸, a zároveň objevovat krásu tropického
+    raje 🦥🌴.
+
+
+    Sdílím s vámi, jak se dá využít remote práce a AI k vytvoření života bez
+    omezení ✨. Budete mít možnost nahlédnout do zákulisí indiánských kultur,
+    politických intrik a skutečného života v džungli s notebookem 👩🏼‍💻 Tato
+    přednáška vám otevře oči a možná i dveře k vaší vlastní cestě za hranice
+    běžného.
+
+
+    Přijďte objevit, jak můžete změnit svůj život, rozšířit obzory a možná najít
+    inspiraci k tomu, abyste i vy udělali ten první krok za hranici komfortní
+    zóny🚀
+
+
+    Těším se na vás a na sdílení těchto inspirativních okamžiků 🪐
+  refs:
+    meetup_id: '299586239'
+    meetup: https://www.meetup.com/paralelnipolis/events/299586239/
+
+
+- id: 2024-04-03-monero-meetup
+  name: Monero MeetUp
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2024-04-03'
+  startTime: '2024-04-03T18:00:00+02:00'
+  endTime: '2024-04-03T21:00:00+02:00'
+  speakers:
+    - ajs
+  description: >-
+    Come join us for a drink and casual chat about Monero and other
+    privacy-enhancing tech in the crypto space. A.J., an organizer of MoneroKon,
+    will lead the evening with a short presentation on the recent possible
+    mempool spam attack on the Monero network and proposed responses from
+    increasing ring size to adjusting the transaction/block size algorithm in
+    the next hard fork.
+
+
+    There will be free pizza and beer, and Monero trivia prize giveaways. We
+    hope to see you there!
+  refs:
+    meetup_id: '299888712'
+    meetup: https://www.meetup.com/paralelnipolis/events/299888712/
+
+
+- id: >-
+    2024-03-22-building-app-for-mass-adoption-featuring-ton-and-telegram-mini-apps
+  name: Building App for Mass Adoption featuring TON & Telegram Mini Apps
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2024-03-22'
+  startTime: '2024-03-22T18:00:00+01:00'
+  endTime: '2024-03-22T22:00:00+01:00'
+  description: >-
+    ​**🔵 Are you ready to be at the forefront of technology?**
+
+
+    ​📍 Join us at Paralelní Polis in Prague for an exclusive offline event:
+    "Building App for Mass Adoption featuring TON & Telegram Mini Apps"
+
+
+    ​**📅 Date: March 22 \| Time: 6:00 PM**
+
+
+    ​This is your chance to learn about the power of TON Blockchain and how
+    Telegram Mini Apps are revolutionizing user experience. Don't miss out on
+    this opportunity to network with like-minded individuals and experts in the
+    field!
+
+
+    **[SIGN UP](https://lu.ma/2cfimmnp)**
+  refs:
+    meetup_id: '299627507'
+    meetup: https://www.meetup.com/paralelnipolis/events/299627507/
+
+
+- id: 2024-03-05-privacy-meetup-or-networking-without-surveillance
+  name: Privacy MeetUp | Networking without surveillance
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2024-03-05'
+  startTime: '2024-03-05T18:00:00+01:00'
+  endTime: '2024-03-05T20:00:00+01:00'
+  description: >-
+    There are many reasons users need private and secure internet.
+
+
+    In this two-part event we’ll introduce the Nym mixnet, a cutting-edge
+    decentralized privacy system that makes traffic anonymous. The Nym mixnet
+    encrypts your data and, with unique 5-hop traffic shuffling, also protects
+    your patterns of communication: your metadata.
+
+
+    And we’ll run and test NymVPN, a client that makes the mixnet accessible to
+    anyone.
+
+
+    Whether you’re running MacOS or Linux, bring your laptop and join a live
+    workshop where you can connect with other privacy enthusiasts - and help us
+    build the future private internet, free from surveillance.
+  refs:
+    meetup_id: '299436416'
+    meetup: https://www.meetup.com/paralelnipolis/events/299436416/
+
+
+- id: 2024-03-01-dogecoin-meetup
+  name: Dogecoin Meetup
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2024-03-01'
+  startTime: '2024-03-01T17:00:00+01:00'
+  endTime: '2024-03-01T20:00:00+01:00'
+  description: >-
+    🐶🌟 **Attention, Shibas and Hodlers of the One True Coin!** 🌟🐶
+
+
+    On the 1st of March, at 5 PM in Paralelní Polis, we'll gather to discuss all
+    things Doge, from the memes that make us chuckle to the jokes that keep us
+    laughing, and of course, the absurd stuff that makes Dogecoin the most
+    delightful cryptocurrency in the universe! 🚀🌕
+
+
+    But wait, there's more! 🌟 We'll dive into the technical side of things,
+    too, like which Dogecoin wallet to use to keep your coins safe and sound,
+    and why you should consider running a node to help secure the Dogecoin
+    network! 🔐🌐
+
+
+    And because we're Monero Tea, we'll bring some good quality tea to enhance
+    the absurd experience! 🍵🌟
+
+
+    Moon up, our fellow Shibes! See you there! 🚀🐶
+  refs:
+    meetup_id: '299288369'
+    meetup: https://www.meetup.com/paralelnipolis/events/299288369/
+
+
+- id: 2024-02-29-paper-jam-2-or-hr-date-night
+  name: 'PAPER JAM #2 | HR Date Night'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2024-02-29'
+  startTime: '2024-02-29T18:00:00+01:00'
+  endTime: '2024-02-29T21:00:00+01:00'
+  description: >-
+    Hledáte práci v IT odvětví? Nebo jste majitel startupu či headhunter, který
+    chce najmout nové lidi? Přijďte se seznámit na náš neformální networkingový
+    večer v Paralelní Polis. Čekají vás přednášky od CEO technologického
+    startupu Bighub.cz Karla Šimánka a Kateřiny Jelínkové, HRistky na volné
+    noze. Po přednáškách následuje neformální networking, kde se zájemci o práci
+    mohou seznámit s lidmi, kteří ji poskytují.
+
+
+    **Program akce**:
+
+
+    18.00 - 18.20: Příchod hostů
+
+    18.20 - 18.30: Předmluva o Paper Hub coworkingu a představení hostů
+
+    18.30 - 19.00: **CEO** **Karel Šimánek za Bighub.cz**: Jak se hledají
+    zaměstnanci, jak probíhá interview, na co se připravit.
+
+    19.00 - 19.30: **Freelance HR Kateřina Jelínková**: Jak HR posuzuje dobrého
+    kandidáta, jak propojuje člověka s firmou, tipy jak uspět u pohovoru.
+
+    19.30 - 20:00: **Kandidát v IT odvětví:** Jakým problémům čelí kandidát na
+    pracovním trhu, jak si hledá práci, co čeká od pracovního místa.
+
+    20.00 - 20.15: Panelová diskuze s účastníky
+
+    20:15 - 21:00: Neformální networking
+  refs:
+    meetup_id: '298927114'
+    meetup: https://www.meetup.com/paralelnipolis/events/298927114/
+
+
+- id: 2024-02-17-intro-to-telegram-mini-apps-lecture-workshop-and-networking
+  name: 'Intro to Telegram Mini Apps: Lecture, Workshop, and Networking'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2024-02-17'
+  startTime: '2024-02-17T15:00:00+01:00'
+  endTime: '2024-02-17T21:00:00+01:00'
+  description: >-
+    ## AGENDA
+
+
+    3:00 PM
+
+    Doors open and welcome remarks
+
+
+    4:00 PM
+
+    TON Society Intro & TON Ecosystem Overview by Eugene Anisei
+
+
+    5:00 PM
+
+    TON SBT Airdrop
+
+
+    5:10 PM
+
+    Coffee break
+
+
+    5:30 PM
+
+    Telegram Mini App Workshop
+
+
+    6:30 PM
+
+    Project Pitches
+
+
+    7:00 PM
+
+    Networking
+
+
+    ## ABOUT THIS EVENT
+
+
+    Are you curious about Telegram Mini Apps? Join us for an engaging lecture
+    followed by a hands-on workshop where you can learn the basics and even
+    build your own mini app!
+
+
+    You’ll have the opportunity to network with fellow enthusiasts and
+    professionals in the field. Whether you’re an experienced developer or just
+    starting, this event is open to all levels. We’ll cover everything you need
+    to know to get started and answer any questions you may have.
+
+
+    Don’t miss out on this opportunity to expand your knowledge and meet
+    like-minded individuals. Join us for an exciting day of learning, creating,
+    and connecting.
+
+
+    ## [SIGN
+    UP](https://www.eventbrite.com/e/intro-to-telegram-mini-apps-lecture-workshop-and-networking-in-prague-tickets-827132073297?aff=ebdsoporgprofile&keep_tld=1)
+  refs:
+    meetup_id: '299189674'
+    meetup: https://www.meetup.com/paralelnipolis/events/299189674/
+
+
+- id: 2024-01-30-paper-jam-or-vyuziti-ai-na-pozici-it-juniora
+  name: PAPER JAM | Využití AI na pozici IT juniora
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2024-01-30'
+  startTime: '2024-01-30T18:00:00+01:00'
+  endTime: '2024-01-30T21:00:00+01:00'
+  description: >-
+    **PAPER JAM \| Využití AI na pozici IT juniora**
+
+
+    Jak využít AI pro rozjezd kariéry v IT a pokecat si u toho s ostatníma
+    holkama? Zveme vás na networking event do Paralelní Polis - technologického
+    hubu, který v sobě spojuje coworking, eventový prostor a kavárnu, která jako
+    první na světě přijímala bitcoin.
+
+
+    Fandíme jak ženám, tak novým, neotřelým nápadům. Proto se večer ponese ve
+    znaku přednášek o chat GPT, mentoringu v oblasti nových technologií a
+    přínosu coworkingové komunity pro ženy pracující na volné noze.
+    Přednášejícími jsou profesionálové z Czechitas, React Girls a Femme Palette.
+    Součástí události bude i neformální networking, kde si účastnice mohou
+    vyměnit znalosti a zkušenosti nebo navázat nová partnerství. Samozřejmostí
+    jsou i bublinky na uvítanou.
+
+
+    18.00 - 18.30: Příchod hostů
+
+    18.30 - 18.40: Předmluva o Paper Hub co-workingu a představení hostů
+
+    18.40 - 19.00: Přednáška 1
+
+    19.05 - 19.25: Přednáška 2
+
+    19.30 - 19.50: Přednáška 3
+
+    19.55 - 20.15: Panelová diskuze
+
+    20.15 - 20.30: Otázky
+
+    20.30 - 21.00: Networking
+  refs:
+    meetup_id: '298566498'
+    meetup: https://www.meetup.com/paralelnipolis/events/298566498/

@@ -1,2 +1,6 @@
 collections:
-  structures:
+  structures: {}
+  events:
+    type: flat
+  archive:
+    engine: archive

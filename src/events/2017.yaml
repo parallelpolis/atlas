@@ -1,0 +1,109 @@
+- id: 2017-11-28-startuptoken
+  name: StartupToken
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2017-11-28'
+  startTime: '2017-11-28T18:00:00+01:00'
+  endTime: '2017-11-28T21:00:00+01:00'
+  description: >-
+    Paralelni Polis is hosting StartupToken meet-up during which startups will
+    pitch their projects and answer questions from the audience.
+
+
+    Reyan Lamrani will give an overview of a new science called the tokenomics.
+    The startups that are coming are: Sandblock - The Satisfaction Protocol, ABT
+    decentralized browsing web services.
+
+
+    Meetup will be held in English and will be streamed in the Facebook event.
+    Donations for streams and entrance fee in BTC or LTC are voluntary and
+    welcome.
+
+
+    For more detail, see original Facebook event:
+    facebook.com/events/304941446665935
+    (https://www.facebook.com/events/304941446665935/)
+
+
+    https://secure.meetupstatic.com/photos/event/d/6/5/1/600_466494865.jpeg
+  refs:
+    meetup_id: '245460428'
+    meetup: https://www.meetup.com/paralelnipolis/events/245460428/
+
+
+- id: hcpp17
+  name: "HCPP17: Liberate!"
+  date: "2017-10-06"
+  major: true
+  project: hcpp
+  place:
+    city: Prague
+    country: cz
+  days: 3
+  seq: 4
+  refs:
+    web: https://liberate.hcpp.cz
+  speakers:
+    - vit-jedlicka
+    - sam-patterson
+    - amin-rafiee
+    - juraj-bednar
+    - adam-back
+    - ondrej-pilny
+    - urza
+    - zdenka-stankova
+    - pamela-morgan
+    - peter-todd
+    - giacomo-zucco
+    - wilder
+    - paul-rosenberg
+    - amir-taaki
+    - jim-bell
+    - tone-vays
+    - frank-braun
+    - pavol-rusnak
+    - tomas-michalek
+    - matej-held
+    - ido-kaiser
+    - justin-smith
+    - chris-beams
+    - david-hemmerle
+    - josef-sima
+
+- id: 2017-10-03-life-nomadic-with-bitcoin
+  name: Life nomadic with Bitcoin
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2017-10-03'
+  startTime: '2017-10-03T18:00:00+02:00'
+  endTime: '2017-10-03T21:00:00+02:00'
+  description: >-
+    Pontus and Ulrika sold all their stuff in 2015 after finishing their PhD’s
+    at the Medical faculty in Linköping Sweden and have since then been
+    travelling the world to meet up with fellow Bitcoiners and libertarians.
+
+
+    At the meetup they will talk about their background, minimalist lifestyle,
+    why the current economic system is something you want to opt out from and
+    why they chose Bitcoin as their primary currency...
+
+
+    Meetup will be held in English and will be streamed in the Facebook event.
+    Entrance fee in BTC or LTC is voluntary and welcome >
+    http://www.paralelnipolis.cz/podporit
+
+
+    For more detail, see original Facebook event:
+    http://www.facebook.com/events/865746606917812
+
+
+    https://secure.meetupstatic.com/photos/event/9/2/4/d/600_464917453.jpeg
+  refs:
+    meetup_id: '243771217'
+    meetup: https://www.meetup.com/paralelnipolis/events/243771217/

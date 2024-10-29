@@ -1,0 +1,1273 @@
+- id: hcpp20
+  name: "HCPP20: Digital Totality"
+  date: "2020-10-02"
+  major: true
+  project: hcpp
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
+  days: 3
+  seq: 7
+  refs:
+    web: https://digital-totality.hcpp.cz
+  speakers:
+    - juraj-bednar
+    - paul-rosenberg
+    - olga-ukolova
+    - fluffy-pony
+    - amin-rafiee
+    - frank-braun
+    - david-friedman
+    - martin-leskovjan
+    - julia-tourianski
+    - harry-halpin
+    - douglas-rushkoff
+    - ketominer
+    - alexandra-moxin
+    - max-hillebrand
+    - smuggler
+    - alexander-bard
+    - sara-polak
+    - travin-keith
+    - silur
+  aftermovie: 8QYNUPxLdGw
+
+- id: noncon20
+  name: NONCON 2020
+  date: "2020-04-03"
+  major: true
+  project: noncon
+  days: 4
+  seq: 1
+  speakers:
+    - exiledsurfer
+  organizers:
+    - exiledsurfer
+
+- id: 2020-03-10-bitcoin-meetup-or-zaklady-bitcoinu
+  name: Bitcoin meetup | Základy Bitcoinu
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-03-10'
+  startTime: '2020-03-10T18:00:00+01:00'
+  endTime: '2020-03-10T19:30:00+01:00'
+  description: >-
+    Jak funguje současný finanční systém a může mu být Bitcoin alternativou? V
+    rámci své přednášky se Lucie Komárková zaměří na minulost a současnost
+    Bitcoinu. Bude mluvit o jeho vzniku, ale také o momentální ekonomické
+    situaci a technologických aspektech jeho fungování. Těšte se i na praktickou
+    část!
+
+    Každému zájemci Lucie pomůže s koupí kryptoměn, placením kryptoměnami a také
+    poradí, jak se o své kryptoměny starat.
+
+
+    Lucie Komárková je členkou Paralelní Polis a Students for Liberty. Věnuje se
+    talebovskému pohledu na svět, decentralizovaným systémům a exponencionálním
+    technologiím v čele s bitcoinem, o kterém společně s rakouskou ekonomií
+    přednáší.
+
+
+    Rezervaci zakoupíte:
+
+    ►online na:
+    https://donate.paralelnipolis.cz/events/327-3-bitcoin-meetup-zaklady-bitcoinu
+
+    ► osobně v naší kavárně, kde vám barista s nákupem poradí a pomůže.
+  refs:
+    meetup_id: '269061467'
+    meetup: https://www.meetup.com/paralelnipolis/events/269061467/
+
+
+- id: 2020-03-05-workshop-or-dycham-tedy-jsem
+  name: Workshop | Dýchám, tedy jsem
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-03-05'
+  startTime: '2020-03-05T17:00:00+01:00'
+  endTime: '2020-03-05T18:00:00+01:00'
+  description: >-
+    ***************************************************************
+
+    REGISTRACE: https://forms.gle/tVuMaLTSmLesuvpA9
+
+    ***************************************************************
+
+
+    Uklidnění a koncentrace nebo energie a kreativita. To jsou benefity práce s
+    dechem, kterých můžeme dosáhnout všichni během pár minut. Přijď si na
+    praktický workshop do Paralelní Polis vyzkoušet, jaký vliv bude mít vědomé
+    dýchání na tebe. Úplně jednoduše. Prostým dýcháním s pozorností.
+
+
+    obrať_se_dovnitř
+
+    vejdi_ven
+
+    hni_se
+
+
+    Dobře se o sebe starej. Vedení začíná uvnitř. Nemůžeš být zdrojem energie,
+    jestliže žádnou nemáš. Jestliže se Ti nedostává dechu, nemůžeš pro ostatní
+    udělat nic. Udělej si čas na péči sám o sebe. Dveře k úspěchu, se totiž
+    otevírají směrem ven.
+
+    Poprvé se nadechneme, když se narodíme. Naposledy vydechneme, když zemřeme.
+
+    Dýchání nás provází celým životem. Budhisté tvrdí, že počet nádechů za život
+    je nám dán a je na nás, jak s nimi naložíme. A také tvrdí, že délka života
+    se neměří léty, ale počtem nádechů.
+
+
+    Workshop bude probíhat v přítmí s evokativní hudbou a většinu času vleže,
+    bez bot na karimatkách. Volnější oblečení výhodou. Před workshopem je
+    doporučeno minimálně hodinu a půl nejíst. Nedoporučuje se těhotným ženám,
+    osobám s vysokým tlakem a se srdečními problémy.
+
+
+    Sérií sedmi dýchacích workshopů “Dýchám, tedy jsem” nás bude provázet Martin
+    Podařil (www.uciteldechu.cz). Absolvent Fakulty tělesné výchovy a sportu
+    Univerzity Karlovy (2012) se zkušenostmi s Holotropním dýcháním, Maitri
+    dýcháním, Vědomým dýcháním, Phoenix breathwork, Santa Maria breathwork,
+    Activating breathwork, Wim Hof Method, Pranayamou a dalšími dechovými
+    technikami a metodami.
+
+
+    Cena za workshop:
+
+    Předprodej - 300 Kč
+    (https://donate.paralelnipolis.cz/events/351-3-workshop-dycham-tedy-jsem)
+
+    Na místě - 350 Kč (krypto), 400 Kč (hotově)
+  refs:
+    meetup_id: '269061440'
+    meetup: https://www.meetup.com/paralelnipolis/events/269061440/
+
+
+- id: 2020-03-03-bitcoin-meetup-i-bitcoin-a-jine-kryptomeny
+  name: Bitcoin meetup I Bitcoin a jiné kryptoměny
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-03-03'
+  startTime: '2020-03-03T18:30:00+01:00'
+  endTime: '2020-03-03T20:00:00+01:00'
+  description: >-
+    Přednáška volně navazuje na autorovu dřívější přednášku zabývající se
+    základy kryptoměn. Připomene základní vlastnosti Bitcoinu a blockchainu
+    zejména v technickém, ale i ekonomickém kontextu. Hlavním tématem jsou však
+    alternativní decentralizované kryptoměny, se kterými seznámí posluchače
+    prostřednictvím jejich technické klasifikace. Vybranými "altcoiny" se
+    následně zabývá podrobněji. Posluchač se dozví, jak se liší některé
+    populární z nich, jako např. Litecoin, Monero, Zerocash či Ethereum.
+
+
+    Ing. Jan Skalický vystudoval výpočetní techniku na Elektrotechnické fakultě
+    ČVUT. V současnosti pracuje jako SW architekt a lektor kurzů programování.
+    Kromě pozic specialisty vývoje mikropočítačových systémů pracoval i v
+    jaderné elektrárně Temelín. Je příznivcem rakouské ekonomické školy,
+    klasického liberalismu a decentralizovaných systémů, mezi něž patří i
+    Bitcoin a jiné kryptoměny. Je spoluautorem dvou knih na toto téma.
+
+
+    Rezervaci zakoupíte:
+
+    ►online na
+    https://donate.paralelnipolis.cz/home/345-3-bitcoin-meetup-bitcoin-a-jine-kryptomeny
+
+    ► osobně v naší kavárně, kde vám barista s nákupem poradí a pomůže.
+  refs:
+    meetup_id: '269061404'
+    meetup: https://www.meetup.com/paralelnipolis/events/269061404/
+
+
+- id: 2020-02-29-la-cortina
+  name: La Cortina
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-02-29'
+  startTime: '2020-02-29T21:00:00+01:00'
+  endTime: '2020-03-01T02:00:00+01:00'
+  description: >-
+    We invite you to first cryptocurrency tango event in Prague! Come and join
+    our crypto Milonga!
+
+
+    Express yourself through an anonymous tango space created with an amusing
+    mystique unfamiliar setting. We invite all who seek the way to connect
+    through tango, whether a dancer or observer - look beyond the curtains. “La
+    Cortina” creates the areas for you to find your space, and expands the
+    moments of music.
+
+
+    Let the music take you through the night with no expectations. Feel the core
+    of the dance through Dj Alexandra, as the dance and the music energize each
+    other.
+
+
+    Entry: 100 CZK
+
+    Don’t worry if you don’t own any cryptocurrency yet. There is an ATM machine
+    in Bitcoin Coffee where you can change cash to crypto right by the entrance.
+
+
+    Full bar will provided by Bitcoin Coffee. So get ready for some tango drinks
+    and snacks.
+
+
+    Anyone is welcome!
+  refs:
+    meetup_id: '268454676'
+    meetup: https://www.meetup.com/paralelnipolis/events/268454676/
+
+
+- id: 2020-02-27-cryptoparty
+  name: CryptoParty
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-02-27'
+  startTime: '2020-02-27T20:00:00+01:00'
+  endTime: '2020-02-28T00:00:00+01:00'
+  description: >-
+    Zveme vás na CryptoParty! Přednáška Pavla Luptáka o bezpečnosti šifrovaných
+    messengerů je skvělou příležitostí potkat se a pobavit se nejen o tom, jak
+    bezpečně šifrovat svoji komunikaci.
+
+
+    CryptoParty je decentralizovaný koncept akcí, které se odehrávají po celém
+    světě a zaměřují se na témata digitální bezpečnosti. Jsou skvělou
+    příležitost pro networking s dalšími členy komunity, kteří používají stejné
+    šifrované nástroje. Zveme všechny členy komunity, kteří chtějí nabrat nové
+    kontakty a rovnou si ověřit bezpečnostní kódy komunikace.
+
+
+    Vstup na párty je zdarma. Budeme se bavit o bezpečnosti a o tom, jak lépe
+    chránit své soukromí. Těšíme se na vás!
+
+
+    https://www.cryptoparty.in/
+  refs:
+    meetup_id: '268656090'
+    meetup: https://www.meetup.com/paralelnipolis/events/268656090/
+
+- id: 2020-02-27-bezpecnost-sifrovanych-messengeru
+  name: Bezpečnost šifrovaných messengerů
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-02-27'
+  startTime: '2020-02-27T18:30:00+01:00'
+  endTime: '2020-02-27T20:00:00+01:00'
+  description: >-
+    Nejvyšší čas pro zabezpečení vašeho telefonu!
+
+
+    Bezpečná a šifrovaná komunikace je základem soukromí jednotlivce. V
+    digitálním světě představuje obrovskou výzvu. Neustále čelí hrozbám zneužití
+    a útoků.
+
+    Soukromí je podmínkou svobodné společnosti. Většina lidí považuje své
+    digitální konverzace za soukromé přesto, že používají nezabezpečené aplikace
+    s přístupem třetích stran.
+
+    WhatsApp, Facebook Messenger, Telegram, Viber a další služby využíváme
+    každodenně. Jsou však díky nim naše konverzace skutečně v bezpečí?
+
+
+    Jak bezpečné jsou šifrované nástroje na komunikaci? Jak si maximálně
+    zabezpečit svůj smartphone? Dokázala policie opravdu prolomit Threemu? Na
+    tohle všechno odpoví a svět bezpečné komunikace vám přiblíží Pavol Luptak -
+    etický hacker stojící za bezpečnostní firmou Nethemba a spoluzakladatel
+    Paralelní Polis.
+  refs:
+    meetup_id: '268656277'
+    meetup: https://www.meetup.com/paralelnipolis/events/268656277/
+
+
+- id: 2020-02-27-enviro-meetup-or-udrzitelna-moda-budoucnosti
+  name: Enviro Meetup | Udržitelná móda budoucnosti
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-02-27'
+  startTime: '2020-02-27T18:30:00+01:00'
+  endTime: '2020-02-27T20:30:00+01:00'
+  description: >-
+    Věděli jste, že výroba jednoho bavlněného trička vyžaduje cca 2700 litrů
+    vody, což je ekvivalent více než dvou let spotřeby pitné vody jednoho
+    člověka?
+
+    Množství nových zakoupených oděvů se od šedesátých let ztrojnásobilo a svět
+    jako celek každoročně spotřebuje více než 80 miliard kusů oblečení. Tato
+    obrovská spotřeba přináší hromadění velkého množství odpadu.
+
+
+    Především ale módní průmysl produkuje 8-10 % všech skleníkových emisí
+    lidstva, což je více než letecký a námořní průmysl dohromady. Je druhým
+    největším spotřebitelem vody na světě a oblečení z umělých vláken znečišťuje
+    oceány uvolňováním velkého množství mikroplastů.
+
+
+    O ekologických náhradách konvenčních látek se mluví již dlouhou dobu, kde
+    ale ve vývoji tato technologie je? A opravdu přinese kýženou úlevu, nebo z
+    ní vyvstanou jiné environmentální problémy? Co nám mohou přinést pokročilé
+    biotechnologie? A jak se vlastně postavit směrem k módě udržitelným
+    způsobem?
+
+
+    Pojďme se společně s odborníky bavit o reálném dopadu produkce a hromadění
+    oděvních materiálů na životní prostředí a pojďme hledat jejich zelené
+    alternativy.
+  refs:
+    meetup_id: '268601499'
+    meetup: https://www.meetup.com/paralelnipolis/events/268601499/
+
+
+- id: 2020-02-23-uvod-do-kryptomen-or-celodenni-prakticky-workshop
+  name: Úvod do kryptoměn | Celodenní praktický workshop
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-02-23'
+  startTime: '2020-02-23T09:00:00+01:00'
+  endTime: '2020-02-23T12:00:00+01:00'
+  description: >-
+    Určitě už jste slova jako Bitcoin nebo kryptoměny slyšeli zaznít ve svém
+    okolí. Víte, že jde o druh financí, ale rádi byste věděli více a zjistili, o
+    čem tento nový trend je. Přesně pro vás jsme připravili náš celodenní
+    praktický workshop, kde vám všechno potřebné vysvětlíme.
+
+
+    Co se dozvíte:
+
+
+    - Co jsou kryptoměny a Bitcoin a proč vznikly?
+
+    - Jaké výhody přinesly a jaké problémy vyřešily?
+
+    - Co je technologie Blockchain a jaké má využití?
+
+    - Jaká rizika jsou spojena s kryptoměnami a jak jim předcházet?
+
+    - Založíte s vámi vaši první kryptopeněženku
+
+    - Ukážeme si práci s hardware peněženkou TREZOR
+
+    - Vyzkoušíme si prakticky první transakce
+
+    - nakoupíme si první kryptoměny přes automat
+
+    - Podíváme se na uložení a zabezpečení kryptoměn
+
+    - Zodpovíme všechny otázky a pochybnosti
+
+
+    Cena workshopu je 1 800 Kč a zahrnuje:
+
+    7 hodin čistého času školení
+
+    Celodenní občerstvení
+
+
+    Dušan a.k.a. Dušky má vášeň pro vzdělávání a je spoluzakladatel unikátního
+    předmětu pro střední školy - Životologie. Láska k matematice a technologiím
+    ho přivedla před dvěma lety až ke kryptoměnám. Na tohle téma aktuálně
+    přednáší a pomáhá lidem bezpečně vstoupit do ekosystému budoucnosti.
+
+
+    Je držitelem certifikátu Certified Bitcoin Professional od C4 Crypto
+    Consortium. Je absolventem MOOC kurzu Digital Currencies na University of
+    Nicosia na Kypru. Věnuje se i obchodování s kryptoměnami.
+
+
+    Rezervaci zakoupíte:
+
+    ►online na
+    https://donate.paralelnipolis.cz/events/342-2-uvod-do-kryptomen-celodenni-prakticky-workshop
+
+    ► osobně v naší kavárně, kde vám barista s nákupem poradí a pomůže.
+  refs:
+    meetup_id: '268453835'
+    meetup: https://www.meetup.com/paralelnipolis/events/268453835/
+
+
+- id: 2020-02-20-crypto-snidane-or-lightning-network
+  name: Crypto snídaně | Lightning Network
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-02-20'
+  startTime: '2020-02-20T09:00:00+01:00'
+  endTime: '2020-02-20T11:00:00+01:00'
+  description: >-
+    Zajímáte se o kryptoměny? Máte chuť se navzájem potkávat a sdílet své
+    zkušenosti? Chcete diskutovat o aktuálním dění ve světě kryptoměn?
+
+    Paralelní Polis si pro vás ve spolupráci s Pavel Přecechtěl a Petr Sanetrník
+    připravili pravidelnou akci - Crypto snídaně!
+
+
+    Tentrokrát budeme probírat Lightning Network a s ním spojenou adopci,
+    nasazení, pokrok, drawbacks, problémy a mnoho dalších věcí. Je dobré rozjet
+    svůj vlastní LN node? Dá se platit běžně s mobilem přes LN? A jaké jsou
+    vůbec výhody používání Lightning Network?
+
+
+    Naše pozvání přijal Jakub Vejmola, popularizátor kryptoměn a Bitcoinu
+    především a také autor projektu Bitcoinovej Kanál na YouTube!
+
+
+    Těšte se taky na pořádnou snídani! :)
+  refs:
+    meetup_id: '268453689'
+    meetup: https://www.meetup.com/paralelnipolis/events/268453689/
+
+
+- id: 2020-02-19-studio-live-or-jil-dagan-and-oksyi
+  name: Studio LIVE | Jil Dagan & OKSYI
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-02-19'
+  startTime: '2020-02-19T19:00:00+01:00'
+  endTime: '2020-02-19T20:30:00+01:00'
+  description: >-
+    Come to our Bitcoin Coffee and join us for our next Studio Live Session.
+    Have a drink and listen to some reggae music in an interview and as a live
+    performance. Studio Live Session will be hosted by Jil Daganlaw, our friend
+    from Israel who is part of Students for Liberty movement.
+
+
+    OKSYI is a Ukrainian born, Slovak raised and Prague based musician. She’s a
+
+    singer/songwriter and guitar player. Her texts are both in Slovak and
+    English language. When it comes to genres, she started out with an
+    electro-acoustic guitar and folk. Later on she changed her guitar for an
+    electric one, and with it new concept of music came out -
+    jazz/blues/experimental bassy- stuff. The themes of the songs are of a wider
+    spectrum. She is currently working on her debut album.
+
+
+    You can check some live recordings of her at:
+
+    https://www.youtube.com/channel/UCJ61rBOO_447eSDtOWd1xyQ
+  refs:
+    meetup_id: '268453630'
+    meetup: https://www.meetup.com/paralelnipolis/events/268453630/
+
+
+- id: 2020-02-19-introduction-to-radicalxchange
+  name: Introduction to RadicalxChange
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-02-19'
+  startTime: '2020-02-19T18:30:00+01:00'
+  endTime: '2020-02-19T20:00:00+01:00'
+  description: >-
+    RadicalxChange (RxC) aims to incrementally build a clear, coherent, and
+    sustainable alternative to capitalism that embraces markets, egalitarianism,
+    community, and decentralization. While free markets and liberal democracies
+    delivered unprecedented benefits to humanity, they are also increasingly
+    blamed for growing inequality, secular stagnation and political
+    polarization. Radical Markets propose that thoughtful extension of market
+    mechanisms into new areas can instead lead to greater equality, prosperity,
+    and cooperation.
+
+
+    These ambitious goals are underpinned by theoretical advances in political
+    economics, mechanism design and game theory. The main ideas are based on
+    questioning core tenets of current systems such as private property and "one
+    person: one vote" elections.
+
+
+    In this meeting, we will introduce the main concepts of Radical Markets:
+    Quadratic Voting, Quadratic Funding and Common Ownership Self-Assessed Tax.
+    We will discuss how these mechanisms can improve social decision making and
+    funding of public goods. We will also highlight the meeting points between
+    RxC, blockchain and open source communities.
+
+
+    Speaker: Róbert Šuhada - is leading a machine learning team in the
+    distributed energy generation sector. He studied Astrophysics at Max Planck
+    Institute for Extraterrestrial Physics in Munich. His main interest are AI
+    safety and policy, and social impact of new technologies (including social
+    technologies such as RxC).
+
+    Contact: robert.suhada (at) gmail com
+
+
+    Buy a reservation here:
+    https://donate.paralelnipolis.cz/events/349-2-introduction-to-radicalxchange
+  refs:
+    meetup_id: '268453604'
+    meetup: https://www.meetup.com/paralelnipolis/events/268453604/
+
+
+- id: 2020-02-18-bitcoin-meetup-or-smart-contracts-iota
+  name: Bitcoin meetup | Smart Contracts IOTA
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-02-18'
+  startTime: '2020-02-18T18:30:00+01:00'
+  endTime: '2020-02-18T20:00:00+01:00'
+  description: >-
+    IOTA je open-source. IOTA je navržena pro IoT aplikace a autonomní ekonomiku
+    věcí. Od ostatních podobných technologií se liší nulovými transakčními
+    náklady a tím, že informace nejsou organizovány do sekvenčně řazených bloků.
+    IOTA je vyvíjena neziskovou organizací IOTA Foundation.
+
+
+    Přednášet vám bude Jakub Čech, jež je Director of Engineering v IOTA
+    Foundation.
+
+
+    Rezervaci zakoupíte:
+
+    ►online na
+    https://donate.paralelnipolis.cz/events/323-2-bitcoin-meetup-smart-contracts-iota
+
+    ► osobně v naší kavárně, kde vám barista s nákupem poradí a pomůže.
+  refs:
+    meetup_id: '268453569'
+    meetup: https://www.meetup.com/paralelnipolis/events/268453569/
+
+
+- id: 2020-02-14-indie-short-film-night
+  name: Indie Short Film Night
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-02-14'
+  startTime: '2020-02-14T19:30:00+01:00'
+  endTime: '2020-02-14T21:30:00+01:00'
+  description: >-
+    Copenhagen Underground & Paralelni Polis presents a showcase of the best
+    DIY/truly independent films from around the world with all of the proceeds
+    from the screening going to support an amazing cause. The films come from
+    the "Best of Fest" program from the 2019 Copenhagen Underground Film
+    Festival and features short fiction, documentary and experimental films from
+    around the world that were made with under 1,000 Euros. With no submission
+    fees attached with the festival's submissions, every filmmaker from around
+    the world is able to present their work, regardless of their own economic
+    circumstances. The doors to the event open at 19:30 and the film screening
+    will begin at 20:00. The entry is donation based with all of the funds going
+    to support the Lumen Union.
+
+
+    The Lumen Union is a direct initiative started by Copenhagen Underground
+    which will take donations from events which will directly support the Lumen
+    Union and use those funds to purchase brand new projectors, gaming consoles
+    and speakers for refugee camps in different parts of the world in an effort
+    to create safe cinematic and entertainment spaces for children as well as
+    adults. The first organization which the Lumen Union will collaborate with
+    is Salam LADC and the goal is to deliver a new Epson Projector, PS4, FIFA 20
+    and speakers to a community center they operate in Bekaa Valley, Lebanon
+    which supports over 4,400 refugees in the surrounding area.
+
+
+    DOORS - 19:30
+
+    FILMS - 20:00
+
+    END - 21:30
+
+
+    Entry - Donation Based
+
+
+    Chris Chalkan: Dirty Rotten Liars, England, 8:00
+
+    A hectic short about a dysfunctional support group of dysfunctional
+    pathological liars which all gets fairly out of hand quickly as its
+    delusional stakes are raised with a great uncertainty
+
+
+    Curtis Essel: Sodom And Gomorah, Ghana/England, 9:44
+
+    An intimate documentary which serves as a deep video portrait of the
+    residents of Jamestown where corruption, prostitution, and violence have
+    shaped the lives of the people and the hope which lies outside of this life
+
+
+    Martin Sofiedal: The Wrong Guy, Norway, 5:32
+
+    A brilliant dark comedy taking place in the desert of Los Angeles, an
+    assassin struggling to pay rent with ambitions to make it in the city, takes
+    a man hostage on a job who he soon finds out is a potentially valuable
+    contact
+
+
+    Rafiqfuad Yarahmadi: Evan: A Survivor’s Story, Kurdistan/Iraq, 18:50
+
+    After fleeing Kurdistan from ISIS as a journalist covering the Peshmarga
+    front lines, this documentary (created and also directed by his translator)
+    shows the difficulties of today’s asylum seeking process and the stress it
+    bears on families who are kept apart by borders and unjust immigration
+    practices
+
+
+    Shafiur Rahman: Rohingya Testimony: No Reason To Hide Our Faces,
+    Bangladesh/England, 9:58
+
+    A series of testimonies from young Rohingya girls and women who were
+    sexually assaulted, raped, and brutalized, alongside their families,
+    systematically by the Burmese state as part of its military operation to
+    remove the Rohingya (an ethnic minority native to the area) from the Rakhine
+    state.
+
+
+    Mike: The Deb-t, USA, 4:01
+
+    The worst film ever made. Pretty much like The Room, but a short film.
+
+
+    Jasmin Luu: Different Directions, Germany, 5:05
+
+    A magnificently executed choreographed dancing short which was
+    joint-favorite at the 1st Copenhagen Underground Film Festival.
+
+
+    Riccardo Cuorleggero: Sea Bream a l'Orange, Italy, 5:21
+
+    The fan favorite of this year's Copenhagen Underground Film Festival, a dark
+    comedy about a stoic musician who wishes to practice alone and in peace, and
+    his annoying and persistent neighbor who continues to pester the man for a
+    strange reason."
+  refs:
+    meetup_id: '268453531'
+    meetup: https://www.meetup.com/paralelnipolis/events/268453531/
+
+
+- id: 2020-02-13-enviro-meetup-or-zeme-v-plamenech
+  name: Enviro meetup | Země v plamenech
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-02-13'
+  startTime: '2020-02-13T18:30:00+01:00'
+  endTime: '2020-02-13T20:30:00+01:00'
+  description: >-
+    Hoří bush v Austrálii, savany i pralesy v Africe a Jižní Americe! Hoří
+    Sibiř, Indonésie i Evropa. Někde hoří více, někde méně. V médiích se
+    objevují informace o miliardě živočichů, které pohltily australské požáry.
+    Lidé přispívají na popálené koaly a na spálené amazonské pralesy. Afrika
+    zatím netáhne, přestože v ní hoří nejvíc.
+
+
+    Je požár něco, čeho se máme bát, nebo za něj naopak máme být rádi? Kde
+    pomáhá a kde naopak působí největší škody? Šíří se oheň v přírodě samovolně,
+    nebo jde o lidský záměr a z jakého důvodu? Přijďte si v tom udělat jasno a
+    diskutovat se třemi odborníky na oheň v přírodě. Jejich jména zveřejníme již
+    brzy.
+
+
+    POZOR - meetup je placený a počet vstupenek je omezen! Vstupenku v hodnotě
+    100,- si můžete koupit některým z následujících způsobů:
+
+
+    1. Osobně v kavárně Bitcoin Coffee,
+
+    2.Online:
+    https://donate.paralelnipolis.cz/events/348-2-enviro-meetup-zeme-v-plamenech
+  refs:
+    meetup_id: '268453455'
+    meetup: https://www.meetup.com/paralelnipolis/events/268453455/
+
+
+- id: 2020-02-12-kryptomeny-dane-a-ucetnictvi
+  name: Kryptoměny, daně a účetnictví
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-02-12'
+  startTime: '2020-02-12T18:00:00+01:00'
+  endTime: '2020-02-12T19:30:00+01:00'
+  description: >-
+    Termín podání daňového přiznání se blíží. Nejste si jistí, jak správně se
+    chovat v tomto ohledu ke kryptoměnám? Pojďte se to dozvědět na náš workshop!
+
+
+    Další z řady workshopů bitcoinového účetnictví a daní, vedený účetní Hanou
+    Trnkovou Kocourkovou. Workshop je otevřený pro veřejnost a vítáni jsou jak
+    začátečníci, tak pokročilí. V rámci workshopu je také možné individuálně
+    zkonzultovat konkrétní problémy, které účastníky zajímají.
+
+
+    Dozvíte se:
+
+    ► Přijdou na mě? Může finančák přijít na mé zisky z kryptoměn?
+
+    ► Krátké shrnutí zdanění příjmů kryptoměn u fyzických osob
+
+    ► Jak účtovat kryptoměny? Zásoby (burza, víc peněženek)
+
+    ► Krátké shrnutí zdanění kryptoměn u právnických osob:
+
+    a) Platba za zboží a služby
+
+    b) Obchodování
+
+    c) Těžba
+
+
+    ►►►! Upozorňujeme, že workshop probíhá v zasedačce Paper Hubu a jeho
+    kapacita je tedy omezená.
+
+
+    Cena workshopu je 400 Kč a hradí se přímo při nákupu vstupenky - můžete
+    koupit osobně v Bitcoin Coffee nebo tady:
+    https://donate.paralelnipolis.cz/events/357-2-kryptomeny-dane-a-ucetnictvi
+    ◄◄◄
+  refs:
+    meetup_id: '268480130'
+    meetup: https://www.meetup.com/paralelnipolis/events/268480130/
+
+
+- id: 2020-02-11-bitcoin-meetup-or-zaklady-bitcoinu
+  name: Bitcoin meetup | Základy Bitcoinu
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-02-11'
+  startTime: '2020-02-11T18:00:00+01:00'
+  endTime: '2020-02-11T19:30:00+01:00'
+  description: >-
+    Jak funguje současný finanční systém a může mu být Bitcoin alternativou? V
+    rámci své přednášky se Lucie Komárková zaměří na minulost a současnost
+    Bitcoinu. Bude mluvit o jeho vzniku, ale také o momentální ekonomické
+    situaci a technologických aspektech jeho fungování. Těšte se i na praktickou
+    část!
+
+    Každému zájemci Lucie pomůže s koupí kryptoměn, placením kryptoměnami a také
+    poradí, jak se o své kryptoměny starat.
+
+
+    Lucie Komárková je členkou Paralelní Polis a Students for Liberty. Věnuje se
+    talebovskému pohledu na svět, decentralizovaným systémům a exponencionálním
+    technologiím v čele s bitcoinem, o kterém společně s rakouskou ekonomií
+    přednáší.
+
+
+    Rezervaci zakoupíte:
+
+    ►online na:
+    https://donate.paralelnipolis.cz/events/326-2-bitcoin-meetup-zaklady-bitcoinu
+
+    ► osobně v naší kavárně, kde vám barista s nákupem poradí a pomůže.
+
+    Cena: 150,-
+  refs:
+    meetup_id: '268453313'
+    meetup: https://www.meetup.com/paralelnipolis/events/268453313/
+
+
+- id: 2020-02-06-economic-talks-i-ekon-systemy-vyhody-a-problemy-centralizace
+  name: Economic Talks I Ekon. systémy, výhody a problémy centralizace
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-02-06'
+  startTime: '2020-02-06T18:30:00+01:00'
+  endTime: '2020-02-06T19:30:00+01:00'
+  description: >-
+    Centralizace vs. decentralizace rozhodování o nakládání s výrobními faktory.
+    Aplikace a kritické zhodnocení několika známých ekonomických teorií pomůže
+    odhalit nejen to, proč centrální plánování dlouhodobě selhává, ale také to,
+    proč má stále řadu příznivců.
+
+
+    Ing. Mgr. Jakub Jedlinský Ph.D. vyučuje o měnových systémech se zaměřením na
+    alternativní měny na VŠE. Od roku 2013 se věnuje problematice kryptoměn jako
+    makroekonom a investor. Na toto téma přednáší rovněž mimo akademické
+    prostředí a spolupracuje se soukromým sektorem. Je zakladatelem společnosti
+    Altlift s.r.o., která se zabývá krypto poradenstvím a aplikací DLT. Je
+    rovněž technologickým expertem iniciativy Blockchain Republic. Má zkušenosti
+    s nastavováním monetárních řešení v herních prostředích. Věnuje se testování
+    fungování peněz pomocí konstrukce disekvilibriálních dynamických modelů, což
+    se naučil během výzkumné stáže na Kingston University London pod vedením
+    Prof. Steva Keena.
+
+
+    Rezervaci zakoupíte:
+
+    ►online na
+    https://donate.paralelnipolis.cz/events/340-2-economic-talks-i-ekonomicke-systemy-vyhody-a-mene-zname-problemy-centralizace
+
+    ► osobně v naší kavárně, kde vám barista s nákupem poradí a pomůže.
+  refs:
+    meetup_id: '268453245'
+    meetup: https://www.meetup.com/paralelnipolis/events/268453245/
+
+
+- id: 2020-02-05-socratic-bitcoin-meetup
+  name: Socratic Bitcoin Meetup
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-02-05'
+  startTime: '2020-02-05T18:00:00+01:00'
+  endTime: '2020-02-05T20:00:00+01:00'
+  description: >-
+    This event is part of a series of meetups formatted to foster debate,
+    information sharing and lively discussion.
+
+
+    Socratic bitcoin meetups are group discussions about a wide range of
+    bitcoin-related topics. Pull requests, mailing list threads, new papers,
+    security vulnerabilities and other topics are discussed. Participants are
+    welcome to propose topics for discussion before each event.
+
+
+    This week's agenda will include the following topics:
+
+    * Embedding arbitrary data in payments on the Lightning Network
+
+    * (More to be added...)
+
+
+    If you'd like to propose a topic to present and discuss, add a comment to
+    this meetup's Topic Proposals issue on GitHub:
+
+    https://github.com/Learn-by-doing/socratic-meetups/issues/3
+
+
+    This week we will be in the Media Hub (basement toward the front of the
+    building).
+
+
+    Thanks and see you there!
+  refs:
+    meetup_id: '268453177'
+    meetup: https://www.meetup.com/paralelnipolis/events/268453177/
+
+
+- id: 2020-01-31-juraj-bednar-or-hackni-sa
+  name: Juraj Bednár | Hackni sa
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-01-31'
+  startTime: '2020-01-31T18:30:00+01:00'
+  endTime: '2020-01-31T20:30:00+01:00'
+  speakers:
+    - juraj-bednar
+  description: >-
+    Hackování je experimentální přístup k životu. V čem se liší od vědy,
+    případně jiných přístupů ke změně? Jak souvisí věda, podnikání a hacking?
+    Jak sa dá hackovat tělo a jak můžeme některé z principů hackingu použít v
+    případě kryptoměn?
+
+
+    Juraj vydal před pár týdny knihu Hackni sa, která se zabývá čtyřmi oblastmi:
+    podnikáním, svobodou, hackingem a kryptoměnami. Přednáška bude úvodem k
+    tomuto tématu s následnou diskuzí. Knížku si u nás v Paralelní Polis také
+    budete moct zakoupit.
+
+
+    Juraj je hacker a podnikatel. Založil několik firem a neziskovek. Momentálně
+    se věnuje Bratislavské Paralelnej Polis. Hacking ho zajímá odmalička. Cílem
+    jeho knihy - Hackni sa, je přiblížit lidem způsob myšlení hackerů bez toho,
+    aniž by museli ovládat jednotlivé technologie, které IT hackeři používají na
+    hledání bezpečnostních zranitelností.
+
+
+    Rezervaci zakoupíte:
+
+    ►online na
+    https://donate.paralelnipolis.cz/events/346-1-juraj-bednar-hackni-sa
+
+    ► osobně v naší kavárně, kde vám barista s nákupem poradí a pomůže.
+  refs:
+    meetup_id: '268113054'
+    meetup: https://www.meetup.com/paralelnipolis/events/268113054/
+
+
+- id: 2020-01-30-enviro-meetup-or-lidska-budoucnost-tvari-v-tvar-prirodnim-zmenam
+  name: Enviro meetup | Lidská budoucnost tváří v tvář přírodním změnám
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-01-30'
+  startTime: '2020-01-30T18:30:00+01:00'
+  endTime: '2020-01-30T20:30:00+01:00'
+  description: >-
+    Lidská populace stále rychle roste. Na Zemi už není moc míst, kde by nebyl
+    vidět zásah člověka. Přírodu kolem nás měníme k nepoznání. Klimatické změny,
+    ztráta druhové rozmanitosti, vysychání, to vše může v konečném důsledku vést
+    k drastickému snižování naší životní úrovně, anebo se můžeme mít v důsledku
+    i lépe?
+
+
+    Kam necháme stávající vývoj dojít? Stihneme se opět přizpůsobit novým
+    podmínkám, ať už si je vytváříme sami nebo jsou výsledkem přirozených
+    procesů? Jak chceme, aby vypadalo prostředí, ve kterém žijeme v brzké
+    budoucnosti? Jak by se mělo změnit nastavení a principy, na kterých stojí
+    lidská společnost, abychom se nemuseli bát o naší budoucnost? Přijďte
+    diskutovat o budoucnosti lidstva s vědci z přírodovědných a humanitních
+    oborů.
+
+
+    POZOR - meetup je placený a počet vstupenek je omezen! Vstupenku v hodnotě
+    100,- si můžete koupit některým z následujících způsobů:
+
+
+    1. Osobně v kavárně Bitcoin Coffee,
+
+    2. Nebo online na:
+    https://donate.paralelnipolis.cz/events/335-1-enviro-meetup-lidska-budoucnost-tvari-v-tvar-prirodnim-zmenam
+  refs:
+    meetup_id: '267713612'
+    meetup: https://www.meetup.com/paralelnipolis/events/267713612/
+
+
+- id: 2020-01-24-scaleup-meetup-efektivni-zvladani-planu-a-ukolu
+  name: ScaleUp MeetUp - Efektivní zvládání plánů a úkolů
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-01-24'
+  startTime: '2020-01-24T12:00:00+01:00'
+  endTime: '2020-01-24T13:00:00+01:00'
+  description: >-
+    Úspěch se rovná 1 % nápadu a 99 % schopností nápad realizovat.
+
+
+    Obyčejně jde realizace projektu bez zbytečných problémů, pokud existuje
+    jasný plán a každý v týmu ví, jaká je jeho role. Přesto se neustále opakují
+    stejné realizační problémy. Proč nejsme schopni dotáhnout, co si
+    naplánujeme? Proč některé projekty vyhnijí nebo zaniknou mnohem dříve než
+    musejí? A proč jiné ani nezačnou, i když jsou pro nás důležité?
+
+
+    Přesně na tyto otázky budeme hledat odpovědi v rámci workshopu v našem Paper
+    Hubu!
+
+
+    Proč vlastně přijít?
+
+    Naučíme vás klíčové realizační disciplíny, díky kterým zvládnete efektivněji
+    plánovat své úkoly jak pro sebe, tak pro tým, který s vámi spolupracuje.
+    Navíc poznáte nové lidi řešící podobné situace. :-)
+
+    Workshop je vhodný zejména pro manažery středně velkých týmů a firem. Své si
+    v něm ale jistě najdou i ti, kteří s podnikáním teprve začínají a chtějí ho
+    posunout o level výš.
+
+
+    Akce je zdarma a je otevřena všem zájemcům ze široké veřejnosti. Kapacita je
+    ale omezená. Aby na vás zbylo místo, je třeba si ho zamluvit předem na
+    e-mailu: pavel@krepelka.coach.
+  refs:
+    meetup_id: '267713604'
+    meetup: https://www.meetup.com/paralelnipolis/events/267713604/
+
+
+- id: 2020-01-23-novinarske-mikroforum-vol-2
+  name: Novinářské mikrofórum vol. 2
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-01-23'
+  startTime: '2020-01-23T18:00:00+01:00'
+  endTime: '2020-01-23T20:00:00+01:00'
+  description: >-
+    Ve spolupráci s Nadační fond nezávislé žurnalistiky jsme pro vás připravili
+    v pořadí již druhé novinářské mikrofórum. Cílem této akce je představovat
+    zajímavé projekty kombinující novinářskou praxi a využívání nejmodernějších
+    technologií. Celou sérií vás bude provázet Josef Šlerka, ředitel NFNŽ a
+    odborník na analýzu dat ze sociálních sítí.
+
+
+    Tématem druhého mikrofóra jsou novináři a zdravotnictví. Jak se píše a
+    nepíše o tématech spojených se zdravotnictvím?
+
+
+    V rámci druhého setkání vystoupí:
+
+    Petr Holub, novinář eníku Echo24.cz. Dříve psal pro Týdeník Respekt,
+    Hospodářské noviny, Aktuálně.cz nebo třeba Mladá fronta DNES. Externě také
+    komentuje politické a ekonomické události pro Český rozhlas Plus. Je také
+    autorem či spoluautorem knih - např. Orosené dějiny, Nemilosrdné příběhy
+    českých dějin a Co se stane, když se zhasne?
+
+
+    Tomáš Cikrt, bývalý novinář a mluvčí ministerstva zdravotnictví, je od roku
+    2014 šéfredaktorem online serveru Zdravotnický deník. Také vydal publikace -
+    Krev a peníze : pravda o kauze Diag Human nebo příručku - Příběhy léků:
+    příručka pro zvídavé čtenáře o vzniku, vlastnostech a používání léků.
+
+
+    doc. PhDr. Filip Smolík, Ph.D., psycholingvista a vedoucí laboratoře
+    Psychologického ústavu a Laboratoře behaviorálních a lingvistických studií
+    PsÚ AV ČR a FF UK.
+
+
+    Novinářské mikrofórum Hackováním za lepší novinařinu je součástí nového
+    projektu Media Hub Paralelní Polis, který je zaměřený na podporu nezávislé
+    novinářské praxe v Česku. Cílem je vytvořit platformu pro sdílení zkušeností
+    a šíření vědomostí formou co-workingového prostoru a vzdělávacích aktivit.
+  refs:
+    meetup_id: '267747390'
+    meetup: https://www.meetup.com/paralelnipolis/events/267747390/
+
+
+- id: 2020-01-22-crypto-snidane-or-je-bitcoin-menou-budoucnosti
+  name: Crypto snídaně | Je Bitcoin měnou budoucnosti?
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-01-22'
+  startTime: '2020-01-22T09:00:00+01:00'
+  endTime: '2020-01-22T10:30:00+01:00'
+  description: >-
+    Zajímáte se o kryptoměny? Máte chuť se navzájem potkávat a sdílet své
+    zkušenosti? Chcete diskutovat o aktuálním dění ve světě kryptoměn?
+
+    Paralelní Polis si pro vás ve spolupráci s Pavel Přecechtěl a Petr Sanetrník
+    připravili pravidelnou akci - Crypto snídaně!
+
+
+    Tentokrát budeme řešit, zda je Bitcoin měnou budoucnosti. Zaměříme se na
+    využití Bitcoinu a zda nás v budoucnu čeká většinová adopce kryptoměn. Je
+    Bitcoin měnou budoucnosti nebo již současnosti? To a více budeme probírat
+    22. 1. 2020!
+
+
+    Naše pozvání přijal Petr Mára, technologický evangelista, youtuber,
+    certifikovaný trenér Applu a zapálený fanoušek Bitcoinu.
+
+
+    Můžete se samozřejmě těšit i na pořádnou snídani! :-)
+  refs:
+    meetup_id: '267713560'
+    meetup: https://www.meetup.com/paralelnipolis/events/267713560/
+
+
+- id: 2020-01-21-bitcoin-meetup-or-pokrok-bez-povoleni
+  name: Bitcoin meetup | Pokrok bez povolení
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-01-21'
+  startTime: '2020-01-21T18:30:00+01:00'
+  endTime: '2020-01-21T20:00:00+01:00'
+  description: >-
+    V přednášce se zaměříme na svět, kde Airbnb oživuje mrtvý kapitál a
+    konkuruje státu v tvorbě regulací. Kde Kickstarter nahrazuje vybírání daní a
+    pomáhá financovat veřejné služby, a kde Bitcoin umožňuje budovat paralelní
+    společnost, v které neexistují „vůdci".
+
+
+    Pokrok, který přináší internet nekonkuruje jen analogovým podnikatelům a
+    kamenným obchodům, ale především světu zákonů, úředníků a politiky. A právě
+    to je tématem přednášky - střet digitálních technologií 21.st. se světem
+    kamenných institucí z dob 20.st.
+
+
+    Robert Chovanculiak absolvoval doktorské studium na Ekonomické fakultě UMB v
+    Banskej Bystrici. Od roku 2015 pracuje jako analytik v INESS - Institutu
+    ekonomických a společenských analýz. Ve svém výzkumu se věnuje fungování
+    veřejného sektoru, internetovým technologiím a školství. Je autorem stovek
+    článků, množství domácích i mezinárnodníc studií a publikoval i v
+    cambridgském časopisu Journal of Institutional Economics.
+
+
+    Rezervaci zakoupíte:
+
+    ►online na
+    https://donate.paralelnipolis.cz/events/306-1-bitcoin-meetup-pokrok-bez-povoleni
+
+    ► osobně v naší kavárně, kde vám barista s nákupem poradí a pomůže.
+  refs:
+    meetup_id: '267713492'
+    meetup: https://www.meetup.com/paralelnipolis/events/267713492/
+
+
+- id: 2020-01-15-paralel-sound-or-aaa-party
+  name: Paralel Sound | AAA Party
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-01-15'
+  startTime: '2020-01-15T18:00:00+01:00'
+  endTime: '2020-01-15T20:00:00+01:00'
+  description: >-
+    Baví Tě hudba? Baví Tě generovat zvuky náhodně i cíleně? Máš doma nějakou
+    mašinku, která funguje pouze na baterky a dokáže generovat zvuk? Stav se za
+    námi do Paralelní Polis, kde si představíme několik různých mašinek určených
+    pro hudební produkci a taky si na nich společně zajamujeme.
+
+
+    Parallel Sound je nový koncept Paralelní Polis zaměřený na hudební tvorbu a
+    organizaci eventů, jejichž cílem je bavit se o hudbě a taky - bavit se
+    hudbou. Projekt Paralelní Polis se od počátku své existence snaží hledat
+    průsečíky, ve kterých se potkává svět umění, technologií a vědy. A hudba je
+    v jejich epicentru.
+  refs:
+    meetup_id: '267713433'
+    meetup: https://www.meetup.com/paralelnipolis/events/267713433/
+
+
+- id: 2020-01-14-bitcoin-meetup-or-zaklady-bitcoinu
+  name: Bitcoin meetup | Základy Bitcoinu
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-01-14'
+  startTime: '2020-01-14T18:00:00+01:00'
+  endTime: '2020-01-14T19:00:00+01:00'
+  description: >-
+    Jak funguje současný finanční systém a může mu být Bitcoin alternativou? V
+    rámci své přednášky se Lucie Komárková zaměří na minulost a současnost
+    Bitcoinu. Bude mluvit o jeho vzniku, ale také o momentální ekonomické
+    situaci a technologických aspektech jeho fungování. Těšte se i na praktickou
+    část!
+
+    Každému zájemci Lucie pomůže s koupí kryptoměn, placením kryptoměnami a také
+    poradí, jak se o své kryptoměny starat.
+
+
+    Lucie Komárková je členkou Paralelní Polis a Students for Liberty. Věnuje se
+    talebovskému pohledu na svět, decentralizovaným systémům a exponencionálním
+    technologiím v čele s bitcoinem, o kterém společně s rakouskou ekonomií
+    přednáší.
+
+
+    Rezervaci zakoupíte:
+
+    ►online na:
+    https://donate.paralelnipolis.cz/events/325-1-bitcoin-meetup-zaklady-bitcoinu
+
+    ► osobně v naší kavárně, kde vám barista s nákupem poradí a pomůže.
+  refs:
+    meetup_id: '267713416'
+    meetup: https://www.meetup.com/paralelnipolis/events/267713416/
+
+
+- id: 2020-01-08-bitcoin-meetup-or-a-full-stack-of-bitcoin-privacy-weapons
+  name: Bitcoin meetup | A full stack of Bitcoin privacy weapons
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-01-08'
+  startTime: '2020-01-08T18:30:00+01:00'
+  endTime: '2020-01-08T19:30:00+01:00'
+  description: >-
+    A socratic seminar to discuss a holistic strategy to break the OODA loop by
+    utilizing Bitcoin Core, Wasabi Wallet, Join Market, BTCPay Server, ColdCard,
+    Taproot and the Lightning Network. Socratic Seminar fosters cooperative yet
+    argumentative dialogue with participants asking one another questions and
+    challenging each other on their answers.
+
+
+    Max Hillebrand is a free software entrepreneur contributing to several
+    Bitcoin projects. He bases his understanding of the importance of property
+    rights on the Austrian school of economics, and builds tools to defend ones
+    liberty with crypto-anarchist strategies of strong encryption. He is sharing
+    this knowledge on videos and podcasts, as well as written technical
+    documentation.
+
+
+    towardsliberty.com
+
+    PGP: E900 5F66 A86B B816 BD7D 967E BEDC D95C 42AC 3C57
+
+
+    Rezervaci zakoupíte:
+
+    ►online na
+    https://donate.paralelnipolis.cz/events/333-1-bitcoin-meetup-a-full-stack-of-bitcoin-privacy-weapons
+
+    ► osobně v naší kavárně, kde vám barista s nákupem poradí a pomůže.
+  refs:
+    meetup_id: '267713392'
+    meetup: https://www.meetup.com/paralelnipolis/events/267713392/
+
+
+- id: 2020-01-07-bitcoin-meetup-or-qanda-s-jakubem-vejmolou
+  name: Bitcoin meetup | Q&A s Jakubem Vejmolou
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2020-01-07'
+  startTime: '2020-01-07T18:30:00+01:00'
+  endTime: '2020-01-07T19:30:00+01:00'
+  description: >-
+    Po krátké úvodní přednášce se můžete těšit na Q&A s Jakubem Vejmolou o jeho
+    projektu Bitcoinovej Kanál.
+
+
+    Rezervaci zakoupíte:
+
+    ►online na
+    https://donate.paralelnipolis.cz/events/334-1-bitcoin-meetup-qa-s-jakubem-vejmolou
+
+    ► osobně v naší kavárně, kde vám barista s nákupem poradí a pomůže.
+  refs:
+    meetup_id: '267713378'
+    meetup: https://www.meetup.com/paralelnipolis/events/267713378/

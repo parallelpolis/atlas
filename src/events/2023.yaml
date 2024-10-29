@@ -1,0 +1,1831 @@
+- id: ethprague23
+  name: ETHPrague 2023
+  date: "2023-06-09"
+  major: true
+  project: ethprague
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
+    - name: Vnitroblock
+  days: 3
+  seq: 2
+  speakers:
+    - jarrad-hope
+    - sara-polak
+    - brewster-kahle
+    - mario
+    - amir-taaki
+    - vitalik-buterin
+    - josef-gattermayer
+    - daniel-lumi
+    - owen-barnes
+    - rachel-rose
+    - mario
+    - amir-taaki
+    - christoph-jentzsch
+    - tim-beiko
+    - daniel-lumi
+    - danny-holland
+    - mario
+    - wlodek-gogloza
+  organizers:
+    - josefj
+  aftermovie: bOIYk4Hrjhw
+
+- id: 2023-12-31-parallel-new-years-party
+  name: PARALLEL NEW YEAR'S PARTY
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-12-31'
+  startTime: '2023-12-31T19:00:00+01:00'
+  endTime: '2024-01-01T04:20:00+01:00'
+  description: >-
+    Step into the future at the Parallel New Year’s Party! Join us for a night
+    of vibrant celebrations, cutting-edge music, and futuristic vibes.
+
+
+    It’s not just a party – it’s a journey into a night of unforgettable fun and
+    excitement!
+
+
+    19:00 ► Doors open
+
+    20:00 ► DJs
+
+
+    All-inclusive admission ► Pre-sale 500 CZK / On-site 700 CZK
+
+
+    See you there!
+
+
+    **→ [Book your spot
+    now!](https://www.paralelnipolis.cz/shop/parallel-new-years-party/) ←**
+  refs:
+    meetup_id: '298205456'
+    meetup: https://www.meetup.com/paralelnipolis/events/298205456/
+
+
+- id: 2023-12-15-parallel-xmas-party-2023
+  name: Parallel Xmas Party 2023
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-12-15'
+  startTime: '2023-12-15T19:00:00+01:00'
+  endTime: '2023-12-16T04:20:00+01:00'
+  description: >-
+    Do you want to experience something unusual? You’ve come to the right place!
+    Come to the non-plus ultra Christmas party in the darkest house in
+    Holešovice, learn how to pay with crypto, and have fun! 🎄 You can also look
+    forward to a little "bomb" gift 🎈
+
+
+    19:00 ► Doors open 🎉
+
+    20:00 ► DJs
+
+
+    Admission fee ► 200 CZK in advance / 250 CZK at the door
+
+
+    Our merch and other trinkets will be for sale at the venue ►►► the perfect
+    gift for your #cryptofriends 🎁
+
+
+    And as usual – alcohol and non-alcohol can be bought with BTC / LTC and
+    Lightning Network. It’s not complicated and we’ll be happy to teach you.
+
+
+    **→ [Book your spot now!](https://www.paralelnipolis.cz/shop/xmas23/) ←**
+  refs:
+    meetup_id: '296831033'
+    meetup: https://www.meetup.com/paralelnipolis/events/296831033/
+
+
+- id: 2023-12-15-monero-tea-xmas-bazaar
+  name: Monero Tea Xmas Bazaar
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-12-15'
+  startTime: '2023-12-15T15:00:00+01:00'
+  endTime: '2023-12-15T19:00:00+01:00'
+  description: >-
+    Dear friends of technology, cryptoanarchy, and tea culture!
+
+
+    This time Monero Tea has prepared for you not a meetup, but a pre-Christmas
+    bazaar of stylish clothes, board games, electronics, and much more (a free
+    roasted kyobancha will accompany every purchase) and a free friendly
+    discussion on the topic of crypto and AI.
+
+
+    We'll meet at Paralelní Polis on December 15 at 3 PM. Feel free to join,
+    chat, have a good hot tea, or give a raised middle finger to Gresham's Law
+    and buy some cool stuff from our crypto bazaar – for yourself or your loved
+    ones.
+
+
+    If you have time, you can also stick around for the [Parallel Xmas
+    Party](https://www.meetup.com/paralelnipolis/events/296831033/), which
+    immediately follows our event!
+  refs:
+    meetup_id: '297881525'
+    meetup: https://www.meetup.com/paralelnipolis/events/297881525/
+
+
+- id: 2023-12-12-privacy-and-security-meetup-or-how-to-rob-santa
+  name: Privacy & Security MeetUp | How to rob Santa
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-12-12'
+  startTime: '2023-12-12T18:00:00+01:00'
+  endTime: '2023-12-12T20:00:00+01:00'
+  description: >-
+    Join us for a cutting-edge meetup on practical security and privacy
+    solutions! Our experts will unveil effective techniques to protect your data
+    online, prevent big browsers from collecting your information, and showcase
+    innovative methods for safeguarding your privacy. Engage in discussions, Q&A
+    sessions, and exciting demos. Bring your own computer for an immersive
+    experience. Don't miss this unforgettable evening of learning and networking
+    with like-minded professionals!
+
+
+    But that's not all! In an exciting addition to this meetup, we will explore
+    the fascinating world of physical security penetration tests. This time, we
+    will learn how to hack without a computer, delving into techniques for
+    conducting physical security assessments. Sodomak will demonstrate hands-on
+    approaches to identify vulnerabilities, assess access controls, and enhance
+    the overall security of your physical spaces.
+
+
+    This meetup series is sponsored by [Wasabi
+    Wallet](https://wasabiwallet.io/). Attendees can look forward to a special
+    giveaway 🎁
+
+
+    *“Safely manage your Bitcoin with Wasabi Wallet, the privacy-first desktop
+    wallet“.*
+  refs:
+    meetup_id: '297552514'
+    meetup: https://www.meetup.com/paralelnipolis/events/297552514/
+
+
+- id: 2023-11-21-privacy-and-security-meetup-or-tba
+  name: Privacy & Security MeetUp | TBA
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-11-21'
+  startTime: '2023-11-21T18:00:00+01:00'
+  endTime: '2023-11-21T20:00:00+01:00'
+  description: >-
+    Join us for a cutting-edge meetup on practical security and privacy
+    solutions! Our experts will unveil effective techniques to protect your data
+    online, prevent big browsers from collecting your information, and showcase
+    innovative methods for safeguarding your privacy. Engage in discussions, Q&A
+    sessions, and exciting demos. Bring your own computer for an immersive
+    experience. Don't miss this unforgettable evening of learning and networking
+    with like-minded professionals!
+
+
+    This meetup series is sponsored by [Wasabi
+    Wallet](https://wasabiwallet.io/).
+
+
+    *“Safely manage your Bitcoin with Wasabi Wallet, the privacy-first desktop
+    wallet“.*
+
+
+    If interested, sign up!
+  refs:
+    meetup_id: '296831018'
+    meetup: https://www.meetup.com/paralelnipolis/events/296831018/
+
+
+- id: 2023-11-21-monero-tea-meetup-4
+  name: 'Monero Tea MeetUp #4'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-11-21'
+  startTime: '2023-11-21T16:30:00+01:00'
+  endTime: '2023-11-21T18:30:00+01:00'
+  description: >-
+    Monero Tea is a unique mobile tea house, founded by a bunch of friends with
+    a passion for quality tea, cryptocurrencies, and technology.
+
+
+    This time Monero Tea will be offering their quality teas and cryptocurrency
+    consultations at Paralelní Polis at 4:30 pm, while visitors to the tea stand
+    can then move on to the Privacy & Security Meetup at 6:00 pm at the
+    Institute of Cryptoanarchy, which will also be attended by the teahouse
+    members themselves.
+
+
+    Come and enjoy a good tea and an initiation into the secrets of Monero and
+    cryptoanarchy! Whether you're a tea/Monero newbie/master, you're always
+    welcome at our place!
+  refs:
+    meetup_id: '297237283'
+    meetup: https://www.meetup.com/paralelnipolis/events/297237283/
+
+
+- id: 2023-11-09-privacy-and-security-meetup-or-privacy-tools-and-information
+  name: Privacy & Security MeetUp | Privacy tools and information
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-11-09'
+  startTime: '2023-11-09T18:00:00+01:00'
+  endTime: '2023-11-09T20:00:00+01:00'
+  description: >-
+    Join us for a cutting-edge meetup on practical security and privacy
+    solutions! Our experts will unveil effective techniques to protect your data
+    online, prevent big browsers from collecting your information, and showcase
+    innovative methods for safeguarding your privacy. Engage in discussions, Q&A
+    sessions, and exciting demos. Bring your own computer for an immersive
+    experience. Don't miss this unforgettable evening of learning and networking
+    with like-minded professionals!
+
+
+    This time on Privacy tools and information with [Amin
+    Rafiee](https://arafiee.com/)!
+
+
+    This meetup series is sponsored by [Wasabi
+    Wallet](https://wasabiwallet.io/).
+
+
+    *“Safely manage your Bitcoin with Wasabi Wallet, the privacy-first desktop
+    wallet“.*
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '296765834'
+    meetup: https://www.meetup.com/paralelnipolis/events/296765834/
+
+
+- id: 2023-11-09-monero-tea-meetup-3
+  name: 'Monero Tea MeetUp #3'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-11-09'
+  startTime: '2023-11-09T16:30:00+01:00'
+  endTime: '2023-11-09T18:30:00+01:00'
+  description: >-
+    Monero Tea is a unique mobile tea house, founded by a bunch of friends with
+    a passion for quality tea, cryptocurrencies, and technology.
+
+
+    This time Monero Tea will be offering their quality teas and cryptocurrency
+    consultations at Paralelní Polis at 4:30 pm, while visitors to the tea stand
+    can then move on to the Privacy & Security Meetup at 6:00 pm at the
+    Institute of Cryptoanarchy, which will also be attended by the teahouse
+    members themselves.
+
+
+    Come and enjoy a good tea and an initiation into the secrets of Monero and
+    cryptoanarchy! Whether you're a tea/Monero newbie/master, you're always
+    welcome at our place!
+  refs:
+    meetup_id: '297237267'
+    meetup: https://www.meetup.com/paralelnipolis/events/297237267/
+
+
+- id: >-
+    2023-10-24-privacy-and-security-meetup-or-phishing-and-fraud-in-the-age-of-ai
+  name: Privacy & Security MeetUp | Phishing and Fraud in the Age of AI
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-10-24'
+  startTime: '2023-10-24T18:00:00+02:00'
+  endTime: '2023-10-24T20:00:00+02:00'
+  description: >-
+    Join us for a cutting-edge meetup on practical security and privacy
+    solutions! Our experts will unveil effective techniques to protect your data
+    online, prevent big browsers from collecting your information, and showcase
+    innovative methods for safeguarding your privacy. Engage in discussions, Q&A
+    sessions, and exciting demos. Bring your own computer for an immersive
+    experience. Don't miss this unforgettable evening of learning and networking
+    with like-minded professionals!
+
+
+    This time on Phishing and Fraud in the Age of AI!
+
+
+    This meetup series is sponsored by [Wasabi
+    Wallet](https://wasabiwallet.io/).
+
+
+    *“Safely manage your Bitcoin with Wasabi Wallet, the privacy-first desktop
+    wallet“.*
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '296551953'
+    meetup: https://www.meetup.com/paralelnipolis/events/296551953/
+
+
+- id: 2023-10-24-monero-tea-meetup-2
+  name: 'Monero Tea MeetUp #2'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-10-24'
+  startTime: '2023-10-24T16:30:00+02:00'
+  endTime: '2023-10-24T18:30:00+02:00'
+  description: >-
+    Monero Tea is a unique mobile tea house, founded by a bunch of friends with
+    a passion for quality tea, cryptocurrencies, and technology.
+
+
+    This time Monero Tea will be offering their quality teas and cryptocurrency
+    consultations at Paralelní Polis at 4:30 pm, while visitors to the tea stand
+    can then move on to the Privacy & Security Meetup at 6:00 pm at the
+    Institute of Cryptoanarchy, which will also be attended by the teahouse
+    members themselves.
+
+
+    Come and enjoy a good tea and an initiation into the secrets of Monero and
+    cryptoanarchy! Whether you're a tea/Monero newbie/master, you're always
+    welcome at our place!
+  refs:
+    meetup_id: '296830989'
+    meetup: https://www.meetup.com/paralelnipolis/events/296830989/
+
+
+- id: 2023-10-20-kyborgismus-and-or-bezpecne-telefony-kyberbezpecnost-telefonu
+  name: Kyborgismus AND | Bezpečné telefony - Kyberbezpečnost telefonů
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-10-20'
+  startTime: '2023-10-20T17:45:00+02:00'
+  endTime: '2023-10-20T19:45:00+02:00'
+  description: >-
+    V pátek 20. 10. od 17:45 se v Paralelní Polis koná přednáška o bezpečných
+    telefonech a jak je zabezpečit.
+
+
+    Navíc nabízíme workshop, ze kterého si účastníci odnesou zabezpečený
+    telefon. Samotná přednáška je zadarmo! Přijďte se dozvědět, jak si
+    zabezpečit svůj telefon před hackery a šmíry. Máte otázky nebo vás zajímá
+    problematika telefonů Pixel a operačního systému GrapheneOS?
+
+
+    Již v pátek 20. 10. 2023 od 17:45 se toho můžete dozvědět více - fyzicky v
+    Paralelní Polis!
+  refs:
+    meetup_id: '296236584'
+    meetup: https://www.meetup.com/paralelnipolis/events/296236584/
+
+
+- id: hcpp23
+  name: "HCPP23: Resistance"
+  date: "2023-09-29"
+  major: true
+  project: hcpp
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
+  startTime: '2023-09-29T10:00:00+02:00'
+  endTime: '2023-10-01T20:00:00+02:00'
+  days: 3
+  seq: 10
+  refs:
+    meetup_id: '295733121'
+    meetup: https://www.meetup.com/paralelnipolis/events/295733121/
+    web: https://resistance.hcpp.cz
+  speakers:
+    - rachel-rose
+    - amir-taaki
+    - richard-stallman
+    - sethforprivacy
+    - amin-rafiee
+    - cody-wilson
+    - paul-rosenberg
+    - jarrad-hope
+    - ryan-lackey
+    - wilder
+    - juraj-bednar
+    - martin-leskovjan
+    - bob-summerwill
+    - maxim-orlovsky
+    - vit-jedlicka
+    - mitch-altman
+    - jessica-solce
+    - pavel-hubacek
+    - silke-noa
+    - travin-keith
+    - scott-beibin
+    - max-hampshire
+    - amin-rafiee
+  organizers:
+    - kx
+  description: |
+    For over 5000 years, an underground war has played out between state
+    civilization and free society.
+
+
+    This war is not merely a physical one, but a spiritual war.
+
+    Today the struggle continues. Life evolves and moves upwards through the
+    efforts of society. The state as a parasite harvests this human energy for
+    its own survival.
+
+
+    But grand events are playing out. The pendulum swings towards freedom. This
+    is the hour. Cyber-guerillas rise up!
+
+
+    **RESISTANCE IS LIFE!**
+
+
+    Speakers line-up includes Richard Stallman, Cody Wilson, Jarrad Hope, Ryan
+    Lackey, Rachel-Rose O'Leary, Mitch Altman, Bob Summerwill, Paul Rosenberg,
+    Silke Noa, Harry Halpin, Max Hillebrand, Scott Beibin and many more!
+
+    **[hcpp.cz](http://hcpp.cz/)**
+
+    *[Hackers Congress Paralelní Polis](https://1337.hcpp.cz/) (HCPP) is the
+    flagship event of Paralelní Polis, which since 2014 has been regularly
+    attended by over 500 fans and IT experts from all over the world. HCPP is
+    held annually in Prague on the first weekend of October.*
+
+
+    *The main thematic pillars of the three-day congress are Freedom &
+    Cryptoanarchy, Decentralized Economics, & Cryptocurrencies, Political Art &
+    Hacking, and Science & Technology.*
+
+- id: 2023-09-28-holesky-launch-party
+  name: Holešky Launch Party
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-09-28'
+  startTime: '2023-09-28T13:00:00+02:00'
+  endTime: '2023-09-28T16:00:00+02:00'
+  description: >-
+    Join us for the launch of Holešky testnet watching party from Bordel
+    Hackerspace located in actual Prague 7, Holešovice. The original launch
+    during Protocol Berg failed and the next attempt ( 😏 ) is planned for
+    September 28th, 14:00 CEST.
+
+
+    We will meet in the hackerspace, which already served as a slayer of the
+    Ropsten testnet, to witness the launch of the first long-standing,
+    merged-from-genesis, public Ethereum testnet. Holešky will replace Goerli as
+    a staking, infrastructure, and protocol-developer testnet maintained by the
+    community. The name comes Holešovice, part of Prague where the hackerspace
+    is located which makes it the best place to witness its genesis.
+  refs:
+    meetup_id: '296236418'
+    meetup: https://www.meetup.com/paralelnipolis/events/296236418/
+
+
+- id: 2023-09-27-the-network-state-meetup
+  name: The Network State MeetUp 🇨🇿
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-09-27'
+  startTime: '2023-09-27T18:00:00+02:00'
+  endTime: '2023-09-27T22:00:00+02:00'
+  speakers:
+    - juraj-bednar
+    - wilder
+  description: >-
+    Vstupte do světa "The Network State" – inovativního konceptu od Balajiho
+    Srinivasana, který zpochybňuje tradiční představu státu. Zde můžete zakládat
+    stát přímo online, propojený po celém světě, a to bez geografických hranic.
+    Představte si, že lidé s podobnými cíli vytvářejí globální komunitu, která
+    společně financuje projekty a tvoří novou formu organizace. Tato digitální
+    síťová komunita využívá internet k propojení lidí a katalyzuje nové
+    technologie, společenské změny a ekonomické modely. Vize, která mění způsob,
+    jakým vnímáme státy a společnost, a posouvá nás směrem k decentralizaci a
+    globální spolupráci.
+
+
+    ​**Vystupující:**
+
+
+    **Balaji Srinivasan** – technologický vizionář a podnikatel, autor konceptu
+    "The Network State"
+
+
+    **Pavol Lupták** – zakladatel společností Liberation travel či Hacktrophy,
+    kryptoanarchista, voluntarista, věčný cestovatel zaměřený na hackování
+    technologií a společnosti.
+
+
+    **Juraj Bednár** – OG cypherpunk, zakladatel společnosti Hacktrohpy a
+    neziskové organizace Paralelná Polis, autor knih – Hackni sa, Velký reštart
+    a Kryptoměny – vyhackuj si lepší život.
+
+
+    **Jakub Šimek** \- spoluzakladateľ startup inkubátora Sote Hub v Keni a
+    bloguje o technologickom pokroku\, mentálnych modeloch\, medzinárodných
+    vzťahoch a svete na vzostupe\. Posledné štyri roky pravidelne píše o
+    myšlienkach Balajiho Srinivasana
+
+
+    ## [PŘIHLÁSIT SE](https://tickets.paralelnipolis.cz/PP/TNS/)
+  refs:
+    meetup_id: '295732709'
+    meetup: https://www.meetup.com/paralelnipolis/events/295732709/
+
+
+- id: 2023-07-28-kyborgismus-and-or-meet-the-founders
+  name: Kyborgismus AND | Meet the founders!
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-07-28'
+  startTime: '2023-07-28T17:45:00+02:00'
+  endTime: '2023-07-28T19:45:00+02:00'
+  description: >-
+    Zveme vás na neuvěřitelný event plný inovace a technologického pokroku -
+    Kyborgismus AND: Meet the founders!
+
+
+    Připojte se k nám 28. července 2023 od 17:45 v pražské Paralelní Polis a
+    setkejte se s vizionáři a zakladateli projektu Kyborgismu, Krisem a Dodo.
+    Tento exkluzivní večer vás zavede do fascinujícího světa kyborgů a jejich
+    vlivu na společnost.
+
+
+    Paralelní Polis, ohromující prostor spojující umění, společenské vědy a
+    moderní technologie, poskytne kulisu této události. Jako nezávislá nezisková
+    organizace, Paralelní Polis se staví na idejích svobody a inovace. Jejich
+    koncept 'state-free' vám ukáže, jak můžeme žít bez závislosti na tradičních
+    strukturách.
+
+
+    Těšte se na inspirativní přednášky od zakladatelů Krise a Dodo, kteří vám
+    přiblíží své vášnivé zájmy v oblasti matematiky, nových technologií, 3D
+    tisku, umělé inteligence, kyborgismu a biologických/zdravotních směrů. A to
+    není vše! Na eventu vás čekají také tajní bonusoví hosté, kteří vám
+    představí další fascinující aspekty kyborgismu.
+
+
+    Přidejte se k nám na tomto jedinečném setkání, abyste objevili budoucnost,
+    kterou kyborgismus přináší. Získejte vzácnou příležitost diskutovat s
+    odborníky, navázat nové kontakty a získat inspiraci pro své vlastní
+    projekty. Buďte součástí revoluce v oblasti technologií a společenského
+    rozvoje.
+
+
+    Tato událost je otevřena veřejnosti, avšak kapacita je omezena.
+    Zaregistrujte se co nejdříve a zajistěte si své místo na Kyborgismus AND:
+    Meet the founders! Ujistěte se, že nezmeškáte toto výjimečné setkání v
+    Paralelní Polis.
+
+
+    Těšíme se na vás!
+  refs:
+    meetup_id: '294474469'
+    meetup: https://www.meetup.com/paralelnipolis/events/294474469/
+
+
+- id: 2023-07-21-monero-tea-meetup-1
+  name: 'Monero Tea MeetUp #1'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-07-21'
+  startTime: '2023-07-21T17:00:00+02:00'
+  endTime: '2023-07-21T20:00:00+02:00'
+  description: >-
+    Vážení přátelé čajové kultury, zenu a kryptoanarchie! Po premiéře na
+    MoneroKonu se vám Monero Tea poprvé představí přímo v prostorách Paralelní
+    Polis!
+
+
+    Přijďte nás v pátek 21. července od 17:00 poctít svou účastí na krátkém a
+    tichém ponoření do světa čaje, meditace a transakční anonymity. Těšit se
+    můžete jak na podrobnou přednášku o historii, etymologii a filozofii čaje,
+    tak na praktickou ochutnávku prvotřídních bio čajů z Japonska a Číny.
+
+
+    V závislosti na zbývajícím čase můžeme také uspořádat klidnou závěrečnou
+    diskusi.
+
+
+    Vstupné je dobrovolné; ideálně na pokrytí nákladů na zkonzumovaný čaj.
+  refs:
+    meetup_id: '294757856'
+    meetup: https://www.meetup.com/paralelnipolis/events/294757856/
+
+
+- id: 2023-06-21-privacy-and-security-meetup-15
+  name: 'Privacy & Security MeetUp #15'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-06-21'
+  startTime: '2023-06-21T18:00:00+02:00'
+  endTime: '2023-06-21T20:00:00+02:00'
+  description: >-
+    Join us for a cutting-edge meetup on practical security and privacy
+    solutions! Our experts will unveil effective techniques to protect your data
+    online, prevent big browsers from collecting your information, and showcase
+    innovative methods for safeguarding your privacy. Engage in discussions, Q&A
+    sessions, and exciting demos. Bring your own computer for an immersive
+    experience. Don't miss this unforgettable evening of learning and networking
+    with like-minded professionals!
+
+
+    This meetup series is sponsored by [Wasabi
+    Wallet](https://wasabiwallet.io/).
+
+
+    *“Safely manage your Bitcoin with Wasabi Wallet, the privacy-first desktop
+    wallet“.*
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '294274678'
+    meetup: https://www.meetup.com/paralelnipolis/events/294274678/
+
+
+- id: 2023-06-13-crypto-art-and-crypto-culture-exhibition-opening
+  name: CRYPTO ART & CRYPTO CULTURE Exhibition Opening
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-06-13'
+  startTime: '2023-06-13T18:00:00+02:00'
+  endTime: '2023-06-13T21:00:00+02:00'
+  description: >-
+    Crypto enthusiasts use many memes and funny expressions that you only
+    understand if you are familiar with the crypto space – things like:
+
+
+    • HODL
+
+    • Honey Badger
+
+    • Satoshi Nakamoto
+
+    • When Lambo?
+
+    • “To the Moon”
+
+    • Alpaca Socks etc.
+
+
+    This exhibition shows artworks that play with these memes and represent
+    crypto culture.
+
+
+    Don't miss this opportunity to explore the intersection of art and crypto at
+    our opening event!
+
+
+    More information: [moonstock.net](https://moonstock.net)
+  refs:
+    meetup_id: '293999831'
+    meetup: https://www.meetup.com/paralelnipolis/events/293999831/
+
+
+- id: 2023-06-13-crypto-art-and-crypto-culture-exhibition
+  name: CRYPTO ART & CRYPTO CULTURE Exhibition
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-06-13'
+  startTime: '2023-06-13T18:00:00+02:00'
+  endTime: '2023-06-22T20:00:00+02:00'
+  description: >-
+    Crypto enthusiasts use many memes and funny expressions that you only
+    understand if you are familiar with the crypto space – things like:
+
+
+    • HODL
+
+    • Honey Badger
+
+    • Satoshi Nakamoto
+
+    • When Lambo?
+
+    • “To the Moon”
+
+    • Alpaca Socks etc.
+
+
+    This exhibition shows artworks that play with these memes and represent
+    crypto culture.
+
+
+    More information: moonstock.net
+  refs:
+    meetup_id: '293999730'
+    meetup: https://www.meetup.com/paralelnipolis/events/293999730/
+
+- id: 2023-06-11-the-interop-beer
+  name: The interop Beer 🍺 🍺
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-06-11'
+  startTime: '2023-06-11T17:30:00+02:00'
+  endTime: '2023-06-11T19:30:00+02:00'
+  description: >-
+    A very unique moment is upon us. Many folks working on Bitcoin and Ethereum
+    are in the same city. Let's take the opportunity of two developer worlds
+    colliding and meet for a beer! Join us to chat about our shared goals,
+    issues, and different strategies for solving them. See you at 5:30 PM on
+    Sunday in Polis, we will meet there for a beer and continue around 8 PM at
+    the afterparty on Štvanice.
+  refs:
+    meetup_id: '294082988'
+    meetup: https://www.meetup.com/paralelnipolis/events/294082988/
+
+
+- id: 2023-06-06-web3-meetup-or-raising-investments-during-crypto-winter
+  name: Web3 MeetUp | Raising Investments During Crypto Winter
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-06-06'
+  startTime: '2023-06-06T18:00:00+02:00'
+  endTime: '2023-06-06T20:00:00+02:00'
+  description: >-
+    We'll share our views on essential steps in startup preparation and launch,
+    dos and don'ts in strategy, the web3 trends in 2023, and the secret sauce of
+    success.
+
+
+    This event is organized in cooperation with [Syntagma
+    Labs](https://www.linkedin.com/company/syntagmalab).
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '293197891'
+    meetup: https://www.meetup.com/paralelnipolis/events/293197891/
+
+- id: w3pn-summit-rome-2023
+  name: "Web3Privacy Now Rome 2023"
+  project: w3pn-events
+  seq: 2
+  date: "2023-10-05"
+  major: true
+  place:
+    city: Rome
+    country: it
+  speakers: []
+
+- id: w3pn-summit-prague-2023
+  name: "Web3Privacy Now Summit #1 Prague 2023"
+  project: w3pn-events
+  seq: 1
+  date: "2023-06-05"
+  major: true
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: X10 
+  speakers:
+    - rachel-rose
+    - mario
+
+- id: 2023-06-02-welcome-to-prague-meet-paralelni-polis
+  name: Welcome to Prague, meet Paralelní Polis!
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-06-02'
+  startTime: '2023-06-02T18:00:00+02:00'
+  endTime: '2023-06-03T04:20:00+02:00'
+  speakers:
+    - mario
+  description: >-
+    Hello and welcome to Prague!
+
+
+    Meet Paralelní Polis, home of the legendary Institute of Cryptoanarchy,
+    Hackers Congress Paralelní Polis, Prague DeFi Summit, ETHPrague, and Pizza
+    Day Prague!
+
+
+    Your host for the night will be Mário Havel, a hacker, and researcher
+    focused on making the crypto ecosystem more efficient and anonymous. Mário
+    educates about tools of cryptoanarchy in local communities with a focus on
+    onboarding via Lightning and p2p exchange. He is a vast enjoyer of FOSS,
+    parallel economy, and trolling bitcoiners.
+
+
+    Mário will tell you everything you need to know about the parallel polis
+    concept, show you around our majestic 4 story building and showcase how the
+    parties are done at the infamous Bordel Hackerspace.
+
+    We are looking forward to meeting you all!
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '292990533'
+    meetup: https://www.meetup.com/paralelnipolis/events/292990533/
+
+
+- id: 2023-05-24-privacy-and-security-meetup-14-w-mario-havel
+  name: 'Privacy & Security MeetUp #14 w/ Mário Havel'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-05-24'
+  startTime: '2023-05-24T18:00:00+02:00'
+  endTime: '2023-05-24T20:00:00+02:00'
+  speakers:
+    - mario
+  description: >-
+    Join us for a cutting-edge meetup focused on practical security and privacy
+    solutions. Our expert speakers will cover critical topics such as data
+    protection on the Internet, effective techniques for preventing data
+    collection by big browsers like Google, and other innovative methods for
+    safeguarding your privacy online. With engaging discussions, informative Q&A
+    sessions, and exciting practical demonstrations, this event is a must-attend
+    for anyone interested in the latest advancements in digital security. For
+    the most immersive experience, we highly recommend bringing your own
+    computer to participate in the demos. Join us for an unforgettable evening
+    of learning and networking with like-minded professionals!
+
+
+    Mário Havel is a hacker and researcher focused on making the crypto
+    ecosystem more efficient and anonymous. As a member of Paralelní Polis,
+    co-founder of Bordel Hackerspace, and the driving force behind [Pizza Day
+    Prague,](https://pizzaday.cz/) Mário educates about tools of cryptoanarchy
+    in local communities with a focus on onboarding via Lightning and p2p
+    exchange. He is a vast enjoyer of FOSS, parallel economy, and trolling
+    bitcoiners.
+
+
+    This meetup series is sponsored by [Wasabi
+    Wallet](https://wasabiwallet.io/).
+
+
+    *“Safely manage your Bitcoin with Wasabi Wallet, the privacy-first desktop
+    wallet“.*
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '293097651'
+    meetup: https://www.meetup.com/paralelnipolis/events/293097651/
+
+
+- id: pd23
+  name: "Pizza Day Prague 2023: P2P"
+  date: "2023-05-19"
+  major: true
+  project: pizza-day
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
+  seq: 2
+  speakers:
+    - peter-todd
+    - exiledsurfer
+    - martin-matejka
+    - vlad-costea
+    - maxim-orlovsky
+    - max-hillebrand
+    - lea-petras
+    - juraj-bednar
+  organizers:
+    - mario
+    - kx
+  startTime: '2023-05-20T10:00:00+02:00'
+  endTime: '2023-05-21T20:00:00+02:00'
+  description: >-
+    **Paralelní Polis brings you another Pizza Day Prague!**
+
+
+    **The pizza-2-pizza conference is a call to arms for advocates of Bitcoin as
+    peer-to-peer technology.**
+
+
+    A dozen years have passed since the first trade of pizza for Bitcoin. Today,
+    we celebrate the widespread popularity and adoption of this delicious dish.
+    It has been embraced by individuals, businesses, and even national
+    governments. We are truly witnessing the rise of the hyper-pizzanization of
+    our world.
+
+
+    Yet, just as the pizza industry has evolved from sit-down restaurants to
+    delivery services to frozen pizzas, the Bitcoin ecosystem has similarly
+    moved from face-to-face transactions to third-party intermediaries. But just
+    as frozen pizzas can never truly replace the experience of a freshly-made
+    pie, third parties can never fully replace the trustless nature of P2P
+    transactions.
+
+
+    We believe that by using Bitcoin as intended, a peer-to-peer electronic cash
+    system, we can create a more secure, efficient, and fair financial system.
+    We reject the need for third parties and spofs, and extol cryptography to
+    empower truly trustless systems. P2P technologies not only enable more
+    robust and smooth economic structures, but most importantly they bring
+    global coordination without the need for hierarchies. Still, we must resist
+    the temptation to build walls and instead strive to create bridges,
+    fostering a culture of technological meritocracy and collaboration.
+
+
+    As contemporary cypherpunks, it is our duty to fight for the ideals of
+    decentralization and trustlessness in the face of challenges from
+    governments, the public, and even within our own communities. As Bitcoin
+    allows us to connect directly with one another without the need for trusted
+    third parties, so too can we envision a future where pizza enthusiasts can
+    savor their favorite dish without intermediaries.
+
+
+    Join us in the fight for a decentralized future where the power of
+    peer-to-peer technology enables true pizza freedom for all. Let us embrace
+    the power of the pizza-to-pizza revival and celebrate the genuine spirit of
+    the original Bitcoin pizza transaction.
+
+
+    **[pizza\-to\-pizza \|\| p2p \|\| peer\-to\-peer](https://pizzaday.cz/)**
+  refs:
+    web: https://p2p.pizzaday.cz
+    meetup_id: '291228085'
+    meetup: https://www.meetup.com/paralelnipolis/events/291228085/
+
+- id: 2023-05-19-pizza-day-prague-2023-social
+  name: Pizza Day Prague 2023 "SOCIAL" (warm-up)
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-05-19'
+  startTime: '2023-05-19T18:00:00+02:00'
+  endTime: '2023-05-19T23:59:00+02:00'
+  description: >-
+    Join us on Friday, May 19 from 6 pm for the warm-up social before Pizza Day
+    Prague 2023!
+
+
+    You will have the opportunity to meet others, chat, and get hyped before the
+    conference.
+
+
+    Don't forget to bring your ticket, as you will not be allowed in without it.
+    You will also be able to register that evening and avoid the line on
+    Saturday morning.
+
+    ️
+
+    [www.pizzaday.cz](https://www.pizzaday.cz)
+
+
+    Pizza Day Prague 2023 is a 2-day international conference marking the 13th
+    anniversary of the first real-world Bitcoin payment.
+  refs:
+    meetup_id: '293431120'
+    meetup: https://www.meetup.com/paralelnipolis/events/293431120/
+
+
+- id: 2023-05-10-privacy-and-security-meetup-13
+  name: 'Privacy & Security MeetUp #13'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-05-10'
+  startTime: '2023-05-10T18:00:00+02:00'
+  endTime: '2023-05-10T20:00:00+02:00'
+  description: >-
+    Join us for a cutting-edge meetup focused on practical security and privacy
+    solutions. Our expert speakers will cover critical topics such as data
+    protection on the Internet, effective techniques for preventing data
+    collection by big browsers like Google, and other innovative methods for
+    safeguarding your privacy online. With engaging discussions, informative Q&A
+    sessions, and exciting practical demonstrations, this event is a must-attend
+    for anyone interested in the latest advancements in digital security. For
+    the most immersive experience, we highly recommend bringing your own
+    computer to participate in the demos. Join us for an unforgettable evening
+    of learning and networking with like-minded professionals!
+
+
+    This meetup series is sponsored by [Wasabi
+    Wallet](https://wasabiwallet.io/).
+
+
+    *“Safely manage your Bitcoin with Wasabi Wallet, the privacy-first desktop
+    wallet“.*
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '292547931'
+    meetup: https://www.meetup.com/paralelnipolis/events/292547931/
+
+
+- id: 2023-05-03-web3-meetup-or-analyze-coins-like-a-pro
+  name: Web3 MeetUp | Analyze Coins Like a Pro
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-05-03'
+  startTime: '2023-05-03T18:00:00+02:00'
+  endTime: '2023-05-03T20:00:00+02:00'
+  description: >-
+    We’ll discuss data analysis techniques to uncover hidden insights about coin
+    prices, including data visualization, descriptive statistics, and modeling.
+    As an example, we’ll focus on stablecoins and evaluate which ones are truly
+    stable.
+
+
+    This event is organized in cooperation with [Syntagma
+    Labs](https://www.linkedin.com/company/syntagmalab).
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '293195150'
+    meetup: https://www.meetup.com/paralelnipolis/events/293195150/
+
+
+- id: 2023-04-27-3d-printing-workshop-w-makeittoday-postponed
+  name: 3D Printing Workshop w/ makeITtoday - POSTPONED
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-04-27'
+  startTime: '2023-04-27T17:00:00+02:00'
+  endTime: '2023-04-27T20:00:00+02:00'
+  description: >-
+    Have you ever wondered what you can create with a 3D printer? ..such as a
+    lamp, a unique cover for headphones, or whatever comes to your mind!
+
+
+    Where can you learn to use such a printer? You will have an opportunity to
+    attend a unique workshop organized by makeITtoday & Paralelní Polis. At the
+    3D printing workshop, you and the instructor will go through everything from
+    the basics to modeling your first 3D printed product.
+
+
+    What all awaits you at the workshop?
+
+
+    – Introduction to printing, what printing can/cannot do
+
+    – Getting to know a 3D modeling program and then working on a joint project
+
+    – Creating your own model according to your wishes
+
+
+    We will print your product after the workshop and you can pick it up
+    personally or we can send it by post. The printed product should not be
+    bigger than 7x7cm.
+
+
+    If interested, [sign
+    up](https://www.paralelnipolis.cz/shop/3d-printing-workshop-w-makeittoday/)!
+  refs:
+    meetup_id: '292430687'
+    meetup: https://www.meetup.com/paralelnipolis/events/292430687/
+
+
+- id: 2023-04-26-privacy-and-security-meetup-w-max-hillebrand-and-grafton-clark
+  name: Privacy & Security MeetUp w/ Max Hillebrand & Grafton Clark
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-04-26'
+  startTime: '2023-04-26T18:00:00+02:00'
+  endTime: '2023-04-26T20:00:00+02:00'
+  description: >-
+    Join us for a cutting-edge meetup focused on practical security and privacy
+    solutions. Our expert speakers will cover critical topics such as data
+    protection on the Internet, effective techniques for preventing data
+    collection by big browsers like Google, and other innovative methods for
+    safeguarding your privacy online. With engaging discussions, informative Q&A
+    sessions, and exciting practical demonstrations, this event is a must-attend
+    for anyone interested in the latest advancements in digital security. For
+    the most immersive experience, we highly recommend bringing your own
+    computer to participate in the demos. Join us for an unforgettable evening
+    of learning and networking with like-minded professionals!
+
+
+    Your host for the night will be Grafton Clark, a technical specialist at
+    SatoshiLabs, and the special guest will be Max Hillebrand, CEO of zkSNACKs.
+
+
+    This meetup series is sponsored by [Wasabi
+    Wallet](https://wasabiwallet.io/).
+
+
+    *“Safely manage your Bitcoin with Wasabi Wallet, the privacy-first desktop
+    wallet“.*
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '292361180'
+    meetup: https://www.meetup.com/paralelnipolis/events/292361180/
+
+
+- id: 2023-04-12-privacy-and-security-meetup-11
+  name: 'Privacy & Security MeetUp #11'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-04-12'
+  startTime: '2023-04-12T18:00:00+02:00'
+  endTime: '2023-04-12T20:00:00+02:00'
+  description: >-
+    This regular meetup on security and privacy is more practically oriented.
+    You can look forward to talks on the issues of data protection on the
+    Internet, techniques to prevent data collection by big browsers (Google),
+    and other techniques to protect privacy in the online space. The meetup
+    takes the form of a discussion, Q&A and, if interested, practical
+    demonstrations, so we recommend bringing your own computer.
+
+
+    High-quality Pea Cricket Protein Chips to munch on will be your gift from
+    [Sens](https://eatsens.com/).
+
+
+    This meetup series is sponsored by [Wasabi
+    Wallet](https://wasabiwallet.io/).
+
+
+    *“Safely manage your Bitcoin with Wasabi Wallet, the privacy-first desktop
+    wallet“.*
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '292361170'
+    meetup: https://www.meetup.com/paralelnipolis/events/292361170/
+
+
+- id: 2023-04-05-web3-meetup-or-revenue-sharing-in-web3
+  name: Web3 MeetUp | Revenue sharing in web3
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-04-05'
+  startTime: '2023-04-05T18:00:00+02:00'
+  endTime: '2023-04-05T20:00:00+02:00'
+  description: >-
+    We'll discuss new approaches to decentralized revenue management such as NFT
+    royalties, security tokens, and revenue-sharing smart contracts. We’ll also
+    cover the risks involved and showcase successful projects revolutionizing
+    these ideas.
+
+    This event is organized in cooperation with [Syntagma
+    Labs](https://www.linkedin.com/company/syntagmalab).
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '292547366'
+    meetup: https://www.meetup.com/paralelnipolis/events/292547366/
+
+
+- id: 2023-03-30-workshop-or-secure-your-phone
+  name: Workshop | Secure Your Phone
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-03-30'
+  startTime: '2023-03-30T18:00:00+02:00'
+  endTime: '2023-03-30T20:00:00+02:00'
+  description: >-
+    Come to learn about one of the most secure smartphone setups you can have.
+    The workshop will demonstrate the process of setting up a Pixel phone with
+    GrapheneOS and installing additional security/privacy solutions. Bring your
+    own Pixel phone (4 and newer) and laptop to follow the workshop. Note that
+    we will flash the memory and delete all existing data, back up your phone
+    before the workshop if you are not using a brand-new one.
+
+
+    **Synopsis:**
+
+
+    * Intro to the stack
+
+    * Setting up the free, open source, and hardened operating system GrapheneOS
+    on a Google Pixel phone
+
+    * Adding open source repositories, foss privacy preserving app alternatives
+
+    * Enabling OS containers and sandboxed google services
+
+    * Optional anonymous eSIM setup, VPN setup, additional privacy/security tips
+
+    * BORDEL PARTY
+
+
+    If interested, [sign
+    up](https://www.paralelnipolis.cz/shop/secure-your-phone/)!
+  refs:
+    meetup_id: '292361254'
+    meetup: https://www.meetup.com/paralelnipolis/events/292361254/
+
+
+- id: 2023-03-29-privacy-and-security-meetup-10
+  name: 'Privacy & Security MeetUp #10'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-03-29'
+  startTime: '2023-03-29T18:00:00+02:00'
+  endTime: '2023-03-29T20:00:00+02:00'
+  description: >-
+    This regular meetup on security and privacy is more practically oriented.
+    You can look forward to talks on the issues of data protection on the
+    Internet, techniques to prevent data collection by big browsers (Google),
+    and other techniques to protect privacy in the online space. The meetup
+    takes the form of a discussion, Q&A and, if interested, practical
+    demonstrations, so we recommend bringing your own computer.
+
+
+    High-quality Pea Cricket Protein Chips to munch on will be your gift from
+    [Sens](https://eatsens.com/).
+
+
+    This meetup series is sponsored by [Wasabi
+    Wallet](https://wasabiwallet.io/).
+
+
+    *“Safely manage your Bitcoin with Wasabi Wallet, the privacy-first desktop
+    wallet“.*
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '290738673'
+    meetup: https://www.meetup.com/paralelnipolis/events/290738673/
+
+
+- id: >-
+    2023-03-27-btc-meetup-or-ordinals-theory-inscribing-artifacts-nfts-on-bitcoin
+  name: BTC MeetUp | Ordinals Theory - Inscribing Artifacts (NFT's) on Bitcoin
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-03-27'
+  startTime: '2023-03-27T18:00:00+02:00'
+  endTime: '2023-03-27T20:00:00+02:00'
+  description: >-
+    This meetup will be an exciting opportunity to learn more about the use of
+    ordinals on Bitcoin. If you are new to the topic no worries! Meetup will be
+    designed also for beginners.
+
+
+    We will explore topics such as:
+
+
+    – What are Ordinals, and why are they important in Bitcoin?
+
+    – Ordinal History – Ordinal Theory/Technicals/Ordinal Loops
+
+    – How do ordinals work?
+
+    – What is the impact of ordinals on Bitcoin transactions?
+
+    – What are the security considerations when using ordinals?
+
+    – Examples and Application: A closer look at some of the practical
+    applications of ordinals on Bitcoin – Ordinal Loops
+
+    – Workshop with Lightrider — Mint Ordinal Loops in Paralelní Polis triangle
+    as a bit artifact POAP /// AOA – Artifact of Attendance!!
+
+
+    **SPEAKERS**
+
+
+    **To** is a founder of [Ordinal Loops](http://www.ordinalloops.xyz/) project
+    and chair of an NGO focused on education and art created in 2021. As a
+    long-time Bitcoiner and product builder, he is trying to bridge novel
+    solutions with the existing ecosystems. Artifact inscriptions might be just
+    one of those novelties.
+
+
+    **Lightrider** is a Lightning focused Web-Developer. He is the founder of
+    lnvpn.net and has now built an easy-to-use Inscription service called
+    [ordimint.com](http://ordimint.com/). He believes that Ordinals are an
+    exciting new technology with many to come use cases for the Bitcoin
+    ecosystem.
+
+
+    [www.ordinalloops.xyz](https://www.ordinalloops.xyz)
+
+
+    If interested, [sign up!](https://paralelnipolis.cz)
+  refs:
+    meetup_id: '292007910'
+    meetup: https://www.meetup.com/paralelnipolis/events/292007910/
+
+
+- id: 2023-03-24-memetics-meetup-1
+  name: 'Memetics MeetUp #1'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-03-24'
+  startTime: '2023-03-24T18:00:00+01:00'
+  endTime: '2023-03-24T20:00:00+01:00'
+  description: >-
+    Are you fascinated by the way ideas spread and shape human behavior? Do you
+    want to gain a deeper understanding of the cultural forces that shape our
+    world? Then join us for a Memetics Meetup!
+
+
+    Memetics is the study of how ideas, beliefs, and cultural practices spread
+    from person to person. It’s a way of understanding how human consciousness
+    is shaped by the memes that surround us – from the catchy songs that get
+    stuck in our heads, to the political slogans that shape our beliefs.
+
+
+    But memetics isn’t just about understanding how things spread. It’s also
+    about understanding how we can hack the system around us. By understanding
+    how memes work, we can learn to create more powerful and effective ideas and
+    spread them more efficiently. This is especially important in today’s world,
+    where the way we think and act is increasingly shaped by the digital world.
+
+
+    We’ll have a great time discussing the latest research and theories about
+    memetics, and you’ll leave with a deeper understanding of how human
+    consciousness works. See you there!
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '291228024'
+    meetup: https://www.meetup.com/paralelnipolis/events/291228024/
+
+
+- id: 2023-03-16-3d-printing-workshop-w-makeittoday-postponed
+  name: 3D Printing Workshop w/ makeITtoday - POSTPONED
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-03-16'
+  startTime: '2023-03-16T17:00:00+01:00'
+  endTime: '2023-03-16T20:00:00+01:00'
+  description: >-
+    \*\*THIS EVENT IS POSTPONED, WE ARE CURRENTLY LOOKING FOR A NEW DATE\*\*
+
+
+    Have you ever wondered what you can create with a 3D printer? ..such as a
+    lamp, a unique cover for headphones, or whatever comes to your mind!
+
+
+    Where can you learn to use such a printer? You will have an opportunity to
+    attend a unique workshop organized by makeITtoday & Paralelní Polis. At the
+    3D printing workshop, you and the instructor will go through everything from
+    the basics to modeling your first 3D printed product.
+
+
+    What all awaits you at the workshop?
+
+
+    – Introduction to printing, what printing can/cannot do
+
+    – Getting to know a 3D modeling program and then working on a joint project
+
+    – Creating your own model according to your wishes
+
+
+    We will print your product after the workshop and you can pick it up
+    personally or we can send it by post. The printed product should not be
+    bigger than 7x7cm.
+
+
+    If interested, [sign
+    up](https://www.paralelnipolis.cz/shop/3d-printing-workshop-w-makeittoday/)!
+  refs:
+    meetup_id: '292007802'
+    meetup: https://www.meetup.com/paralelnipolis/events/292007802/
+
+
+- id: 2023-03-15-lets-talk-crypto-meetup-10
+  name: 'Let''s Talk Crypto MeetUp #10'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-03-15'
+  startTime: '2023-03-15T18:00:00+01:00'
+  endTime: '2023-03-15T20:00:00+01:00'
+  description: >-
+    This meetup is designed to discuss current events in the field of
+    cryptocurrencies, explain basic concepts, how blockchain works, trading, and
+    related topics. Each meetup is unique depending on who is currently
+    attending and what questions are being asked. Our goal is for everyone to be
+    able to freely discuss any topics together and thus enrich each other.
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '290738679'
+    meetup: https://www.meetup.com/paralelnipolis/events/290738679/
+
+
+- id: 2023-03-01-privacy-and-security-meetup-9
+  name: 'Privacy & Security MeetUp #9'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-03-01'
+  startTime: '2023-03-01T18:00:00+01:00'
+  endTime: '2023-03-01T20:00:00+01:00'
+  description: >-
+    This regular meetup on security and privacy is more practically oriented.
+    You can look forward to talks on the issues of data protection on the
+    Internet, techniques to prevent data collection by big browsers (Google),
+    and other techniques to protect privacy in the online space. The meetup
+    takes the form of a discussion, Q&A and, if interested, practical
+    demonstrations, so we recommend bringing your own computer.
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '290738640'
+    meetup: https://www.meetup.com/paralelnipolis/events/290738640/
+
+
+- id: 2023-02-24-cat-chaos-ceremony
+  name: Cat Chaos Ceremony
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-02-24'
+  startTime: '2023-02-24T19:00:00+01:00'
+  endTime: '2023-02-24T23:55:00+01:00'
+  description: >-
+    Join us for the KZG Summoning Ceremony, where we will delve into the depths
+    of computational multiparty rituals to summon the elusive spirit of
+    Dankshard.
+
+
+    At the heart of this ceremony lies a powerful device that harvests
+    randomness, drawing from the chaotic sources that lurk within our universe.
+    Using a specially designed contraption that collects entropy from the feline
+    species, we will explore the limits of our understanding of randomness and
+    harness its power to unlock the mysteries of Ethereum's scalability.
+
+
+    This will not be an ordinary workshop, as we push the boundaries of what is
+    possible and venture into the unknown. As we summon the spirit of Dankshard,
+    humans may find themselves transformed into feline avatars, blurring the
+    lines between reality and fantasy. So join us, and prepare to unlock the
+    secrets of the universe as we delve into the space of chaos and cats.
+
+
+    If interested, [sign up!](https://paralelnipolis.cz)
+  refs:
+    meetup_id: '291731577'
+    meetup: https://www.meetup.com/paralelnipolis/events/291731577/
+
+
+- id: >-
+    2023-02-22-meetup-w-martin-leskovjan-or-parallel-societies-as-a-survival-strategy
+  name: MeetUp w/ Martin Leskovjan | Parallel societies as a survival strategy
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-02-22'
+  startTime: '2023-02-22T18:00:00+01:00'
+  endTime: '2023-02-22T20:00:00+01:00'
+  speakers:  
+    - martin-leskovjan
+  description: >-
+    Paralelní Polis origins in a concept developed during communist regime
+    oppression in 70´and 80´in Czechoslovakia. However, the core principles
+    appear throughout the whole history of humankind. Even though we live in a
+    “digital age” the history of parallel societies gives us a very rich source
+    of inspiration, strategies, and tips on how to prevent our lives from
+    unwanted interference of power holders. Paralelní polis itself has operated
+    for eight years already and experimented with many many ways parallel
+    society can and can not work – let´s recapitulate some lessons learned.
+
+
+    Martin Leskovjan is a co-founder of Paralelní Polis, InfoSec professional,
+    lawyer, literature geek, and wild water lover.
+
+
+    You will have a unique opportunity to meet Martin and ask him anything you
+    want at this meetup!
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '291175351'
+    meetup: https://www.meetup.com/paralelnipolis/events/291175351/
+
+
+- id: 2023-02-17-kyborgismus-and-or-brave-new-brain
+  name: Kyborgismus AND | Brave New Brain
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-02-17'
+  startTime: '2023-02-17T19:19:00+01:00'
+  endTime: '2023-02-17T21:19:00+01:00'
+  description: >-
+    Online meetup “Intermittent Fasting for beginners by beginners” je
+    kolaborací projektu Kyborgismus a podcastu Sex, drogy a vesmír. Meetup se
+    bude věnovat tématu přerušovaného půstu a jeho vlivu na dlouhověkost a
+    mozek.
+
+
+    Tuto akci si mohou účastníci užít 17. února 2023 v 19:19.
+
+
+    Meetup je určen pro začátečníky, kteří se chtějí dozvědět více o tomto
+    zdravotním trendu a jak může pomoci ke zlepšení jejich kognitivních
+    schopností a prodloužení života.
+
+
+    V případě zájmu se registrujte
+    [ZDE](https://app.session.com/krisisnew/Intermittent-Fasting-for-beginners-by-beginners?s=1&authid=Kr3PpG1WcdqGjCPLYsu70&fbclid=IwAR1dLTaBbfnq4zBdEVlv5UjkHa3kIKD5nIeIV0ybCm2aikc61v0gMV-hZHw).
+  refs:
+    meetup_id: '291175370'
+    meetup: https://www.meetup.com/paralelnipolis/events/291175370/
+
+
+- id: 2023-02-15-lets-talk-crypto-meetup-9
+  name: 'Let''s Talk Crypto MeetUp #9'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-02-15'
+  startTime: '2023-02-15T18:00:00+01:00'
+  endTime: '2023-02-15T20:00:00+01:00'
+  description: >-
+    This meetup is designed to discuss current events in the field of
+    cryptocurrencies, explain basic concepts, how blockchain works, trading, and
+    related topics. Each meetup is unique depending on who is currently
+    attending and what questions are being asked. Our goal is for everyone to be
+    able to freely discuss any topics together and thus enrich each other.
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '290738599'
+    meetup: https://www.meetup.com/paralelnipolis/events/290738599/
+
+
+- id: 2023-02-01-privacy-and-security-meetup-8
+  name: 'Privacy & Security MeetUp #8'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-02-01'
+  startTime: '2023-02-01T18:00:00+01:00'
+  endTime: '2023-02-01T20:00:00+01:00'
+  description: >-
+    This regular meetup on security and privacy is more practically oriented.
+    You can look forward to talks on the issues of data protection on the
+    Internet, techniques to prevent data collection by big browsers (Google),
+    and other techniques to protect privacy in the online space. The meetup
+    takes the form of a discussion, Q&A and, if interested, practical
+    demonstrations, so we recommend bringing your own computer.
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '290738610'
+    meetup: https://www.meetup.com/paralelnipolis/events/290738610/
+
+
+- id: 2023-01-27-kyborgismus-and-or-brave-new-brain
+  name: Kyborgismus AND | Brave New Brain
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-01-27'
+  startTime: '2023-01-27T17:45:00+01:00'
+  endTime: '2023-01-27T19:45:00+01:00'
+  description: >-
+    Prednáška je orientovaná na budúcnosť ľudského vedomia, neuroplasticitu,
+    vedecko populárny pohľad na psychedelické skúsenosti, meditáciu a
+    psychospirituálnu krízu.Autor má bohaté skúsenosti so zmenenými stavmi
+    vedomia a prednášku doplní o vlastné zážitky.
+
+
+    Přijďte 27. ledna v 17:45 do Paralelní Polis a staňte se lepším člověkem,
+    kyborgem!
+
+
+    V případě zájmu se zaregistrujte na
+    [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '290738256'
+    meetup: https://www.meetup.com/paralelnipolis/events/290738256/
+
+
+- id: 2023-01-25-web3-meetup-or-a-house-of-cards-and-tribes
+  name: Web3 MeetUp | A house of Cards and Tribes
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-01-25'
+  startTime: '2023-01-25T18:00:00+01:00'
+  endTime: '2023-01-25T20:00:00+01:00'
+  description: |-
+    Topics of discussion:
+
+    1 . A deeper focus on communities of WEB3
+    2\. What makes WEB3 so special
+    3\. Are we pioneers of this new age?
+    4\. Everyone plays a role in this world
+    5\. Interesting WEB3 projects
+    6\. A spider web of connectivity
+    7\. The future lies with your keyboard
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '290844527'
+    meetup: https://www.meetup.com/paralelnipolis/events/290844527/
+
+
+- id: 2023-01-18-lets-talk-crypto-meetup-8
+  name: 'Let''s Talk Crypto MeetUp #8'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-01-18'
+  startTime: '2023-01-18T18:00:00+01:00'
+  endTime: '2023-01-18T20:00:00+01:00'
+  description: >-
+    This meetup is designed to discuss current events in the field of
+    cryptocurrencies, explain basic concepts, how blockchain works, trading, and
+    related topics. Each meetup is unique depending on who is currently
+    attending and what questions are being asked. Our goal is for everyone to be
+    able to freely discuss any topics together and thus enrich each other.
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '290425185'
+    meetup: https://www.meetup.com/paralelnipolis/events/290425185/
+
+
+- id: 2023-01-06-road-trip-or-paralelni-polis-goes-to-parallele-polis
+  name: Road Trip | Paralelní Polis goes to Parallele Polis!
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-01-06'
+  startTime: '2023-01-06T17:45:00+01:00'
+  endTime: '2023-01-06T19:45:00+01:00'
+  description: >-
+    The parallel polis concept has grown over the years, and we are going to
+    visit our friends at Parallele Polis in Vienna. We will go on 11.3.2023 and
+    return on 12.3.2023. We plan to travel by train, accommodation will be
+    arranged individually.
+
+
+    Let’s meet Exiledsurfer and learn about the struggle of opening a physical
+    space in the corona times.
+
+
+    As a contributor to the archaic Bitcoin Foundation, exiledsurfer has been a
+    community builder in the ecosystem for quite some time. He is a privacy,
+    transparency & decentralization CryptoRealist, and co-founder of Parallele
+    Polis in Vienna.
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '290738287'
+    meetup: https://www.meetup.com/paralelnipolis/events/290738287/
+
+
+- id: 2023-01-04-privacy-and-security-meetup-7
+  name: 'Privacy & Security MeetUp #7'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2023-01-04'
+  startTime: '2023-01-04T18:00:00+01:00'
+  endTime: '2023-01-04T20:00:00+01:00'
+  description: >-
+    This regular meetup on security and privacy is more practically oriented.
+    You can look forward to talks on the issues of data protection on the
+    Internet, techniques to prevent data collection by big browsers (Google),
+    and other techniques to protect privacy in the online space. The meetup
+    takes the form of a discussion, Q&A and, if interested, practical
+    demonstrations, so we recommend bringing your own computer.
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '289601115'
+    meetup: https://www.meetup.com/paralelnipolis/events/289601115/

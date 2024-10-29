@@ -1,0 +1,10 @@
+- id: hcpp14
+  name: "HCPP14: Paralelní Polis"
+  date: "2014-10-10"
+  major: true
+  project: hcpp
+  place:
+    city: Prague
+    country: cz
+  days: 3
+  seq: 1

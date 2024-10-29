@@ -1,0 +1,6 @@
+lists:
+  - id: default
+    refs:
+      yt:channel: UCaO_vLpj164um5maEsCuEbw
+    config:
+      toTitleCase: false

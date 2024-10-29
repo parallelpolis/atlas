@@ -1,0 +1,54 @@
+- id: hfc21
+  name: Hackatoshi’s Flying Circuit 2021
+  date: "2021-11-26"
+  days: 3
+  major: true
+  project: hackatoshi-flying-circuit
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+  description: |
+    ## Nonconformist hackathon
+
+    Hackatoshi's Flying Circuit is an intervention of cypherpunks into both virtual and physical public space. It's an weekend long exertion aiming to concentrate inspiration, knowledge and skill to exploit confortism and compliance with status quo.
+
+    ## Competition tracks
+
+    This year's Flying Circuit focuses on topics such as cloud society and urban hacktivism. Hackers can choose to either to build new solutions or break an existing nonsense. The hacking teams will have to prove a combination of their technical skill, artistic ability and scientific diligence.
+
+    ### Out (Public space)
+
+    In this track, hackers can perform physical hacks in the public space or build tools potentially impacting day-to-day reality of sub-communities living in Prague. The city is your canvas, the law abiding citizens are your spectators!
+
+    We can't tell you what exactly you should be doing, we are not asking you to break (in) particular thing (place). We ask you to wander outside of the venue walls and bring the hackathon to the nothing suspecting law abiding citizens. Improve their lives, improve your urban experience, find a new way to move in the concrete jungle or create it!
+
+    Make lifehacks not war! Create new pathways, plant gardens, deploy monumental art or hidden gems only people with an open mind can witness, be the creator of your other people's reality!
+
+    ### In (Cloud societies)
+
+    Humans have always enjoyed finding ways in which to survive better in their geophysical surroundings; It's called evolution.
+
+    But lately, a new world has emerged. One in the cloud, where borders, politics, physical restraints, and physical realities pale compared to the fact that you have any and all information orbiting the globe at the speed of light, leading to unprecedented social change, connections, and ideas. Welcome to the rise of the cloud civilisation. However, a lot of people find evolution and hacking their way through this digital jungle hard; because the basics of 'digital survival' were never taught in school and also because the world of technology has accelerated at such a rapid pace in the last years, bringing with it new technological challenges and opportunities like crypto, blockchain, AI, and other buzzwords which are ceasing to be buzzwords and becoming our everyday reality.
+
+    Hack your way through the cloud; a new, undiscovered world awaits and it's your turn to conquer it. Metaverse is yours to conquer!
+
+- id: hcpp21
+  name: "HCPP21: Chaos"
+  date: "2021-10-01"
+  major: true
+  project: hcpp
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
+  days: 3
+  seq: 8
+  refs:
+    web: https://chaos.hcpp.cz
+  speakers:
+    - tey-el-rjula
+  aftermovie: vc2AZPTMWcI

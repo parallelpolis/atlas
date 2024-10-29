@@ -1,0 +1,2536 @@
+- id: hcpp19
+  name: "HCPP19: Opt-Out"
+  date: "2019-10-04"
+  major: true
+  project: hcpp
+  place:
+    city: Prague
+    country: cz
+  days: 3
+  seq: 6
+  refs:
+    web: https://opt-out.hcpp.cz
+  speakers:
+    - harry-halpin
+    - josef-slerka
+    - tone-vays
+    - michalis-kargakis
+    - josef-tetek
+    - yisi-liu
+    - maxim-orlovsky
+    - peter-todd
+    - nick-middleton
+    - max-hampshire
+    - patrik-tjokorda
+    - juraj-bednar
+    - habo
+    - frantisek-vrabel
+    - luis-cuende
+    - amin-rafiee
+    - sondre-bjellas
+    - matthias-tarasiewicz
+    - joerg-platzer
+    - max-hillebrand
+    - olga-ukolova
+    - paul-rosenberg
+    - exiledsurfer
+    - charles-hill
+    - mario
+    - radim-kozub
+    - michal-zatrepalek
+    - jakub-hamata
+    - frank-rieger
+    - jiri-horacek
+    - mark-nadal
+    - robin-hanson
+    - marketa-dolejsova
+    - kilian-rausch
+    - li-zhao-schoolland
+    - michal-postranecky
+    - petr-lupac
+    - tomas-marada
+    - spyros-dovas
+    - inbar-preiss
+
+- id: 2019-12-19-vanocni-kryptovecirek
+  name: Vánoční Kryptovečírek
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-12-19'
+  startTime: '2019-12-19T19:12:00+01:00'
+  endTime: '2019-12-20T04:00:00+01:00'
+  description: >-
+    Chceš zažít něco nového/neobvyklého? V Paralelní Polis jsi na správném
+    místě. Nauč se platit kryptem, vyhraj skvělý ceny v tombole nebo prostě
+    přijď na non plus ultra vánoční párty do černýho baráku v Holešovicích!
+
+
+    Special DRINK
+
+    ► Santa-gria
+
+
+    21:00 LIVE MUSIC
+
+    ► Special guest
+
+
+    22:00 DJs
+
+    ► Black Hat DJs
+
+
+    23:00 TOMBOLA
+
+    ► Chystáme pro tebe samé dobré věci. Lístky do tomboly koupíš v kavárně.
+
+
+    ► Vstup je za 150,- a najdeš v něm welcome drink Santa-gria, vánoční dárek
+    made by Polis a lístek do tomboly.
+
+    Kup si vlez tady:
+    https://donate.paralelnipolis.cz/events/314-12-2019-vanocni-vecirek nebo až
+    na místě.
+
+
+    Na místě bude k prodeji náš merch a další drobnosti ►►► ideální dárek pro
+    tvé #cryptofriends . A jako vždycky u nás - alko i nealko koupíš za BTC /
+    LTC / Monero a Lightning Network. Není to nic složitýho a rádi Tě to
+    naučíme.😊
+
+
+    Těšíme se! Tak #vejdiven !
+  refs:
+    meetup_id: '266404438'
+    meetup: https://www.meetup.com/paralelnipolis/events/266404438/
+
+
+- id: 2019-12-18-interaktivni-workshop-kryptomeny-pro-zacatecniky
+  name: 'Interaktivní workshop: Kryptoměny pro začátečníky'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-12-18'
+  startTime: '2019-12-18T16:00:00+01:00'
+  endTime: '2019-12-18T17:30:00+01:00'
+  description: >-
+    Zajímají vás kryptoměny? Nebo nějakou vlastníte, ale vlastně o ní nic moc
+    nevíte?
+
+    My vás s nimi rádi seznámíme! Přijďte se dozvědět základy kryptoměn a už se
+    na ně nikdy nebudete dívat stejně!
+
+
+    ► Na interaktivním workshopu vás uvedeme do světa kryptoměn. Jak, kdy a
+    hlavně proč vznikl Bitcoin.
+
+    ► Povíme vám o technologii blockchain, která stojí za vznikem Bitcoinu.
+
+    ► Probereme pojem decentralizace, který se úzce váže s Bitcoinem.
+
+    ► Ukážeme si konkrétní využití Bitcoinu v praxi a jeho potenciál do
+    budoucna.
+
+    ► Společně si založíme svou první kryptoměnovou peněženku a pošleme svou
+    první transakci, kterou si pak ověříme v blockchainu.
+
+
+    ►►► Upozorňujeme, že workshop probíhá v zasedačce Paper Hubu a jeho kapacita
+    je omezená. Své místo si můžete zakoupit na našem eshopu zde:
+    https://donate.paralelnipolis.cz/events/315-12-interaktivni-workshop-kryptomeny-pro-zacatecniky
+
+    Cena workshopu je 300 Kč, které uhradíte přímo při nákupu vstupenky. ◄◄◄
+  refs:
+    meetup_id: '266725830'
+    meetup: https://www.meetup.com/paralelnipolis/events/266725830/
+
+
+- id: 2019-12-17-biohacking-meetup-or-priciny-unavy-a-jeji-reseni-bylinami
+  name: Biohacking Meetup | Příčiny únavy a její řešení bylinami
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-12-17'
+  startTime: '2019-12-17T18:30:00+01:00'
+  endTime: '2019-12-17T20:30:00+01:00'
+  description: >-
+    Antibiotika, pilulka anebo bylinný výluh? Jakou možnost volíte vy? Naše
+    pozvání přijal šaman pro 21. století Dalibor Chytil, který nám poví, jak nám
+    byliny můžou pomoct s únavou.
+
+
+    Co vše může být za „obyčejnou“ únavou a jak ji komplexně řešit? Proč je
+    někdy lepší nahradit kávu čajem? Které bylinky dokáží únavu dlouhodobě
+    řešit? Toho všeho se budeme dotýkat na této přednášce. Navíc bude doplněná o
+    ochutnávku různých druhů čaje.
+
+
+    Dalibor je fytoterapeut neboli bylinář. Vystudoval chemii, aby mohl
+    propojovat světy západní a východní medicíny. K řešení zdravotních problémů
+    svých klientů využívá byliny, a to v různých formách – bylinné směsi,
+    tinktury, extrakty nebo oleje. Je autorem projektu Cityshaman, tedy šaman
+    21. století.
+
+
+    Vstupné stojí 250,- a najdete v něm také ochutnávku různých druhů čaje.
+    Kupujte
+
+    ► online na
+    https://donate.paralelnipolis.cz/events/316-12-biohacking-meetup-priciny-unavy-a-jeji-reseni-bylinami
+
+    ► osobně v naší kavárně, kde vám barista s nákupem poradí a pomůže.
+  refs:
+    meetup_id: '266725818'
+    meetup: https://www.meetup.com/paralelnipolis/events/266725818/
+
+
+- id: 2019-12-13-seminar-or-uzkost-deprese-a-sebevrazda
+  name: Seminář | Úzkost, deprese a sebevražda
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-12-13'
+  startTime: '2019-12-13T14:00:00+01:00'
+  endTime: '2019-12-13T19:30:00+01:00'
+  description: >-
+    Zveme Vás na seminář „Úzkost, deprese a sebevražda“, v němž se budete moci
+    detailně seznámit s psychickými i fyzickými projevy úzkostí a depresí, jimiž
+    v ČR trpí více než milion obyvatel. Až polovina z nich se přitom neléčí.
+    Dozvíte se také více o projevech sebevražedného chování, ale také o
+    možnostech léčby úzkostí a depresí, které nabízí současná psychiatrie.
+
+
+    Komu je seminář určen? Primárně těm, kdo pracují pod velkým tlakem nebo v
+    sociální izolaci, pociťují přitom napětí, nervozitu i řadu nepříjemných
+    fyzických příznaků, které nemají podklad v žádném tělesném onemocnění. Dále
+    je seminář určen všem, kteří hledají cestu k pochopení jednání i potřeb
+    členů rodiny a přátel trpících depresí, nebo některou z úzkostných poruch
+    (panická porucha, agorafobie, sociální fobie, specifické fobie, obsedantně
+    kompulzivní porucha, posttraumatická stresová porucha). Seminář vás také
+    vybaví základními dovednostmi v oblasti poskytování laické první pomoci
+    lidem v úzkosti a depresi. A konečně, v rámci semináře se dozvíte více o
+    základech duševní hygieny, které můžete vcelku snadno zařadit do svého
+    běžného života, abyste tak zlepšili jeho kvalitu.
+
+
+    Kdo seminář povede? Publicista Jeroným Janíček. Autor dokumentárního cyklu
+    Život za zdí (www.youtube.com/zivotzazdi), oceněný Novinářskou cenou
+    Psychiatrické společnosti České lékařské společnosti JEP. Působí v pražském
+    Radiu 1 a je autorem mnoha textů o úzkostech, desítkách rozhovorů s předními
+    českými psychiatry a psychology, ale také s lékaři urgentní medicíny,
+    neurologie a interny. Jeroným Janíček má také osobní zkušenost s jednou
+    úzkostných poruch, depresí i léčbou na psychiatrii.
+
+
+    Program semináře:
+
+
+    14:00 - 16:30 - Blok I.
+
+    Stresová reakce (vznik, průběh)
+
+    Druhy stresu a strategie jeho zvládání (eustres, distres, adaptace a coping)
+
+    Fyzické a psychické projevy nejrozšířenějších úzkostných poruch a deprese
+
+    Dopady neléčených úzkostí a deprese na kvalitu života (sociální izolace,
+    obezita, závislosti, vznik a rozvoj kardiovaskulárních onemocnění)
+
+    Sebevražda a sebevražedné jednání
+
+
+    16:30 - 17:00 - Občerstvení
+
+
+    17:00 - 19:30 - Blok II.
+
+    Pomoc praktického lékaře, psychiatra a psychologa (vyšetření, ambulantní
+    péče, psychoterapie)
+
+    Krizová intervence
+
+    Role zdravotnické záchranné služby v pomoci s akutní úzkostí a těžkou
+    depresí
+
+    Hospitalizace v psychiatrické nemocnici
+
+    Základy duševní hygieny (vlivy vnějšího prostředí, práce s tělem, spánková
+    hygiena, pobyt v přírodě, asertivní komunikace, udržování a rozvoj
+    dlouhodobých vztahů, plánování a systém hodnot)
+
+
+    Vstupné na seminář je 250 Kč a v ceně je zahrnuto malé občerstvení
+
+    ► online na:
+    https://donate.paralelnipolis.cz/home/319-12-2019-seminar-uzkost-deprese-a-sebevrazda
+
+    ► osobně v naší kavárně, kde vám barista s nákupem poradí a pomůže.
+  refs:
+    meetup_id: '266725794'
+    meetup: https://www.meetup.com/paralelnipolis/events/266725794/
+
+
+- id: 2019-12-13-scaleup-meetup-budovani-kultury-zodpovednosti-v-tymech
+  name: ScaleUp MeetUp - Budování kultury zodpovědnosti v týmech
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-12-13'
+  startTime: '2019-12-13T12:00:00+01:00'
+  endTime: '2019-12-13T14:00:00+01:00'
+  description: >-
+    Stále někoho hlídat, kontrolovat a upomínat? Takhle se práce dělat nedá.
+
+    Chcete to změnit? Pak je třeba začít trošku jinde. Třeba sestavováním týmu z
+    těch “nejvhodnějších” a ne těch “nejlepších”.
+
+
+    Jenže jak na to? Jak začít budovat opravdovou kulturu zodpovědnosti, kde
+    platí, co se dohodne a každý z týmu převezme otěže za dohody, které uzavírá?
+
+
+    Přesně na tyto otázky budeme hledat odpovědi na workshopu v našem Paper
+    Hubu.
+
+
+    Proč vlastně přijít?
+
+    Povíme vám, proč kontrola není 100% nástroj. Ukážeme vám principy, na
+    kterých byste měli začít stavět svůj tým a na čem si zakládat zejména.
+    Naučíme vás budovat kulturu zodpovědnosti ve vašem týmu a v neposlední řadě
+    potkáte nové lidi řešící podobné situace. :-)
+
+
+    Akce je zdarma a je otevřena všem zájemcům ze široké veřejnosti. Kapacita je
+    ale omezená. Chyťte si předem místo na e-mailu: pavel@krepelka.coach.
+  refs:
+    meetup_id: '266725751'
+    meetup: https://www.meetup.com/paralelnipolis/events/266725751/
+
+
+- id: 2019-12-12-hacker-stories-or-jak-vykrast-banku
+  name: Hacker Stories | Jak vykrást banku
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-12-12'
+  startTime: '2019-12-12T18:30:00+01:00'
+  endTime: '2019-12-12T20:00:00+01:00'
+  description: >-
+    Hacker Stories jsou tu zas! Tentokrát se zaměříme na hackování bank. Lidé
+    dávají bankám naprostou důvěru a nechávají v nich většinu svého majetku.
+    Víte, jak jsou vaše peníze v bance zabezpečené?👀
+
+
+    Podíváme se na případy hackerů, kteří stáli za úspěšnými útoky na bankovní
+    systémy a obohatili se tak o nemalé částky. Přiblížíme si jejich příběhy,
+    postupy a také to, jakým způsobem byli odhaleni a dopadeni.
+
+
+    Může se stát hackování bankomatů, o kterém sní Hollywood už desítky let,
+    skutečností? Uvedeme vás do příběhů hackování bank, bankomatů a krádeží
+    karet. Magnát, který krade bankovní karty z celého světa, pak je prodává na
+    darknetu a žádná tajná služba ho nedokáže zatknout? I tohle se děje.
+
+    Temná stránka digitálního světa skrývá mnoho fascinujících příběhů, které
+    jsou nejen napínavé, ale mohou nás také hodně naučit o digitální bezpečnosti
+    a světě kolem nás.
+
+
+    Přednášku povede Mário Havel, nadšenec kryptotechnologií a digitální
+    bezpečnosti, člen Paralelní Polis a předseda Slovak Students for Liberty.
+
+
+    Hacker Stories je série přednášek, která zkoumá temná zákoutí internetu.
+    Příběhy o hackerech, únicích dat, soukromí a hrozbách dnešního internetu.
+    Jsou určené širokému publiku, takže si nevyžadují specializované znalosti.
+    Naopak, zaměříme se v nich na známe hacky, které měly dopad na celou
+    společnost. Budeme se taky bavit o tom, proč a jak jednotliví hackeři
+    jednali, ale taky si prakticky ukážeme, jak se útokům můžeme bránit.
+
+
+    Rezervaci zakoupíte:
+
+    ►online na
+    https://donate.paralelnipolis.cz/events/310-12-2019-hacker-stories-jak-vykrast-banku
+
+    ► osobně v naší kavárně, kde vám barista s nákupem poradí a pomůže.
+  refs:
+    meetup_id: '266725646'
+    meetup: https://www.meetup.com/paralelnipolis/events/266725646/
+
+
+- id: 2019-12-11-crypto-snidane-or-kryptoekonomika-v-praxi
+  name: Crypto snídaně | Kryptoekonomika v praxi
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-12-11'
+  startTime: '2019-12-11T10:00:00+01:00'
+  endTime: '2019-12-11T12:00:00+01:00'
+  description: >-
+    Zajímáte se o kryptoměny? Máte chuť se navzájem potkávat a sdílet své
+    zkušenosti? Chcete diskutovat o aktuálním dění ve světě kryptoměn?
+
+    Paralelní Polis si pro vás ve spolupráci s Pavel Přecechtěl a Petr Sanetrník
+    připravili pravidelnou akci - Crypto snídaně!
+
+
+    Tentokorát budeme řešit Kryptoekonomiku v praxi. Probereme, jak kryptoměny
+    celkovou ekonomiku mění a také, jak mění přístup lidí k penězům a hodnotě.
+    Podíváme se na to, jak daleko nebo na začátku stojíme a zda se Bitcoin
+    jednou může stát celosvetově uznávanou měnou.
+
+
+    Naše pozvání přijal Mgr. Ing. Dominik Stroukal, Ph.D.
+
+    Dominik je hlavní ekonom finanční skupiny Roklen, vyučuje na VŠ CEVRO
+    institut, provází pořadem Kdo to platí? na MALL.TV, je také šéfredaktorem
+    časopisu Trade-off, vede společnost bit agency a je autorem několika knih.
+
+
+    Můžete se samozřejmě těšit i na pořádnou snídani! :-)
+  refs:
+    meetup_id: '266725632'
+    meetup: https://www.meetup.com/paralelnipolis/events/266725632/
+
+
+- id: 2019-12-06-parallel-sound-or-introduction-to-music-production
+  name: PARALLEL SOUND | Introduction to music production
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-12-06'
+  startTime: '2019-12-06T18:00:00+01:00'
+  endTime: '2019-12-06T20:00:00+01:00'
+  description: >-
+    In Paralelní Polis we also love sound and music! We would like to build a
+    community of people who have the same passion to share it with us. And we
+    decided we want to start from scratch.
+
+
+    We invite you for overview and introduction into electronic music production
+    which is suitable for anyone at beginner level whether you have started
+    producing already or are completely new to the practice. We will cover
+    subjects such as different electronic music genres, equipment and theory. We
+    will be using Ableton Live 10 so please feel free to bring your laptops
+    along if you have the software already. We will take a look at how to
+    navigate the software and some fundamental music production techniques so
+    you have the skills to start creating your own tracks!
+
+
+    Workshop will be led by Adam Russell. He is a DJ & Producer from Manchester
+    UK. Taking a keen interest in mixing on the decks and the organic
+    underground sounds of house/techno he decided to pursue a three year degree
+    in Electronic Music Production and DJ Practices. With some of today’s best
+    electronic music being made in a bedroom or home studio he is now
+    collaborating with producers to fine tune their production skills, sharing
+    new ideas and helping them to discover their unique sound.
+  refs:
+    meetup_id: '266787444'
+    meetup: https://www.meetup.com/paralelnipolis/events/266787444/
+
+
+- id: 2019-12-05-enviro-meetup-or-zelena-totalita-prichazi-a-pozname-to
+  name: 'Enviro Meetup | Zelená totalita: Přichází? A poznáme to?'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-12-05'
+  startTime: '2019-12-05T18:30:00+01:00'
+  endTime: '2019-12-05T20:30:00+01:00'
+  description: >-
+    Environmentální hnutí nabývají zejména v západním světě na nebývalé síle.
+    Protesty za záchranu klimatu, biodiverzity, volání po okamžitých opatřeních
+    ke snížení ekologické stopy. Do toho přibývají reakce států, samospráv a
+    korporací, které se předhánějí v příslibech ekologizačních opatření. Podaří
+    se tento trend udržet při zachování svobodné společnosti? Nebo už se dávno
+    řítíme do nového totalitního řádu, založeného na ideologii záchrany planety
+    před environmentální katastrofou, které bude potřeba podřídit úplně všechno?
+    Paralelní Polis otevírá diskuzi na toto naléhavé téma!
+
+
+    Není to přitom náhoda - letošním nejvýznamnějším “totalitním” výročím je
+    bezesporu 30 let od 17. 11. 1989. Připomínkové akce odkazují nepříznivé
+    poměry období totalitního státu postaveného na marx-leninské ideologii mezi
+    lety 1948 - 1989 a okolnosti jeho zániku. Část z nich varuje před nástupem
+    autoritářských pořádků z pozic ekonomických oligarchů. Jsou to ale opravdu
+    jediné hrozby nových totalit v našich poměrech?
+
+
+    Odpověď na tuto otázku nikdo z nás nezná. Z minulosti se však můžeme v jedné
+    věci poučit - vyplatí se hledat odpovědi v seriózní kritické diskuzi. Proto
+    na meetup pozveme historika, politologa a znalce environmentálního hnutí, se
+    kterými bude moci na uvedené téma otevřeně diskutovat. Jména konkrétních
+    řečníků brzy zveřejníme.
+
+
+    POZOR - meetup je placený a počet vstupenek je omezen! Navíc máme dvojí
+    vstupné. Jedno základní a druhé s občerstvením. Vstupenku si můžete koupit
+    některým z následujících způsobů:
+
+
+    1. Osobně v kavárně Bitcoin Coffee,
+
+    2. Nebo online základní vstupné za 100,-:
+    https://donate.paralelnipolis.cz/events/317-12-enviro-meetup-zelena-totalita-prichazi-a-pozname-to
+
+    anebo vstupné s občerstvením za 200,- tady:
+    https://donate.paralelnipolis.cz/events/318-12-enviro-meetup-zelena-totalita-prichazi-a-pozname-to-cena-vcetne-obcerstveni
+
+
+    K zakoupení vstupenky budete potřebovat kryptoměnu Bitcoin, Litecoin nebo
+    Monero.
+  refs:
+    meetup_id: '266725541'
+    meetup: https://www.meetup.com/paralelnipolis/events/266725541/
+
+
+- id: 2019-12-04-biohacking-meetup-or-biohacking-nebo-digitalni-samanismus
+  name: Biohacking Meetup | Biohacking nebo digitální šamanismus?
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-12-04'
+  startTime: '2019-12-04T18:30:00+01:00'
+  endTime: '2019-12-04T20:00:00+01:00'
+  description: >-
+    Slovo biohacking se stále častěji objevuje v médiích a na sociálních sítích.
+    Biohackers mají svůj originální přístup, kombinují různé metody a
+    technologie, které mohou zlepšit náš každodenní život. Ale může být
+    biohacking také nebezpečný?
+
+
+    Kolik času věnuje biohacker měření svého těla? A jak pracuje s daty, které
+    získá? Biohacking není pouze ráj, zaslíbený stav těla a mysli, ale také
+    tvrdá práce a dřina, kterou musí člověk podstoupit, pokud chce změnit svůj
+    život a životní styl.
+
+
+    Co se skrývá za slovním spojením digitální šamanismus? Se slovem šamanismus
+    se potkáváme v poslední době stále častěji. Jak spolu souvisí biohacking a
+    šamanismus? Co mají společné a jak je můžeme prakticky využívat v
+    každodenním životě?
+
+
+    Naše pozvání přijal Filip Říha a jeho žena Kateřina Andělová. Filip má za
+    sebou více než 10 let zkušeností se změnami životního stylu, těla a vědomí.
+    Filip je kouč a mentor, který zásadně změnil svůj život. Po studiu v
+    zahraničí pracoval pro mezinárodní poradenskou firmu. V tomto stylu života
+    ale nenašel, co hledal a díky půstu v izraelské poušti se vydal na novou
+    cestu. Teď kombinuje raw food, přirozený pohyb, běhání naboso, jógu,
+    meditaci a primárně vědomý životní styl. Kateřinu na její cestě k rozvoji
+    vědomí a zdravému životnímu stylu nasměrovaly její těžké nemoci, ze kterých
+    se intenzivní prací sama na sobě uzdravila. Díky tomu nasbírala velké
+    množství inspirace, kterou skrze svou tvorbu šíří dál. Píše knihy, pořádá
+    semináře, připravuje divadelní hru a věnuje se osobnímu poradenství a
+    koučinku.
+
+
+    Můžete se těšit na tipy i ukázky toho, co funguje Filipovi a Kateřině a
+    hlavně povídání o tom, co je to vědomý životní styl, co si vůbec vzít z
+    biohackingu a kde jinde hledat inspiraci pro život. Přijďte! Těšíme se!!
+
+    http://filipriha.cz/ www.zenyvespojeni.com
+
+
+    Vstupenky zakoupíte:
+
+    ► online:
+    https://donate.paralelnipolis.cz/events/313-12-biohacking-meetup-peklo-nebo-raj
+
+    ► osobně v naší kavárně, kde vám barista s nákupem poradí a pomůže.
+  refs:
+    meetup_id: '266725474'
+    meetup: https://www.meetup.com/paralelnipolis/events/266725474/
+
+- id: 2019-11-28-hackovanim-za-lepsi-novinarinu-vol-1
+  name: Hackováním za lepší novinařinu vol. 1
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-11-28'
+  startTime: '2019-11-28T18:00:00+01:00'
+  endTime: '2019-11-28T20:00:00+01:00'
+  description: >-
+    Ve spolupráci s Nadačním fondem nezávislé žurnalistiky jsme pro vás
+    připravili první novinářské mikrofórum. Cílem této nové akce je představovat
+    zajímavé projekty kombinující novinářskou praxi a využívání nejmodernějších
+    technologií. Celou sérií vás bude provázet Josef Šlerka, ředitel NFNŽ a
+    odborník na analýzu dat ze sociálních sítí.
+
+
+    V rámci prvního takového setkání Vám představíme tyto projekty:
+
+
+    Josef Šlerka: Co přivezli do Hamburku
+
+    Josef se ohlédne za nejzajímavějšími projekty prezentovanými na Global
+    Investigative Journalism Conference 2019 v Hamburku. Také pohovoří o
+    získávání dat ze včelích úlů, jak najít koncentrační tábory v Číně nebo jak
+    využívat grafové databáze ve Financial Times.
+
+
+    Jan Cibulka: “Sensor Journalism” v České republice
+
+    Jan promluví o tom, jak se dělá novinařina zaměřená na získávání dat pomocí
+    senzorů a přidá také pár novinek o aktuálních projektech, na kterých pracují
+    v redakci iRozhlas.cz.
+
+
+    Pavla Holcová, Pavol Lupták: “Ako sme „hackli“ eKasu: podvádzať na daniach
+    nikdy nebolo jednoduchšie.”
+
+    Příběh o tom, jak se podařilo hacknout eKasu na Slovensku i o tom, jak
+    funguje spolupráce novinářů a programátorů společně poví Pavla Holcová,
+    investigativní novinářka, zakladatelka serveru investigace.cz a etický
+    hacker Pavol Lupták, CEO Nethemba s.r.o.
+
+
+    Novinářské mikrofórum Hackováním za lepší novinařinu je součástí nového
+    projektu Media Hub Paralelní Polis, který je zaměřený na podporu nezávislé
+    novinářské praxe v Česku. Cílem je vytvořit platformu pro sdílení zkušeností
+    a šíření vědomostí formou co-workingového prostoru a vzdělávacích aktivit.
+  refs:
+    meetup_id: '266384946'
+    meetup: https://www.meetup.com/paralelnipolis/events/266384946/
+
+
+- id: 2019-11-27-meme-meetup-vol-1
+  name: Meme Meetup vol. 1
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-11-27'
+  startTime: '2019-11-27T18:30:00+01:00'
+  endTime: '2019-11-27T20:00:00+01:00'
+  description: >-
+    Jestli dnes něco spojuje všechny bez rozdílu věku, pohlaví či politických
+    názorů, jsou to memes!
+
+
+    Na jednom pivu jsme dostali nápad, znáte to... pobavit se o memes trochu
+    jinak. Diskutovat o nich nejen jako o způsobu, jímž trávíme čas, ale také o
+    tom, jak ovlivňují naše schopnosti pozorovat, napodobovat, sdílet a v
+    neposlední řadě uvědomit si, že žijeme ve společnosti.
+
+
+    První večer Meme Meetupu představí vyhaslou internetovou ikonu Lukáše
+    Vychopeně a memologa a znalce českého fotbalu - Vojtěcha Lukavce. Ti nám na
+    svých oblíbených meme momentech představí jejich pohled na tento
+    společensko-kulturní fenomén v českém kontextu.
+
+
+    Budeme se těšit!
+
+
+    Rezervaci zakoupíte:
+
+    ►online na: https://donate.paralelnipolis.cz/events/312-11-meme-meetup-vol-1
+  refs:
+    meetup_id: '266384880'
+    meetup: https://www.meetup.com/paralelnipolis/events/266384880/
+
+
+- id: 2019-11-26-bitcoin-meetup-or-pohled-na-bitcoin-sociologem
+  name: Bitcoin meetup | Pohled na Bitcoin sociologem
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-11-26'
+  startTime: '2019-11-26T18:30:00+01:00'
+  endTime: '2019-11-26T20:00:00+01:00'
+  description: >-
+    Přistoupíme-li na tvrzení George Simella, že peníze jsou společenským
+    nárokem, pak bychom se měli ptát, jakou společnost si nárokujeme používáním
+    kryptoměn.
+
+
+    Přednáškou Vás provedou Martin Tremčinský, Filip Vostál a Martin Hájek.
+
+
+    Rezervaci zakoupíte:
+
+    ►online na
+    https://donate.paralelnipolis.cz/events/307-11-bitcoin-meetup-pohled-na-bitcoin-sociologem
+
+    ► osobně v naší kavárně, kde vám barista s nákupem poradí a pomůže.
+  refs:
+    meetup_id: '266384847'
+    meetup: https://www.meetup.com/paralelnipolis/events/266384847/
+
+
+- id: 2019-11-21-enviro-meetup-or-energetika-otevrene-jadro-uhli-renewables
+  name: Enviro Meetup | Energetika otevřeně - jádro, uhlí, renewables
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-11-21'
+  startTime: '2019-11-21T18:30:00+01:00'
+  endTime: '2019-11-21T20:30:00+01:00'
+  description: >-
+    Pro příklady různých energetických trendů a jejich výsledků nemusíme chodit
+    daleko. ČR v posledních 50 letech zažila přinejmenším tři:
+
+
+    ► období takřka výlučné kombinace tepelných a vodních elektráren
+
+    ► výstavbu jaderných elektráren
+
+    ► významnou státní podporu obnovitelných zdrojů
+
+
+    Společně se budeme bavit s odborníky, jak zdejší energetický mix vypadá a
+    proč tomu tak je. Jaké technologie získávání energie máme k dispozici a jaká
+    rizika jsou s nimi spojena.
+
+
+    Elektrická energie je nejen zásadním enviro. fenoménem, je hlavně
+    univerzálním zdrojem uspokojení stále většího okruhu lidských potřeb.
+
+    Žárovka, elektromotor, mikročip, baterie, atd. zásadním způsobem ovlivnily
+    podobu naší planety a společnosti a vývoj tímto směrem stále nabírá na
+    obrátkách. Míra lidského blahobytu se stává čím dál více závislá na
+    dostatečném přísunu el. energie. A to pokud možno kdekoliv na světě.
+
+
+    Na jednu stranu se můžeme radovat, že už nemusíme nutně spoléhat na přímou
+    konzumaci fosilních paliv a můžeme elektrickou energii získávat z
+    obnovitelných zdrojů. Využívání těchto zdrojů však stále čelí mnoha
+    překážkám – zabírá spoustu místa, ruší krajinný ráz, či nedokáže spolehlivě
+    a stabilně nasytit stále rostoucí spotřebu. Využívání fosilních paliv a
+    jaderné energie zajišťuje stabilní vysokou a snadno škálovatelnou produkci,
+    avšak za cenu a rizika, které už dnes možná nejsme ochotni přijmout.
+
+
+    Poprvé na Enviro Meetup otevíráme otázku energetiky, těšíme se na vaši účast
+    a podněty, které z diskuze vyplynou!
+  refs:
+    meetup_id: '266384766'
+    meetup: https://www.meetup.com/paralelnipolis/events/266384766/
+
+
+- id: 2019-11-19-biohacking-meetup-or-pohybova-hygiena
+  name: Biohacking Meetup | Pohybová hygiena
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-11-19'
+  startTime: '2019-11-19T18:30:00+01:00'
+  endTime: '2019-11-19T20:00:00+01:00'
+  description: >-
+    Máme pro vás praktický workshop o pohybové hygieně.🤸‍♂️
+
+    Tvoří ji určité návyky, které při pravidelném opakování a zařazení do denní
+    rutiny dokáží zlepšit a obohatit život.
+
+
+    Vyzkoušíme si jednoduchý check, kterým zjistíme, jak jsme na tom s
+    rovnováhou a trochu se popereme s gravitací. Povíme si o základních
+    principech udržování svého těla fit a bez bolestí v dlouhodobém měřítku,
+    nebo jak můžeme např. při čištění zubů pracovat na odstraňování dysbalancí.
+
+
+    Praktickým workshopem Vás provede Robin Viktora, který v roce 2014 společně
+    s Jirkou Smigou založil skupinu Dark Side Movement, jejíž tělocvična je v
+    Brně. Zde také vytváří komunitu lidí bavící se cvičením a vede skupinové
+    lekce síly a mobility. Lekce jsou přizpůsobené jak pro sportovce, tak pro
+    lidi se sedavým zaměstnáním.
+
+
+    Vstupenky zakoupíte:
+
+    ► online na
+    https://donate.paralelnipolis.cz/events/311-11-biohacking-meetup-pohybova-hygiena
+  refs:
+    meetup_id: '266384517'
+    meetup: https://www.meetup.com/paralelnipolis/events/266384517/
+
+
+- id: 2019-11-14-hacker-stories-or-revenge-porn
+  name: Hacker Stories | Revenge Porn
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-11-14'
+  startTime: '2019-11-14T18:30:00+01:00'
+  endTime: '2019-11-14T20:00:00+01:00'
+  description: >-
+    Připravte se na přednášku o nahých fotkách. Nejcitlivější osobní údaje,
+    které většina lidí nosí s sebou v kapse. Máte je v telefonu taky?
+
+    Co se může stát, pokud je pošlete pomstychtivému příteli? Co asi udělá
+    hacker, který o nich ví a chce je získat? Jak se před pár lety dostali
+    útočníci ke stovkám nahých fotografií světových celebrit?
+
+
+    V rámci přednášky si povíme o historii tzv. revenge porn = obchodování s
+    ukradenými nahými fotkami. Hlavně vám ale ukážeme, jak se takové nepříjemné
+    krádeži bránit.
+
+    Přednášku povede Mário Havel, člen Paralelní Polis a předseda Slovak
+    Students for Liberty.
+
+
+    Hacker Stories je série přednášek zkoumající temná internetová zákoutí - o
+    hackerech, únicích dat, soukromí a dalších hrozbách dnešního internetu. Jsou
+    určeny širokému publiku, takže nevyžadují specializované znalosti. Zajímají
+    vás známé hacky, jež měly dopad na celou společnost? Proč a jak jednotliví
+    hackeři jednali? Pak jsou přednášky přesně pro vás. Mimo tyto zajímavosti si
+    také prakticky ukážeme, jak se útokům můžeme bránit.
+
+
+    Rezervaci zakoupíte:
+
+    ►online na
+    https://donate.paralelnipolis.cz/events/309-11-hacker-stories-revenge-porn
+  refs:
+    meetup_id: '266383015'
+    meetup: https://www.meetup.com/paralelnipolis/events/266383015/
+
+
+- id: 2019-11-12-crypto-snidane-decentralizovane-financnictvi-de-fi
+  name: Crypto Snídaně - Decentralizované finančnictví De-Fi?
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-11-12'
+  startTime: '2019-11-12T21:00:00+01:00'
+  endTime: '2019-11-12T23:00:00+01:00'
+  description: >-
+    Zajímáte se o kryptoměny? Máte chuť se navzájem potkávat a sdílet své
+    zkušenosti? Chcete diskutovat o aktuálním dění ve světě kryptoměn?
+
+    Paralelní Polis si pro vás ve spolupráci s Crypviz a Investree připravili
+    pravidelnou akci - Crypto snídaně!
+
+
+    Tentokrát na téma: Decentralizované finančnictví - De-Fi. Jak funguje
+    decentralizované finančnictví? Je vůbec možné si vzít decentralizovanou
+    půjčku?
+
+
+    Začínáme v 9 hod. Těšte se na pořádné jídlo: vajíčka, párky, šunku, sýr,
+    máslo, pečivo, quiche koláče a výborné kafe. Vše pro Vás s láskou připraví
+    Bitcoin Coffee.
+
+
+    Rezervaci zakoupíte:
+
+    ►online na
+    https://donate.paralelnipolis.cz/events/283-9-crypto-snidane-komu-patril-muj-bitcoin
+
+    ► osobně v kavárně Bitcoin Coffee, kde vám barista s nákupem poradí a
+    pomůže.
+  refs:
+    meetup_id: '264054156'
+    meetup: https://www.meetup.com/paralelnipolis/events/264054156/
+
+
+- id: 2019-11-12-bitcoin-meetup-i-zaklady-bitcoinu
+  name: Bitcoin meetup I Základy Bitcoinu
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-11-12'
+  startTime: '2019-11-12T18:30:00+01:00'
+  endTime: '2019-11-12T20:30:00+01:00'
+  description: >-
+    Jak funguje současný finanční systém a může mu být Bitcoin alternativou?
+
+    V rámci své přednášky se Lucie Komárková zaměří na minulost a současnost
+    Bitcoinu. Bude mluvit o jeho vzniku a technologických aspektech jeho
+    fungování, a také o momentální ekonomice.
+
+
+    Lucie je členkou Paralelní Polis a Students for Liberty. Věnuje se
+    talebovskému pohledu na svět, decentralizovaným systémům a exponencionálním
+    technologiím v čele s Bitcoinem, o kterém společně s rakouskou ekonomií
+    přednáší.
+
+
+    Rezervaci zakoupíte:
+
+    ►online na
+    https://donate.paralelnipolis.cz/events/283-9-crypto-snidane-komu-patril-muj-bitcoin
+
+    ► osobně v kavárně Bitcoin Coffee, kde vám barista s nákupem poradí a
+    pomůže.
+  refs:
+    meetup_id: '264054238'
+    meetup: https://www.meetup.com/paralelnipolis/events/264054238/
+
+
+- id: 2019-10-30-hranice-svobody-or-paralelni-vzdelavani
+  name: Hranice svobody | Paralelní vzdělávání
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-10-30'
+  startTime: '2019-10-30T18:30:00+01:00'
+  endTime: '2019-10-30T20:30:00+01:00'
+  description: >-
+    Existují různé alternativní modely vzdělávání? Kde všude se můžeme vzdělávat
+    a jak?
+
+
+    Michal Kandler, člen Svobody Učení, v rámci své přednášky vysvětlí, proč
+    není možná opravdová reforma uvnitř existujícího tradičního systému
+    vzdělávání. Zároveň představí koncept sebeřízeného vzdělávání a jeho
+    jednotlivé formy - od deschoolingu, až po worldschooling.
+
+    Po přednášce bude panelová diskuse s konkrétními zástupci z řad studentů a
+    rodičů, kteří se rozhodli převzít zodpovědnost za svoje vzdělávání a
+    vzdělávání svých dětí.
+
+
+    Rezervaci zakoupíte:
+
+    ►online na
+    https://donate.paralelnipolis.cz/events/283-9-crypto-snidane-komu-patril-muj-bitcoin
+
+    ► osobně v kavárně Bitcoin Coffee, kde vám barista s nákupem poradí a
+    pomůže.
+  refs:
+    meetup_id: '264055175'
+    meetup: https://www.meetup.com/paralelnipolis/events/264055175/
+
+
+- id: 2019-10-02-decentruck-i-pod-sluncem-tma
+  name: Decentruck I Pod sluncem tma
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-10-02'
+  startTime: '2019-10-02T18:30:00+02:00'
+  endTime: '2019-10-02T20:30:00+02:00'
+  description: >-
+    Projekce dokumentárního filmu režiséra Martina Marečka zachycuje úskalí
+    rozvojové pomoci Africe. Po skončení projekce budete mít navíc možnost
+    diskutovat nejen se samotným režisérem filmu, ale i s hlavními hrdiny
+    příběhu.
+
+
+    Film na příběhu dvou českých expertů v zambijské osadě Masuku, kterou
+    elektrifikovali solárními panely, naprosto otevřeně sleduje úskalí rozvojové
+    pomoci. Je příběhem pokusu předání evropské technologie a odpovědnosti, ale
+    i „zlatých českých ručiček“, které si dokáží poradit i uprostřed Afriky.
+
+
+    Projekci navštíví spolu s režisérem Martinem Marečkou i ekolog a odborník na
+    obnovitelné zdroje Milan Smrž a Tomáš Tožička, odborník na regionální
+    rozvoj.
+
+
+    Vstupné činí 150 Kč a můžete si ho zakoupit osobně v naší kavárně v den
+    promítání, kde vám barista s nákupem poradí a pomůže.
+
+
+    ▲▲▲
+
+    Paralelní Polis je think tank a hackerspace zabývající se tématy jako je
+    decentralizace, digitální soukromí, kryptoanarchie a anonymita. Jsme
+    nezávislí na státních příspěvcích a pokud se vám náš program líbí, můžete
+    nás podpořit. Děkujeme!
+
+
+    Bitcoinová adresa:
+
+    3EDpvTPzVXRKRtX7CyrkeBw3PuRHPCQtz6
+
+
+    Litecoinová adresa:
+
+    MHRjLS29G9Ax7jT6xn4Ynu6XAWv8nvQkRc
+
+
+    Monero adresa:
+
+    43CHrnDHo4BjJQNtduvJUv1a5SYFHFD9fQfappCueGT79aTADryiGfUMwX4CAif3DCRrtyEYmtMDdbPpSzMw8DsmLjL1MQw
+  refs:
+    meetup_id: '265152567'
+    meetup: https://www.meetup.com/paralelnipolis/events/265152567/
+
+
+- id: 2019-09-25-crypto-snidane-komu-patril-muj-bitcoin
+  name: Crypto Snídaně - Komu patřil můj Bitcoin?
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-09-25'
+  startTime: '2019-09-25T09:00:00+02:00'
+  endTime: '2019-09-25T11:00:00+02:00'
+  description: >-
+    Zajímáte se o kryptoměny? Máte chuť se navzájem potkávat a sdílet své
+    zkušenosti? Chcete diskutovat o aktuálním dění ve světě kryptoměn?
+
+    Paralelní Polis si pro vás ve spolupráci s Crypviz a Investree připravili
+    pravidelnou akci - Crypto snídaně!
+
+
+    Tentokrát posnídáme na téma: Je možné vystopovat něčí transakce? A jak se
+    bezpečně chovat k Bitcoinům, abyste po sobě zanechali co nejméně stop?
+
+
+    Naše pozvání přijal Aleš Janda - programátor a analytik, který pomáhal v
+    minulosti vystopovat ukradené Bitcoiny např. z české burzy Bitcash.cz.
+
+
+    Začínáme v 9 hod. Těšte se na pořádné jídlo: vajíčka, párky, šunku, sýr,
+    máslo, pečivo, quiche koláče a výborné kafe. Vše pro Vás s láskou připraví
+    Bitcoin Coffee.
+
+
+    Rezervaci zakoupíte:
+
+    ►online na
+    https://donate.paralelnipolis.cz/events/283-9-crypto-snidane-komu-patril-muj-bitcoin
+
+    ► osobně v kavárně Bitcoin Coffee, kde vám barista s nákupem poradí a
+    pomůže.
+  refs:
+    meetup_id: '264321785'
+    meetup: https://www.meetup.com/paralelnipolis/events/264321785/
+
+
+- id: 2019-09-17-bitcoin-meetup-or-iterating-decentralised-governance
+  name: ' Bitcoin Meetup | Iterating Decentralised Governance'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-09-17'
+  startTime: '2019-09-17T18:30:00+02:00'
+  endTime: '2019-09-17T20:00:00+02:00'
+  description: >-
+    We invited Steve Fau to talk to us about decentralised governance. He will
+    present use case of how Ethfinex designed it's governance model and the
+    challenges we had to overcome before evolving to DeversiFi.
+
+
+    He will also talk about:
+
+    - How Ethfinex found and operates DAO
+
+    - Designing governance model to align with the business goals of
+    decentralised exchange
+
+    - Role of utility token in a DAO & is utility token really necessary?
+
+
+    Steve Fau has a background in traditional finance and computer science.
+    After conducting own research in the blockchain ecosystem from late 2016,
+    Steve finally joined Ethfinex in 2018 as a project management intern. He was
+    soon assigned a product manager role, overseeing the development of Ethfinex
+    Trustless - a very unique hybrid decentralised exchange product. This DEX
+    has rapidly evolved into a core product of newly launched venture,
+    DeversiFi, where Steve currenly serves as head of product. He is currently
+    focusing on the UX aspect of things to bring the DeFi world closer to the
+    masses.
+
+
+    ▲▲▲
+
+    Parallel Polis is a think tank and hackerspace that focuses on topics such
+    as decentralization, digital privacy, cryptoanarchy and anonymity. We are
+    independent of state contributions - you can support us if you like our
+    program. Thank you!
+
+
+    Bitcoin address:
+
+    3EDpvTPzVXRKRtX7CyrkeBw3PuRHPCQtz6
+
+
+    Litecoin address:
+
+    MHRjLS29G9Ax7jT6xn4Ynu6XAWv8nvQkRc
+
+
+    Monero address:
+
+    43CHrnDHo4BjJQNtduvJUv1a5SYFHFD9fQfappCueGT79aTADryiGfUM
+  refs:
+    meetup_id: '264549228'
+    meetup: https://www.meetup.com/paralelnipolis/events/264549228/
+
+
+- id: 2019-08-25-crypto-snidane-komu-patril-muj-bitcoin
+  name: Crypto Snídaně - Komu patřil můj Bitcoin?
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-08-25'
+  startTime: '2019-08-25T21:00:00+02:00'
+  endTime: '2019-08-25T23:00:00+02:00'
+  description: >-
+    Zajímáte se o kryptoměny? Máte chuť se navzájem potkávat a sdílet své
+    zkušenosti? Chcete diskutovat o aktuálním dění ve světě kryptoměn?
+
+    Paralelní Polis si pro vás ve spolupráci s Crypviz a Investree připravili
+    pravidelnou akci - Crypto snídaně!
+
+
+    Tentokrát posnídáme na téma: Je možné vystopovat něčí transakce? A jak se
+    bezpečně chovat k Bitcoinům, abyste po sobě zanechali co nejméně stop?
+
+
+    Naše pozvání přijal Aleš Janda - programátor a analytik, který pomáhal v
+    minulosti vystopovat ukradené Bitcoiny např. z české burzy Bitcash.cz.
+
+
+    Začínáme v 9 hod. Těšte se na pořádné jídlo: vajíčka, párky, šunku, sýr,
+    máslo, pečivo, quiche koláče a výborné kafe. Vše pro Vás s láskou připraví
+    Bitcoin Coffee.
+
+
+    Rezervaci zakoupíte:
+
+    ►online na
+    https://donate.paralelnipolis.cz/events/283-9-crypto-snidane-komu-patril-muj-bitcoin
+
+    ► osobně v kavárně Bitcoin Coffee, kde vám barista s nákupem poradí a
+    pomůže.
+  refs:
+    meetup_id: '264054064'
+    meetup: https://www.meetup.com/paralelnipolis/events/264054064/
+
+
+- id: 2019-08-22-prvni-sklizen-z-paralelni-hydroponie-v-bistru-8
+  name: První sklizeň z Paralelní hydroponie v Bistru 8
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-08-22'
+  startTime: '2019-08-22T19:00:00+02:00'
+  endTime: '2019-08-22T21:00:00+02:00'
+  description: >-
+    Paralelní hydroponii v Bistru 8 se daří parádně a salátky s bazalkou budou
+    za 14 dní připravené na první sklizeň!
+
+    Sklizení první úrody je speciální zážitek a vždy je ve vzduchu napětí, jak
+    úroda pěstovaná bez půdy bude vlastně chutnat.
+
+
+    Všechny vás zveme! Chceme abyste u tohoto krásného momentu byli s námi.
+    Bistro 8 připraví delikátní meníčko vytvořené výhradně ze sklizených salátků
+    a bazalek, a vy tak máte jedinečnou možnost ochutnat.
+
+    Kluci z Parallel Garden navíc promluví o podstatě jejich hydroponií, o
+    zkušenostech s hydroponickým pěstováním a o jejich vizi do budoucna.
+
+    Z Paralelní Polis dorazí produkční tým, který zařídí live stream a dosah pro
+    další fanoušky mimo Prahu.
+
+
+    Objevujte s námi nový fenomén soběstačnosti pěstování ve městech ;) Moc se
+    na vás těšíme a budeme rádi, když vás přijde co nejvíc!
+  refs:
+    meetup_id: '264053989'
+    meetup: https://www.meetup.com/paralelnipolis/events/264053989/
+
+
+- id: hfc-2019
+  name: Hackatoshi's Flying Circuit 2019
+  project: hackatoshi-flying-circuit
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-07-19'
+  days: 3
+  startTime: '2019-07-19T16:20:00+02:00'
+  endTime: '2019-07-21T23:59:00+02:00'
+  description: >-
+    Weekend-long hacking competition focused on privacy, individual freedom,
+    decentralization and viable system exploits. Each track will have three
+    winning teams awarded with prize money (cryptocurrency) & sw from the
+    sponsors. Code submissions have to be open sourced.
+
+
+    Manifesto:
+
+    Paralelní Polis' mission is to bring alternatives and tools for preventing
+    authoritarian tendencies in society. Hackatoshi’s Flying Circuit is an
+    intervention of cypherpunks into both virtual and physical public space to
+    concentrate inspiration and knowledge to address sick parts of the system
+    and fix them with solutions resulting from privacy and decentralized
+    principles.
+
+
+    Prize money (paid in cryptocurrency):
+
+    1st = $1000
+
+    2nd = $500
+
+    3rd = $200
+
+    + sw licences
+
+
+    RSVP or register using the website: https://FlyingCircuit.com
+
+    (confirmations will happen 1-2 weeks before the event)
+  refs:
+    meetup_id: '262284515'
+    meetup: https://www.meetup.com/paralelnipolis/events/262284515/
+
+
+- id: 2019-07-16-bitcoin-meetup-or-bitcoin-zblizka
+  name: Bitcoin meetup | Bitcoin zblízka
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-07-16'
+  startTime: '2019-07-16T18:30:00+02:00'
+  endTime: '2019-07-16T20:30:00+02:00'
+  description: >-
+    Kde se vzal bitcoin a jak funguje? Proč jej vlastnit a co od něj očekávat v
+    budoucnu? A kde ho pořídit a jaké má využití?
+
+
+    Pozvání na další přednášku o kryptoměnách přijal dlouholetý bitcoin nadšenec
+    a bloger Karel Fillner. Karel bude mluvit mimo jiné také o tom, proč je
+    dobré uvažovat o bitcoinu ne jen jako o investiční příležitosti.
+
+    Po přednášce bude prostor na vaše dotazy. Nově nabyté znalosti
+
+    si navíc budete moci vyzkoušet v naší Bitcoin Coffee.
+
+
+    ▲▲▲
+
+    Paralelní Polis je think tank a hackerspace zabývající se tématy jako je
+    decentralizace, digitální soukromí, kryptoanarchie a anonymita. Jsme
+    nezávislí na státních příspěvcích - pokud se vám náš program líbí, můžete
+    nás podpořit. Děkujeme!
+
+
+    Bitcoinová adresa:
+
+    3EDpvTPzVXRKRtX7CyrkeBw3PuRHPCQtz6
+
+
+    Litecoinová adresa:
+
+    MHRjLS29G9Ax7jT6xn4Ynu6XAWv8nvQkRc
+
+
+    Monero adresa:
+
+    43CHrnDHo4BjJQNtduvJUv1a5SYFHFD9fQfappCueGT79aTADryiGfUMwX4CAif3DCRrtyEYmtMDdbPpSzMw8DsmLjL1MQw
+  refs:
+    meetup_id: '263057543'
+    meetup: https://www.meetup.com/paralelnipolis/events/263057543/
+
+
+- id: 2019-07-07-crypto-camp-paralelni-polis-2019-july-7-12-en
+  name: Crypto Camp Paralelní Polis 2019
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-07-07'
+  days: 5
+  startTime: '2019-07-07T18:00:00+02:00'
+  endTime: '2019-07-12T20:00:00+02:00'
+  description: >-
+    • What we'll do
+
+    https://www.facebook.com/events/2563944276965618/
+
+
+    Spend five unforgettable days with ethical hackers in the beautiful city of
+    Prague. In one week, we will teach you the basics of cryptocurrencies,
+    blockchain, digital security, darknet, 3D printing and electronics. We will
+    equip you with the knowledge and tools to engage in an independent society
+    and protect your liberty.
+
+
+    Each day, you will have the opportunity to attend a lecture and workshop. We
+    will also have evening movie screenings focused on the themes of the Crypto
+    Camp. Besides studying, you will experience great food served by Bitcoin
+    Coffee and have plenty of time for leisure activities and exploring Prague.
+    The camp ends with a party and every participant receives a certificate of
+    completion.
+
+
+    Come and experience the dark atmosphere of crypto-center of Europe, BOOK
+    YOUR SPOT NOW ►►►
+    https://donate.paralelnipolis.cz/home/212-crypto-camp-july-7-12-2019-en
+
+
+    ► What’s Included in the Price of 8,000 CZK (~300 €)?◄
+
+    Five lectures and five workshops from Monday to Friday
+
+    Welcome dinner at a local restaurant
+
+    Breakfasts from Monday until Friday
+
+    Lunches from Monday until Friday
+
+    Crypto Camp t-shirt
+
+    Certificate of completion
+
+    Closing party
+
+    ► Team ◄
+
+    You will be lectured by ethical hackers and cryptoanarchists from Paralelní
+    Polis and friendly organizations. You will also have plenty of opportunities
+    to meet with members of our team who build the cypherpunk future into the
+    reality of present. This includes the team and club members of the Institute
+    of Cryptoanarchy, Bitcoin Coffee and Paper Hub.
+
+
+    ► Requirements ◄
+
+    Paid Crypto Camp fee (you will receive order reference, which serves as a
+    ticket)
+
+    Workshops require your own computer to perform most of the practical tasks
+
+
+    ► Dates and Payment ◄
+
+    You can book your spot directly by paying the fee at:
+
+
+    July 7-12 – English language
+
+    July 14-19 – Czech language
+
+    Next runs will be in the summer of 2020.
+
+
+    #CCPP19
+  refs:
+    meetup_id: '257744445'
+    meetup: https://www.meetup.com/paralelnipolis/events/257744445/
+
+
+- id: 2019-06-20-vejdi-ven-or-arthur-f-sniegon-safe-elephants
+  name: 'VEJDI VEN | Arthur F. Sniegon: Safe Elephants'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-06-20'
+  startTime: '2019-06-20T18:03:00+02:00'
+  endTime: '2019-06-20T21:03:00+02:00'
+  description: >-
+    Přednáška s projekcí dokumentu
+
+
+    VEJDI VEN je série přednášek a diskuzí s cílem připravit a podpořit nový
+    projekt Paralelní Polis s pracovním názvem CRYPTO TRUCK. Naším už čtvrtým
+    hostem bude dobrodruch a ochránce slonů z Třince Arthur F. Sniegon.
+
+
+    Arthur se po ukončení studia Ekologické a evoluční biologie na
+    Přírodovědecké fakultě UK vydal zachraňovat slony do centrální Afriky.
+    Většinu cesty absolvoval na kole a kajaku a tímto způsobem procestoval
+    bezmála 6000 km těmi nejzapadlejšími oblastmi Kamerunu, Gabonu, Konga,
+    Demokratického Konga, Středoafrické republiky a Čadu.
+
+
+    V průběhu své cesty se začal aktivně zapojovat do vyšetřování ilegálního
+    obchodu s volně žijícími živočichy. Aby poznal, zdokumentoval a následně
+    změnil temnou realitu pytláctví slonů a ilegálního obchodu se slonovinu
+    začal se osobně stýkat s lovci, pytláky a pašeráky, byl volavkou a jeho
+    aktivity vedly až k zatčení několika překupníků. Ilegálním obchodem s volně
+    žijícími zvířaty se Arthur zabývá stále a mimo jiné působí v afrických
+    národních parcích, kde mapuje a popisuje sloní populaci.
+
+
+    V rámci své přednášky nám Arthur představí a promítne svůj dokumentární
+    film, který v Africe natočil, poví nám více o své expedici, a promluví o
+    tom, co v současné době v rámci boje s ilegálním obchodem s volně žijícími
+    zvířaty podniká.
+
+
+    Vstup na akci dobrovolný. Avšak zakoupením rezervace, přispíváte ke
+    kvalitními programu v Paralelní Polis. Akce začne v 18:30 neformálním
+    posezením v naší kavárně, kde představíme projekt Crypto Trucku. Samotná
+    přednáška pak začne od 19:00.
+
+
+    ODKAZ na zakoupení rezervace:
+
+    https://donate.paralelnipolis.cz/en/events/274-6-vejdi-ven-arthur-f-sniegon-safe-elephants
+
+
+    CRYPTO TRUCK je projekt s cílem přinést do Afriky a celého světa nejnovější
+    technologie a myšlenky udržitelného rozvoje, vztahu k naší planetě, ale také
+    kryptoanarchie, digitální svobody, decentralizace a možnosti paralelní
+    společnosti. Pojďte do toho s námi nebo nás podpořte a staňte se tak
+    součástí tohoto neuvěřitelného příběhu.
+  refs:
+    meetup_id: '261571389'
+    meetup: https://www.meetup.com/paralelnipolis/events/261571389/
+
+
+- id: 2019-06-12-rust-and-wasm
+  name: RUST & WASM
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-06-12'
+  startTime: '2019-06-12T18:00:00+02:00'
+  endTime: '2019-06-12T20:00:00+02:00'
+  description: >-
+    Zveme Vás na druhý ze tří workshopů, ve kterých si osvojíte základy
+    programování WebAssembly v jazyce Rust. Workshop je určen pro začátečníky či
+    zájemce o programování v jazyce Rust, kteří by rádi nahlédli do zákulisí
+    tvorby jednoduché WASM aplikace - interaktivní variace na Conwayovu hru
+    "Life".
+
+
+    Workshop povede Jakub Lanc a čeká vás:
+
+
+    - příprava potřebných komponentů
+
+    - základy wasm-bindgen - rozhraní mezi JavaScriptem a WASM moduly
+
+    - kompilace a spuštění elementárního WASM modulu ("Hello, Rust&WASM!") v
+    prohlížeči
+
+    - experimentování s Rust kódem - stavební kameny "Life" aplikace
+
+
+    Workshop bude koncipován v praktické rovině. Měli byste mít základní
+    znalosti programování (ideálně ve staticky typovaných jazycích) a základy
+    JavaScriptu. Příklady budou demonstrovány v prostředí Windows 10, ale
+    instalační a další kroky by měly být podobné i pro ostatní OS. Můžete přijít
+    i přesto, že jste na prvním workshopu nebyli.
+
+
+    Těšíme se na vás!
+
+
+    ▲▲▲
+
+
+    Paralelní Polis je think tank a hackerspace zabývající se tématy jako je
+    decentralizace, digitální soukromí, kryptoanarchie a anonymita. Jsme
+    nezávislí na státních příspěvcích a vaše podpora tuto nezávislost posílí.
+    Líbí se vám náš program? Podpořte nás:
+
+
+    Bitcoinová adresa:
+
+    3EDpvTPzVXRKRtX7CyrkeBw3PuRHPCQtz6
+
+
+    Litecoinová adresa:
+
+    MHRjLS29G9Ax7jT6xn4Ynu6XAWv8nvQkRc
+
+
+    Monero adresa:
+
+    43CHrnDHo4BjJQNtduvJUv1a5SYFHFD9fQfappCueGT79aTADryiGfUMwX4CAif3DCRrtyEYmtMDdbPpSzMw8DsmLjL1MQw
+  refs:
+    meetup_id: '262122497'
+    meetup: https://www.meetup.com/paralelnipolis/events/262122497/
+
+
+- id: 2019-06-11-design-meetup-or-synthetic-vision
+  name: DESIGN MEETUP | SYNTHETIC VISION
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-06-11'
+  startTime: '2019-06-11T18:30:00+02:00'
+  endTime: '2019-06-11T20:30:00+02:00'
+  description: >-
+    Design meetup je nová série přednášek zaměřená na různé podoby designu ve
+    vztahu k digitálním technologiím. Zaměříme se na zkoumání různých metod,
+    trendů a designových řešení. V rámci prvního setkání jsme pozvali grafickou
+    designéru Lenka Hámošovou a teoretika Lukáše Pilku.
+
+
+    Lenka se v rámci své přednášky zaměří na to, jakým způsobem dokáže umělá
+    inteligence generovat fotorealistické scenérie, objekty, zvířata nebo lidi,
+    které nepochází z našeho fyzického světa. Jedna polovina internetu se baví
+    face-swap filtrami, druhá se děsí zneužití deepfakes či už v politickém nebo
+    osobním životě. Je nejvyšší čas na reset našeho vizuálního očekávání a
+    nastartování procesu adaptace no novou post-truth realitu.
+
+
+    Lukáš bude mluvit o tom, jak stroje vidí umění. Umělá inteligence dnes
+    dokáže “vidět” a navigovat samořiditelná auta, identifikovat osoby nebo
+    detekovat nevybuchlou munici. S jistotou rozpozná, jaké objekty jsou na
+    fotografii, ale zvládne také odhalit malířský rukopis, výtvarný styl a
+    přinést nový pohled na klasická i současná umělecká díla.
+
+
+    Lukáš je kritik, publicista, doktorand na pražské UMPRUM a artdirector ve
+    studiu BlueGhost. Zabývá se grafickým designem, současnými technologiemi a
+    přesahy obojího do světa volného umění. Lenka je grafická designérka, kterou
+    baví zkoumání reality kolem nás kritickým pohledem. Její design odhaluje to,
+    co nám často zůstává skryté.
+
+
+    Těšíme se na vás!
+
+
+    ▲▲▲
+
+    Paralelní Polis je think tank a hackerspace zabývající se tématy jako je
+    decentralizace, digitální soukromí, kryptoanarchie a anonymita. Jsme
+    nezávislí na státních příspěvcích a vaše podpora tuto nezávislost posílí.
+    Líbí se vám náš program? Podpořte nás:
+
+
+    Bitcoinová adresa:
+
+    3EDpvTPzVXRKRtX7CyrkeBw3PuRHPCQtz6
+
+
+    Litecoinová adresa:
+
+    MHRjLS29G9Ax7jT6xn4Ynu6XAWv8nvQkRc
+
+
+    Monero adresa:
+
+    43CHrnDHo4BjJQNtduvJUv1a5SYFHFD9fQfappCueGT79aTADryiGfUMwX4CAif3DCRrtyEYmtMDdbPpSzMw8DsmLjL1MQw
+  refs:
+    meetup_id: '261677445'
+    meetup: https://www.meetup.com/paralelnipolis/events/261677445/
+
+- id: 2019-06-06-sucho-sucho-sucho
+  name: 'Sucho, sucho, sucho! '
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-06-06'
+  startTime: '2019-06-06T18:30:00+02:00'
+  endTime: '2019-06-06T20:30:00+02:00'
+  description: >-
+    Už několik let zažíváme v Česku nebývalá sucha. Zemědělcům klesá úroda a
+    stoupají kompenzace. Smrky se s posledním vypětí sil snaží zanechat
+    potomstvo. Hladina ve studnách klesá. Jsme na tyto rychlé změny připraveni?
+    Uvědomujeme si je vůbec?
+
+
+    Obnova lesů bližší k přirozenému stavu je díky suchu a přemnožené spárkaté
+    zvěři čím dál obtížnější. Díky odvodňovacím melioracím jsme z velké části
+    české krajiny udělali vyschlé stepi až polopouště. Narušili jsme malý vodní
+    okruh, a ten velký nejspíš změnil směr i intenzitu.
+
+
+    Přijďte diskutovat se třemi odborníky o tom, jak můžeme s vysycháním krajiny
+    bojovat, jak v ní zadržet víc vody a znovu rozhýbat malý vodní cyklus. Naše
+    řečníky brzy představíme.
+  refs:
+    meetup_id: '261485710'
+    meetup: https://www.meetup.com/paralelnipolis/events/261485710/
+
+
+- id: 2019-06-06-crypto-snidane-or-bitcoin-vs-banky
+  name: Crypto snídaně | Bitcoin vs. Banky
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-06-06'
+  startTime: '2019-06-06T09:00:00+02:00'
+  endTime: '2019-06-06T11:00:00+02:00'
+  description: >-
+    Paralelní Polis ve spolupráci s Crypviz a Investree připravili meetup
+    zaměřený na komunitu lidí, kteří mají chuť se navzájem potkávat a diskutovat
+    o aktuálním dění ve světě kryptoekonomiky. Crypto snídaně se pravidelně koná
+    vždy první týden v měsíci. Pokaždé bude má své téma a zveme čestného hosta.
+
+    Takže nejdříve si dáme něco dobrého a pak bude následovat diskuze na téma
+    Bitcoin vs. Banky. Může fungovat propojení bank a kryptoměn? Je vůbec nutné
+    propojovat tyto dva světy? Naše pozvání přijal Karel Fillner, který působí
+    jako ředitel v krypto bankovní asociaci BACCA, s Bitcoinem má zkušenosti od
+    roku 2012 a má svůj publikační web btctip.cz.
+
+
+    Pokud Tě baví kryptoměny, decentralizace a dapp tak se stav! Začínáme v
+    9:00. Můžeš se těšit na pořádný bufet v ceně: vajíčka se slaninou, sýry a
+    quiche a samozřejmě nebude scházet výborná kávu. Vše pro nás s láskou
+    připraví Bitcoin Coffee.
+
+
+    Vstup, kterým pokrýváme náklady: 200 Kč - platba na místě v BTC/LTC nebo na
+    našich stránkách
+    https://donate.paralelnipolis.cz/en/events/271-6-crypto-snidane-banky-vs-kryptomeny
+
+
+    ▲▲▲
+
+    Paralelní Polis je think tank a hackerspace zabývající se tématy jako je
+    decentralizace, digitální soukromí a anonymita. Jsme nezávislí na státních
+    příspěvcích a vaše podpora tuto nezávislost posílí.
+
+
+    Líbí se vám náš program? Podpořte nás:
+
+
+    BTC adresa:
+
+    35HMwZkg7CcXWytcXUHsqCqojJp7ZmLpBt
+
+
+    LTC adresa:
+
+    LeyyHzC9gUD4TJ9ZEJ5oUt4931N6FiUBTN
+
+
+    XMR adresa:
+
+    43CHrnDHo4BjJQNtduvJUv1a5SYFHFD9fQfappCueGT79aTADryiGfUMwX4CAif3DCRrtyEYmtMDdbPpSzMw8DsmLjL1MQw
+  refs:
+    meetup_id: '261486166'
+    meetup: https://www.meetup.com/paralelnipolis/events/261486166/
+
+
+- id: 2019-06-04-kryptomeny-pro-lidi
+  name: KRYPTOMĚNY PRO LIDI
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-06-04'
+  startTime: '2019-06-04T18:30:00+02:00'
+  endTime: '2019-06-04T20:30:00+02:00'
+  description: >-
+    Kryptoměny jsou zbytečně složité, špatně se s nimi pracuje a pro běžného
+    smrtelníka jsou nepoužitelné a zbytečné. Nesmysl!
+
+
+    Podle nás jsou hudbou budoucnosti! Stavte se v Paralelní Polis a promluvíme
+    si o nejznámějších mýtech, které si lidi s touto měnou pojí. V rámci
+    interaktivní přednášky Vám ukážeme, jak si kryptoměnu jako např. bitcoin
+    můžete zakoupit, kde si ji můžete uložit a samozřejmě si taky vyzkoušíme
+    platbu. Můžete si koupit naši skvělou kávu nebo nějaký dortík.
+
+
+    Přednáškou Vás provede Jakub Souček, který Vám ukáže, že práce s
+    kryptoměnami je úplně pro každého a neliší se od práce s klasickými penězi.
+
+
+    Těšíme se na vás!
+
+
+    ▲▲▲
+
+    Paralelní Polis je think tank a hackerspace zabývající se tématy jako je
+    decentralizace, digitální soukromí, kryptoanarchie a anonymita. Jsme
+    nezávislí na státních příspěvcích a vaše podpora tuto nezávislost posílí.
+
+    Líbí se vám náš program? Podpořte nás:
+
+
+    Bitcoinová adresa:
+
+    3EDpvTPzVXRKRtX7CyrkeBw3PuRHPCQtz6
+
+
+    Litecoinová adresa:
+
+    MHRjLS29G9Ax7jT6xn4Ynu6XAWv8nvQkRc
+
+
+    Monero adresa:
+
+    43CHrnDHo4BjJQNtduvJUv1a5SYFHFD9fQfappCueGT79aTADryiGfUMwX4CAif3DCRrtyEYmtMDdbPpSzMw8DsmLjL1MQw
+  refs:
+    meetup_id: '261677340'
+    meetup: https://www.meetup.com/paralelnipolis/events/261677340/
+
+
+- id: 2019-05-30-kino43-sbohem-decaku
+  name: 'KINO43: Sbohem Děcáku'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-05-30'
+  startTime: '2019-05-30T18:30:00+02:00'
+  endTime: '2019-05-30T21:30:00+02:00'
+  description: >-
+    Dokumentární film sleduje časosběrnou metodou příběhy tří dětí, které
+    opustily „děcák“ a staví se na vlastní nohy. Hana Ludvíková a Hana
+    Třeštíková sledovaly jejich cestu více jak čtyři roky. Měli stejnou
+    startovní čáru, ale jejich cesty nabraly strmý a odlišný směr. Jak se sotva
+    plnoletý člověk bez zkušenosti života v rodině dokáže zařadit do
+    společnosti?
+
+
+    Po promítání budeme diskutovat s
+
+
+    Ing. Monika Červíčková, poslankyně Parlamentu ČR, členka Stálé komise pro
+    rodinu, rovné příležitosti a národnostní menšiny
+
+    Martin Lněnička, ředitel DD Dolní Počernice, 1. místopředseda Federace
+    dětských domovů
+
+    Ing. Dominika Šenková, manažerka pro Čechy integračního projektu Začni
+    správně
+
+    Mgr. et Bc. Michaela Škorníčková, metodik integračního projektu Začni
+    správně
+
+
+    Jaké jsou nejčastější překážky při a po odchodu z dětského domova?
+    Doprovodná čí následná péče o mladé odcházející z DD je v České republice
+    tristní a to se podepisuje i na počtu odcházejících mlaďochů, kteří neumějí
+    hospodařit s penězi, takže se brzy zadluží a v nejhorší případech skončí na
+    ulici, zatíženi exekucí, závislí na drogách či alkoholu. Obvykle nemají
+    žádné fungující rodinné zázemí, do něhož se mohou vrátit. Hůře si shánějí
+    práci i bydlení a bez řádné doprovodné péče končí na okraji společnosti či v
+    dluhových pastech.
+  refs:
+    meetup_id: '261643400'
+    meetup: https://www.meetup.com/paralelnipolis/events/261643400/
+
+
+- id: 2019-05-29-vejdi-ven-or-petr-holecek-tatrou-kolem-sveta-2
+  name: 'VEJDI VEN | Petr Holeček: Tatrou kolem světa 2'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-05-29'
+  startTime: '2019-05-29T18:30:00+02:00'
+  endTime: '2019-05-29T20:30:00+02:00'
+  description: >-
+    VEJDI VEN je série přednášek a diskuzí s cílem připravit a podpořit nový
+    projekt Paralelní Polis s pracovním názvem CRYPTO TRUCK. Našimi dalšími
+    hosty budou duchovní otci projektu Tatra kolem světa 2 Petr Holeček a Marek
+    Havlíček. Ti chtějí v únoru 2020 navázat na legendární českou expedici Tatra
+    kolem světa, jenž v roce 1987 vyrazila kolem světa z tehdejší komunistické
+    CSSR a vrátila se po 37 měsících v dubnu 1990 do popřevratové CSFR.
+
+
+    Petr Holeček s jeho kolegou Markem Havlíčkem plánují převzít tuto pomyslnou
+    pochodeň a vydat se, jak říkají, na zatím největší expedici kolem světa
+    všech dob.
+
+
+    V rámci přednášky se s námi Petr podělí nejen o své vychytávky a zkušeností
+    v rámci příprav s cestou kolem světa, ale i o své příběhy a nezdary z cest
+    předchozích.
+
+    Vstup na akci dobrovolný. Avšak zakoupením rezervace, přispíváte ke
+    kvalitními programu v Paralelní Polis. Akce začne v 18:30 neformálním
+    posezením v naší kavárně, kde představíme projekt Crypto Trucků. Samotná
+    přednáška pak začne od 19:00.
+
+
+    ODKAZ na zakoupení rezervace:
+    https://donate.paralelnipolis.cz/en/events/272-5-vejdi-ven-marek-havlicek-petr-holecek-tatrou-kolem-sveta
+
+
+    CRYPTO TRUCK je projekt s cílem přinést do Afriky a celého světa nejnovější
+    technologie a myšlenky udržitelného rozvoje, vztahu k naší planetě, ale také
+    kryptoanarchie, digitální svobody, decentralizace a možností paralelní
+    společnosti. Pojďte do toho s námi nebo nás podpořte a staňte se tak
+    součástí tohoto neuveritelneho příběhu.
+  refs:
+    meetup_id: '261485997'
+    meetup: https://www.meetup.com/paralelnipolis/events/261485997/
+
+
+- id: 2019-05-23-enviro-meetup-or-stavka-za-klima-studenti-s-vedci-vol-ii
+  name: 'Enviro meetup | Stávka za klima: studenti s vědci - vol II'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-05-23'
+  startTime: '2019-05-23T18:30:00+02:00'
+  endTime: '2019-05-23T20:30:00+02:00'
+  description: >-
+    Co se změnilo od první diskuze mezi studenty a vědci, která se konala na
+    půdě pražské Paralelní Polis 9. dubna? Kam se studentské stávky za klima
+    posunuly? Kdo další se snaží měnit mentalitu politiků? Britský parlament
+    právě vyhlásil stav klimatické nouze. Studenti po celém světě vyšli v pátek
+    3. května znovu do ulic. Podařilo se jim už něco prosadit?
+
+
+    V minulé diskuzi jsme se soustředili nejvíce na získávání potřebné energie a
+    tom zdali a jak rychle je nutný přechod na obnovitelné zdroje. Tentokrát
+    bychom se raději věnovali tématům nám bližším, které navíc můžeme mnohem
+    snáž ovlivňovat sami. A těmi jsou krajina, ve které žijeme, její využívání,
+    druhová rozmanitost a schopnost měnit klima.
+
+
+    Přijďte také diskutovat se zástupci studentské stávky Fridays For Future a
+    vědci, kteří se klimatickými změnami dlouhodobě zabývají. Už po druhé! Naším
+    cílem je opět zprostředkovat užší dialog mezi vědeckou a studentskou
+    komunitou a hledat řešení společně.
+  refs:
+    meetup_id: '261222351'
+    meetup: https://www.meetup.com/paralelnipolis/events/261222351/
+
+
+- id: 2019-05-22-bitcoin-pizza-day
+  name: Bitcoin Pizza Day
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-05-22'
+  startTime: '2019-05-22T18:00:00+02:00'
+  endTime: '2019-05-22T20:00:00+02:00'
+  description: >-
+    Přijďte s námi oslavit Pizza Bitcoin Day! 🍕🍕🍕
+
+    Připomeneme si tak společně výročí nejdražší pizzy v historii...
+
+
+    Před devíti lety si programátor Laszlo Hanyecz objednal dvě Papa John’s
+    pizzy a zaplatil za ně neuvěřitelných 10 000 bitcoinů. Jednalo se totiž o
+    první transakci, při které byly bitcoiny směněny za hmotnou věc. Transakce
+    měla v té době hodnotu 41 dolarů, dnes by byla hodnota této transakce více
+    než 55 milionů dolarů.
+
+
+    Můžete se těšit na neformální diskuze o budoucnosti ne jen bitcoinu,
+    příjemnou společnost, dobrou hudbu a samozřejmě výbornou pizzu.
+  refs:
+    meetup_id: '261485858'
+    meetup: https://www.meetup.com/paralelnipolis/events/261485858/
+
+
+- id: 2019-05-16-vejdi-ven-or-tomas-polacek-na-cesty-nepripraven
+  name: 'VEJDI VEN | Tomáš Poláček: Na cesty nepřipraven'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-05-16'
+  startTime: '2019-05-16T18:30:00+02:00'
+  endTime: '2019-05-16T20:30:00+02:00'
+  description: >-
+    VEJDI VEN je série přednášek a diskuzí s cílem připravit a podpořit nový
+    projekt Paralelní Polis s pracovním názvem CRYPTO TRUCK, jehož cílem bude
+    vyrazit ze svého působiště - černého domu v Dělnické ulici v Praze - do
+    světa. Po celý následující rok budeme postupně zvát různé osobnosti -
+    cestovatele, humanitární pracovníky, ale i experty přes nejrůznější
+    technologie, kteří nám poví o svých zkušenostech a vědomostech, abychom se
+    co nejlépe připravili na cestu do neznámých končin.
+
+
+    Jako první k nám zavítá Tomáš Poláček, novinář a cestovatel. Od roku 2014
+    pracuje pro měsíčník Reportér, kde naplňuje svůj sen - cestování autostopem
+    kolem světa. Nejdříve vyrazil z Česka přes Sibiř do Severní Ameriky a
+    následně až na jih do Ohňové země. Své zážitky posléze shrnul v knize STOP:
+    Světové tažení ochmelky Poláčka. V roce 2017 se vydal na další velkou cestu
+    stopem, tentokrát ze Střelkového mysu v Africe na Střelecký ostrov v Praze,
+    kterou popisuje ve své zatím poslední knize Poslední stop: Afrika.
+
+
+    Tomáš bude v rámci své přednášky mluvit o svých zážitcích z cest a o tom,
+    jaké to je cestovat bez přípravy, na co je nutné myslet, na co nezapomenout
+    a co očekávat.
+
+
+    Vstup je dobrovolný. Jen díky Vašim příspěvkům můžeme v Paralelní Polis
+    pořádat kvalitní program. Zakoupením rezervace místa tak přispějete Tomášovi
+    na cestu k nám. Věříme, že se mu s jeho zkušenostmi povede přesvědčit
+    dopravce, aby akceptoval platbu v bitcoinech :)
+
+
+    Od 18:30 Vás zveme na neformální posezení v naší kavárně, kde představíme
+    název projektu i podrobnosti o první destinaci a náplni naší mise. Samotná
+    přednáška pak začne od 19:00.
+
+
+    ▲▲▲
+
+    CRYPTO TRUCK je projekt s cílem přinést do Afriky a celého světa nejnovější
+    technologie a myšlenky udržitelného rozvoje, vztahu k naší planetě, ale také
+    kryptoanarchie, digitální svobody, decentralizace a možnosti paralelní
+    společnosti. Pojďte do toho s námi nebo nás podpořte a staňte se tak
+    součástí tohoto neuvěřitelného příběhu.
+  refs:
+    meetup_id: '261228542'
+    meetup: https://www.meetup.com/paralelnipolis/events/261228542/
+
+
+- id: 2019-05-14-bitcoin-meetup-or-defi
+  name: Bitcoin Meetup | DeFi
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-05-14'
+  startTime: '2019-05-14T18:00:00+02:00'
+  endTime: '2019-05-14T20:00:00+02:00'
+  description: >-
+    V rámci dalšího setkání Bitcoin Meetup prozkoumáme jednu z nejslibnějších
+    aplikačních oblastí kryptoměn. Decentralizované finance staví na přirozených
+    vlastnostech kryptoměnových systémů - vlastní správa klíčů, transparentní
+    funkce, decentralizace. Jak na držených kryptoměnách kumulovat úrok či jak
+    je využít k zajištění půjčky? A mohou být DeFi budovány i nad Bitcoinem?
+    Přijďte na přednášku a následnou debatu s Krypto Josefem.
+
+
+    Krypto Josef je kryptoměnový konzultant a publicista (Finmag.cz, BTCtip.cz,
+    Alza.cz). Je spoluautorem podcastu Kryptokec. @KryptoJoseph na Twitteru.
+
+
+    ▲▲▲
+
+    Paralelní Polis je think tank a hackerspace zabývající se tématy jako je
+    decentralizace, digitální soukromí a anonymita. Jsme nezávislí na státních
+    příspěvcích a vaše podpora tuto nezávislost posílí.
+
+    Líbí se vám náš program? Podpořte nás:
+
+
+    BTC adresa:
+
+    35HMwZkg7CcXWytcXUHsqCqojJp7ZmLpBt
+
+
+    LTC adresa:
+
+    LeyyHzC9gUD4TJ9ZEJ5oUt4931N6FiUBTN
+
+
+    XMR adresa:
+
+    43CHrnDHo4BjJQNtduvJUv1a5SYFHFD9fQfappCueGT79aTADryiGfUMwX4CAif3DCRrtyEYmtMDdbPpSzMw8DsmLjL1MQw
+  refs:
+    meetup_id: '261254115'
+    meetup: https://www.meetup.com/paralelnipolis/events/261254115/
+
+
+- id: 2019-05-13-hranice-svobody-or-clovek-na-prodej
+  name: Hranice svobody | Člověk na prodej
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-05-13'
+  startTime: '2019-05-13T18:00:00+02:00'
+  endTime: '2019-05-13T21:00:00+02:00'
+  description: >-
+    Paralelní Polis a společnost Lidská práva bez hranic společně připravili
+    cyklus tří promítání, které nám na příkladu hnutí Falun Gong postupně
+    představí různé způsoby omezování lidské svobody v Číně. Cílem tohoto cyklu
+    je poukázat na celkové nastavení státní moci ve vztahu k občanům a omezování
+    svobody jejich projevu, vyznání a práva na sebeurčení, na příkladu utrpení
+    konkrétní skupiny lidí.
+
+
+    V rámci prvního setkání si promítneme kanadský investigativní dokument
+    Člověk na prodej - ilegální obchod s orgány v Číně, který odhaluje, jakým
+    způsobem Čínská republika získává orgány pro transplantaci. Čína dlouho
+    tvrdila, že orgány pocházejí od popravených vězňů, ale ukázalo se, že tato
+    informace nebyla pravdivá, nakolik tyto orgány pocházely od lidí z hnutí
+    praktikujících Falun Gong zabitých na objednávku.
+
+
+    Po promítání bude následovat diskuse.
+
+
+    Hranice svobody je cyklus zaměřený na zkoumání témat svobody a nezávislosti.
+    V rámci Paralelní Polis považujeme za důležité hledat definici těchto pojmů,
+    testovat jejich fungování a ptát se na to, jak je možné jich v současné
+    společnosti dosahovat.
+
+    https://www.lpbh.org/
+  refs:
+    meetup_id: '261228648'
+    meetup: https://www.meetup.com/paralelnipolis/events/261228648/
+
+
+- id: 2019-05-09-enviro-meetup-or-enviro-lobbing-prosazovani-zajmu
+  name: 'Enviro Meetup | Enviro lobbing: Prosazování zájmů'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-05-09'
+  startTime: '2019-05-09T18:30:00+02:00'
+  endTime: '2019-05-09T20:00:00+02:00'
+  description: >-
+    V českém jazyce za posledních 30 let pojem “lobbing” (a především lobbista)
+    zdomácněl - obohatil slovník politických nadávek. V obecnějším smyslu lze za
+    “lobbování” považovat jakoukoliv formu prosazování skupinových zájmů. Pro
+    environmentální zájmy je přitom typické, že proti sobě často stojí různé
+    zájmy skupinové nebo zájem skupinový vůči zájmu individuálnímu. Nakládání s
+    kůrovcem napadenými lesy, ochrana klimatu nebo rozšiřování chráněných území
+    - ve všech případech je výsledné řešení plně závislé právě na konkrétních
+    prosazených zájmech.
+
+
+    Jak se environmentální zájmy prosazují v praxi? Mnohé úsilí směřuje k
+    prosazení legislativního řešení. Existují i jiné cesty, ať už na lokální
+    nebo globální úrovni. Jaké však mají jednotlivé přístupy dopad? Lze je vůbec
+    měřit, abychom dospěli k důvěryhodným výsledkům? A jsou některé z nich
+    použitelné univerzálně, nebo je každý vhodný v jiném měřítku?
+
+
+    Podobných otázek bychom si mohli klást stovky, v konečném důsledku však jde
+    vždy o to, které způsoby skutečně fungují a kdo je dokáže využít. V dalším
+    díle Enviro Meetupu se pokusíme najít odpovědi na tyto otázky. Naši hosté
+    Vám představí přístupy z pozice státní správy, neziskového sektoru, nebo
+    podnikatelské sféry. Konkrétní jména budeme jako obvykle zveřejňovat
+    postupně, máte se na co těšit!
+
+
+    Enviro Meetup je pravidelným programem Paralelní Polis, jehož cílem je vést
+    diskuzi o důležitých otázkách životního prostředí a trvalé udržitelnosti.
+    Záznamy všech proběhlých meetupů jsou k dispozici na
+    https://www.youtube.com/channel/UCfHJ5Y3akQ7LA0PQmSYlYmQ
+
+
+    Vstupné na událost je dobrovolné, ale počet míst je omezen, doporučujeme
+    zakoupit si rezervaci místa, podpoříte tak projekt Paralelní Polis a
+    umožníte nám dál tvořit zajímavý program.
+
+
+    Rezervaci zakoupíte osobně v naší kavárně, kde vám barista s nákupem poradí,
+    ke každé rezervaci navíc dostanete kávu nebo limonádu zdarma. Pokud náhodou
+    nemáte cestu, napište nám e-mail na jakub.soucek@paralelnipolis.cz a my Vám
+    poradíme, jak to udělat na dálku.
+
+
+    ▲▲▲
+
+    Paralelní Polis je think tank a hackerspace zabývající se tématy jako je
+    decentralizace, digitální soukromí a anonymita. Jsme nezávislí na státních
+    příspěvcích a vaše podpora tuto nezávislost posílí.
+
+    Líbí se vám náš program? Podpořte nás:
+
+    https://www.paralelnipolis.cz/podporit/
+  refs:
+    meetup_id: '260886388'
+    meetup: https://www.meetup.com/paralelnipolis/events/260886388/
+
+
+- id: 2019-05-07-holochain-meetup
+  name: Holochain Meetup
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-05-07'
+  startTime: '2019-05-07T18:00:00+02:00'
+  endTime: '2019-05-07T20:00:00+02:00'
+  description: >-
+    Holochain is an open source software library, providing a way to build and
+    run distributed peer-to-peer applications. It isn't a blockchain per se - it
+    doesn't operate with global consensus. From the technological point of view,
+    it is an amalgamation of Git and BitTorrent in a way, combining hash chains
+    (every agent has his own chain), DHTs (distributed hash tables) and
+    cryptographic signatures. It is "agent centric" in a sense that every agent
+    writes their signed (and/or counter-signed) entries to his own source chain
+    and then shares them to a DHT, where they are validated by other nodes
+    according to the validation rules inherent to the hApp. If the rules are
+    broken, the data is rejected. This predisposes Holochain for a different
+    use-case set than blockchain, for which it allows for more efficiency,
+    scalability and extendability. It is also well suited for decentralized
+    identity and self-sovereign identity related solutions. Its core is
+    implemented in Rust + WebAssembly, but the hApps can be developed using any
+    language allowing WASM as a compile target.
+
+
+    Within this talk, Jakub Lanc will introduce you to the basic premises of the
+    Holochain technology and its applications. We'll have a quick look under the
+    hood of the architecture, touch upon possible use cases and if desired, we
+    can also walk through some actual hApp code. Jakub has a background in IT
+    and psychology and is fond of the P2P commons initiatives. The project he
+    has co-founded focuses on designing interfaces between social praxis and
+    digital technology to foster deeper cooperation within and between
+    peer-groups of young people. On the technical side, it entails Web-of-Trust
+    related concepts (self-sovereign identity, peer micro-credentials), on the
+    psycho-social side, he draws on insights and mentor support from different
+    fields of psychotherapy, NVC and contextual behavioral science. He's also
+    consulting the Liberland e-Residency project.
+
+
+    https://www.meetup.com/Holochain-Meetup-Prague
+
+
+    ▲▲▲
+
+    Parallel Polis is think-tank and hackerspace focusing on topics of
+    decentralization, digital privacy and anonymity.
+
+    We are independent on state donations and your support will strengthen
+    independence.
+
+    Do you like our program? Support us:
+
+
+    BTC address:
+
+    35HMwZkg7CcXWytcXUHsqCqojJp7ZmLpBt
+
+
+    LTC address:
+
+    LeyyHzC9gUD4TJ9ZEJ5oUt4931N6FiUBTN
+
+
+    XMR address:
+
+    43CHrnDHo4BjJQNtduvJUv1a5SYFHFD9fQfappCueGT79aTADryiGfUMwX4CAif3DCRrtyEYmtMDdbPpSzMw8DsmLjL1MQw
+  refs:
+    meetup_id: '261072106'
+    meetup: https://www.meetup.com/paralelnipolis/events/261072106/
+
+
+- id: 2019-04-25-kino-43-zakon-helena
+  name: KINO 43 - Zákon Helena
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-04-25'
+  startTime: '2019-04-25T18:00:00+02:00'
+  endTime: '2019-04-25T21:00:00+02:00'
+  description: >-
+    Zákon Helena (2016) je film mladé herečky a dokumentaristky Petry
+    Nesvačilové. Rozhodla se v něm zachytit policistku Helenu Kahnovou, které se
+    spolu se svým kolegou podařilo v 90. letech poslat do vězení několik desítek
+    lidí v kauze tzv. Berdychova gangu - včetně Berdycha samotného. Souhrnný
+    trest byl v řádu stovek let odnětí svobody – policistka získala odměnu 10
+    tisíc korun a povýšení, které jí následně bylo odebráno. Režisérce se
+    podařilo navázat filmový vztah i se samotným Berdychem a bývalými členy jeho
+    gangu.
+
+
+    Co motivuje jednu policistku postavit se mafii a co mladou dokumentaristu,
+    aby se s touto mafií kontaktovala a natočila o tom film?
+
+
+    Petra Nesvačilová byla za celovečerní film Zákon Helena nominována na
+    Českého lva a na cenu Arpa film festival v Los Angeles. Od svých 18 let
+    hostovala v Divadlo Na zábradlí, v divadle Rubín a v Palác Akropolis. Na
+    festivalu dokumentárních filmů Jeden svět / One World získala 3. místo ve
+    studentské soutěži v literární oblasti a ve fotografii. Vystudovala FAMU,
+    katedru dokumentární tvorby. Hraje v Divadlo Ungelt, VOSTO5 a u bratrů
+    Cabanů. Spolupracuje také s humanitárními organizacemi Člověk v tísni, Český
+    červený kříž a UNICEF Česká republika.
+
+
+    ▲▲▲
+
+    Paralelní Polis je think tank a hackerspace zabývající se tématy jako je
+    decentralizace, digitální soukromí a anonymita. Jsme nezávislí na státních
+    příspěvcích a vaše podpora tuto nezávislost posílí.
+
+    Líbí se vám náš program? Podpořte nás:
+
+    https://www.paralelnipolis.cz/podporit/
+  refs:
+    meetup_id: '260613146'
+    meetup: https://www.meetup.com/paralelnipolis/events/260613146/
+
+
+- id: 2019-04-23-enviro-meetup-plytvani-s-jidlem-jak-nevyhodit-az-tretinu
+  name: 'Enviro Meetup - Plýtvání s jídlem: jak nevyhodit až třetinu?'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-04-23'
+  startTime: '2019-04-23T18:00:00+02:00'
+  endTime: '2019-04-23T20:00:00+02:00'
+  description: >-
+    V Evropě se dle statistik ročně vyhodí cca 89 milionů tun, celosvětově pak
+    asi 1,2 až 2 miliardy tun potravin. Přitom 40 % potravinového odpadu vzniká
+    až na konci řetězce, v našich domácnostech. Nalezení způsobu, jak zabránit
+    takovému enormnímu plýtvání s potravinami, je jedním z nejdůležitějších
+    výzev tohoto století.
+
+
+    Proč dovážíme potraviny z druhého konce světa? Kolik z nich skončí v odpadu
+    vlivem skladování a transportu? A jaká je vůbec kvalita takových potravin.
+    Potřebujeme skutečně jahody v zimě a dýně na jaře? Avokádo k snídani a
+    pomelo k večeři?
+
+
+    A jaké je tedy řešení? Je lepší kompostování odpadu či jeho spalování v
+    bioplynkách? Jak můžeme změnit své modely chování, abychom snížili jejich
+    dopad na životní prostředí? Na tyto a spoustu dalších otázek budeme hledat
+    odpovědi na našem dalším Enviro Meetupu. Sdílejte, zvěte své přátele a
+    přijďte za námi diskutovat!
+
+
+    Enviro meetup je pravidelným programem Paralelní Polis, jehož cílem je vést
+    diskuzi o důležitých otázkách životního prostředí a trvalé udržitelnosti.
+    Záznamy všech proběhlých meetupů jsou k dispozici na našem youtube kanále
+    (https://www.youtube.com/playlist?list=PLGJQS0h-wqLQ6r8_6Ans_e26NkKsHYUh-).
+  refs:
+    meetup_id: '260613079'
+    meetup: https://www.meetup.com/paralelnipolis/events/260613079/
+
+
+- id: 2019-04-18-security-meetup-vpn-pro-vsechny
+  name: Security meetup - VPN pro všechny
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-04-18'
+  startTime: '2019-04-18T18:00:00+02:00'
+  endTime: '2019-04-18T19:30:00+02:00'
+  speakers:
+    - sodomak
+  description: >-
+    Znáte povahu svého digitálního soukromí? Záleží vám na osobní svobodě a na
+    tom, jak si ji můžete zajistit? Diskuse Internet a svoboda opět potvrdila,
+    že i po nástupu nové legislativy Evropské unie regulující autorské právo -
+    tzv. daň z odkazu, je jedním z nástrojů pro dosažení svobody na internetu
+    služba známá jako VPN. Víte, jaké možnosti nám tato technologie poskytuje?
+    Zajímá vás, jak se můžete na internetu lépe chránit? Stavte se za námi do
+    Paralelní Polis a Milan vám poradí, jak na to!
+
+
+    Milan Půlkrábek:
+
+    ► má za sebou více než dvacet let profesionální praxe v IT
+
+    ► přednáší a píše články o IT bezpečnosti, kryptoměnách a nových
+    technologiích
+
+    ► je členem spolku Paralelní Polis
+
+    ► pamatuje si počítače bez internetu, Internet bez Google a mobilní
+    komunikaci bez šifrování. I proto Vám dokáže pomoci se lépe chránit a
+    pečovat tak o svoji digitální identitu a svobodu.
+
+
+    ▲▲▲
+
+    Paralelní Polis je think tank a hackerspace zabývající se tématy jako je
+    decentralizace, digitální soukromí a anonymita. Jsme nezávislí na státních
+    příspěvcích a vaše podpora tuto nezávislost posílí.
+
+    Líbí se vám náš program? Podpořte nás:
+
+    https://www.paralelnipolis.cz/podporit/
+  refs:
+    meetup_id: '260612902'
+    meetup: https://www.meetup.com/paralelnipolis/events/260612902/
+
+
+- id: 2019-04-17-bitcoin-meetup-ekonomicke-bubliny
+  name: Bitcoin Meetup - Ekonomické bubliny
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-04-17'
+  startTime: '2019-04-17T18:30:00+02:00'
+  endTime: '2019-04-17T20:00:00+02:00'
+  speakers:
+    - dominik-stroukal
+  description: >-
+    Proč máme tu a tam krizi? A proč je historie hospodářského cyklu lemována
+    zleva počátkem moderního kapitalismu? Na příběhu deseti historických bublin
+    společně dojdeme k deseti poučením, která nám pomohou připravit se na
+    splasknutí bubliny, která nám pomalu praská pod nohama. Před několika týdny
+    vyšla Dominik Stroukal další kniha. O tomto tématu výsostně ekonomickém - o
+    bublinách, promluví v rámci dalšího ze série pravidelných setkání.
+
+
+    Dominik Stroukal:
+
+    ► je hlavní ekonom finanční skupiny Roklen24
+
+    ► vyučuje na VŠ CEVRO Institut
+
+    ► je autorem několika knih
+
+    ► provází pořadem Kdo to platí? na MALL.TV
+
+    ► je šéfredaktorem časopisu Trade-off
+
+    ► vede společnost Bit Agency
+
+    ► má doktorát z ekonomie z Vysoké školy ekonomické, vedle které vystudoval
+    také mediální studia na Univerzitě Karlově
+
+    ► v minulosti byl ředitelem Liberální institut a Ludwig von Mises Institut
+    CZ & SK
+
+    ► vyučoval na Vysoké škole finanční a správní, na Vysoké škole ekonomické a
+    na gymnáziích Porg a Nový Porg
+
+    ► je autorem první české knihy o Bitcoinu (2015) a dalších kryptoměnách
+    (2018)
+
+    ► v roce 2019 mu vyšla kniha Ekonomické bubliny
+
+
+    ▲▲▲
+
+    Paralelní Polis je think tank a hackerspace zabývající se tématy jako je
+    decentralizace, digitální soukromí a anonymita. Jsme nezávislí na státních
+    příspěvcích a vaše podpora tuto nezávislost posílí.
+
+    Líbí se vám náš program? Podpořte nás:
+
+    https://www.paralelnipolis.cz/podporit/
+  refs:
+    meetup_id: '260612679'
+    meetup: https://www.meetup.com/paralelnipolis/events/260612679/
+
+
+- id: 2019-04-03-internet-a-svoboda
+  name: Internet a svoboda
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-04-03'
+  startTime: '2019-04-03T18:00:00+02:00'
+  endTime: '2019-04-03T19:30:00+02:00'
+  description: >-
+    Slyšeli jste již o nové směrnici Evropské unie týkající se ochrany
+    autorských práv na internetu? Dva její kontroverzní články, konkrétně 11 a
+    13, vzbuzují obavy o “konci svobodného internetu”. Jak se jejich aplikace
+    projeví v praxi? Bude skutečně zajištěno právo autorů, nebo se opět spíše
+    bude soustředit moc v rukách velkých hráčů? Co všechny vaše memy, remixy
+    nebo gify? Jaký osud je čeká?
+
+
+    Článek 13 je součástí směrnice Evropské unie týkající se ochrany autorských
+    práv. Kontroverzní článek dává internetovým platformám povinnost řešit
+    autorské právo za vlastníky práv. A to až do takového měřítka, že každý
+    nahraný obsah (text, fotografie, video…) musí být už při nahrávání prověřen,
+    zda autorská práva neporušuje. Článek 11 zase ukládá povinnost vyhledávačům
+    a sociálním sítím platit za odkazy na články. Bývá označován jako „odkazová
+    daň“.
+
+
+    Hlasování proběhlo v úterý 26. března 2019: 348 hlasů pro, 274 proti, 36
+    poslanců se zdrželo. Co to pro nás znamená?
+
+
+    Účast v diskusi přislíbili:
+
+    Markéta Gregorová - členka Česká pirátská strana, členka týmu projektu
+    zachraninternet.cz
+
+
+    Pavol Trávník - právník se zájmem o krypto technologie, autor textu 8 důvodů
+    proč nestudovat právo
+
+
+    Jan Vobořil - právník a výkonný ředitel Iuridicum Remedium
+
+
+    Oslovili jsme také zástupce Seznam.cz, Google.cz a Ulož.to.
+
+
+    https://saveyourinternet.eu/act/
+
+    #savetheinternet
+
+
+    ▲▲▲
+
+    Paralelní Polis je think tank a hackerspace zabývající se tématy jako je
+    decentralizace, digitální soukromí a anonymita. Jsme nezávislí na státních
+    příspěvcích a vaše podpora tuto nezávislost posílí.
+
+    Líbí se vám náš program? Podpořte nás:
+
+    https://www.paralelnipolis.cz/podporit/
+  refs:
+    meetup_id: '260245895'
+    meetup: https://www.meetup.com/paralelnipolis/events/260245895/
+
+
+- id: 2019-01-10-parallel-societies-how-they-rise-operateanddrive-human-progress
+  name: 'Parallel Societies: How They Rise, Operate&Drive Human Progress'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-01-10'
+  startTime: '2019-01-10T18:30:00+01:00'
+  endTime: '2019-01-10T20:30:00+01:00'
+  speakers:
+    - paul-rosenberg
+  description: >-
+    • What we'll do
+
+    https://www.facebook.com/events/2393905530636827/
+
+
+    Parallel Societies have lifted mankind for the whole of recorded history,
+    and continue to do so. We'll examine how they've risen and operated, how
+    they changed they world, and how they felt to the people inside them.
+
+
+    Paul Rosenberg will join us over videocall to talk about his experience with
+    building parallel societies.
+
+    The presentation will be roughly 45 mins., plus as much Q&A as is required.
+
+
+    ► Paul Rosenberg is the author of the Free-Man’s Perspective newsletter, as
+    well as a founder of a leading online privacy system, Cryptohippie. He has a
+    broad range of interests and has been involved with cryptography projects
+    since the 1990s.
+
+
+    Prior to this, his construction and engineering career saw him called as an
+    expert witness in numerous legal cases and recruited as a consultant to a
+    number of organizations. He developed and taught 19 continuing education
+    courses for Iowa State University’s College of Engineering. He also
+    co-founded the Fiber Optic Association and wrote the first ever standard for
+    the installation of fiber optic cables in buildings.
+
+
+    An author of more than 60 books, including A Lodging of Wayfaring Men,
+    Production Versus Plunder and The Breaking Dawn, Paul is a frequent speaker
+    at conferences.
+
+
+    • Important to know
+
+    The entrance fee is voluntary, but the number of places is very limited, we
+    recommend buying a place reservation:
+
+    ►
+    https://donate.paralelnipolis.cz/events/211-1-parallel-societies-how-they-rise-operatedrive-human-progress
+
+    ► in Bitcoin Coffee, barista will advise you on the purchase
+  refs:
+    meetup_id: '257268971'
+    meetup: https://www.meetup.com/paralelnipolis/events/257268971/
+
+
+- id: 2019-01-08-bitcoin-meetup-lightning-network
+  name: Bitcoin Meetup - Lightning Network
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2019-01-08'
+  startTime: '2019-01-08T18:00:00+01:00'
+  endTime: '2019-01-08T20:00:00+01:00'
+  description: >-
+    • What we'll do
+
+    https://www.facebook.com/events/591856851256861/
+
+
+    The Bitcoin Lightning Network: What is it? Why is it needed, and what is the
+    current state of development? After the talk will be a short question and
+    answer session.
+
+
+    Talk will be held by Charles Hill a cryptocurrency enthusiast, programmer,
+    and entrepreneur. He has many years of professional experience developing
+    mobile and web applications while working for start-ups in Europe as well as
+    the United States. He is a long-time open-source contributor and for the
+    past year he has been working full-time on developing cryptocurrency payment
+    systems for business.
+
+
+    • Important to know
+
+    The entrance fee to the lecture is voluntary, but the number of places is
+    limited, we recommend buying a place reservation
+
+    ► online:
+    https://donate.paralelnipolis.cz/events/228-1-bitcoin-meetup-lightning-network
+
+    ► in Bitcoin Coffee, barista will advise you on the purchase, with every
+    booking made in person at Bitcoin Coffee there is coffee or lemonade for
+    free!
+  refs:
+    meetup_id: '257345275'
+    meetup: https://www.meetup.com/paralelnipolis/events/257345275/

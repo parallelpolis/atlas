@@ -1,0 +1,759 @@
+- id: ethprague22
+  name: ETHPrague 2022
+  date: "2022-06-10"
+  major: true
+  project: ethprague
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
+  days: 3
+  seq: 1
+  speakers:
+    - mario
+    - danny-holland
+    - william-lobkowicz
+    - tina-haibodi
+    - sara-polak
+    - jarrad-hope
+    - wlodek-gogloza
+  organizers:
+    - mario
+    - josefj
+  aftermovie: Gvv-lTjmQ9o
+
+- id: pd22
+  name: Pizza Day Prague 2022 
+  date: "2022-05-21"
+  major: true
+  project: pizza-day
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
+  seq: 1
+  speakers:
+    - amir-taaki
+    - joerg-platzer
+    - vlad-costea
+    - exiledsurfer
+    - sergej-kotliar
+    - ruben-somsen
+  organizers:
+    - mario
+
+- id: 2022-12-16-parallel-xmas-party-2022
+  name: Parallel Xmas Party 2022
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-12-16'
+  startTime: '2022-12-16T19:00:00+01:00'
+  endTime: '2022-12-17T04:20:00+01:00'
+  description: >-
+    Do you want to experience something unusual? You’ve come to the right place!
+    Come to the non plus ultra Christmas party in the darkest house in
+    Holešovice, learn how to pay with crypto, and have fun! 🎄 You can also look
+    forward to a little "bomb" gift 🎈
+
+
+    19:00 ► Doors open 🎉
+
+    20:00 ► DJ Snöflinga ❄️
+
+
+    Admission fee ► 200 CZK in advance / 250 CZK at the door
+
+
+    Our merch and other trinkets will be for sale at the venue ►►► the perfect
+    gift for your #cryptofriends 🎁
+
+
+    And as usual – alcohol and non-alcohol can be bought with BTC / LTC and
+    Lightning Network. It’s not complicated and we’ll be happy to teach you.
+
+
+    **→ [Book your spot now!](https://tickets.paralelnipolis.cz/PP/xmas22/) ←**
+  refs:
+    meetup_id: '289315952'
+    meetup: https://www.meetup.com/paralelnipolis/events/289315952/
+
+
+- id: 2022-12-14-bitcoin-meetup-or-shitcoiny-na-lightningu
+  name: Bitcoin MeetUp | Shitcoiny na lightningu
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-12-14'
+  startTime: '2022-12-14T18:30:00+01:00'
+  endTime: '2022-12-14T20:30:00+01:00'
+  description: >-
+    Lightning Network odpoutal Bitcoin z řetězu a otevřel nám tak nové možnosti.
+    Lightning jsme zatím vnímali jako novou kapitolu škálovatelnosti Bitcoinu,
+    avšak postupně odhaluje svůj další potenciál. Nabízejí se možnosti
+    tokenizace v rámci samotné Lightning Network - stablecoiny, arbitrární
+    tokeny a decentralizované burzy na nativní druhé vrstvě Bitcoinu. Ty všechny
+    dnes existují a v blízké budoucnosti se mohou stát našimi každodenními
+    nástroji.
+
+
+    Na meetupu se seznámíte s různými projekty, které tyto technologie
+    implementují, s jejich fungováním a problémy. Po přednášce bude prostor pro
+    diskusi a tradiční párty v Bordelu!
+
+
+    V případě zájmu se registrujte na
+    [paralelnipolis.cz!](https://paralelnipolis.cz)
+  refs:
+    meetup_id: '290100164'
+    meetup: https://www.meetup.com/paralelnipolis/events/290100164/
+
+
+- id: 2022-12-13-ethereum-meetup-or-kzg-summoning-ceremony
+  name: Ethereum MeetUp | KZG Summoning Ceremony
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-12-13'
+  startTime: '2022-12-13T19:00:00+01:00'
+  endTime: '2022-12-13T21:00:00+01:00'
+  description: >-
+    Whisperers from shadows tell of the powerful spirit of Dankshard, who will
+    open the next chapter of Ethereum scalability. To summon its powers, a
+    Ceremony needs your contribution. Magic math awaits - are you ready to add
+    your color to the story? This meetup will prepare you for overcoming the
+    summoning ritual. Come to learn about upcoming upgrades in Ethereum
+    protocol, how Proto-Danksharding can make Ethereum more scalable, and
+    everyone from the community, even your cat, can help to secure it.
+
+
+    If interested, sign up at [paralelnipolis.cz!](https://paralelnipolis.cz)
+  refs:
+    meetup_id: '290100157'
+    meetup: https://www.meetup.com/paralelnipolis/events/290100157/
+
+
+- id: 2022-11-30-privacy-and-security-meetup
+  name: Privacy & Security MeetUp
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-11-30'
+  startTime: '2022-11-30T18:00:00+01:00'
+  endTime: '2022-11-30T20:00:00+01:00'
+  description: >-
+    This regular meetup on security and privacy is more practically oriented.
+    You can look forward to talks on the issues of data protection on the
+    Internet, techniques to prevent data collection by big browsers (Google),
+    and other techniques to protect privacy in the online space. The meetup
+    takes the form of a discussion, Q&A and, if interested, practical
+    demonstrations, so we recommend bringing your own computer.
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz) !
+  refs:
+    meetup_id: '289640985'
+    meetup: https://www.meetup.com/paralelnipolis/events/289640985/
+
+
+- id: 2022-11-25-workshop-or-search-engines-browsers-and-privacy-extensions
+  name: Workshop | Search engines, browsers & privacy extensions
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-11-25'
+  startTime: '2022-11-25T18:00:00+01:00'
+  endTime: '2022-11-25T20:00:00+01:00'
+  description: >-
+    Workshop topics:
+
+
+    • tracking, BIG DATA and why to avoid it
+
+    • extensions (Privacy Badger, Adblocker, FBPurity, Decentraleyes)
+
+    • browser – which is the best?
+
+    • search engine – why (not) DuckDuckGo, Presearch
+
+
+    *If you want, bring your laptop.*
+
+
+    **Price: 350 CZK**
+
+
+    **→ [Only 10 spots are available, book yours
+    now!](https://www.paralelnipolis.cz/shop/workshop-privacy/) ←**
+  refs:
+    meetup_id: '289020595'
+    meetup: https://www.meetup.com/paralelnipolis/events/289020595/
+
+
+- id: 2022-11-23-web3-meetup-or-how-to-launch-a-web3-startup
+  name: Web3 MeetUp | How to launch a web3 startup
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-11-23'
+  startTime: '2022-11-23T18:00:00+01:00'
+  endTime: '2022-11-23T20:00:00+01:00'
+  description: >-
+    We’ll talk about essential steps in startup preparation and launch, dos and
+    don’ts in strategy, and the secret sauce of success in web3. We’ll wrap up
+    with all the resources that you can use on your own and the ways how to
+    interpret them in a professional manner.
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '289640819'
+    meetup: https://www.meetup.com/paralelnipolis/events/289640819/
+
+
+- id: 2022-11-22-investnight-2022
+  name: InvestNight 2022
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-11-22'
+  startTime: '2022-11-22T17:30:00+01:00'
+  endTime: '2022-11-22T21:30:00+01:00'
+  description: >-
+    Přemýšlíte, **kam v době vysoké inflace uložit své úspory? Chcete si o
+    investování pokecat a dozvědět se nejaktuálnější informace od odborníků z
+    oboru?** Právě pro Vás jsme tedy přichystali **neformální meetup InvestNight
+    2022**. Na akci vystoupí zástupci společností, které jsou špičkami v
+    oblastech investování do **akcií, dluhopisů, ale i kryptoměn a dalších
+    alternativních investičních artiklů**. Přijďte na meetup osobně a mimo
+    hlavní program využijte **i networkingu při občerstvení**. Alternativně lze
+    také sledovat **stream z pohodlí domova**.
+
+
+    Zárukou kvalitní akce je její organizační tým, který má na kontě již několik
+    úspěšných konferencí, jako jsou například
+    [CryptoNight](https://www.cryptonight.cz/),
+    [Block’22](https://www.blockchain-konference.cz/) nebo [FinTech
+    Roadmap](https://www.ctit.cz/konference-fintech-roadmap-2022/). Věříme
+    totiž, že kromě získání hodnotných informací by se na konferenci měl
+    účastník **skvěle bavit a ideálně si také rozšířit svou síť**.
+
+
+    **Cena:** Osobní účast – 249 Kč / Stream – zdarma
+
+
+    **Cena zahrnuje:**
+
+
+    * Vstup na konferenci
+
+    * Možnost osobního networkingu
+
+    * Drobné občerstvení
+
+
+    Aktuální informace o meetupu sledujte na [facebookové
+    události](https://fb.me/e/33IGwGM5Y).
+
+
+    ### Registrace
+
+
+    Pokud plánujete osobní účast, neváhejte prosím s koupí vstupenky, jelikož
+    kapacita prostor je omezená. V případě, že zvolíte účast online Vám zašleme
+    před začátkem akce odkaz na stream.
+
+
+    Registrovat se můžete [zde](https://www.ctit.cz/en/investnight-2022/)!
+  refs:
+    meetup_id: '289640912'
+    meetup: https://www.meetup.com/paralelnipolis/events/289640912/
+
+
+- id: 2022-11-16-lets-talk-crypto-5
+  name: 'Let''s Talk Crypto #5 🇬🇧'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-11-16'
+  startTime: '2022-11-16T18:00:00+01:00'
+  endTime: '2022-11-16T20:00:00+01:00'
+  description: >-
+    This meetup is designed to discuss current events in the field of
+    cryptocurrencies, explain basic concepts, how blockchain works, trading, and
+    related topics. Each meetup is unique depending on who is currently
+    attending and what questions are being asked. Our goal is for everyone to be
+    able to freely discuss any topics together and thus enrich each other.
+
+
+    If interested, sign up at [paralelnipolis.cz](https://paralelnipolis.cz)!
+  refs:
+    meetup_id: '289601083'
+    meetup: https://www.meetup.com/paralelnipolis/events/289601083/
+
+
+- id: 2022-11-09-talk-and-print-or-cypherpunk-now-x-paralelni-polis
+  name: Talk & Print | Cypherpunk Now x Paralelní Polis
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-11-09'
+  startTime: '2022-11-09T18:00:00+01:00'
+  endTime: '2022-11-09T20:00:00+01:00'
+  description: >-
+    Screen printing session + Talk about the meaning and grass root development
+    of the Cypherpunk Future is Now statement!
+
+
+    Join the Cypherpunk Future is Now clan.
+
+    Bring your t-shirt and make it a statement piece.
+
+    Screen-printing any surface, ready to wear.
+
+
+    If you are interested, please email us at meetup@paralelnipolis.cz.
+  refs:
+    meetup_id: '289250296'
+    meetup: https://www.meetup.com/paralelnipolis/events/289250296/
+
+
+- id: 2022-11-04-workshop-or-security-with-linux
+  name: Workshop | Security with Linux
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-11-04'
+  startTime: '2022-11-04T18:00:00+01:00'
+  endTime: '2022-11-04T20:00:00+01:00'
+  description: >-
+    Workshop topics:
+
+
+    • Why Linux (Linux vulnerability)
+
+    • Secure Linux Distros (Debian, PureOS, Kodachi, Tails/HeadsOS, Subgraph,
+    Discreete, Kaisen)
+
+    • Qubes (architecture, VMs)
+
+
+    *If you want, bring your laptop.*
+
+
+    **Price: 350 CZK**
+
+    linux
+
+    **→ [Only 10 spots are available, book yours
+    now!](https://www.paralelnipolis.cz/shop/workshop-security-with-linux/) ←**
+  refs:
+    meetup_id: '289020590'
+    meetup: https://www.meetup.com/paralelnipolis/events/289020590/
+
+
+- id: 2022-11-02-privacy-and-security-meetup-w-sodomak
+  name: Privacy & Security MeetUp w/ Sodomak
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-11-02'
+  startTime: '2022-11-02T18:00:00+01:00'
+  endTime: '2022-11-02T20:00:00+01:00'
+  speakers:
+    - sodomak
+  description: >-
+    This regular meetup on security and privacy is more practically oriented.
+    You can look forward to talks on the issues of data protection on the
+    Internet, techniques to prevent data collection by big browsers (Google),
+    and other techniques to protect privacy in the online space. The meetup
+    takes the form of a discussion, Q&A and, if interested, practical
+    demonstrations, so we recommend bringing your own computer.
+
+
+    Sodomak is an information security consultant. He specializes in digital
+    security and self-defense in the online world. He has more than 20 years of
+    professional experience in IT. Through training, lectures, and
+    consultations, he guides ordinary and professional users to secure their
+    devices and accounts as well as hackers themselves.
+
+
+    If you are interested, please email us at meetup@paralelnipolis.cz.
+  refs:
+    meetup_id: '289255880'
+    meetup: https://www.meetup.com/paralelnipolis/events/289255880/
+
+
+- id: 2022-10-26-web3-meetup-or-trends-and-threats
+  name: Web3 MeetUp | Trends & Threats
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-10-26'
+  startTime: '2022-10-26T18:00:00+02:00'
+  endTime: '2022-10-26T20:00:00+02:00'
+  description: >-
+    We will be discussing trends and challenges inside the industry: what kind
+    of projects are popular these days, why some fail, what are regional
+    patterns of their focus&nature, standard features across subindustries, and
+    what does the future look like according to those startups.
+
+
+    If you are interested, please email us at meetup@paralelnipolis.cz.
+  refs:
+    meetup_id: '289020572'
+    meetup: https://www.meetup.com/paralelnipolis/events/289020572/
+
+
+- id: 2022-10-21-workshop-or-linux-for-beginners
+  name: Workshop | Linux for beginners
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-10-21'
+  startTime: '2022-10-21T18:00:00+02:00'
+  endTime: '2022-10-21T20:00:00+02:00'
+  description: >-
+    **Workshop topics:**
+
+
+    • What is Linux
+
+    • Linux architecture & different Linux distributions
+
+    • How to install Linux on VM (tutorial)
+
+    • Basic commands in Linux
+
+    • How to install the software (packages)
+
+    • How to deal with Windows Software in Linux
+
+
+    **Price: 350 CZK**
+
+
+    **→ [Only 10 spots are available, book yours
+    now!](https://www.paralelnipolis.cz/shop/workshop-linux-for-beginners/) ←**
+  refs:
+    meetup_id: '288918854'
+    meetup: https://www.meetup.com/paralelnipolis/events/288918854/
+
+
+- id: 2022-10-19-lets-talk-crypto-4
+  name: 'Let''s Talk Crypto #4 🇬🇧'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-10-19'
+  startTime: '2022-10-19T18:00:00+02:00'
+  endTime: '2022-10-19T20:00:00+02:00'
+  description: >-
+    This meetup is designed to discuss current events in the field of
+    cryptocurrencies, explain basic concepts, how blockchain works, trading, and
+    related topics. Each meetup is unique depending on who is currently
+    attending and what questions are being asked. Our goal is for everyone to be
+    able to freely discuss any topics together and thus enrich each other.
+
+
+    If you are interested, please email us at meetup@paralelnipolis.cz.
+  refs:
+    meetup_id: '288650747'
+    meetup: https://www.meetup.com/paralelnipolis/events/288650747/
+
+
+- id: 2022-10-14-biohacking-meetup-2-or-kanabinoidy
+  name: 'Biohacking Meetup #2 | Kanabinoidy'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-10-14'
+  startTime: '2022-10-14T18:00:00+02:00'
+  endTime: '2022-10-14T20:00:00+02:00'
+  description: >-
+    Konopný olej, CBD kapky, konopná mast, pesticidová bomba v plastovém sáčku
+    od lokálního dílera, nebo prémiový marocký hašiš. S trávou se dnes setkáváme
+    na každém kroku a vyskakuje na nás z každého trendového marketingového
+    sloganu, či punkových vietnamských potravin. Jaké látky se však v rostlině
+    konopí ve skutečnosti nachází? Co vlastně dělá s naším tělem? Jaké jsou
+    benefity a jaká rizika jejího užívání? To vše se dozvíte na našem druhém
+    Biohacking MeetUpu!
+
+
+    Přijďte hacknout endokanabinoidní systém už 14.10. od 18:00 hodin do
+    Paralelní Polis!
+
+
+    **Cena: 190 Kč (včetně ochutnávkového balíčku)**
+
+
+    **→ [Kapacita je 15 osob, zarezervuj si své místo co
+    nejdříve!](https://www.paralelnipolis.cz/shop/biohacking-meetup-2-cannabinoids/)
+    ←**
+  refs:
+    meetup_id: '288919553'
+    meetup: https://www.meetup.com/paralelnipolis/events/288919553/
+
+
+- id: 2022-10-05-meetup-w-pavol-wilder-luptak
+  name: MeetUp w/ Pavol Wilder Lupták
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-10-05'
+  startTime: '2022-10-05T18:00:00+02:00'
+  endTime: '2022-10-05T20:00:00+02:00'
+  description: >-
+    Wilder is a cryptoanarchist & voluntaryist focused on technology and society
+    hacking. IT security guy, founder of IT security hacking companies
+    (Nethemba, Hacktrophy), contemporary art (Satori), and Liberation.travel.
+    Co-founder of Bratislava’s and Prague’s hackerspaces (Progressbar &
+    Paralelní Polis). Member of Czech contemporary anti-government artistic
+    group Ztohoven. Responsible for many anti-government & digital privacy
+    projects.”
+
+
+    You will have a unique opportunity to meet Palo and ask him anything you
+    want at this meetup!
+  speakers:
+    - wilder
+  refs:
+    meetup_id: '288349261'
+    meetup: https://www.meetup.com/paralelnipolis/events/288349261/
+
+- id: hcpp22
+  name: "HCPP22: Last Shot"
+  date: "2022-09-29"
+  major: true
+  project: hcpp
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
+  days: 3
+  seq: 9
+  refs:
+    web: https://last-shot.hcpp.cz
+    meetup_id: '288349083'
+    meetup: https://www.meetup.com/paralelnipolis/events/288349083/
+  startTime: '2022-09-30T10:00:00+02:00'
+  endTime: '2022-10-02T22:00:00+02:00'
+  description: >-
+    They took a shot at privacy, building surveillance systems.
+
+
+    They took a shot at encryption, saying surveillance cannot work if we don’t
+    give them keys.
+
+
+    They took a shot at anonymity, with face recognition, profiling, social
+    credit scores.
+
+
+    We were hiding in a masked crowd.
+
+
+    They took a shot at financial communication, counterfeiting units of money
+    and taking the wealth of the society for themselves.
+
+
+    They enlisted their friendly corporations to supply them with the bullets of
+    control and oppression.
+
+
+    Who will fire the last shot?
+
+
+    And will we then – finally – disappear?
+
+    **[Get your ticket NOW!](https://last-shot.hcpp.cz/)**
+
+    **[Hackers Congress Paralelní Polis](http://www.hcpp.cz/)** (HCPP) is its
+    flagship event, which since 2014 has been regularly attended by over 500
+    fans and IT experts from all over the world. The HCPP is always held in
+    Prague on the first weekend in October. The main thematic pillars of the
+    three-day congress are Freedom & Cryptanarchy, Decentralized Economics, &
+    Cryptocurrencies, Political Art & Hacking, and Science & Technology.
+  speakers:
+    - ryan-lackey
+    - paul-rosenberg
+    - daniela-brozzoni
+    - parazyd
+    - sethforprivacy
+    - max-hampshire
+    - jarrad-hope
+    - rachel-rose
+    - mitch-altman
+    - scott-beibin
+    - filip-dvorak
+    - jindrich-karasek
+    - kai-landre
+    - janine
+    - ariel-gabizon
+    - alexandra-moxin
+  aftermovie: MDJLELT0fpw
+
+- id: 2022-09-26-bitcoin-meetup-or-vzestup-a-pad-bitcoin-kultury
+  name: Bitcoin Meetup | Vzestup a pád Bitcoin kultury
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-09-26'
+  startTime: '2022-09-26T18:00:00+02:00'
+  endTime: '2022-09-26T20:00:00+02:00'
+  description: >-
+    Za poslední roky si prošla Bitcoin kultura velkým přerodem - od malé party
+    geeků, hackerů a kryptoanarchistů se po pár vlnách adopce Bitcoin stal
+    mainstreamovou záležitostí. Každá tato vlna však za sebou zanechává spoušť,
+    smývá původní idee a narativy o Bitcoinu sa rychle mění. Přijďte se naučit o
+    výzvách, kterým Bitcoin a jeho komunita dnes čelí a podiskutovat o
+    retrospektivě Bitcoin hnutí.
+
+
+    Mário Havel je chaos monkey, hacker a výzkumník. Snaží se dělat
+    kryptoekosystém víc efektivní, svobodný a dostupný. Jako člen Paralelních
+    Polis a spoluzakladetel Bordelu, edukuje o nástrojích kryptoanarchie a šíří
+    FOSS technologie a paralelní ekonomiku.
+  refs:
+    meetup_id: '288432708'
+    meetup: https://www.meetup.com/paralelnipolis/events/288432708/
+
+
+- id: 2022-09-21-lets-talk-crypto-3
+  name: 'Let''s Talk Crypto #3 🇬🇧'
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-09-21'
+  startTime: '2022-09-21T18:00:00+02:00'
+  endTime: '2022-09-21T20:00:00+02:00'
+  description: >-
+    This meetup is designed to discuss current events in the field of
+    cryptocurrencies, explain basic concepts, how blockchain works, trading, and
+    related topics. Each meetup is unique depending on who is currently
+    attending and what questions are being asked. Our goal is for everyone to be
+    able to freely discuss any topics together and thus enrich each other.
+
+
+    If you are interested, please email us at meetup@paralelnipolis.cz.
+  refs:
+    meetup_id: '288349053'
+    meetup: https://www.meetup.com/paralelnipolis/events/288349053/
+
+
+- id: 2022-09-18-the-bordel-merge-experience
+  name: The Bordel Merge Experience
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-09-18'
+  startTime: '2022-09-18T18:00:00+02:00'
+  endTime: '2022-09-19T04:20:00+02:00'
+  speakers:
+    - mario
+  description: >-
+    **COME TO CELEBRATE THE MERGE IN THE LEGENDARY BORDEL HACKERSPACE w/ Mario
+    Havel!**
+
+
+    **THE MERGE**
+
+
+    * Soon, the current Ethereum Mainnet will merge with the Beacon Chain
+    proof-of-stake system.
+
+    * This will mark the end of proof-of-work for Ethereum and the complete
+    transition to proof-of-stake.
+
+    * This sets the stage for future scaling upgrades including sharding.
+
+    * The Merge will reduce Ethereum’s energy consumption by \~99.95%.
+
+
+    The evening will begin at 6 pm with a special Merge fusion dinner prepared
+    by Kate from [sci-fi Kitchen](https://www.instagram.com/kitchen.scifi/).
+
+
+    The number of seats is limited. Book yours
+    [HERE](https://cryptpad.fr/form/#/2/form/view/Hul7uVeO5qJOm74WdA8ImKNIYj4xSQ+k51TGnrhwtFM/)
+    as soon as possible !
+
+
+    **BRING YOUR [BORDEL.WTF](https://BORDEL.WTF) POAP TO GET A SPECIAL
+    PRESENT!**
+
+
+    Bordel is a small community hackerspace located in the basement of Paralelní
+    Polis. Basically, it’s room with a modular setup suitable for work, hacking
+    or organizing smaller workshops. There is a bunch of hw, tools, 3d printers,
+    soldering gear, a workbench and some music/noise instruments available for
+    use.
+  refs:
+    meetup_id: '288349032'
+    meetup: https://www.meetup.com/paralelnipolis/events/288349032/
+
+
+- id: 2022-09-15-biohacking-meetup-or-tea-trip
+  name: Biohacking MeetUp | Tea Trip
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+  date: '2022-09-15'
+  startTime: '2022-09-15T18:00:00+02:00'
+  endTime: '2022-09-15T20:00:00+02:00'
+  description: >-
+    Znáte čaje pouze jako fádní teplý nápoj v papírovém sáčku? Nebo taky znáte
+    pravý čaj, jeho zdravotní benefity a jeho využití v biohackingu a při
+    „změněných stavech vědomí“?
+
+
+    Přijďte se k nám ponořit do čajové rabbit hole!
+  refs:
+    meetup_id: '288348882'
+    meetup: https://www.meetup.com/paralelnipolis/events/288348882/

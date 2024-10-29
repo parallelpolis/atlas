@@ -1,0 +1,618 @@
+[
+  {
+    "id": "8cVWbFeNCO8",
+    "slug": "ethprague22-first-principles-for-dao-design",
+    "videoId": "8cVWbFeNCO8",
+    "url": "https://www.youtube.com/watch?v=8cVWbFeNCO8",
+    "img": "8cVWbFeNCO8.jpg",
+    "publishedAt": "2023-08-09T19:18:41Z",
+    "desc": "In this talk, I will share an evidence-based framework for how to design organizations that are fully permissionless, truly autonomous (non-anarchical) and infinitely scalable.",
+    "duration": 1165,
+    "name": "First principles for DAO design",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Andrej Berlin"
+    ]
+  },
+  {
+    "id": "yD3aucKVXZc",
+    "slug": "building-multichainlayered-dapps-justyna-broniszewska-bartek-rutkowski",
+    "videoId": "yD3aucKVXZc",
+    "url": "https://www.youtube.com/watch?v=yD3aucKVXZc",
+    "img": "yD3aucKVXZc.jpg",
+    "publishedAt": "2023-08-09T19:20:00Z",
+    "desc": "Building front-end for DApps that touches many layers or chains introduces extra levels of complexity to already non-trivial blockchain development. Join us and learn how to rapidly develop front-ends for your smart contracts working on multiple chains.",
+    "duration": 1544,
+    "name": "Building multichain/layered DApps / Justyna Broniszewska, Bartek Rutkowski",
+    "people": []
+  },
+  {
+    "id": "OCutRHoc28k",
+    "slug": "ethprague22-data-wants-to-be-free",
+    "videoId": "OCutRHoc28k",
+    "url": "https://www.youtube.com/watch?v=OCutRHoc28k",
+    "img": "OCutRHoc28k.jpg",
+    "publishedAt": "2023-08-09T19:21:21Z",
+    "desc": "A decentralized financial system needs data metrics to be understood. What's the current state of data in crypto, and how can we ensure that the data is trustworthy and easily available?",
+    "duration": 1623,
+    "name": "Data Wants to be Free",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "David Mihal"
+    ]
+  },
+  {
+    "id": "qLkqWvmnz_E",
+    "slug": "ethprague22-towards-trust-minimized-transactions-and-a-transparent-web3",
+    "videoId": "qLkqWvmnz_E",
+    "url": "https://www.youtube.com/watch?v=qLkqWvmnz_E",
+    "img": "qLkqWvmnz_E.jpg",
+    "publishedAt": "2023-08-09T19:23:31Z",
+    "desc": "Signing web3 transactions is a dangerous business: Nobody knows what really hides behind the hex string messages mostly displayed in wallets today. But it doesn't need to be this way! Why decentralized source verification and code commenting can help us create a safer web3.",
+    "duration": 1586,
+    "name": "Towards Trust-Minimized Transactions and a Transparent Web3",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Franziska Heintel"
+    ]
+  },
+  {
+    "id": "41erliY4fjo",
+    "slug": "ethprague22-user-defined-organization-moving-beyond-coin-voting-governance",
+    "videoId": "41erliY4fjo",
+    "url": "https://www.youtube.com/watch?v=41erliY4fjo",
+    "img": "41erliY4fjo.jpg",
+    "publishedAt": "2023-08-09T19:25:12Z",
+    "desc": "The User-Defined Organization is a new approach to decentralized governance developed as an alternative to coin voting governance. Its main goal is to empower the actual users of web3 platforms while decreasing the surface of economic attacks against DAOs.",
+    "duration": 1643,
+    "name": "User-Defined Organization. Moving beyond coin voting governance",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Wlodek Gogloza|wlodek-gogloza"
+    ]
+  },
+  {
+    "id": "7wRDynP6ZDI",
+    "slug": "web-augmentation-fighting-mass-brainwashing-by-teaching-society-to-consciously-choose",
+    "videoId": "7wRDynP6ZDI",
+    "url": "https://www.youtube.com/watch?v=7wRDynP6ZDI",
+    "img": "7wRDynP6ZDI.jpg",
+    "publishedAt": "2023-08-09T19:31:40Z",
+    "desc": "Sasha Pitkevich / Web augmentation is a new WEB3 concept. It imagines a decentralized front-end that is helping enable freedom of thought and battle cancel culture. We will look at the structure of an Ethereum based augmented web platform, as well as dapps which are making this concept a reality.",
+    "duration": 1156,
+    "name": "Web Augmentation: fighting mass brainwashing by teaching society to consciously choose",
+    "people": []
+  },
+  {
+    "id": "KUBRRipLOjE",
+    "slug": "ethprague22-a-whirlwind-tour-of-threshold-signature-schemes",
+    "videoId": "KUBRRipLOjE",
+    "url": "https://www.youtube.com/watch?v=KUBRRipLOjE",
+    "img": "KUBRRipLOjE.jpg",
+    "publishedAt": "2023-08-09T19:32:19Z",
+    "desc": "A mathematical introduction to threshold signing in ECDSA, Schnorr, and BLS, and why it matters for Ethereans and the broader ecosystem",
+    "duration": 967,
+    "name": "A whirlwind tour of threshold signature schemes",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Thor Kamphefner"
+    ]
+  },
+  {
+    "id": "TKJqF1mAAcY",
+    "slug": "ethprague22-blockchain-and-art-intertwine-use-cases-flaws-and-possible-solutions",
+    "videoId": "TKJqF1mAAcY",
+    "url": "https://www.youtube.com/watch?v=TKJqF1mAAcY",
+    "img": "TKJqF1mAAcY.jpg",
+    "publishedAt": "2023-08-09T19:33:12Z",
+    "desc": "This presentation is an attempt to conceptualize the main blockchain use cases for the art industry, analyze the current NFTs landscape, give a concrete and systematic overview of the benefits and flaws of the blockchain and NFTs technology, and propose solutions.",
+    "duration": 1527,
+    "name": "Blockchain and art intertwine: use cases, flaws & possible solutions",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Sasha Shilina"
+    ]
+  },
+  {
+    "id": "iW5Qrf9Xqq4",
+    "slug": "ethprague22-from-cryptocurrencies-to-cryptostates",
+    "videoId": "iW5Qrf9Xqq4",
+    "url": "https://www.youtube.com/watch?v=iW5Qrf9Xqq4",
+    "img": "iW5Qrf9Xqq4.jpg",
+    "publishedAt": "2023-08-09T19:33:59Z",
+    "desc": "This talk is for those who are serious, a reminder of the political consequences of our movement. It began with currency, then smart contracts, now - we're coming for the Nation State.",
+    "duration": 1691,
+    "name": "From Cryptocurrencies to Cryptostates",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Jarrad Hope|jarrad-hope"
+    ]
+  },
+  {
+    "id": "9nStBp0nH6I",
+    "slug": "ethprague22-composability-extreminists-callback-or-no-callbacks",
+    "videoId": "9nStBp0nH6I",
+    "url": "https://www.youtube.com/watch?v=9nStBp0nH6I",
+    "img": "9nStBp0nH6I.jpg",
+    "publishedAt": "2023-08-09T19:34:47Z",
+    "desc": "No one likes ERC-777 anymore, some despise it, some scared of it. Perhaps for good reasons.",
+    "duration": 1338,
+    "name": "Composability Extreminists: Callback or No-Callbacks?",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Miao ZhiCheng"
+    ]
+  },
+  {
+    "id": "XvZVjPeqtWc",
+    "slug": "live-interview-marius-van-der-wijden-and-sara-polak",
+    "videoId": "XvZVjPeqtWc",
+    "url": "https://www.youtube.com/watch?v=XvZVjPeqtWc",
+    "img": "XvZVjPeqtWc.jpg",
+    "publishedAt": "2023-08-09T19:40:01Z",
+    "desc": "Sara Polak will interview Marius van der Wijden.",
+    "duration": 770,
+    "name": "Live Interview: Marius van der Wijden and Sara Polak",
+    "people": []
+  },
+  {
+    "id": "I001OIl9x_Y",
+    "slug": "how-smart-contract-help-settle-disputes-in-decentralised-dispute-resolution-platforms",
+    "videoId": "I001OIl9x_Y",
+    "url": "https://www.youtube.com/watch?v=I001OIl9x_Y",
+    "img": "I001OIl9x_Y.jpg",
+    "publishedAt": "2023-08-09T19:44:35Z",
+    "desc": "Jamilya Kamalova / The traditional way of approaching the dispute would be negotiation, mediation, arbitration and if neither of the aforementioned worked the most common way of settling a dispute would be through the court.",
+    "duration": 1770,
+    "name": "How smart contract help settle disputes in decentralised dispute resolution platforms",
+    "people": []
+  },
+  {
+    "id": "HqtiIZ0HLR4",
+    "slug": "ethprague22-applying-principles-of-sustainable-architecture-and-urbanism-in-metaverse",
+    "videoId": "HqtiIZ0HLR4",
+    "url": "https://www.youtube.com/watch?v=HqtiIZ0HLR4",
+    "img": "HqtiIZ0HLR4.jpg",
+    "publishedAt": "2023-08-09T19:46:00Z",
+    "desc": "The importance of sustainability in architecture and urbanism is growing and architects face many challenges while searching for answers to design sustainable cities. Many of these sustainability principles may be also transferred to architectural design in metaverse.",
+    "duration": 1649,
+    "name": "Applying principles of sustainable architecture and urbanism in metaverse",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Martin Baric"
+    ]
+  },
+  {
+    "id": "DUCN867FYws",
+    "slug": "ethprague22-nfts-that-make-sense",
+    "videoId": "DUCN867FYws",
+    "url": "https://www.youtube.com/watch?v=DUCN867FYws",
+    "img": "DUCN867FYws.jpg",
+    "publishedAt": "2023-08-09T19:48:30Z",
+    "desc": "In 2020 relatively unknown artists kicked-off the NFT hype. Beyond the hype, well-positioned products that don’t have any utility, or their utility is trivially simple are the major objects that can be speculated upon. It is unsustainable and potentially bad for the industry.",
+    "duration": 1469,
+    "name": "NFTs That Make Sense",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Daniel Vaczi"
+    ]
+  },
+  {
+    "id": "SU69JpUCpdE",
+    "slug": "ethprague22-extracting-mev-after-the-merge",
+    "videoId": "SU69JpUCpdE",
+    "url": "https://www.youtube.com/watch?v=SU69JpUCpdE",
+    "img": "SU69JpUCpdE.jpg",
+    "publishedAt": "2023-08-09T19:49:18Z",
+    "desc": "Today, mining pools have a stream of private transactions that extract MEV. They are expected to not steal the MEV or risk being cut out entirely. After the merge, this model breaks as rational solo stakers will steal the MEV. To avoid this, we need a new system.",
+    "duration": 1367,
+    "name": "Extracting MEV After the Merge",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Lightclient"
+    ]
+  },
+  {
+    "id": "Cmuz_Xn_YJw",
+    "slug": "ethprague22-ethereum-in-numbers-where-tps-meets-physics",
+    "videoId": "Cmuz_Xn_YJw",
+    "url": "https://www.youtube.com/watch?v=Cmuz_Xn_YJw",
+    "img": "Cmuz_Xn_YJw.jpg",
+    "publishedAt": "2023-08-09T19:50:17Z",
+    "desc": "Everyone wants mainnet to be cheaper, faster and lighter... and everyone hates gas spikes, sync time and disk bloat. Peeking into the data-flows of Ethereum, however, can shed a surprising light on what clients need to crunch through. What can we improve, and what must we break?",
+    "duration": 1638,
+    "name": "Ethereum in numbers: Where TPS meets physics",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Péter Szilágyi"
+    ]
+  },
+  {
+    "id": "b0WHekOdzz0",
+    "slug": "ethprague22-can-web3-learn-from-the-vegan-movement",
+    "videoId": "b0WHekOdzz0",
+    "url": "https://www.youtube.com/watch?v=b0WHekOdzz0",
+    "img": "b0WHekOdzz0.jpg",
+    "publishedAt": "2023-08-09T19:51:08Z",
+    "desc": "The web3 community is trying to solve a problem that society doesn’t see as a problem and in order to do so, needs to achieve mass adoption to fulfill its goals. This resembles the challenges of the vegan movement and I believe there are lessons to be learned from the work of ani",
+    "duration": 1279,
+    "name": "Can web3 learn from the vegan movement?",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Dobroslawa Gogloza"
+    ]
+  },
+  {
+    "id": "-vwObt8LCrA",
+    "slug": "ethprague22-the-anthropology-of-value-and-reciprocity",
+    "videoId": "-vwObt8LCrA",
+    "url": "https://www.youtube.com/watch?v=-vwObt8LCrA",
+    "img": "-vwObt8LCrA.jpg",
+    "publishedAt": "2023-08-09T19:51:59Z",
+    "desc": "Whether you lived in the Upper Palaeolithic and traded shells like there was no yesterday, are minting NFTs, or are hoping someone will thank you for that great thing you did, humans are driven by gamifying and quantifying reciprocity. Let’s dive into its history and evolution.",
+    "duration": 2825,
+    "name": "The anthropology of value and reciprocity",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Sara Polak|sara-polak"
+    ]
+  },
+  {
+    "id": "SiBGLw6Cqm0",
+    "slug": "ethprague22-designing-responsible-governance-ui-systems",
+    "videoId": "SiBGLw6Cqm0",
+    "url": "https://www.youtube.com/watch?v=SiBGLw6Cqm0",
+    "img": "SiBGLw6Cqm0.jpg",
+    "publishedAt": "2023-08-09T19:55:22Z",
+    "desc": "The aim of this talk would be to review the history of 'Design in Defi' and then project on how we reflect on our current practices, the behavioural patterns they're causing in the community and how we can be responsible with our community member's consumption in the future.",
+    "duration": 1299,
+    "name": "Designing Responsible Governance UI Systems",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Tina Haibodi|tina-haibodi"
+    ]
+  },
+  {
+    "id": "--cB4dSbrPM",
+    "slug": "ethprague22-how-to-bring-sustainability-in-the-blockchain-world",
+    "videoId": "--cB4dSbrPM",
+    "url": "https://www.youtube.com/watch?v=--cB4dSbrPM",
+    "img": "--cB4dSbrPM.jpg",
+    "publishedAt": "2023-08-09T19:59:53Z",
+    "desc": "Bengisu Berispek, the founder of RHEA Kollektiv & Sustain.ALL, will tell you more about what is sustainable blockchain, what are the Sustainable Development Goals, and how they match their artworks with SDGs.",
+    "duration": 2359,
+    "name": "How to bring sustainability in the blockchain world?",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Bengisu Berispek"
+    ]
+  },
+  {
+    "id": "EnPNy1JVnZI",
+    "slug": "ethprague22-bridging-cultural-heritage-and-blockchain",
+    "videoId": "EnPNy1JVnZI",
+    "url": "https://www.youtube.com/watch?v=EnPNy1JVnZI",
+    "img": "EnPNy1JVnZI.jpg",
+    "publishedAt": "2023-08-09T20:03:56Z",
+    "desc": "With the vision of sharing the past and creating the future, the House of Lobkowicz, managing one of Europe's oldest and finest private art collections, wants to explore the intersection of the traditional art world and the rapidly evolving technology behind NFTs.",
+    "duration": 2830,
+    "name": "Bridging Cultural Heritage & Blockchain",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "William Rudolf Lobkowicz|william-lobkowicz"
+    ]
+  },
+  {
+    "id": "BifOmJgAFc0",
+    "slug": "live-interview-makoto-inoue-and-sara-polak",
+    "videoId": "BifOmJgAFc0",
+    "url": "https://www.youtube.com/watch?v=BifOmJgAFc0",
+    "img": "BifOmJgAFc0.jpg",
+    "publishedAt": "2023-08-09T20:13:18Z",
+    "desc": "Sara Polak will interview Makoto Inoue.",
+    "duration": 608,
+    "name": "Live Interview: Makoto Inoue and Sara Polak",
+    "people": []
+  },
+  {
+    "id": "BxEINVJMXsk",
+    "slug": "ethprague22-zk-rollups-tales-from-the-field",
+    "videoId": "BxEINVJMXsk",
+    "url": "https://www.youtube.com/watch?v=BxEINVJMXsk",
+    "img": "BxEINVJMXsk.jpg",
+    "publishedAt": "2023-08-09T20:15:56Z",
+    "desc": "Everyone knows ZK Rollups are the future of scaling, but nobody provides examples. In this talk, Solidity dev Danny Holland presents concrete examples targeted at Solidity developers.",
+    "duration": 1595,
+    "name": "ZK Rollups: Tales From the Field",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Danny Holland|danny-holland"
+    ]
+  },
+  {
+    "id": "5ZboYBCohoc",
+    "slug": "live-interview-dcbuilder-and-sara-polak",
+    "videoId": "5ZboYBCohoc",
+    "url": "https://www.youtube.com/watch?v=5ZboYBCohoc",
+    "img": "5ZboYBCohoc.jpg",
+    "publishedAt": "2023-08-09T20:16:39Z",
+    "desc": "Sara Polak will interview DCBuilder.",
+    "duration": 1747,
+    "name": "Live Interview: DCBuilder and Sara Polak",
+    "people": []
+  },
+  {
+    "id": "WkXxbG6zLEw",
+    "slug": "ethprague22-the-verkle-tree-upgrade",
+    "videoId": "WkXxbG6zLEw",
+    "url": "https://www.youtube.com/watch?v=WkXxbG6zLEw",
+    "img": "WkXxbG6zLEw.jpg",
+    "publishedAt": "2023-08-09T20:21:53Z",
+    "desc": "Verkle tree make stateless ethereum possible: with smaller proofs, embedded in blocks, very long syncs will be a thing of the past. This talk will cover how verkle trees work, and what changes in the user experience are to be expected.",
+    "duration": 1109,
+    "name": "The verkle tree upgrade",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Guillaume Ballet"
+    ]
+  },
+  {
+    "id": "4rBAyCpVkQA",
+    "slug": "ethprague22-bls-signature-aggregation-level-up-wallets-with-this-one-weird-trick",
+    "videoId": "4rBAyCpVkQA",
+    "url": "https://www.youtube.com/watch?v=4rBAyCpVkQA",
+    "img": "4rBAyCpVkQA.jpg",
+    "publishedAt": "2023-08-09T20:22:52Z",
+    "desc": "Layer 2 rollups bring lower gas costs for transactions, but can we go further? Thanks to the properties of BLS signatures we can! Find out about the BLS Wallet project developed within EF under the PSE umbrella.",
+    "duration": 1263,
+    "name": "BLS Signature Aggregation - level up wallets with this one weird trick",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "James Zaki"
+    ]
+  },
+  {
+    "id": "V1YtCze5T_k",
+    "slug": "ethprague22-expanding-the-web3-community-by-targeting-web2-devs",
+    "videoId": "V1YtCze5T_k",
+    "url": "https://www.youtube.com/watch?v=V1YtCze5T_k",
+    "img": "V1YtCze5T_k.jpg",
+    "publishedAt": "2023-08-09T20:26:47Z",
+    "desc": "An exploration of the technical, UX, and business considerations that go into building Web3 dev tooling for Web2 devs.",
+    "duration": 1601,
+    "name": "Expanding the Web3 Community by Targeting Web2 Devs",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Liesl Eichholz",
+      "Martin Maurer"
+    ]
+  },
+  {
+    "id": "W84zs6K7WuE",
+    "slug": "ethprague22-paralelni-polis-institute-of-cryptoanarchy-bordel-hackerspace",
+    "videoId": "W84zs6K7WuE",
+    "url": "https://www.youtube.com/watch?v=W84zs6K7WuE",
+    "img": "W84zs6K7WuE.jpg",
+    "publishedAt": "2023-08-09T20:29:04Z",
+    "desc": "Introduction to the venue of ETHPrague 2022.",
+    "duration": 1178,
+    "name": "Paralelni Polis, Institute of Cryptoanarchy, Bordel hackerspace",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Mário Havel|mario"
+    ]
+  },
+  {
+    "id": "Kgn02msiOJM",
+    "slug": "ethprague22-stark-recursion",
+    "videoId": "Kgn02msiOJM",
+    "url": "https://www.youtube.com/watch?v=Kgn02msiOJM",
+    "img": "Kgn02msiOJM.jpg",
+    "publishedAt": "2023-08-09T20:33:09Z",
+    "desc": "StarkNet - A L2 Validity Rollup (aka ZK Rollup) on Ethereum",
+    "duration": 1187,
+    "name": "STARK Recursion",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Avihu Mordechai Levy"
+    ]
+  },
+  {
+    "id": "KwUUgwTYbDY",
+    "slug": "ethprague22-a-path-towards-decentralized-curation-and-other-crypto-concepts-in-the-art-world",
+    "videoId": "KwUUgwTYbDY",
+    "url": "https://www.youtube.com/watch?v=KwUUgwTYbDY",
+    "img": "KwUUgwTYbDY.jpg",
+    "publishedAt": "2023-08-09T20:37:25Z",
+    "desc": "As digital art and NFTs enter galleries, there are more conceptual ideas that come with them. Eliminating some of the financial and logistical troubles of traditional art galleries, we see a new age for how art is collected, displayed, perceived and received.",
+    "duration": 1574,
+    "name": "A Path Towards Decentralized Curation and Other Crypto Concepts In The Art World",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Sam Gittis"
+    ]
+  },
+  {
+    "id": "_18NbMzLla4",
+    "slug": "ethereum-on-resource-constrained-devices-running-nodes-staking-and-the-merge",
+    "videoId": "_18NbMzLla4",
+    "url": "https://www.youtube.com/watch?v=_18NbMzLla4",
+    "img": "_18NbMzLla4.jpg",
+    "publishedAt": "2023-08-09T20:41:05Z",
+    "desc": "Diego Losada, Fernando Collado / The main goal is to contribute to the network decentralization by making it easier and affordable for regular users to run nodes (and staking) on resource-constrained devices as well as helping to test the next major Ethereum upgrade (The Merge).",
+    "duration": 1176,
+    "name": "Ethereum on Resource constrained devices. Running nodes, staking and The Merge",
+    "people": []
+  },
+  {
+    "id": "bu9JCSaqim4",
+    "slug": "ethprague22-defi-the-police",
+    "videoId": "bu9JCSaqim4",
+    "url": "https://www.youtube.com/watch?v=bu9JCSaqim4",
+    "img": "bu9JCSaqim4.jpg",
+    "publishedAt": "2023-08-09T20:42:23Z",
+    "desc": "Addressing the ultimate monopoly of Violence",
+    "duration": 1316,
+    "name": "DeFi the Police",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Matteo Alessio Tambussi"
+    ]
+  },
+  {
+    "id": "LFY9zvrFaRY",
+    "slug": "panel-what-did-this-past-year-teach-us-about-defi",
+    "videoId": "LFY9zvrFaRY",
+    "url": "https://www.youtube.com/watch?v=LFY9zvrFaRY",
+    "img": "LFY9zvrFaRY.jpg",
+    "publishedAt": "2023-08-09T20:49:40Z",
+    "desc": "A panel discussion about recent lessons learned from DeFi.",
+    "duration": 1686,
+    "name": "Panel: What did this past year teach us about DeFi",
+    "people": []
+  },
+  {
+    "id": "GUaGP8sAeCQ",
+    "slug": "ethprague22-fostering-wildly-successful-web3-teams",
+    "videoId": "GUaGP8sAeCQ",
+    "url": "https://www.youtube.com/watch?v=GUaGP8sAeCQ",
+    "img": "GUaGP8sAeCQ.jpg",
+    "publishedAt": "2023-08-09T21:03:53Z",
+    "desc": "",
+    "duration": 1204,
+    "name": "Fostering Wildly Successful Web3 Teams",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Lizette Kuld",
+      "Kresimir Vuksan"
+    ]
+  },
+  {
+    "id": "1Cg2iu4C4sU",
+    "slug": "ethprague22-danksharding",
+    "videoId": "1Cg2iu4C4sU",
+    "url": "https://www.youtube.com/watch?v=1Cg2iu4C4sU",
+    "img": "1Cg2iu4C4sU.jpg",
+    "publishedAt": "2023-08-10T07:22:57Z",
+    "desc": "Dankrad will lead a discussion about Danksharding.",
+    "duration": 1674,
+    "name": "Danksharding",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Dankrad Feist"
+    ]
+  },
+  {
+    "id": "1uoSKaznyBE",
+    "slug": "live-interview-mp-fernandez-and-sara-polak",
+    "videoId": "1uoSKaznyBE",
+    "url": "https://www.youtube.com/watch?v=1uoSKaznyBE",
+    "img": "1uoSKaznyBE.jpg",
+    "publishedAt": "2023-08-10T07:33:27Z",
+    "desc": "",
+    "duration": 549,
+    "name": "Live Interview: MP Fernandez and Sara Polak",
+    "people": []
+  },
+  {
+    "id": "Lq8-0xu4lBo",
+    "slug": "ethprague23-live-interview-jarrad-hope-and-sara-polak",
+    "videoId": "Lq8-0xu4lBo",
+    "url": "https://www.youtube.com/watch?v=Lq8-0xu4lBo",
+    "img": "Lq8-0xu4lBo.jpg",
+    "publishedAt": "2023-08-10T07:34:19Z",
+    "desc": "",
+    "duration": 692,
+    "name": "Live Interview: Jarrad Hope and Sara Polak",
+    "people": [
+      "jarrad-hope",
+      "sara-polak"
+    ],
+    "project": "ethprague",
+    "event": "ethprague23"
+  },
+  {
+    "id": "T2h_0UE3lDU",
+    "slug": "live-interview-peter-szilagyi-and-sara-polak",
+    "videoId": "T2h_0UE3lDU",
+    "url": "https://www.youtube.com/watch?v=T2h_0UE3lDU",
+    "img": "T2h_0UE3lDU.jpg",
+    "publishedAt": "2023-08-10T07:45:38Z",
+    "desc": "",
+    "duration": 562,
+    "name": "Live Interview: Péter Szilagyi and Sara Polak",
+    "people": []
+  },
+  {
+    "id": "2GUVhAIJblU",
+    "slug": "live-interview-sara-polak-and-althea-allen",
+    "videoId": "2GUVhAIJblU",
+    "url": "https://www.youtube.com/watch?v=2GUVhAIJblU",
+    "img": "2GUVhAIJblU.jpg",
+    "publishedAt": "2023-08-10T07:46:44Z",
+    "desc": "",
+    "duration": 630,
+    "name": "Live Interview: Sara Polak and Althea Allen",
+    "people": []
+  },
+  {
+    "id": "Enrpgl1oHpo",
+    "slug": "ethprague22-decentralized-api-indexing-and-querying-in-the-web3-stack",
+    "videoId": "Enrpgl1oHpo",
+    "url": "https://www.youtube.com/watch?v=Enrpgl1oHpo",
+    "img": "Enrpgl1oHpo.jpg",
+    "publishedAt": "2023-08-11T14:00:37Z",
+    "desc": "Querying data from the blockchain used to be really, really hard. Learn how you can create a subgraph to index and query nontrivial data to create a decentralized API.",
+    "duration": 1069,
+    "name": "Decentralized API: Indexing and Querying in the Web3 Stack",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Camila Ramos Garzon"
+    ]
+  },
+  {
+    "id": "XEGjJ2iWlSE",
+    "slug": "ethprague22-energy-communities-building-a-solarpunk-future",
+    "videoId": "XEGjJ2iWlSE",
+    "url": "https://www.youtube.com/watch?v=XEGjJ2iWlSE",
+    "img": "XEGjJ2iWlSE.jpg",
+    "publishedAt": "2023-08-11T14:05:12Z",
+    "desc": "Energy communities are to be allowed in all EU countries and are a substantial part towards local, resilient and ressource efficient modern living. We show how the 7Energy DAO is solving the accounting problem by avoiding costly banking infrastructure.",
+    "duration": 1121,
+    "name": "Energy communities building a Solarpunk future",
+    "project": "ethprague",
+    "event": "ethprague22",
+    "people": [
+      "Thomas Zeinzinger",
+      "Peter Grassberger"
+    ]
+  }
+]

@@ -104,10 +104,10 @@
     "desc": "The legendary Bitcoin pizza transaction marks an important moment in the history of libre digital money. A small step, signalizing the birth of a whole era. It’s been 12 years since Bitcoin stepped into the world of payment networks for physical goods and opened the gates for the creation of a global parallel economy. Since then, we have experienced rather exponential growth in this new financial world. From a small community of cypherpunks and hackers, Bitcoin grew into a phenomenon with today’s mainstream recognition. Flourishing adoption upholds further levels, as the public interest always comes in waves. Yet with each wave passing by, the inspirational spirit of the original innovators fades a little bit more. Mass adoption poses continued challenges from governments, the public, and often the community itself. New questions about the purpose, scalability, and sustainability arise every day. These are not going to solve themselves, nor disappear.\n\nDecentralized systems thrive in the era of chaos, but their antifragility is rooted in layer zero, the community. It’s on us, the current generation of Bitcoiners, to help with fighting the new crypto wars. The impact on corporations and governments was inevitable at this scale. Uncertainty fueling the adoption also tends to light greedy polarization within communities. The tribalistic race to build walls instead of bridges accelerates as technological meritocracy becomes the standard.\n\nAre the cypherpunks of the world ready to cope with it? Pizza Day Conference aims to bridge the atmosphere of Bitcoin’s early days to the present by creating an open space for discussion and inspiration without political or economical dogmas.\n\nCome to learn about using Bitcoin in your business or personal finances, the background of the cypherpunk and the current cryptoanarchy subculture, as well as to discuss sustainability, long-term effectiveness, and their limitations.\n\nwww.pizzaday.cz\n\n",
     "duration": 85,
     "name": "Pizza Day Prague 2022",
-    "project": null,
-    "event": null,
+    "project": "pizza-day",
+    "event": "pd22",
     "people": [
-      "Meh"
+      "Mario Havel|mario"
     ]
   },
   {
@@ -119,12 +119,10 @@
     "publishedAt": "2022-06-24T14:30:11Z",
     "desc": "The legendary Bitcoin pizza transaction marks an important moment in the history of libre digital money. A small step, signalizing the birth of a whole era. It’s been 12 years since Bitcoin stepped into the world of payment networks for physical goods and opened the gates for the creation of a global parallel economy. Since then, we have experienced rather exponential growth in this new financial world. From a small community of cypherpunks and hackers, Bitcoin grew into a phenomenon with today’s mainstream recognition. Flourishing adoption upholds further levels, as the public interest always comes in waves. Yet with each wave passing by, the original innovators' inspirational spirit fades a little more. Mass adoption poses continued challenges from governments, the public, and often the community itself. New questions about the purpose, scalability and sustainability arise every day. These are not going to solve themselves, nor disappear.\n\nDecentralized systems thrive in the era of chaos, but their antifragility is rooted in layer zero, the community. It’s on us, the current generation of Bitcoiners, to help with fighting the new crypto wars. The impact on corporations and governments was inevitable at this scale. Uncertainty fueling the adoption also tends to light greedy polarization within communities. The tribalistic race to build walls instead of bridges accelerates as technological meritocracy becomes the standard.\n\nAre the cypherpunks of the world ready to cope with it? Pizza Day Conference aims to bridge the atmosphere of Bitcoin’s early days to the present by creating an open space for discussion and inspiration without political or economical dogmas.\n\nCome to learn about using Bitcoin in your business or personal finances, the background of the cypherpunk and the current cryptoanarchy subculture, as well as to discuss sustainability, long-term effectiveness, and their limitations.\n\n[www.pizzaday.cz]\n\n",
     "duration": 111,
-    "name": "Aftermovie",
+    "name": "Aftermovie - JUST EAT IT",
     "project": "pizza-day",
     "event": "pd22",
-    "people": [
-      "JUST EAT IT"
-    ]
+    "people": []
   },
   {
     "id": "ToO1bki5cU4",
@@ -453,11 +451,11 @@
     "publishedAt": "2023-01-22T17:30:09Z",
     "desc": "Not everyone sees cryptocurrencies as a powerful liberalising tool that is unparalleled in our society. A tool that erodes the authoritarian paradigm of states and creates a new decentralised paradigm where the state no longer has a place.\n\nLunarpunkers recognize the need for a new decentralized paradigm that transcends the entire social order.\n\nWhat prospects await lunarpunk in the near future?\n\n",
     "duration": 5002,
-    "name": "HCPP22",
-    "project": null,
-    "event": null,
+    "name": "Lunarpunk panel discussion @ HCPP22",
+    "project": "hcpp",
+    "event": "hcpp22",
     "people": [
-      "Lunarpunk panel discussion w/ Rachel-Rose O&#39;Leary",
+      "Rachel-Rose O'Leary|rachel-rose",
       "Amir Taaki|amir-taaki",
       "Juraj Bednar|juraj-bednar",
       "Pavol Luptak|wilder"

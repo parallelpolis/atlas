@@ -380,11 +380,14 @@
     "publishedAt": "2018-01-05T14:31:58Z",
     "desc": "Follow and support us ► https://liberate.hcpp.cz/#support\nParalelní Polis website → https://www.paralelnipolis.cz/o-nas/en/\nParalelní Polis Facebook → https://www.facebook.com/vejdiven\nSpeakers:\nPABLO COIROLO - Dynamic executive with 20 years of experience leading large-scale initiatives in various countries and industries.\n• Broad general management skill set with proven entrepreneurial capability.\n• Deep knowledge and experience in investment banking, strategic management consulting, M&A's and strategic software design and development, including CRM, Big Data, systems integration, and Block-chain.\n\nNICOLAI OSTER - Mr. Nicolai Oster joined Bitcoin Suisse AG in October 2015.\nNicolai has more than five years of experience in organization work where he led the organization of one of Denmark biggest youth parties as the Vice President. He played a crucial role in building up the organization, which is now one of Denmark’s best. Besides that, he played a quite central role in the mother party as well. In addition to his organization work, Nicolai has experience as a freelancer and IT-consultant for one of Denmark’s leading companies in selling used and new graphic machines, and as an office manager for the biggest and leading lobby firm in Scandinavia.\n\nTONE VAYS - Tone is a former Bear Stearns Risk Analyst & JP Morgan Chase VP. His expertise is in Economic Trends, Trading and Risk Analysis. Ever since getting involved in the Crypto Currency ecosystem in early 2013, he has been very active in spreading the relevance and importance of this technology as it helps promote economic freedom as the War on Cash rages on. Tone was recently featured in a Bitcoin Documentary – Magic Money. Tone is now an independent content creator at LibertyLifeTrail and the host of three YouTube podcasts: CryptoScam, On The Record, and Tone's Market Analysis. Tone holds a Masters Degree in Financial Engineering along with Bachelor Degrees in Mathematics and Geology.\n\nALENA VRÁNOVÁ\n\nABOUT HCPP17 → https://liberate.hcpp.cz/\n\nLiberate!\n\nHCPP17 PARTNERS:\n\nMAIN PARTNERS\n\nTREZOR → https://trezor.io/\nGENERAL BYTES → https://www.generalbytes.com/\nSLUSH POOL → https://slushpool.com\nBITCOIN PAY → https://www.bitcoinpay.com\nCOINMATE → https://coinmate.io\n\nCRYPTOPUZZLE PARTNERS\n\nNETHEMBA → https://nethemba.com\nSATORI → http://zd3n.com/\n\nNEWS LIVE BROADCASTING PARTNER\n\nWorld Crypto Network → http://www.worldcryptonetwork.com\n\nCATERING PARTNERS\n\nNordbeans, Street Catering",
     "duration": 3212,
-    "name": "Panel: Icos",
-    "project": null,
-    "event": null,
+    "name": "Panel: ICOS @ HCPP17",
+    "project": "hcpp",
+    "event": "hcpp17",
     "people": [
-      "HCPP17"
+      "Pablo Coirolo|pablo-coirolo",
+      "Nikolai Oster",
+      "Tone Vays|tone-vays",
+      "Alena Vránová|alena-vranova"
     ]
   },
   {
@@ -412,11 +415,15 @@
     "publishedAt": "2018-01-07T18:48:43Z",
     "desc": "Follow and support us ► https://liberate.hcpp.cz/#support\nParalelní Polis website → https://www.paralelnipolis.cz/o-nas/en/\nParalelní Polis Facebook → https://www.facebook.com/vejdiven\n\nTechnological advancements not only make cash vanish but also bring about new ways of recording transactions and storing value. A ​member of ​the​ Czech National Bank​ Board​, a cryptoanarchist, roboinvestment strategist and a money theorist will have their take on the future of money. How can digitalization of transactions and money better serve people and societies? How are they transforming the global financial system? Do alternative community currencies presage the end of fiat money? How can we arrive at frictionless economy? \n\n​Speakers:​\nOldřich Dědek, member of the CNB Bank Board \nAleš Michl, ​​owner, Quant Investment Fund\nJakub Jedlinský, assistant professor, University of Economics in Prague\nJan Hubík, Hackerspace, Parallel Polis\n\nChair: Maria Staszkiewicz, Czech Fintech Association\n\nABOUT HCPP17 → https://liberate.hcpp.cz/\n\nLiberate!\n\nHCPP17 PARTNERS:\n\nMAIN PARTNERS\n\nTREZOR → https://trezor.io/\nGENERAL BYTES → https://www.generalbytes.com/\nSLUSH POOL → https://slushpool.com\nBITCOIN PAY → https://www.bitcoinpay.com\nCOINMATE → https://coinmate.io\n\nCRYPTOPUZZLE PARTNERS\n\nNETHEMBA → https://nethemba.com\nSATORI → http://zd3n.com/\n\nNEWS LIVE BROADCASTING PARTNER\n\nWorld Crypto Network → http://www.worldcryptonetwork.com\n\nCATERING PARTNERS\n\nNordbeans, Street Catering",
     "duration": 4175,
-    "name": "Panel: The Future Of Money",
+    "name": "Panel: The Future Of Money @ HCPP17",
     "project": null,
     "event": null,
     "people": [
-      "HCPP17"
+      "Oldřich Dědek",
+      "Aleš Michl",
+      "Jakub Jedlinský",
+      "Jan Hubík",
+      "Maria Staszkiewicz"
     ]
   },
   {
@@ -710,18 +717,18 @@
   },
   {
     "id": "Gssuv8oWTXY",
-    "slug": "rick-falkvinge",
+    "slug": "organizing-the-swarm-way",
     "videoId": "Gssuv8oWTXY",
     "url": "https://www.youtube.com/watch?v=Gssuv8oWTXY",
     "img": "Gssuv8oWTXY.jpg",
     "publishedAt": "2018-04-26T15:45:53Z",
     "desc": "Rick Falkvinge presents his Swarm leadership style, which enables a poor organization to still beat the established rich ones. This is done by coordinating tens of thousands of activists, each doing something small toward the same general goal. Rick used this method to put people into the European Parliament on a shoestring budget, beating the established parties on less than one percent of their budget in the Swedish and first Pirate Party.",
     "duration": 2296,
-    "name": "Rick Falkvinge",
+    "name": "Organizing the Swarm way",
     "project": null,
     "event": null,
     "people": [
-      "Organizing the Swarm way"
+      "Rick Falkvinge"
     ]
   },
   {
@@ -778,14 +785,15 @@
     "videoId": "hEGr7Q47jxY",
     "url": "https://www.youtube.com/watch?v=hEGr7Q47jxY",
     "img": "hEGr7Q47jxY.jpg",
+    "date": "2018-06-21",
     "publishedAt": "2018-07-25T19:15:02Z",
     "desc": "RECORD: Patrick K. Kroupa | The Evolution of Disruptive Technologies\n\nThank you for supporting Bitcoin meetup and other events that are organized on a voluntary basis.\n\nWe are state-free think tank and hackerspace focused on the topics of decentralization, digital privacy, cryptoanarchy and anonymity. We are independent on state donations and your support will strengthen it.\nDo you like our program? Support us:\n\nBTC\nhttps://blockchain.info/address/3MQsht5bPJnuKhYveZiUirRdBza6v7DGqS\n\nLTC\nhttps://insight.litecore.io/address/M8YNfie3Ewa7Qr8BLeyNJFTMq1DBc8m3jG\n\nXMR:\n43CHrnDHo4BjJQNtduvJUv1a5SYFHFD9fQfappCueGT79aTADryiGfUMwX4CAif3DCRrtyEYmtMDdbPpSzMw8DsmLjL1MQw",
     "duration": 3001,
-    "name": "Patrick K. Kroupa",
+    "name": "The Evolution of Disruptive Technologies",
     "project": null,
     "event": null,
     "people": [
-      "The Evolution of Disruptive Technologies (21. 6. 2018)"
+      "Patrick K. Kroupa"
     ]
   },
   {
@@ -847,10 +855,14 @@
     "desc": "Follow and support us ► https://liberate.hcpp.cz/#support\nParalelní Polis website → https://www.paralelnipolis.cz/o-nas/en/\nParalelní Polis Facebook → https://www.facebook.com/vejdiven\n\nSpeakers:\nFrank Braun\nJim Bell\nSmuggler\nAmir Taaki\nJoerg Platzer\n\nChair: Pavol Lupták\n\nABOUT HCPP17 → https://liberate.hcpp.cz/\n\nLiberate!\n\nHCPP17 PARTNERS:\n\nMAIN PARTNERS\n\nTREZOR → https://trezor.io/\nGENERAL BYTES → https://www.generalbytes.com/\nSLUSH POOL → https://slushpool.com\nBITCOIN PAY → https://www.bitcoinpay.com\nCOINMATE → https://coinmate.io\n\nCRYPTOPUZZLE PARTNERS\n\nNETHEMBA → https://nethemba.com\nSATORI → http://zd3n.com/\n\nNEWS LIVE BROADCASTING PARTNER\n\nWorld Crypto Network → http://www.worldcryptonetwork.com\n\nCATERING PARTNERS\n\nNordbeans, Street Catering",
     "duration": 6817,
     "name": "Closing Panel: Impact Of Cryptoanarchy And Decentralization To Our Future",
-    "project": null,
-    "event": null,
+    "project": "hcpp",
+    "event": "hcpp17",
     "people": [
-      "HCPP17"
+      "Frank Braun",
+      "Jim Bell",
+      "Smuggler",
+      "Amir Taaki",
+      "Joerg Platzer"
     ]
   },
   {

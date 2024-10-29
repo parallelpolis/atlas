@@ -10,7 +10,7 @@
     "duration": 1348,
     "name": "I'm Torn",
     "project": "w3pn-events",
-    "event": null,
+    "event": "w3pn-summit-rome-2023",
     "people": [
       "Eléonore Blanc"
     ]
@@ -26,7 +26,7 @@
     "duration": 2337,
     "name": "Privacy Pools Panel",
     "project": "w3pn-events",
-    "event": null,
+    "event": "w3pn-summit-rome-2023",
     "people": [
       "Tsu_Kareta",
       "Mesquka",
@@ -45,7 +45,7 @@
     "duration": 1502,
     "name": "Hacktivism in Perspective",
     "project": "w3pn-events",
-    "event": null,
+    "event": "w3pn-summit-rome-2023",
     "people": [
       "Jaromil|jaromil"
     ]
@@ -61,7 +61,7 @@
     "duration": 1164,
     "name": "You Have Nothing to Hide!",
     "project": "w3pn-events",
-    "event": null,
+    "event": "w3pn-summit-rome-2023",
     "people": [
       "Vaclav Pavlin|vaclav-pavlin"
     ]
@@ -77,7 +77,7 @@
     "duration": 1780,
     "name": "Empowering Builders to Make Better Privacy Solutions",
     "project": "w3pn-events",
-    "event": null,
+    "event": "w3pn-summit-rome-2023",
     "people": [
       "Catsnacks and Serinko"
     ]
@@ -93,7 +93,7 @@
     "duration": 1052,
     "name": "Securing the Solarpunks: Nym for Ethereum Validator Privacy",
     "project": "w3pn-events",
-    "event": null,
+    "event": "w3pn-summit-rome-2023",
     "people": [
       "Serinko|serinko"
     ]
@@ -109,7 +109,7 @@
     "duration": 447,
     "name": "Self governed User Data and Web2 Verifications",
     "project": "w3pn-events",
-    "event": null,
+    "event": "w3pn-summit-rome-2023",
     "people": [
       "Roman Prokhorenko"
     ]
@@ -125,7 +125,7 @@
     "duration": 866,
     "name": "Privacy Ecosystems at Play",
     "project": "w3pn-events",
-    "event": null,
+    "event": "w3pn-summit-rome-2023",
     "people": [
       "Alex Zaidelson"
     ]
@@ -141,7 +141,7 @@
     "duration": 936,
     "name": "Timelock: Tim May's Timed Release Encryption made Reality",
     "project": "w3pn-events",
-    "event": null,
+    "event": "w3pn-summit-rome-2023",
     "people": [
       "Vincenzo Iovino"
     ]
@@ -157,7 +157,7 @@
     "duration": 807,
     "name": "How Decentralized Compliance Solves The Privacy Dilemma",
     "project": "w3pn-events",
-    "event": null,
+    "event": "w3pn-summit-rome-2023",
     "people": [
       "Jakub K."
     ]
@@ -173,7 +173,7 @@
     "duration": 1375,
     "name": "Vitalik: \"Off-Chain Privacy Solution are needed\"",
     "project": "w3pn-events",
-    "event": null,
+    "event": "w3pn-summit-rome-2023",
     "people": [
       "Rik Krieger"
     ]
@@ -189,7 +189,7 @@
     "duration": 1068,
     "name": "Decentralized Storage and Zero Leaks Communication",
     "project": "w3pn-events",
-    "event": null,
+    "event": "w3pn-summit-rome-2023",
     "people": [
       "Costanza Gallo"
     ]
@@ -322,7 +322,7 @@
   },
   {
     "id": "uNRA5Tg3aHo",
-    "slug": "w3pm-berlin23-on-community-building-and-post-web",
+    "slug": "w3pn-berlin-2024-on-community-building-and-post-web",
     "videoId": "uNRA5Tg3aHo",
     "url": "https://www.youtube.com/watch?v=uNRA5Tg3aHo",
     "img": "uNRA5Tg3aHo.jpg",
@@ -331,7 +331,7 @@
     "duration": 1875,
     "name": "On community building & post-web",
     "project": "w3pn-events",
-    "event": "w3pm-berlin23",
+    "event": "w3pn-berlin-2024",
     "people": [
       "Stella R. Magnet|stella-r-magnet"
     ]
@@ -346,11 +346,15 @@
     "desc": "From Tornado Cash to sustainable privacy ecosystem panel\n\nPeter Van Valkenburgh x Coin Center\nhttps://x.com/valkenburgh\n\nLefteris Karapetsas x Rotki\n\nFatemeh Fannizadeh x Swarm\n\nMeetup: https://lu.ma/w3pn-meetup-berlin1\n\n--------\nSupport\n- Donate: https://docs.web3privacy.info/donate/\n- Become a member: https://web3privacy.info/membership/\n- Contribute: https://docs.web3privacy.info/contributors/\n\nExplore\nhttp://web3privacy.info\nhttp://github.com/web3privacy/\nhttp://docs.web3privacy.info",
     "duration": 2502,
     "name": "From Tornado Cash to sustainable privacy panel | Valkenburgh -Lefteris-Fatemeh | W3PN Berlin Meetup",
-    "people": []
+    "people": [
+      "Peter Van Valkenburgh",
+      "Lefteris Karapetsas",
+      "Fatemeh Fannizadeh"
+    ]
   },
   {
     "id": "3qArHXOw2b0",
-    "slug": "w3pm-berlin23-complex-privacy-ecosystems-in-play",
+    "slug": "w3pn-berlin-2024-complex-privacy-ecosystems-in-play",
     "videoId": "3qArHXOw2b0",
     "url": "https://www.youtube.com/watch?v=3qArHXOw2b0",
     "img": "3qArHXOw2b0.jpg",
@@ -359,9 +363,11 @@
     "duration": 2675,
     "name": "Complex privacy ecosystems in play",
     "project": "w3pn-events",
-    "event": "w3pm-berlin23",
+    "event": "w3pn-berlin-2024",
     "people": [
-      "Julio - Jaya - Sebastian"
+      "Julio",
+      "Jaya",
+      "Sebastian"
     ]
   },
   {
@@ -373,12 +379,16 @@
     "publishedAt": "2024-06-11T08:02:11Z",
     "desc": "Introduction into Web3Privacy Now movement by Mykola @ Berlin Meetup, c-base, 24'\n\nMykola Siusko x Web3Privacy Now\ncore at W3PN, futurist & researcher\n\nhttps://x.com/nicksvyaznoy\nhttp://web3privacy.info\n\n------------\n\nSupport\n- Donate: https://docs.web3privacy.info/donate/\n- Become a member: https://web3privacy.info/membership/\n- Contribute: https://docs.web3privacy.info/contributors/\n\nExplore\nhttp://web3privacy.info\nhttp://github.com/web3privacy/\nhttp://docs.web3privacy.info",
     "duration": 1005,
-    "name": "Why we are all here | Mykola Siusko, Web3Privacy Now | Berlin Meetup",
-    "people": []
+    "project": "w3pn-events",
+    "event": "w3pn-berlin-2024",
+    "name": "Why we are all here",
+    "people": [
+      "Mykola Siusko"
+    ]
   },
   {
     "id": "XrpjfyEK7Hs",
-    "slug": "w3pm-berlin23-cryptography-and-privacy-in-context",
+    "slug": "w3pn-berlin-2024-cryptography-and-privacy-in-context",
     "videoId": "XrpjfyEK7Hs",
     "url": "https://www.youtube.com/watch?v=XrpjfyEK7Hs",
     "img": "XrpjfyEK7Hs.jpg",
@@ -387,14 +397,14 @@
     "duration": 1530,
     "name": "Cryptography and Privacy in Context",
     "project": "w3pn-events",
-    "event": "w3pm-berlin23",
+    "event": "w3pn-berlin-2024",
     "people": [
       "Ying Tong"
     ]
   },
   {
     "id": "NW6ViGipnT8",
-    "slug": "w3pm-berlin23-collective-non-profit-private",
+    "slug": "w3pn-berlin-2024-collective-non-profit-private",
     "videoId": "NW6ViGipnT8",
     "url": "https://www.youtube.com/watch?v=NW6ViGipnT8",
     "img": "NW6ViGipnT8.jpg",
@@ -403,14 +413,14 @@
     "duration": 1488,
     "name": "Collective, Non-Profit. Private",
     "project": "w3pn-events",
-    "event": "w3pm-berlin23",
+    "event": "w3pn-berlin-2024",
     "people": [
       "afri"
     ]
   },
   {
     "id": "woRkyy9ougs",
-    "slug": "w3pm-berlin23-the-tension-between-privacy-and-solidarity",
+    "slug": "w3pn-berlin-2024-the-tension-between-privacy-and-solidarity",
     "videoId": "woRkyy9ougs",
     "url": "https://www.youtube.com/watch?v=woRkyy9ougs",
     "img": "woRkyy9ougs.jpg",
@@ -419,7 +429,7 @@
     "duration": 1630,
     "name": "The tension between privacy and solidarity",
     "project": "w3pn-events",
-    "event": "w3pm-berlin23",
+    "event": "w3pn-berlin-2024",
     "people": [
       "Josh Davila"
     ]
@@ -437,39 +447,39 @@
     "project": "w3pn-events",
     "event": "w3pn-summit-prague-2024",
     "people": [
-      "Franzi x Department of Decentralization [ETHBerlin]"
+      "Franzi"
     ]
   },
   {
     "id": "M7WmOMENvPo",
-    "slug": "awa-sunyin-x-namada-and-anoma",
+    "slug": "privacy-is-freedom",
     "videoId": "M7WmOMENvPo",
     "url": "https://www.youtube.com/watch?v=M7WmOMENvPo",
     "img": "M7WmOMENvPo.jpg",
     "publishedAt": "2024-07-03T11:28:47Z",
     "desc": "Short from the talk \"Privacy is a Mistake\".\nFreedom exists only when we have the power to choose.\n\nhttps://x.com/awasunyin\nhttps://x.com/namada",
     "duration": 35,
-    "name": "Awa Sunyin x Namada & Anoma",
+    "name": "Privacy is Freedom",
     "project": "w3pn-events",
     "event": "w3pn-summit-prague-2024",
     "people": [
-      "Privacy is Freedom"
+      "Awa Sunyin"
     ]
   },
   {
     "id": "7Bl2C11iLFA",
-    "slug": "jaromil-x-dyneorg",
+    "slug": "solidarity-is-key-for-cypherpunks-to-be-practical",
     "videoId": "7Bl2C11iLFA",
     "url": "https://www.youtube.com/watch?v=7Bl2C11iLFA",
     "img": "7Bl2C11iLFA.jpg",
     "publishedAt": "2024-07-03T11:36:54Z",
     "desc": "Short from the talk \"Hacktivism in the Crypto era and beyond\"\n\n\"Our weakness, as hackers and cypherpunks, is not being inclusive enough and not welcoming interdisciplinarity...\"\n\nhttps://x.com/jaromil\nhttps://dyne.org/",
     "duration": 43,
-    "name": "Jaromil x Dyne.org",
+    "name": "Solidarity is key for Cypherpunks to Be Practical",
     "project": "w3pn-events",
     "event": "w3pn-summit-prague-2024",
     "people": [
-      "Solidarity is key for Cypherpunks to Be Practical"
+      "Jaromil|jaromil"
     ]
   },
   {
@@ -481,11 +491,11 @@
     "publishedAt": "2024-07-03T15:55:30Z",
     "desc": "Short from the talk \"Cryptography and Privacy in Context\".\nhttps://x.com/therealyingtong\n\nEmbrace Diversity. The greatest weakeness we have as hackers and cypherpunks is to not being inclusive enough. By fostering solidarity and understanding, we can advance and make a significant impact. Otherwise, our efforts will remain limited and fragmented.",
     "duration": 186,
-    "name": "Ying Tong",
+    "name": "We need Diversity in the Room - the words of a cryptographer",
     "project": "w3pn-events",
     "event": "w3pn-summit-berlin-2024",
     "people": [
-      "We need Diversity in the Room - the words of a cryptographer"
+      "Ying Tong|ying-tong"
     ]
   },
   {
@@ -497,12 +507,11 @@
     "publishedAt": "2024-07-03T22:25:07Z",
     "desc": "Short from the talk \"Hacktivism in the Crypto era and beyond\"\n\"It's very important to not have your identity defined by an insitution\"\n\nhttps://x.com/jaromil",
     "duration": 27,
-    "name": "Jaromil x Dyne.org",
+    "name": "Digital Identity & Institutions",
     "project": "w3pn-events",
     "event": "w3pn-summit-prague-2024",
     "people": [
-      "Digital Identity",
-      "Institutions"
+      "Jaromil|jaromil"
     ]
   },
   {
@@ -580,10 +589,10 @@
     "desc": "Short from the talk \"We Need More Crypto Collectives\".\n\nGet inspired by someone who's made it real and authentic for years, consistently dedicating passion and effort to enhance. \n\nhttps://dod.ngo/\nhttps://ethberlin.ooo/ (2023)\nhttps://ethberlin.org/ (2024)\nhttps://x.com/_franzihei",
     "duration": 75,
     "name": "Use Open-Source Technologies",
-    "project": null,
-    "event": null,
+    "project": "w3pn-events",
+    "event": "w3pn-summit-prague-2024",
     "people": [
-      "Franzi x Department of Decentralization [ETHBerlin]"
+      "Franzi"
     ]
   },
   {

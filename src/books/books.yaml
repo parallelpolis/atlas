@@ -1,6 +1,9 @@
 - id: tracers-in-the-dark-by-andy-greenberg
   name: "Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency"
   img: andy-greenberg-tracers-in-the-dark.jpg
+  year: 2022
+  refs:
+    amazon: https://www.amazon.com/Tracers-Dark-Global-Crime-Cryptocurrency/dp/0385548095
   authors:
     - Andy Greenberg
   description: |
@@ -16,8 +19,34 @@
 
 - id: extreme-privacy-by-michael-bazzel
   name: "Extreme Privacy: What It Takes to Disappear in America"
+  year: 2024
   authors:
     - Michael Bazzell
   img: extreme-privacy-by-michael-bazzel.jpeg
+  refs:
+    amazon: https://www.amazon.com/Extreme-Privacy-What-Takes-Disappear-dp-B0DCJN61GF/dp/B0DCJN61GF
   description: |
     Michael Bazzell has helped hundreds of celebrities, billionaires, and everyday citizens disappear completely from public view. Many of his previous books about privacy were mostly REACTIVE and he focused on ways to hide information, clean up an online presence, and sanitize public records to avoid unwanted exposure. This textbook is PROACTIVE. It is the complete guide he would give to any new client in an extreme situation. It leaves nothing out and provides explicit details of every step he takes to make someone completely disappear, including legal documents and a chronological order of tasks. For many, this is the only manual needed to secure a new private life. Digital PDF available at the IntelTechniques website.
+
+- id: means-of-control-byron-tau
+  name: "Means of Control: How the Hidden Alliance of Tech and Government Is Creating a New American Surveillance State"
+  authors:
+    - Byron Tau
+  year: 2024
+  img: means-of-control-byron-tau.jpg
+  description: |
+    You are being surveilled right now. This “startling exposé” (The Economist) reveals how the U.S. government allied with data brokers, tech companies, and advertisers to monitor us through the phones we carry and the devices in our home.
+
+    “A revealing . . . startling . . . timely . . . fascinating, sometimes terrifying examination of the decline of privacy in the digital age.”—Kirkus Reviews
+
+    SHORTLISTED FOR THE SABEW BEST IN BUSINESS AWARD
+
+    “That evening, I was given a glimpse inside a hidden world. . . . An entirely new kind of surveillance program—one designed to track everyone.”
+
+    For the past five years—ever since a chance encounter at a dinner party—journalistByron Tau has been piecing together a secret story: how the whole of the internet and every digital device in the world became a mechanism of intelligence, surveillance, and monitoring.
+
+    Of course, our modern world is awash in surveillance. Most of us are dimly aware of this: Ever get the sense that an ad is “following” you around the internet? But the true potential of our phones, computers, homes, credit cards, and even the tires underneath our cars to reveal our habits and behavior would astonish most citizens. All of this surveillance has produced an extraordinary amount of valuable data about every one of us. That data is for sale—and the biggest customer is the U.S. government.
+
+    In the years after 9/11, the U.S. government, working with scores of anonymous companies, many scattered across bland Northern Virginia suburbs, built a foreign and domestic surveillance apparatus of breathtaking scope—one that can peer into the lives of nearly everyone on the planet. This cottage industry of data brokers and government bureaucrats has one directive—“get everything you can”—and the result is a surreal world in which defense contractors have marketing subsidiaries and marketing companies have defense contractor subsidiaries. And the public knows virtually nothing about it.
+
+    Sobering and revelatory, Means of Control is the defining story of our dangerous grand bargain—ubiquitous cheap technology, but at what price?

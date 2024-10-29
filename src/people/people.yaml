@@ -1190,3 +1190,9 @@
   img: andy-greenberg.jpg
   refs:
     twitter: a_greenberg
+
+- id: mykola-siusko
+  name: Mykola Siusko
+  img: mykola-siusko.png
+  refs:
+    twitter: msiusko

@@ -34,6 +34,8 @@
     - Byron Tau
   year: 2024
   img: means-of-control-byron-tau.jpg
+  refs:
+    amazon: https://www.amazon.com/Means-Control-Alliance-Government-Surveillance/dp/0593443225
   description: |
     You are being surveilled right now. This “startling exposé” (The Economist) reveals how the U.S. government allied with data brokers, tech companies, and advertisers to monitor us through the phones we carry and the devices in our home.
 
@@ -100,3 +102,26 @@
     amazon: https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383
   description: |
     In Dark Matters Simone Browne locates the conditions of blackness as a key site through which surveillance is practiced, narrated, and resisted. She shows how contemporary surveillance technologies and practices are informed by the long history of racial formation and by the methods of policing black life under slavery, such as branding, runaway slave notices, and lantern laws. Placing surveillance studies into conversation with the archive of transatlantic slavery and its afterlife, Browne draws from black feminist theory, sociology, and cultural studies to analyze texts as diverse as the methods of surveilling blackness she discusses: from the design of the eighteenth-century slave ship Brooks, Jeremy Bentham's Panopticon, and The Book of Negroes, to contemporary art, literature, biometrics, and post-9/11 airport security practices. Surveillance, Browne asserts, is both a discursive and material practice that reifies boundaries, borders, and bodies around racial lines, so much so that the surveillance of blackness has long been, and continues to be, a social and political norm. 
+
+- id: forrest-passage-by-ernst-junger
+  name: The Forest Passage
+  year: 2013
+  authors:
+    - Ernst Jünger
+  img: forrest-passage-by-ernst-junger.jpg
+  refs:
+    amazon: https://www.amazon.com/Forest-Passage-Ernst-J%C3%BCnger/dp/0914386492
+  description: |
+    Ernst Jünger's The Forest Passage explores the possibility of resistance: how the independent thinker can withstand and oppose the power of the omnipresent state. No matter how extensive the technologies of surveillance become, the forest can shelter the rebel, and the rebel can strike back against tyranny. Jünger's manifesto is a defense of freedom against the pressure to conform to political manipulation and artificial consensus. A response to the European experience under Nazism, Fascism, and Communism, The Forest Passage has lessons equally relevant for today, wherever an imposed uniformity threatens to stifle liberty.
+
+    "In a strikingly poetic political statement written soon after the Second World War, Ernst Jünger rejects the two reigning ideologies, democracy and communism, in favor of an individualistic stance anticipating what we now call libertarianism. The ideal that Jünger projects for us is a metaphorical 'passage through the forest' in which we remain constantly put to the test, with the result that we emerge self-sufficient, rebellious, heroic."
+    --Herbert Lindenberger, Stanford University
+
+    "The Forest Rebel says no to power, outwardly unobtrusive but inwardly rebellious and martial, spiritually, politically, and intellectually, an anarch as opposed to an anarchist. Many of the ideas here reflect Germany's geopolitical situation in the Cold War, powerless against the occupiers of East and West. But the treatise transcends the context in which it was born and manifests Jünger's sharp analysis of trends and problems that are as relevant today as ever. Particularly in the age of the mass plebiscite called the internet and as the marriage of the state and technology has given government unprecedented power over its citizens, a book about how to resist modern forms of tyranny is timely and much needed."
+    --Elliot Neaman, University of San Francisco
+
+    "In the Anglophone world the intellectual and writer Ernst Jünger has been overshadowed by the image of the fierce World War I warrior and the radical right-wing ideologue of the 1920s. The result has been an uneven and one-sided public reception that has severely underestimated the significance and complexity of Jünger's literary oeuvre. Especially his late work has barely been noticed. A critical revision of old approaches is definitely overdue. Therefore the publication of The Forest Passage is a truly important step in the right direction."
+    --Peter Uwe Hohendahl, Cornell University
+
+    "This fascinating work seeks out a place of inner subjective freedom where the besieged citizen of the modern world may withhold consent and refuse participation in the hellish tyranny of administrative totalitarianism. Jünger invites his reader to become a passenger in this forest of thoughtful reflection beyond the reach of political coercion and conformism."
+    --Robert Harrison, Stanford University

@@ -1223,3 +1223,9 @@
       role: contributor
     - project: w3pn-events
       role: contributor
+
+- id: franzi
+  name: Franzi
+  img: franzi.jpg
+  refs:
+    twitter: _franzihei

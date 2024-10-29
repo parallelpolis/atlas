@@ -12,3 +12,4 @@ collections:
   books:
     type: flat
     engine: books
+    sort: [ year, desc ]

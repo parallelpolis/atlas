@@ -1226,6 +1226,8 @@
 
 - id: franzi
   name: Franzi
+  altNames:
+    - Franziska Heintel
   img: franzi.jpg
   refs:
     twitter: _franzihei

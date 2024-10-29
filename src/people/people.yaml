@@ -1229,3 +1229,17 @@
   img: franzi.jpg
   refs:
     twitter: _franzihei
+
+- id: lefteris-karapetsas
+  name: Lefteris Karapetsas
+  img: lefteris-karapetsas.jpg
+  refs:
+    twitter: LefterisJP
+
+- id: eleonore-blanc
+  name: Eléonore Blanc
+  altNames:
+    - Eleonore Blanc
+  img: eleonore-blanc.jpg
+  refs:
+    twitter: blockblanc

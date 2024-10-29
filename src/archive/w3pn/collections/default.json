@@ -11,7 +11,7 @@
     "project": "w3pn-events",
     "event": "w3pn-summit-rome-2023",
     "people": [
-      "Eléonore Blanc"
+      "Eléonore Blanc|eleonore-blanc"
     ],
     "target": "w3pn",
     "imgHash": "a8e3b81d465948026560d501c5dd7d5c1f9ccd0d0afadc60266be97b3a7b0512"
@@ -409,7 +409,7 @@
     "name": "Panel: From Tornado Cash to sustainable privacy panel",
     "people": [
       "Peter Van Valkenburgh",
-      "Lefteris Karapetsas",
+      "Lefteris Karapetsas|lefteris-karapetsas",
       "Fatemeh Fannizadeh"
     ],
     "target": "w3pn",

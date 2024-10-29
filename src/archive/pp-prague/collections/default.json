@@ -820,12 +820,10 @@
     "publishedAt": "2024-05-09T11:45:42Z",
     "desc": "Welcome to the 3rd annual Pizza Day Prague Bitcoin Conference!\n\nAs we gather once again to celebrate the evolution of Bitcoin and its impact on our world, this year’s conference explores a crucial battleground.\n\nThe Scaling Wars represent a pivotal moment in Bitcoin’s journey, a battle to address the growing pains and ensure the continued relevance of peer-to-peer electronic cash. As the demand for Bitcoin transactions rises, questions about network capacity, transaction speed, and fees become increasingly urgent. The decentralization ethos that underpins Bitcoin’s essence faces challenges as the community navigates the delicate balance between scalability and maintaining the trustless nature of the network.\n\nThe Scaling Wars encompass not only technical considerations but also ideological discussions about the very soul of Bitcoin. Should we prioritize on-chain scaling or explore layer-two solutions? How do we ensure inclusivity and avoid centralization without compromising efficiency?\n\nTogether, we can navigate the challenges of scaling, foster innovation, and ensure that the original spirit of Bitcoin thrives in the face of adversity. Join us in Prague for Pizza Day 2024 – where the aroma of freshly baked ideas and the zest of intellectual exchange promise to make this a landmark event in the ongoing saga of Bitcoin’s evolution.\n\nLet the Scaling Wars begin.\n\npizzaday.cz\n\n",
     "duration": 40,
-    "name": "Pizza Day Prague 2024",
-    "project": null,
-    "event": null,
-    "people": [
-      "Scaling Wars"
-    ]
+    "name": "Pizza Day Prague 2024 Trailer",
+    "project": "pizza-day",
+    "event": "pd24",
+    "people": []
   },
   {
     "id": "l-p3Ub1z420",

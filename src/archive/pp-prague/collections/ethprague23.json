@@ -4,7 +4,6 @@
     "slug": "in-the-eye-of-the-tornado-a-deep-dive-into-the-alex-pertsev-pre-trial-the-case-for-freedom",
     "videoId": "afdJ7cAe-lo",
     "url": "https://www.youtube.com/watch?v=afdJ7cAe-lo",
-    "img": "afdJ7cAe-lo.jpg",
     "publishedAt": "2023-08-07T10:41:20Z",
     "desc": "Eleonore Blanc / August 10th 2022, Alex Pertsev, Tornado Cash builder was arrested in the Netherlands and incarcerated ever since. Let's dive into the pre trial, Tornado Cash and how we can counter this chilling effect and be more prepared in the future.",
     "duration": 1250,
@@ -12,15 +11,16 @@
     "event": "ethprague23",
     "name": "In the eye of the Tornado, a deep dive into the Alex Pertsev \"pre\" trial. The Case for Freedom",
     "people": [
-      "Eleonore Blanc"
-    ]
+      "Eleonore Blanc|eleonore-blanc"
+    ],
+    "target": "pp-prague",
+    "imgHash": "1cd97df96987c0b1692b6aebd968e559708731dbf2bfb63c1e9c84ad6b0ce83a"
   },
   {
     "id": "rf3SOkaOfgo",
     "slug": "ethprague23-participative-tendering-rohan-island-in-prague",
     "videoId": "rf3SOkaOfgo",
     "url": "https://www.youtube.com/watch?v=rf3SOkaOfgo",
-    "img": "rf3SOkaOfgo.jpg",
     "publishedAt": "2023-08-07T10:53:49Z",
     "desc": "We are bringing a creative way of tendering with engagement of local stakeholder for an area in Prague. On the right bank of the Vltava River in the neighborhood of Karlín and Libeň can be found a 56-hectare brownfield, place of urban wilderness and flooding area.",
     "duration": 1180,
@@ -29,14 +29,15 @@
     "event": "ethprague23",
     "people": [
       "Martina Bauerová"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "eb5dca78f9629266a7ebdd059dfc48be5aa6b17b8f0b6fc42cf6b9739e45b963"
   },
   {
     "id": "dO_jiwVjkcI",
     "slug": "ethprague23-iran-unchained-ngos-meet-daos",
     "videoId": "dO_jiwVjkcI",
     "url": "https://www.youtube.com/watch?v=dO_jiwVjkcI",
-    "img": "dO_jiwVjkcI.jpg",
     "publishedAt": "2023-08-07T11:09:55Z",
     "desc": "Woman, Life, Freedom. A cultural revolution is underway in Iran. We look at how Ethereum and web3 tools can help (and are already helping) Iranians fighting for freedom against censorship, surveillance, and oppression.",
     "duration": 1019,
@@ -45,14 +46,15 @@
     "event": "ethprague23",
     "people": [
       "Shayan Eskandari"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "ca4c6f61df4f14ff77e1f1b444a2b00cf1c55ac166277a8a916df5d0ec6dc36a"
   },
   {
     "id": "fvAj81XFnEs",
     "slug": "ethprague23-the-technology-was-never-going-to-save-you",
     "videoId": "fvAj81XFnEs",
     "url": "https://www.youtube.com/watch?v=fvAj81XFnEs",
-    "img": "fvAj81XFnEs.jpg",
     "publishedAt": "2023-08-07T13:02:32Z",
     "desc": "While technology has proven to be a vital tool in expanding our freedoms, it remains but one component of the recipe of self-sovereignty. We must also explore & strengthen our minds, bodies and spirits to counterbalance the push, pulls and demands of the dynamic world around us.",
     "duration": 580,
@@ -61,14 +63,15 @@
     "event": "ethprague23",
     "people": [
       "Nissa Szabo"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "ee66454c23356536306c66480245e519ef851f8a4b4e93800d7dff882fdf11c3"
   },
   {
     "id": "EwWvpjbVmi0",
     "slug": "ethprague23-the-inevitability-of-progress",
     "videoId": "EwWvpjbVmi0",
     "url": "https://www.youtube.com/watch?v=EwWvpjbVmi0",
-    "img": "EwWvpjbVmi0.jpg",
     "publishedAt": "2023-08-07T13:16:43Z",
     "desc": "We see progress as a linear development. In the past we were cold, hungry, angry, busy with menial tasks, just trying to survive. Today we live leisurely lives, most of us are fed, warm, and happy. But where does the arrow of progress take us from here?",
     "duration": 1428,
@@ -77,14 +80,15 @@
     "event": "ethprague23",
     "people": [
       "Maksim Izmaylov"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "1bc8adb612a1f020693f0499ad46b08e602883606f4cc024c6a9d20c2c2ecd23"
   },
   {
     "id": "R1o8b74_K20",
     "slug": "hackathon-opening-and-bounty-announcements",
     "videoId": "R1o8b74_K20",
     "url": "https://www.youtube.com/watch?v=R1o8b74_K20",
-    "img": "R1o8b74_K20.jpg",
     "publishedAt": "2023-08-07T14:22:55Z",
     "desc": "Are you ready to build a more sustainable and decentralized future?",
     "duration": 2783,
@@ -93,14 +97,15 @@
     "name": "Hackathon Opening and Bounty Announcements @ ETHPrague 2023",
     "people": [
       "Ceci"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "e8900ccb8a9142f71dddb05af50ffefc129b50a7f974fc8580c82b59e3082be5"
   },
   {
     "id": "M5Cas9MZ69Y",
     "slug": "ethprague23-universal-access-to-all-knowledge",
     "videoId": "M5Cas9MZ69Y",
     "url": "https://www.youtube.com/watch?v=M5Cas9MZ69Y",
-    "img": "M5Cas9MZ69Y.jpg",
     "publishedAt": "2023-08-07T14:24:16Z",
     "desc": "Decentralization: In short:  A game with many winners",
     "duration": 1683,
@@ -109,14 +114,15 @@
     "event": "ethprague23",
     "people": [
       "Brewster Kahle|brewster-kahle"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "689a9b377a63961181d75be7430a7238a9bbc21c240f3761881fc568686cb95c"
   },
   {
     "id": "UVuiJR_Aywk",
     "slug": "ethprague23-protocol-guild-funding-and-incentivising-ethereums-core-protocol-development",
     "videoId": "UVuiJR_Aywk",
     "url": "https://www.youtube.com/watch?v=UVuiJR_Aywk",
-    "img": "UVuiJR_Aywk.jpg",
     "publishedAt": "2023-08-08T15:23:20Z",
     "desc": "The Protocol Guild aims to secure the future of Ethereum, by enabling a highly efficient way for its ecosystem and community to sustainably fund core protocol development, while rebalancing incentives for core protocol contributors.",
     "duration": 1198,
@@ -125,14 +131,15 @@
     "event": "ethprague23",
     "people": [
       "Mário Havel|mario"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "d4473ed32dc551ad229af2a382edd43f7c0fe2b991b1e0a6bcf434a1ffd96c86"
   },
   {
     "id": "HO5BpQxQbGA",
     "slug": "ethprague23-the-dark-side-of-transparency-in-crypto",
     "videoId": "HO5BpQxQbGA",
     "url": "https://www.youtube.com/watch?v=HO5BpQxQbGA",
-    "img": "HO5BpQxQbGA.jpg",
     "publishedAt": "2023-08-08T15:25:37Z",
     "desc": "Transparency in crypto is a very big differentiating factor but also an insidious privacy trap that most users are not aware of. What tools should we build to account for that? How can self-sovereign, local-first, privacy protecting tools be built?",
     "duration": 1463,
@@ -140,16 +147,17 @@
     "project": "ethprague",
     "event": "ethprague23",
     "people": [
-      "Lefteris Karapetsas",
+      "Lefteris Karapetsas|lefteris-karapetsas",
       "Konstantinos Paparas"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "fec730a252d4a54cd33d109bb01837f28a893ecdea14d7f5b8bed740a2317673"
   },
   {
     "id": "1DM1pzYqnx8",
     "slug": "ethprague23-fireside-chat-stablecoins-and-the-future-of-online-payments",
     "videoId": "1DM1pzYqnx8",
     "url": "https://www.youtube.com/watch?v=1DM1pzYqnx8",
-    "img": "1DM1pzYqnx8.jpg",
     "publishedAt": "2023-08-08T15:28:05Z",
     "desc": "Stablecoins will power the payment layer of the web and have the potential to transform online payments.",
     "duration": 2545,
@@ -159,14 +167,15 @@
     "people": [
       "Stani Kulechov",
       "Joseph Schweitzer"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "39a0e9f5a76479624db205694a805d390dcc1500faf997f3bc672446756808ff"
   },
   {
     "id": "RQjnJx0PaGU",
     "slug": "ethprague23-solarpunk-and-permaculture-designing-a-solar-future",
     "videoId": "RQjnJx0PaGU",
     "url": "https://www.youtube.com/watch?v=RQjnJx0PaGU",
-    "img": "RQjnJx0PaGU.jpg",
     "publishedAt": "2023-08-08T15:31:57Z",
     "desc": "Exploring the common views of solarpunk and permaculture.",
     "duration": 2074,
@@ -175,14 +184,15 @@
     "event": "ethprague23",
     "people": [
       "Alessandro Ardovini"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "76b8bda24878366af469e4b18b599984c75214c291ab85634a102d227e280c90"
   },
   {
     "id": "JcnjVPCXD_M",
     "slug": "ethprague23-refusing-dystopia-why-art-is-a-tool-for-hope",
     "videoId": "JcnjVPCXD_M",
     "url": "https://www.youtube.com/watch?v=JcnjVPCXD_M",
-    "img": "JcnjVPCXD_M.jpg",
     "publishedAt": "2023-08-08T15:33:16Z",
     "desc": "As artists we have a critical role to help shift public perspective in accepting green new technologies, to build an interconnected world via blueprints and mapmaking, and be the conduit between disconnected communities to give visual powers where policy has failed.",
     "duration": 998,
@@ -191,14 +201,15 @@
     "event": "ethprague23",
     "people": [
       "Becca Bowlin"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "cd972fdfdc8b35f952fff2a424ed253502b96a5ab28da2bc231677a2059cda2e"
   },
   {
     "id": "07vVN-_GJ6M",
     "slug": "kailash-ecovillage-a-model-for-a-sustainably-focused-intentional-community-in-portland-oregon-usa",
     "videoId": "07vVN-_GJ6M",
     "url": "https://www.youtube.com/watch?v=07vVN-_GJ6M",
-    "img": "07vVN-_GJ6M.jpg",
     "publishedAt": "2023-08-08T15:34:34Z",
     "desc": "Ole Ersson / Kailash Ecovillage is an example of the transformation of a derelict apartment complex into a model of sustainable development and community building.",
     "duration": 1298,
@@ -207,14 +218,15 @@
     "name": "Kailash Ecovillage, a model for a sustainably focused intentional community in Portland, Oregon USA",
     "people": [
       "Ole Ersson"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "7c9274409c2599642ff35ec095a3c2271881fa9a7166b5a06fd762fbae723918"
   },
   {
     "id": "daHI1F-rR0k",
     "slug": "ethprague23-fireside-chat-the-prehistory-of-ethereum-and-proto-network-states",
     "videoId": "daHI1F-rR0k",
     "url": "https://www.youtube.com/watch?v=daHI1F-rR0k",
-    "img": "daHI1F-rR0k.jpg",
     "publishedAt": "2023-08-08T15:36:04Z",
     "desc": "The seeds for Ethereum were planted in Calafou, an eco-industrial\ntechno-village in a former factory complex in Catalunya.\n\nA fire side chat of Amir Taaki & Vitalik Buterin.",
     "duration": 3549,
@@ -224,14 +236,15 @@
     "people": [
       "Amir Taaki|amir-taaki",
       "Vitalik Buterin|vitalik-buterin"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "bc95726f5a58bae185dc8d5de0abdccad25210908f85a944089a34fd3efe36f1"
   },
   {
     "id": "i0moSONwbgs",
     "slug": "ethprague23-panel-importance-of-communities-in-product-building",
     "videoId": "i0moSONwbgs",
     "url": "https://www.youtube.com/watch?v=i0moSONwbgs",
-    "img": "i0moSONwbgs.jpg",
     "publishedAt": "2023-08-08T15:39:20Z",
     "desc": "A casual chat about the importance of communities and community involvement building a useful product in web3.",
     "duration": 2344,
@@ -242,14 +255,15 @@
       "Tina Haibodi|tina-haibodi",
       "Eylon",
       "Manu Alzuru"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "6af39d1c7701d86993a16d0d9840d79d03ce7953ad20155f8218bac1109e4a35"
   },
   {
     "id": "shA8VqSHkjE",
     "slug": "ethprague23-beerfi-smart-contracts-dev-meetup-intro",
     "videoId": "shA8VqSHkjE",
     "url": "https://www.youtube.com/watch?v=shA8VqSHkjE",
-    "img": "shA8VqSHkjE.jpg",
     "publishedAt": "2023-08-08T15:43:03Z",
     "desc": "Introducing BeerFi: the monthly hardcore DeFi development meetup in Prague. Join us for beer, networking, and deep dives down to the EVM byte code.",
     "duration": 318,
@@ -258,14 +272,15 @@
     "event": "ethprague23",
     "people": [
       "Radek Svarz"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "8e091b5ae7aa1c2d2d6e3519730e10d74c4344df8d1f068351f5b77b0ee9cb71"
   },
   {
     "id": "YOGco2BEqtU",
     "slug": "ethprague23-creating-meaningful-video-games-post-gollem-class-ais",
     "videoId": "YOGco2BEqtU",
     "url": "https://www.youtube.com/watch?v=YOGco2BEqtU",
-    "img": "YOGco2BEqtU.jpg",
     "publishedAt": "2023-08-08T15:44:18Z",
     "desc": "AI has broken video game design. Recent advancements in AI will massively disrupt game development workflows and amplify sybil attacks on already fragile game ecosystems, especially in Web3. In a new world post Gollem-class AIs, what kind of games should we be making?",
     "duration": 1265,
@@ -274,14 +289,15 @@
     "event": "ethprague23",
     "people": [
       "Paul Gadi"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "92a56d2aa1d9560d2b43703dc73e03486698e8526d45f18d6237f92466bf5eb7"
   },
   {
     "id": "7OHfWAXOI98",
     "slug": "ethprague23-cyberpunk-vs-solarpunk-2077",
     "videoId": "7OHfWAXOI98",
     "url": "https://www.youtube.com/watch?v=7OHfWAXOI98",
-    "img": "7OHfWAXOI98.jpg",
     "publishedAt": "2023-08-08T15:45:52Z",
     "desc": "Why/how/what can we do to enable the metro/cosmopolitan centres of the world to join the Solarpunk mission/vision given that most Solarpunk activities occur in the remote/rural parts of the world right now despite the urban/suburban centres having the highest population densities",
     "duration": 3010,
@@ -290,14 +306,15 @@
     "event": "ethprague23",
     "people": [
       "Tian-Yuan Zhao"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "ff07132b73338732e2c4793c570ff42c3d55f973775b94c97e8680d7c7a0916e"
   },
   {
     "id": "i9fHuc8o6N8",
     "slug": "ethprague23-towards-verifiable-and-privacy-enabled-ai",
     "videoId": "i9fHuc8o6N8",
     "url": "https://www.youtube.com/watch?v=i9fHuc8o6N8",
-    "img": "i9fHuc8o6N8.jpg",
     "publishedAt": "2023-08-08T15:47:22Z",
     "desc": "Zero Knowledge Machine Learning (ZKML) is a rapidly developing field that has recently caught a lot of interest. ZKML use cases include verifiable inference, preserving the privacy of user data, proof of personhood, and fighting fake news on social media.",
     "duration": 1240,
@@ -306,14 +323,15 @@
     "event": "ethprague23",
     "people": [
       "Filip Siroky"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "54507e004610a8ebab41296ad81ad661ae26cc1e4c03012178239d91ce64be3c"
   },
   {
     "id": "WwFo63WKGyo",
     "slug": "ethprague23-how-l2-are-scaling-ethereum-one-batch-at-a-time",
     "videoId": "WwFo63WKGyo",
     "url": "https://www.youtube.com/watch?v=WwFo63WKGyo",
-    "img": "WwFo63WKGyo.jpg",
     "publishedAt": "2023-08-08T15:49:25Z",
     "desc": "In this talk, I want to highlight the importance of Layer 2s.",
     "duration": 648,
@@ -322,14 +340,15 @@
     "event": "ethprague23",
     "people": [
       "Sahil Sen"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "369e849d1cc0ecf174dd98733a60e3969434ff72f02b5c9a2eda1225f3461ccd"
   },
   {
     "id": "5ou-oirPAh0",
     "slug": "ethprague23-applying-the-pyramid-principle-to-ethereum-development",
     "videoId": "5ou-oirPAh0",
     "url": "https://www.youtube.com/watch?v=5ou-oirPAh0",
-    "img": "5ou-oirPAh0.jpg",
     "publishedAt": "2023-08-08T15:50:52Z",
     "desc": "As Ethereum matures, so should its developers. Learn how to apply single layers of the Pyramid Principle to build secure and maintainable smart contracts and maximize everything developers can do themselves BEFORE the security audit.",
     "duration": 1293,
@@ -338,26 +357,28 @@
     "event": "ethprague23",
     "people": [
       "Josef Gattermayer|josef-gattermayer"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "8447c0a1995ed2187c2a37b7568cac4427f55ba9bd7ae41a94cd7895313306fe"
   },
   {
     "id": "nk6aDtzhLYY",
     "slug": "juvix-towards-a-functional-programming-language-for-decentralized-applications-and-beyond",
     "videoId": "nk6aDtzhLYY",
     "url": "https://www.youtube.com/watch?v=nk6aDtzhLYY",
-    "img": "nk6aDtzhLYY.jpg",
     "publishedAt": "2023-08-08T15:53:08Z",
     "desc": "Jonathan Cubides, Veronika Romashkina / Discover Juvix, a novel, in-progress language for next-gen decentralized apps. Fusing the best of functional languages & efficient compilation to low-level langs like C or LLVM enables powerful, transparent coding. Explore its current state, features & challenges in our talk.",
     "duration": 1308,
     "name": "Juvix: Towards a Functional Programming Language for Decentralized Applications and Beyond",
-    "people": []
+    "people": [],
+    "target": "pp-prague",
+    "imgHash": "a443891cd8f83b9a7957be7b6837186306ece71a16f1e0c8c99b0d09a92b0fad"
   },
   {
     "id": "AsyNXQXcwko",
     "slug": "ethprague23-privacy-in-web3-improving-privacy-protocol-to-prevent-hackers-and-criminals",
     "videoId": "AsyNXQXcwko",
     "url": "https://www.youtube.com/watch?v=AsyNXQXcwko",
-    "img": "AsyNXQXcwko.jpg",
     "publishedAt": "2023-08-08T15:54:52Z",
     "desc": "How do we grant users privacy to users in blockchain without helping hackers or criminals? If crypto achieves mainstream, everyone will have access to all your information… Using newer technology like ZK proofs, FHE, Threshold, & Intel SGX, we can restore this human right.",
     "duration": 1069,
@@ -366,14 +387,15 @@
     "event": "ethprague23",
     "people": [
       "Daniel Lumi|daniel-lumi"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "6fdd8f0a98dc841549ffcf1e68b9654b439d4a83d2ba933b09df9d615989d00b"
   },
   {
     "id": "lWd1zdoy9Cc",
     "slug": "ethprague23-the-future-of-apps",
     "videoId": "lWd1zdoy9Cc",
     "url": "https://www.youtube.com/watch?v=lWd1zdoy9Cc",
-    "img": "lWd1zdoy9Cc.jpg",
     "publishedAt": "2023-08-08T15:56:35Z",
     "desc": "We all use them multiple times a day, but what exactly are apps? How do they work vs how should they work? This talk shows what is possible if we combine data privacy, composability, AI and Urbit to replace the concept of apps with something much better.",
     "duration": 1713,
@@ -382,14 +404,15 @@
     "event": "ethprague23",
     "people": [
       "Owen Barnes|owen-barnes"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "33438000abe54ce5b56054da91bfd424d2f19c3bf2afd142b4ce53452095487e"
   },
   {
     "id": "3UVlCrU_ki0",
     "slug": "ethprague23-if-youre-going-to-dao-it-dao-it-right",
     "videoId": "3UVlCrU_ki0",
     "url": "https://www.youtube.com/watch?v=3UVlCrU_ki0",
-    "img": "3UVlCrU_ki0.jpg",
     "publishedAt": "2023-08-08T16:02:03Z",
     "desc": "Walk-through of a methodology of planning how your DAO governance will work. Membership types, decision flows, reputation, and long-term sustainability of your project.",
     "duration": 3318,
@@ -398,14 +421,15 @@
     "event": "ethprague23",
     "people": [
       "Grace Rachmany"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "daca62147b9f1274aa19e8339bd3820ea90c9329453c730ba79a7051c06929ff"
   },
   {
     "id": "Ag5ZduZzSn0",
     "slug": "ethprague23-lunarpunk-takeover-why-and-how",
     "videoId": "Ag5ZduZzSn0",
     "url": "https://www.youtube.com/watch?v=Ag5ZduZzSn0",
-    "img": "Ag5ZduZzSn0.jpg",
     "publishedAt": "2023-08-08T16:05:04Z",
     "desc": "Lunarpunk is a revolution in anti-fragile and self-sovereign infrastructure that is taking over crypto.",
     "duration": 1587,
@@ -414,14 +438,15 @@
     "event": "ethprague23",
     "people": [
       "Rachel-Rose O'Leary|rachel-rose"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "43453523fa3be7093d5348004db81e86cbd18948a66ac5c4e5f992859260389e"
   },
   {
     "id": "nmGyrDpAn-k",
     "slug": "ethprague23-pure-functional-solidity-for-fun-and-profit",
     "videoId": "nmGyrDpAn-k",
     "url": "https://www.youtube.com/watch?v=nmGyrDpAn-k",
-    "img": "nmGyrDpAn-k.jpg",
     "publishedAt": "2023-08-08T16:07:46Z",
     "desc": "Can we program solidity code using the functional programming style? The speaker thinks: yes, we can and we should! We do it first because it is fun. Secondly, it can lead to more formally verifiable code (profit!).",
     "duration": 1385,
@@ -430,14 +455,15 @@
     "event": "ethprague23",
     "people": [
       "Miao ZhiCheng"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "4d7d2f5567a61c75ebed422c9e9a6d7465211577e7a7d217704ccb491259aa4a"
   },
   {
     "id": "EyEEtMR-xiI",
     "slug": "ethprague23-protecting-our-mental-well-being-should-be-number-one-priority",
     "videoId": "EyEEtMR-xiI",
     "url": "https://www.youtube.com/watch?v=EyEEtMR-xiI",
-    "img": "EyEEtMR-xiI.jpg",
     "publishedAt": "2023-08-08T16:12:35Z",
     "desc": "Technology would not work without people, and people cannot work when they burn out. We all know that mental health is important, but are we doing enough to protect it, are we using technology to help people?",
     "duration": 759,
@@ -446,26 +472,28 @@
     "event": "ethprague23",
     "people": [
       "Puncar"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "4cf60d4ea87b956a4cd4f326fc4d7f4b531a9b0872dcb5fe35acc4b9bc1a4bf5"
   },
   {
     "id": "NrKYZ-TIcXk",
     "slug": "gong-bath-sounds-of-universe",
     "videoId": "NrKYZ-TIcXk",
     "url": "https://www.youtube.com/watch?v=NrKYZ-TIcXk",
-    "img": "NrKYZ-TIcXk.jpg",
     "publishedAt": "2023-08-08T16:14:41Z",
     "desc": "Let your body bath in gong vibrations. The tones will enter every cell of your body, taking you into inner journey of imagination and relaxation.",
     "duration": 3130,
     "name": "Gong Bath: Sounds of Universe",
-    "people": []
+    "people": [],
+    "target": "pp-prague",
+    "imgHash": "f3bb85c91fd4f41d077b0ba3bba38fe09d16d7fbbafd4883c44e5dd258a420de"
   },
   {
     "id": "RRMCtoDs27s",
     "slug": "ethprague23-why-interoperability-is-fundamental-for-web3-messaging",
     "videoId": "RRMCtoDs27s",
     "url": "https://www.youtube.com/watch?v=RRMCtoDs27s",
-    "img": "RRMCtoDs27s.jpg",
     "publishedAt": "2023-08-08T16:15:41Z",
     "desc": "The dm3 protocol is the web3 messaging protocol focusing on encryption, decentralization, scalability, and in particular interoperability. It utilizes the essential features for a lean messaging base protocol: a registry for public keys and decentralized delivery service nodes.",
     "duration": 1869,
@@ -474,14 +502,15 @@
     "event": "ethprague23",
     "people": [
       "Steffen Kux"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "42eabecfb19017e4031d3fc5362fdc3819752a555ab49e65237174daee9e6d73"
   },
   {
     "id": "2MrMEywS3w4",
     "slug": "how-to-create-a-frictionless-web3-user-experience-through-implementing-account-abstraction",
     "videoId": "2MrMEywS3w4",
     "url": "https://www.youtube.com/watch?v=2MrMEywS3w4",
-    "img": "2MrMEywS3w4.jpg",
     "publishedAt": "2023-08-08T16:16:53Z",
     "desc": "Michael / There are many problems that Web3 users in a multi-chain world face when interacting with various dapps, which negatively affects the mass adoption of Web3",
     "duration": 971,
@@ -490,14 +519,15 @@
     "name": "How to create a frictionless Web3 user experience through implementing Account Abstraction",
     "people": [
       "Michael"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "2d8164b71ba69f24f51a7802b507b1bd460a3115dc89f003f060ef0a20cdeef2"
   },
   {
     "id": "OinSCw9Y24c",
     "slug": "ethprague23-build-high-throughput-and-private-applications-on-ethereum",
     "videoId": "OinSCw9Y24c",
     "url": "https://www.youtube.com/watch?v=OinSCw9Y24c",
-    "img": "OinSCw9Y24c.jpg",
     "publishedAt": "2023-08-08T16:19:30Z",
     "desc": "With Polygon Miden, we aim to extend Ethereum's feature set. Ethereum is designed to be a base layer that provides stability and security. Rollups allow the creation of new design spaces. Build high-throughput and private applications on Polygon Miden.",
     "duration": 698,
@@ -506,14 +536,15 @@
     "event": "ethprague23",
     "people": [
       "Dominik Schmid"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "a7188f63aeead5327bccb9c61a33d06c6a7d9a60887e6a6c027a837a9e99f833"
   },
   {
     "id": "svGPYpksYQ4",
     "slug": "ethprague23-the-politics-and-poetics-of-solarpunk",
     "videoId": "svGPYpksYQ4",
     "url": "https://www.youtube.com/watch?v=svGPYpksYQ4",
-    "img": "svGPYpksYQ4.jpg",
     "publishedAt": "2023-08-08T17:24:19Z",
     "desc": "Solarpunk's politics are embedded in its aesthetics, narrative, and form more than its explicit content. This talk will unpack what solarpunk does and – more importantly – how it does it, providing a platform for essential critique and improvement.",
     "duration": 2293,
@@ -522,14 +553,15 @@
     "event": "ethprague23",
     "people": [
       "Rhys Williams"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "aa341f2c6440e09eeac353c6a906d292613c34caeae51130b6821d7fdab1b0fd"
   },
   {
     "id": "9fMcysEOo0M",
     "slug": "livestream-interview-with-brewster-kahle",
     "videoId": "9fMcysEOo0M",
     "url": "https://www.youtube.com/watch?v=9fMcysEOo0M",
-    "img": "9fMcysEOo0M.jpg",
     "publishedAt": "2023-08-08T17:26:01Z",
     "desc": "Brewster Kahle is an American digital librarian, a computer engineer, Internet entrepreneur, and advocate of universal access to all knowledge. Kahle founded the Internet Archive and Alexa Internet. In 2012, he was inducted into the Internet Hall of Fame.",
     "duration": 317,
@@ -538,14 +570,15 @@
     "name": "Livestream Interview with Brewster Kahle",
     "people": [
       "Brewster Kahle|brewster-kahle"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "de08c5eaff200fe9e88748244265742c7d73850233bc211576f17ee07ccf0db0"
   },
   {
     "id": "imZu4sY0kr0",
     "slug": "the-unbearable-lightness-of-solarpunk-utopian-visions-and-invisible-infrastructures",
     "videoId": "imZu4sY0kr0",
     "url": "https://www.youtube.com/watch?v=imZu4sY0kr0",
-    "img": "imZu4sY0kr0.jpg",
     "publishedAt": "2023-08-08T17:28:12Z",
     "desc": "Paul Graham Raven / The unbearable lightness of solarpunk: utopian visions and infrastructural complications",
     "duration": 2414,
@@ -554,14 +587,15 @@
     "name": "The unbearable lightness of solarpunk: utopian visions and invisible infrastructures",
     "people": [
       "Paul Graham Raven"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "0ffb30c006ad6f41060700920ae2c23bc721a4623bce098d2eca0fa20983474b"
   },
   {
     "id": "UcuekX5uf3s",
     "slug": "livestream-interview-with-nick-almond",
     "videoId": "UcuekX5uf3s",
     "url": "https://www.youtube.com/watch?v=UcuekX5uf3s",
-    "img": "UcuekX5uf3s.jpg",
     "publishedAt": "2023-08-08T17:29:09Z",
     "desc": "Building the next generation of DAOs with FactoryDAO @FactDAO",
     "duration": 387,
@@ -570,14 +604,15 @@
     "name": "Livestream Interview with Nick Almond",
     "people": [
       "Nick Almond|dr-nick"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "fe9e473aa1632a7d44bbc67f1232f66361d5fdedd3e7a496e8c2a5d4a55f6cc3"
   },
   {
     "id": "e2CWMTeQnwI",
     "slug": "ethprague23-the-new-era-of-environmental-activism",
     "videoId": "e2CWMTeQnwI",
     "url": "https://www.youtube.com/watch?v=e2CWMTeQnwI",
-    "img": "e2CWMTeQnwI.jpg",
     "publishedAt": "2023-08-08T17:33:13Z",
     "desc": "What does the new era of environmental activism look like? Explore new ways to support climate action and 'eco-hobbyvism'. Join the discussion on creating innovative systems to tackle environmental challenges, including giving a voice to fish, and other design provocations.",
     "duration": 1104,
@@ -586,14 +621,15 @@
     "event": "ethprague23",
     "people": [
       "Ryan McClure"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "52b6baebcc57608e27f44d92f914eee87a5b5ced68126c3901f432527ccdcb02"
   },
   {
     "id": "odZc68C1S5s",
     "slug": "ethprague23-livestream-interview-with-abenaeth",
     "videoId": "odZc68C1S5s",
     "url": "https://www.youtube.com/watch?v=odZc68C1S5s",
-    "img": "odZc68C1S5s.jpg",
     "publishedAt": "2023-08-08T17:40:43Z",
     "desc": "CS | 🇬🇭🇨🇭| Educator @She__Fi | Writer @Bankless_Africa | ⚽️ aficionado | D_D | @ETHGlobal finalist | prev. TradFi at CS, EY| Opinions are my own",
     "duration": 255,
@@ -602,14 +638,15 @@
     "event": "ethprague23",
     "people": [
       "Abena Asante"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "5801aec07d34f6ce05bf34b61c6560560352f44fe997b33c57c2ee15f2127ee1"
   },
   {
     "id": "O2ncr5LDd4g",
     "slug": "ethprague23-ephemery-novel-approach-to-public-testnets",
     "videoId": "O2ncr5LDd4g",
     "url": "https://www.youtube.com/watch?v=O2ncr5LDd4g",
-    "img": "O2ncr5LDd4g.jpg",
     "publishedAt": "2023-08-08T17:42:46Z",
     "desc": "Introduction to Ephemery, a novel approach to testnets which enables a single testing infrastructure consisting of ephemeral networks with deterministic parameters.",
     "duration": 1322,
@@ -618,14 +655,15 @@
     "event": "ethprague23",
     "people": [
       "Mário Havel|mario"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "b4404a03fcde0b5443263add984f93a44da0bab35b1946bff651d898b2c4a43c"
   },
   {
     "id": "LZfoJRLy7IU",
     "slug": "ethprague23-stateless-ethereum-a-preview",
     "videoId": "LZfoJRLy7IU",
     "url": "https://www.youtube.com/watch?v=LZfoJRLy7IU",
-    "img": "LZfoJRLy7IU.jpg",
     "publishedAt": "2023-08-08T17:56:06Z",
     "desc": "This presentation summarize the latest progress of the stateless effort and paint a picture of what a stateless Ethereum will look like.",
     "duration": 1197,
@@ -634,14 +672,15 @@
     "event": "ethprague23",
     "people": [
       "Guillaume Ballet"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "663cbd4d4c5eb66ffe10e1228e3c1953ba67678f19cbfd1640a5ab4658f30628"
   },
   {
     "id": "oc4kXVEmaJk",
     "slug": "ethprague23-impact-of-technology-on-societal-evolution",
     "videoId": "oc4kXVEmaJk",
     "url": "https://www.youtube.com/watch?v=oc4kXVEmaJk",
-    "img": "oc4kXVEmaJk.jpg",
     "publishedAt": "2023-08-08T17:59:48Z",
     "desc": "",
     "duration": 3720,
@@ -652,14 +691,15 @@
       "Paul Graham Raven",
       "Brewster Kahle|brewster-kahle",
       "Vitalik Buterin|vitalik-buterin"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "7810e1aeee3166f7102b2cdf82144acc353a7624803ce84b190401d301d67bbd"
   },
   {
     "id": "WbFipwwZPgE",
     "slug": "livestream-interview-with-ameen-soleimani",
     "videoId": "WbFipwwZPgE",
     "url": "https://www.youtube.com/watch?v=WbFipwwZPgE",
-    "img": "WbFipwwZPgE.jpg",
     "publishedAt": "2023-08-08T18:01:27Z",
     "desc": "coordination arms dealer @unchainiran http://privacypools.com @reflexerfinance @molochdao @spankchain",
     "duration": 300,
@@ -668,14 +708,15 @@
     "name": "Livestream Interview with Ameen Soleimani",
     "people": [
       "Ameen Soleimani|ameen-soleimani"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "7481f905dde90e43c1c49839c3540d34333c579857200e1a5f7610d8c0f893e1"
   },
   {
     "id": "Nlzxc-w5Kr0",
     "slug": "livestream-interview-with-austin-griffith",
     "videoId": "Nlzxc-w5Kr0",
     "url": "https://www.youtube.com/watch?v=Nlzxc-w5Kr0",
-    "img": "Nlzxc-w5Kr0.jpg",
     "publishedAt": "2023-08-08T18:08:21Z",
     "desc": "Austin is the hacker's hacker. 👩‍🎤 builder 🧑‍🏫 http://SpeedRunEthereum.com 🏗 http://scaffoldeth.io 🏰 http://buidlguidl.com 🎨 http://nifty.ink 🛠 http://eth.build 🏷 atg.eth",
     "duration": 299,
@@ -684,14 +725,15 @@
     "name": "Livestream Interview with Austin Griffith",
     "people": [
       "Austin Griffith"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "529bfba9c0551eeaba1d44f66350ba2f11656d2790d692031471de560695e050"
   },
   {
     "id": "G7H_AK5OYl8",
     "slug": "livestream-interview-with-phil-lucsok",
     "videoId": "G7H_AK5OYl8",
     "url": "https://www.youtube.com/watch?v=G7H_AK5OYl8",
-    "img": "G7H_AK5OYl8.jpg",
     "publishedAt": "2023-08-08T18:09:58Z",
     "desc": "Decentralizing things at Missing Link. Ex-@paritytech. Comms for @polkadot, @substrate_io and @kusamanetwork launches.",
     "duration": 328,
@@ -700,14 +742,15 @@
     "name": "Livestream Interview with Phil Lucsok",
     "people": [
       "Phil Lucsok"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "9ce37f47cf9a2f7af74f3096ddfdb622dbb5c0a726269940534c0ec58aa2d69b"
   },
   {
     "id": "sKoqokDaOBA",
     "slug": "ethprague23-livestream-interview-with-amir-taaki",
     "videoId": "sKoqokDaOBA",
     "url": "https://www.youtube.com/watch?v=sKoqokDaOBA",
-    "img": "sKoqokDaOBA.jpg",
     "publishedAt": "2023-08-08T18:12:19Z",
     "desc": "Amir Taaki is a British-Iranian anarchist revolutionary, hacktivist, and programmer who is known for his leading role in the bitcoin project, and for pioneering many open source projects. Forbes listed Taaki in their 30 Under 30 listing of 2014.",
     "duration": 332,
@@ -716,14 +759,15 @@
       "amir-taaki"
     ],
     "project": "ethprague",
-    "event": "ethprague23"
+    "event": "ethprague23",
+    "target": "pp-prague",
+    "imgHash": "71bd8770b190383718ee2b8070454260e6e8bc819b4b880a8913842c922e52e1"
   },
   {
     "id": "gL1HAy3l7YA",
     "slug": "ethprague23-from-gridlock-to-gridflex-using-blockchain-to-unlock-energy-flexibility",
     "videoId": "gL1HAy3l7YA",
     "url": "https://www.youtube.com/watch?v=gL1HAy3l7YA",
-    "img": "gL1HAy3l7YA.jpg",
     "publishedAt": "2023-08-08T18:14:56Z",
     "desc": "As the energy sector undergoes a digital transformation towards a more decentralized system, the need for flexibility services is becoming critical. In this talk, we'll delve into how Ethereum can provide a secure and efficient platform to manage these services.",
     "duration": 1232,
@@ -732,28 +776,30 @@
     "event": "ethprague23",
     "people": [
       "Nicolas Manea"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "408adba1658c5c7d97fbe2b0ed484a1c81484a303457b242b0dc088afdbda866"
   },
   {
     "id": "C7WAXC5Yb8I",
     "slug": "livestream-interview-with-christoph-jentzsch",
     "videoId": "C7WAXC5Yb8I",
     "url": "https://www.youtube.com/watch?v=C7WAXC5Yb8I",
-    "img": "C7WAXC5Yb8I.jpg",
     "publishedAt": "2023-08-08T18:17:57Z",
     "desc": "",
     "duration": 243,
     "name": "Livestream Interview with Christoph Jentzsch",
     "people": [
       "Christoph Jentzsch|christoph-jentzsch"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "253609ccd979adc204da1e7a7537478e60cf30575a11e73552a831926b2e8453"
   },
   {
     "id": "aGbAfDM7zMA",
     "slug": "fireside-chat-freedom-progress-and-prosperity-zkevms-will-scale-the-internet-of-value",
     "videoId": "aGbAfDM7zMA",
     "url": "https://www.youtube.com/watch?v=aGbAfDM7zMA",
-    "img": "aGbAfDM7zMA.jpg",
     "publishedAt": "2023-08-08T18:19:19Z",
     "desc": "Alex Gluchowski, Frank Chaparro / Moderator: Frank Chaparro, Host of The Scoop, Editor-at-large at The Block",
     "duration": 2224,
@@ -761,28 +807,30 @@
     "people": [
       "Alex Gluchowski",
       "Frank Chaparro"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "cd6c752e5526fc04f4f98dc27cfc90e7290628c3e27fe5f866434b35f2cf5667"
   },
   {
     "id": "wYd4otLjrP0",
     "slug": "livestream-interview-with-cryptowanderer",
     "videoId": "wYd4otLjrP0",
     "url": "https://www.youtube.com/watch?v=wYd4otLjrP0",
-    "img": "wYd4otLjrP0.jpg",
     "publishedAt": "2023-08-08T18:21:20Z",
     "desc": "Tokenization of companies - from TheDAO, ICOs and security tokens to now.",
     "duration": 338,
     "name": "Livestream Interview with Cryptowanderer",
     "people": [
       "Cryptowanderer"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "8ab606e84805f239916c65e9955b8fa905aa1197e28c91cd6f81482c89b83d24"
   },
   {
     "id": "iwlgCNEmblE",
     "slug": "ethprague23-tokenization-of-companies-from-thedao-icos-and-security-tokens-to-now",
     "videoId": "iwlgCNEmblE",
     "url": "https://www.youtube.com/watch?v=iwlgCNEmblE",
-    "img": "iwlgCNEmblE.jpg",
     "publishedAt": "2023-08-08T18:23:29Z",
     "desc": "After a short review of the history of tokens, I will introduce a novel approach to the tokenization of company shares through the so-called \"Auslobung\".",
     "duration": 1273,
@@ -791,14 +839,15 @@
     "event": "ethprague23",
     "people": [
       "Christoph Jentzsch|christoph-jentzsch"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "2a2aff8dd7fa247d7681c6d951bb1b980be819e7b755c18f570be517b9e0e498"
   },
   {
     "id": "NDgy7ewSoAQ",
     "slug": "ethprague23-foundations-for-the-superchain",
     "videoId": "NDgy7ewSoAQ",
     "url": "https://www.youtube.com/watch?v=NDgy7ewSoAQ",
-    "img": "NDgy7ewSoAQ.jpg",
     "publishedAt": "2023-08-08T18:26:52Z",
     "desc": "Overview of the Superchain and developer implications.",
     "duration": 917,
@@ -807,14 +856,15 @@
     "event": "ethprague23",
     "people": [
       "Karl Floersch"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "e1ec0dc45f7526dcb6aa621953cc44c786918d8e2af03ba2f20b77b63e69fc3e"
   },
   {
     "id": "uH7TiI8XQ68",
     "slug": "livestream-interview-with-guillaume-ballet",
     "videoId": "uH7TiI8XQ68",
     "url": "https://www.youtube.com/watch?v=uH7TiI8XQ68",
-    "img": "uH7TiI8XQ68.jpg",
     "publishedAt": "2023-08-08T18:28:33Z",
     "desc": "",
     "project": "ethprague",
@@ -823,14 +873,15 @@
     "name": "Livestream Interview with Guillaume Ballet",
     "people": [
       "Guillaume Ballet"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "62fd17bb615296be38b457b0851235cb95468bea42d24239499c8e3a87c0ec7e"
   },
   {
     "id": "mjUJ4PhBG0I",
     "slug": "ethprague23-ethereum-governance-overview",
     "videoId": "mjUJ4PhBG0I",
     "url": "https://www.youtube.com/watch?v=mjUJ4PhBG0I",
-    "img": "mjUJ4PhBG0I.jpg",
     "publishedAt": "2023-08-08T18:29:55Z",
     "desc": "A deep dive into how Ethereum governance works, past contentions, current challenges, and future directions.",
     "duration": 1842,
@@ -839,14 +890,15 @@
     "event": "ethprague23",
     "people": [
       "Tim Beiko|tim-beiko"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "4aaa25a662c3fdecfd76ae0859855645b054e6ba5b2a7babeebc45fc489d0654"
   },
   {
     "id": "uxWVF3zPvvU",
     "slug": "ethprague23-zero-knowledge-proofs-101",
     "videoId": "uxWVF3zPvvU",
     "url": "https://www.youtube.com/watch?v=uxWVF3zPvvU",
-    "img": "uxWVF3zPvvU.jpg",
     "publishedAt": "2023-08-08T18:32:22Z",
     "desc": "Are you hearing about ZK (Zero Knowledge Proofs) everywhere, including that they solve blockchain scalability, and still don’t know how they work? We will take you through ZK 101, explain why should you care, how it works, and how it will also affect the future beyond blockchain.",
     "duration": 2517,
@@ -855,14 +907,15 @@
     "event": "ethprague23",
     "people": [
       "Daniel Lumi|daniel-lumi"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "f846477801378a12f6ae32dbc1e6e4b08e2a377bec0569550134632af7785495"
   },
   {
     "id": "aONN7Vv6ZJ0",
     "slug": "ethprague23-an-introduction-to-zero-knowledge-machine-learning",
     "videoId": "aONN7Vv6ZJ0",
     "url": "https://www.youtube.com/watch?v=aONN7Vv6ZJ0",
-    "img": "aONN7Vv6ZJ0.jpg",
     "publishedAt": "2023-08-08T18:35:43Z",
     "desc": "ZKML is a newly emerging field in which you apply the properties of zero-knowledge proofs to machine learning models in order to be able to verify the computation of these models by creating ZK proofs. Additionally, you can selectively hide parts of the input or the model.",
     "duration": 1455,
@@ -871,14 +924,15 @@
     "event": "ethprague23",
     "people": [
       "Dcbuilder.eth"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "c8c767ff3e1e13ae97f0713a33bb195f2afbd85bf40a410e13507cae811527ad"
   },
   {
     "id": "8R5JK_qwipU",
     "slug": "ethprague23-the-end-of-eurocentric-crypto-scaling-ethereum-in-latam",
     "videoId": "8R5JK_qwipU",
     "url": "https://www.youtube.com/watch?v=8R5JK_qwipU",
-    "img": "8R5JK_qwipU.jpg",
     "publishedAt": "2023-08-08T18:37:16Z",
     "desc": "Until now, creating zk circuits has been an extremely difficult and cost prohibitive venture. Existing solutions introduce new complexities and limitations, and force devs to learn new DSLs with immature ecosystems. Risc0 allows developers to build in ZK in traditional languages.",
     "duration": 1183,
@@ -887,14 +941,15 @@
     "event": "ethprague23",
     "people": [
       "Camila Ramos Garzon"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "50f402c3fbbb710adfe53746ee0e66d4dff4068110df30166859ed3080743ba6"
   },
   {
     "id": "rTLhHlvvRgI",
     "slug": "ethprague23-towards-validator-privacy-and-private-information-retrieval",
     "videoId": "rTLhHlvvRgI",
     "url": "https://www.youtube.com/watch?v=rTLhHlvvRgI",
-    "img": "rTLhHlvvRgI.jpg",
     "publishedAt": "2023-08-08T18:39:17Z",
     "desc": "In the PoS paradigm, attestations and blocks could potentially leak information that allows an attacker to associate a validator ID with physical IP address of the beacon node. In addition, metadata analysis attacks are also a possibility.",
     "duration": 914,
@@ -903,14 +958,15 @@
     "event": "ethprague23",
     "people": [
       "Dr. Marina Steinkirch"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "9dfc90b132b4c5638ab9001b598bbd96ae57464aec6ac65fd5529cae90828ff7"
   },
   {
     "id": "ZS9hGLXHVQc",
     "slug": "ethprague23-poc-based-on-state-channel-technique",
     "videoId": "ZS9hGLXHVQc",
     "url": "https://www.youtube.com/watch?v=ZS9hGLXHVQc",
-    "img": "ZS9hGLXHVQc.jpg",
     "publishedAt": "2023-08-08T18:40:51Z",
     "desc": "The talk is about our learnings about state channel technique and how it can be used on layer 2 to optimize the gas fees and transactions. We built a POC app that uses statechannel technique and will showcase a demo too",
     "duration": 436,
@@ -919,14 +975,15 @@
     "event": "ethprague23",
     "people": [
       "Jayaditya Gupta"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "777b6910c4728c8240cfa49209025c3e171955ae195dc27c65d807fc11d515e2"
   },
   {
     "id": "iZxVDTOHdmY",
     "slug": "ethprague23-unravelling-multi-layered-rollup-design-and-cross-layer-communication",
     "videoId": "iZxVDTOHdmY",
     "url": "https://www.youtube.com/watch?v=iZxVDTOHdmY",
-    "img": "iZxVDTOHdmY.jpg",
     "publishedAt": "2023-08-08T18:42:00Z",
     "desc": "In this talk, we will dive into the aspects of scaling Ethereum that focus on multi-layered rollup designs and possible solutions. The presentation aims to provide an in-depth understanding of scaling challenges, steering away from the basic 'why' and 'how' discussions.",
     "duration": 985,
@@ -935,14 +992,15 @@
     "event": "ethprague23",
     "people": [
       "Daniel K."
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "9628daf9d7465bcaa2a6c98f4b7607507ae02649c0af942b648cf9a1747e4350"
   },
   {
     "id": "6rYq0I6VDc0",
     "slug": "ethprague23-erc-4337-create-account-who-pays-for-gas",
     "videoId": "6rYq0I6VDc0",
     "url": "https://www.youtube.com/watch?v=6rYq0I6VDc0",
-    "img": "6rYq0I6VDc0.jpg",
     "publishedAt": "2023-08-08T18:43:17Z",
     "desc": "Until ERC-4337 becomes enshrined on all the networks, the cost of creating accounts will remain relatively high. This presents a dilemma to whoever onboards the user first - why should they get stuck paying the tx gas fees for all other dapps?",
     "duration": 1101,
@@ -951,14 +1009,15 @@
     "event": "ethprague23",
     "people": [
       "Tom Teman"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "e8b4e775ea21e15c55edc3007a1ac8245069000ebbd5ebf969496c3e5a077de4"
   },
   {
     "id": "Al7Jns8bCO4",
     "slug": "ethprague23-understanding-design-choices-in-data-availability-sampling",
     "videoId": "Al7Jns8bCO4",
     "url": "https://www.youtube.com/watch?v=Al7Jns8bCO4",
-    "img": "Al7Jns8bCO4.jpg",
     "publishedAt": "2023-08-08T18:48:47Z",
     "desc": "Data Availability Sampling (DAS) is essential for the massive scalability increase promised by data-sharding. In this talk, we will go over the current data-sharding plan and our ongoing research as one of the teams working with the EF on the DAS networking problem.",
     "duration": 1156,
@@ -967,14 +1026,15 @@
     "event": "ethprague23",
     "people": [
       "Leonardo Bautista-Gomez"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "719744bf6f5458a18b58117e92ce50d1aa5e493c1d1cfae568e4d116acac591c"
   },
   {
     "id": "VjZQTFP0Xrs",
     "slug": "ethprague23-from-complexity-to-resilience-makerdaos-journey-towards-decentralized-subdaos",
     "videoId": "VjZQTFP0Xrs",
     "url": "https://www.youtube.com/watch?v=VjZQTFP0Xrs",
-    "img": "VjZQTFP0Xrs.jpg",
     "publishedAt": "2023-08-08T18:50:32Z",
     "desc": "MakerDAO is creating subDAOs to empower community building & resilience. Learn how this approach improves coordination, fosters innovation & impacts the DeFi ecosystem. Join us to explore MakerDAO's journey towards a more sustainable future.",
     "duration": 1450,
@@ -983,14 +1043,15 @@
     "event": "ethprague23",
     "people": [
       "Sam MacPherson"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "73e872d9c4468da082cf0b3dedee7d0316c128cdf7279e559139663d3fc7bdcd"
   },
   {
     "id": "bdvxOXvPzxE",
     "slug": "ethprague23-psychology-of-ux-in-decentralized-exchanges",
     "videoId": "bdvxOXvPzxE",
     "url": "https://www.youtube.com/watch?v=bdvxOXvPzxE",
-    "img": "bdvxOXvPzxE.jpg",
     "publishedAt": "2023-08-08T19:00:46Z",
     "desc": "UX is crucial in DeFi because it can make or break the success of a platform. A good UX can increase adoption, trust, and usage, while a poor UX can result in frustration, confusion, and financial losses for users.",
     "duration": 1068,
@@ -999,14 +1060,15 @@
     "event": "ethprague23",
     "people": [
       "Madalina Raicu"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "87fa9862195c1682d7e062ee5a6c807f9e7167feef09b08d1aa7991b81c3f09f"
   },
   {
     "id": "Dp8gp34VjyM",
     "slug": "ethprague23-bootstrapping-impact-markets-lessons-from-verified-carbon-credits",
     "videoId": "Dp8gp34VjyM",
     "url": "https://www.youtube.com/watch?v=Dp8gp34VjyM",
-    "img": "Dp8gp34VjyM.jpg",
     "publishedAt": "2023-08-08T19:06:12Z",
     "desc": "Impact certificates require robust markets in order to achieve global scale. Verified carbon credits represent the most mature form of impact certificate, and as such offer important lessons to designers of new impact markets built on blockchain.",
     "duration": 1256,
@@ -1015,14 +1077,15 @@
     "event": "ethprague23",
     "people": [
       "Marcus Aurelius"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "38c0e7fdda66c45a010742feb3d372dda980dbbe4563efcb51b2eb3a971282f7"
   },
   {
     "id": "8AwMO0PEXoM",
     "slug": "ethprague23-gitcoin-grants-stack-tools-for-communities-to-fund-their-shared-needs",
     "videoId": "8AwMO0PEXoM",
     "url": "https://www.youtube.com/watch?v=8AwMO0PEXoM",
-    "img": "8AwMO0PEXoM.jpg",
     "publishedAt": "2023-08-08T19:11:11Z",
     "desc": "How do we fund what matters? Quadratic voting and quadratic are novel approaches to tackle this issue, as seen in over 16 successful Gitcoin Grants Rounds. Now, we are developing the Grants Stack, so that everyone has the tools necessary to fund their shared needs.",
     "duration": 1169,
@@ -1031,14 +1094,15 @@
     "event": "ethprague23",
     "people": [
       "Atris"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "20d1e0219e5cd8fdfe626be07daed37d35eea25d489ff62ca99f43f2fc10dedf"
   },
   {
     "id": "PgzouMcFgiw",
     "slug": "ethprague23-building-a-more-inclusive-blockchain-community-for-women",
     "videoId": "PgzouMcFgiw",
     "url": "https://www.youtube.com/watch?v=PgzouMcFgiw",
-    "img": "PgzouMcFgiw.jpg",
     "publishedAt": "2023-08-08T19:17:56Z",
     "desc": "Women's participation in the blockchain is vital for a more diverse and innovative ecosystem. This talk explores ways to create a welcoming and supportive environment for women in blockchain and the benefits of fostering an inclusive community.",
     "duration": 1114,
@@ -1047,14 +1111,15 @@
     "event": "ethprague23",
     "people": [
       "Zeynep Ecenaz Altınok"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "978ccdcbd39eeeec3ce3983b565cb5beaa3b1f3da33c79d8437b3c8609153099"
   },
   {
     "id": "Sqp301MRIjw",
     "slug": "ethprague23-to-create-a-deliciously-sustainable-future-we-should-champion-more-rooted-solarpunk",
     "videoId": "Sqp301MRIjw",
     "url": "https://www.youtube.com/watch?v=Sqp301MRIjw",
-    "img": "Sqp301MRIjw.jpg",
     "publishedAt": "2023-08-08T19:21:22Z",
     "desc": "There are several distinct shades of solarpunk. The one the Web3 community should champion to build the deliciously sustainable world we need is Rooted Solar.",
     "duration": 846,
@@ -1063,26 +1128,28 @@
     "event": "ethprague23",
     "people": [
       "Alex Holland"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "3e76c545767fd72d0671bf80109625c3a6a8903489029144049d9bdbb1f17a5d"
   },
   {
     "id": "saEpEnu1TzM",
     "slug": "eth-staking-addressing-the-challenges-of-liquid-staking-derivatives-lsd",
     "videoId": "saEpEnu1TzM",
     "url": "https://www.youtube.com/watch?v=saEpEnu1TzM",
-    "img": "saEpEnu1TzM.jpg",
     "publishedAt": "2023-08-08T19:26:08Z",
     "desc": "Rostyslav Bortman / As we advance in the DeFi space, it's crucial we navigate these waters carefully, ensuring a balance between innovation and the core principles of decentralization. We will take a look into the current challenges and consider possible solutions.",
     "duration": 1634,
     "name": "ETH Staking: Addressing the challenges of Liquid Staking Derivatives (LSD)",
-    "people": []
+    "people": [],
+    "target": "pp-prague",
+    "imgHash": "5b21493447015941c6a6bfad25aad2d7a436fa7b5749a80bb64186e860633cf0"
   },
   {
     "id": "AYzcopseKJI",
     "slug": "ethprague23-digital-identity-use-cases-and-web3-solution",
     "videoId": "AYzcopseKJI",
     "url": "https://www.youtube.com/watch?v=AYzcopseKJI",
-    "img": "AYzcopseKJI.jpg",
     "publishedAt": "2023-08-08T19:34:55Z",
     "desc": "Decentralized Digital Identity is on demand in web2 and especially web3 internet layers. Users can make secure and easy logins, personal data management, data transfer, and payments. Businesses can improve their onboarding, identity verification, and payment processes.",
     "duration": 1112,
@@ -1091,14 +1158,15 @@
     "event": "ethprague23",
     "people": [
       "Rasim Muftiev"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "803dd66147ed9d49637a7cd887c1b65addc34d3e8bc3db2d396dd6561b8704f7"
   },
   {
     "id": "v3zSCNg3vWE",
     "slug": "ethprague23-we-can-accelerate-net-zero",
     "videoId": "v3zSCNg3vWE",
     "url": "https://www.youtube.com/watch?v=v3zSCNg3vWE",
-    "img": "v3zSCNg3vWE.jpg",
     "publishedAt": "2023-08-08T19:40:22Z",
     "desc": "On 15 September 2022, Ethereum paved the way towards more sustainable cryptocurrency by transitioning from proof-of-work to proof-of-stake via \"the Merge\". This cut Ethereum's energy usage by 99%, making it one of the most sustainable cryptocurrencies on the market.",
     "duration": 1333,
@@ -1107,14 +1175,15 @@
     "event": "ethprague23",
     "people": [
       "Katherine Radeka"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "81303097652ab1bf7765036c34d024ac2f8eb11e3a4ad6bb710ace1b3d69f87f"
   },
   {
     "id": "vlAYDKzP4vY",
     "slug": "ethprague23-diversity-implementation-on-consensus-level",
     "videoId": "vlAYDKzP4vY",
     "url": "https://www.youtube.com/watch?v=vlAYDKzP4vY",
-    "img": "vlAYDKzP4vY.jpg",
     "publishedAt": "2023-08-08T19:49:23Z",
     "desc": "Since the switch to PoS, it is now possible to enhance the consensus protocol with new features. We discuss adding diversity policies into the consensus protocol, e.g., to enforce geographic diversity, and discuss limits and impact.",
     "duration": 1122,
@@ -1123,14 +1192,15 @@
     "event": "ethprague23",
     "people": [
       "Klaus Kursawe"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "48da477f8e557d5d53f31ba5764749615f7ee12a106b8d4c054a0f427f505c9f"
   },
   {
     "id": "VvLbw2xte10",
     "slug": "crossing-the-interoperability-bridge-a-deep-dive-into-building-interoperable-dapps-with-ibc",
     "videoId": "VvLbw2xte10",
     "url": "https://www.youtube.com/watch?v=VvLbw2xte10",
-    "img": "VvLbw2xte10.jpg",
     "publishedAt": "2023-08-08T19:54:21Z",
     "desc": "Federico Kunze Küllmer, Daniel Burckhardt / This workshop will dive deep into the IBC protocol, exploring how it enables cross-chain apps and discussing how Evmos simplifies it via its EVM Extensions. At the end of the workshop, developers will be able to understand and create interoperable dApps using Solidity and IBC.",
     "duration": 3406,
@@ -1138,14 +1208,15 @@
     "people": [
       "Federico Kunze Küllmer",
       "Daniel Burckhardt"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "94de02d7dca338bf6734ade8ba9c6146612c301251d3725ccdb2fbd952665250"
   },
   {
     "id": "LoIOr0SKu0w",
     "slug": "ethprague23-the-limits-of-decentralization-in-knowledge-sharing",
     "videoId": "LoIOr0SKu0w",
     "url": "https://www.youtube.com/watch?v=LoIOr0SKu0w",
-    "img": "LoIOr0SKu0w.jpg",
     "publishedAt": "2023-08-08T20:06:12Z",
     "desc": "This talk will shed light on the limits and fundamental design weaknesses of token-based mechanisms in the knowledge management ecosystem, focusing in particular on proposals of \"decentralization\" of open encyclopedias and scientific peer reviews.",
     "duration": 1458,
@@ -1154,14 +1225,15 @@
     "event": "ethprague23",
     "people": [
       "Abeer Sharma"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "f2e42f63ac4e9a6b66a19a5835ad1e7158153dff4fa6ae2263aecc8aa1cfaab8"
   },
   {
     "id": "Mx4VJWC5ye4",
     "slug": "ethprague23-build-uncensorable-and-privacy-preserving-work-platforms-with-talentlayer-sdk",
     "videoId": "Mx4VJWC5ye4",
     "url": "https://www.youtube.com/watch?v=Mx4VJWC5ye4",
-    "img": "Mx4VJWC5ye4.jpg",
     "publishedAt": "2023-08-08T20:10:04Z",
     "desc": "Censorship and coercion are on the rise, and our ability to fight back is deeply tied to our ability to earn an income. We must build platforms that enable people to work and grow their professional identity in a way that can't be confiscated. We have the tools to do this today.",
     "duration": 1472,
@@ -1170,14 +1242,15 @@
     "event": "ethprague23",
     "people": [
       "Kirsten Pomales"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "ac0397a815cc3a563401210ec2395d805bd3a0d68970861657be23f8f7c49dfa"
   },
   {
     "id": "PlKMG9xSW-o",
     "slug": "ethprague23-bringing-web2-specifications-into-web3",
     "videoId": "PlKMG9xSW-o",
     "url": "https://www.youtube.com/watch?v=PlKMG9xSW-o",
-    "img": "PlKMG9xSW-o.jpg",
     "publishedAt": "2023-08-08T20:13:55Z",
     "desc": "Trying to integrate Web3 - typically for authentication - sucks when tools only support Web2 specifications. Let's change that.",
     "duration": 764,
@@ -1186,14 +1259,15 @@
     "event": "ethprague23",
     "people": [
       "Harry Bairstow"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "e6662b726195538e2f2da72960d212a5a7bfdd197dc35a175f400389061a8016"
   },
   {
     "id": "BArIRnINK3c",
     "slug": "ethprague23-an-artistic-view-of-the-future-a-solarpunk-future",
     "videoId": "BArIRnINK3c",
     "url": "https://www.youtube.com/watch?v=BArIRnINK3c",
-    "img": "BArIRnINK3c.jpg",
     "publishedAt": "2023-08-08T20:16:01Z",
     "desc": "I have been working on artistic futuristic scenarios for about 10 years. It resulted in a wide portfolio of artwork which I can represent and review for an audience. A fun and visual way to learn about Solarpunk.",
     "duration": 5313,
@@ -1202,14 +1276,15 @@
     "event": "ethprague23",
     "people": [
       "Dustin Jacobus"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "e8759bfbded6bfd909321ad15187ceb4b1ed3e9ca11621605d68f317a4787758"
   },
   {
     "id": "onFWdsvqKWs",
     "slug": "ethprague23-smart-cities-leveraging-decentralized-technologies-for-a-sustainable-future",
     "videoId": "onFWdsvqKWs",
     "url": "https://www.youtube.com/watch?v=onFWdsvqKWs",
-    "img": "onFWdsvqKWs.jpg",
     "publishedAt": "2023-08-08T20:37:50Z",
     "desc": "Freeing information from isolated servers, and establishing a reciprocal data exchange between residents and urban administrators through decentralized tools, has the potential to unleash a variety of novel applications for managing and improving future cities.",
     "duration": 871,
@@ -1218,14 +1293,15 @@
     "event": "ethprague23",
     "people": [
       "Lorenzo Nardiello"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "48f13875cc154bd7f16005b8f5cad60b9ae72b08c011798c2e6ba58df0e08579"
   },
   {
     "id": "rixLFzwyQqc",
     "slug": "ethprague23-autonomous-agents-and-artificial-artists",
     "videoId": "rixLFzwyQqc",
     "url": "https://www.youtube.com/watch?v=rixLFzwyQqc",
-    "img": "rixLFzwyQqc.jpg",
     "publishedAt": "2023-08-08T20:39:07Z",
     "desc": "A Cambrian explosion in generative AI has sparked excitement around the concept of autonomous agents, goal-directed synthetic beings that use large language models to think, reason, plan, and act in the real world.",
     "duration": 1340,
@@ -1234,14 +1310,15 @@
     "event": "ethprague23",
     "people": [
       "Gene Kogan"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "644492d3ca7847e3ecb442e2bf048bfe3c0084d9c2eaee3d587bb4ec0517911e"
   },
   {
     "id": "bbok6prRpzw",
     "slug": "ethprague23-decentralized-autonomous-art",
     "videoId": "bbok6prRpzw",
     "url": "https://www.youtube.com/watch?v=bbok6prRpzw",
-    "img": "bbok6prRpzw.jpg",
     "publishedAt": "2023-08-08T20:40:03Z",
     "desc": "In my talk, I will explore my creative journey through projects MyPocket, Meta-Markets, Social Contracts, Prompt: Exquisite Corpse, and introduce ideas for my forthcoming project, Time To Live.",
     "duration": 1317,
@@ -1250,14 +1327,15 @@
     "event": "ethprague23",
     "people": [
       "Burak Arikan"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "96162a1d549590a2168ff8db93646bb8681df5efc0ac30c214656bdef8f92443"
   },
   {
     "id": "rvi3PEKc47g",
     "slug": "ethprague23-putting-the-brakes-on-dystopia",
     "videoId": "rvi3PEKc47g",
     "url": "https://www.youtube.com/watch?v=rvi3PEKc47g",
-    "img": "rvi3PEKc47g.jpg",
     "publishedAt": "2023-08-08T20:43:13Z",
     "desc": "How can we move away from climate dystopia and put forward new thoughtful, models for mitigating climate change? We will reflect on lessons from participatory and co-creative practices, like a SolarPunk-inspired platform that brings visual thinkers together with scientists.",
     "duration": 1840,
@@ -1266,14 +1344,15 @@
     "event": "ethprague23",
     "people": [
       "Bernd Riedel"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "f84b57673c2b7f205e755938fda636f177e8ec65255cdb52ada3657e54ed7c40"
   },
   {
     "id": "Crnd2ByiAPs",
     "slug": "ethprague23-the-tale-of-the-wallet",
     "videoId": "Crnd2ByiAPs",
     "url": "https://www.youtube.com/watch?v=Crnd2ByiAPs",
-    "img": "Crnd2ByiAPs.jpg",
     "publishedAt": "2023-08-08T20:51:37Z",
     "desc": "The tale of one of the key component of blockchain: the wallets! The story that starts with the origin of wallets (.txt files) and ends with the smart wallets (ERC 4337). It opens the door to a vision where easy to use/privacy preserving wallets become the new standard.",
     "duration": 1162,
@@ -1282,14 +1361,15 @@
     "event": "ethprague23",
     "people": [
       "Nicolas Consigny"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "52a55cb4b163d88cc55d6a6bf19507b6f708c4f1c0fb207d6fa0220e09d6a92a"
   },
   {
     "id": "f26M40Oh2JU",
     "slug": "ethprague23-interoperability-challenges-when-building-interchain-apps",
     "videoId": "f26M40Oh2JU",
     "url": "https://www.youtube.com/watch?v=f26M40Oh2JU",
-    "img": "f26M40Oh2JU.jpg",
     "publishedAt": "2023-08-08T20:52:43Z",
     "desc": "",
     "duration": 809,
@@ -1298,14 +1378,15 @@
     "event": "ethprague23",
     "people": [
       "Anett Rolikova"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "03ca13847d65249e1f6a112024b1505b981d01fa2194c689514044c14ab9c30f"
   },
   {
     "id": "hN6jh0jNhbs",
     "slug": "ethprague23-zk-rollups-applied-privacy",
     "videoId": "hN6jh0jNhbs",
     "url": "https://www.youtube.com/watch?v=hN6jh0jNhbs",
-    "img": "hN6jh0jNhbs.jpg",
     "publishedAt": "2023-08-08T20:57:27Z",
     "desc": "Using ZK Rollups to obscure private information.",
     "duration": 1097,
@@ -1314,28 +1395,30 @@
     "event": "ethprague23",
     "people": [
       "Danny Holland|danny-holland"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "c0a9e4f273b9ff86e68625a4ab2ff8dc57aa793cb4124e8ddc702199d6ff1729"
   },
   {
     "id": "_JJ9Z5JD5oc",
     "slug": "the-future-of-wallets-mpc-vs-smart-wallets-and-how-account-abstraction-is-improving-ux",
     "videoId": "_JJ9Z5JD5oc",
     "url": "https://www.youtube.com/watch?v=_JJ9Z5JD5oc",
-    "img": "_JJ9Z5JD5oc.jpg",
     "publishedAt": "2023-08-08T20:58:49Z",
     "desc": "Ivo Georgiev / There's undoubtedly more we can do to improve Ethereum wallet UX, and there's two technologies competing for this: MPC (multi-party computation) and smart wallets.",
     "duration": 1162,
     "project": "ethprague",
     "event": "ethprague23",
     "name": "The Future of Wallets: MPC vs Smart Wallets and How Account Abstraction is improving UX",
-    "people": []
+    "people": [],
+    "target": "pp-prague",
+    "imgHash": "82723519a9cc8f85582685f6ba29e2a7e14529989260054a15c73d98c1982057"
   },
   {
     "id": "islzgbwaSYo",
     "slug": "exploring-the-future-and-potential-of-zero-knowledge-technology",
     "videoId": "islzgbwaSYo",
     "url": "https://www.youtube.com/watch?v=islzgbwaSYo",
-    "img": "islzgbwaSYo.jpg",
     "publishedAt": "2023-08-08T21:15:09Z",
     "desc": "Camila Ramos Garzon, Avihu Mordechai Levy, Laurence Kirk, Toghrul Maharramov, Alex Gluchowski / Zero-knowledge technology allows for secure and private transactions without the need for a trusted third party.",
     "duration": 2842,
@@ -1348,14 +1431,15 @@
       "Laurence Kirk",
       "Toghrul Maharramov",
       "Alex Gluchowski"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "c6a94b081d32c159aacdfb18744a20999d284ef331903ea0b46db08cdbf89929"
   },
   {
     "id": "XYeAyjG7IOk",
     "slug": "ethprague23-ethereum-protocol-fellowship-path-of-a-core-developer",
     "videoId": "XYeAyjG7IOk",
     "url": "https://www.youtube.com/watch?v=XYeAyjG7IOk",
-    "img": "XYeAyjG7IOk.jpg",
     "publishedAt": "2023-08-08T21:17:04Z",
     "desc": "The Ethereum Protocol Fellowship is a permissionless fellowship program that helps to streamline the process of becoming a core developer. Applications are now opened and everyone interested in Ethereum core protocol is welcomed to apply!",
     "duration": 1248,
@@ -1364,14 +1448,15 @@
     "event": "ethprague23",
     "people": [
       "Mário Havel|mario"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "2841f233ac5ea282ff66fab275ce10d5ec7862d588bea28ba37f278357e5451a"
   },
   {
     "id": "kKuBLZrPihE",
     "slug": "ethprague23-staking-for-common-good-an-experiment-in-participatory-public-goods-funding",
     "videoId": "kKuBLZrPihE",
     "url": "https://www.youtube.com/watch?v=kKuBLZrPihE",
-    "img": "kKuBLZrPihE.jpg",
     "publishedAt": "2023-08-09T08:09:01Z",
     "desc": "What would you do with 100,000 ETH? The Golem Foundation has decided to stake this amount and use a portion of the staking rewards to fund a platform for experiments in participatory public goods funding. This talk will introduce the resulting testing ground, called Octant.",
     "duration": 1412,
@@ -1380,14 +1465,15 @@
     "event": "ethprague23",
     "people": [
       "Wlodek Gogloza|wlodek-gogloza"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "766cf23e23fe0f7011eac284a987ce18ae4d93e1bbeb2ca17ee258b25c48c452"
   },
   {
     "id": "t89tHUX3mOE",
     "slug": "ethprague23-proof-of-stake-validator-responsibilities-in-progressive-decentralization",
     "videoId": "t89tHUX3mOE",
     "url": "https://www.youtube.com/watch?v=t89tHUX3mOE",
-    "img": "t89tHUX3mOE.jpg",
     "publishedAt": "2023-08-09T08:10:02Z",
     "desc": "The fundamental responsibilities of the validator infrastructure layer of blockchain in its role to progressing toward decentralization.",
     "duration": 1125,
@@ -1396,14 +1482,15 @@
     "event": "ethprague23",
     "people": [
       "Daniel Hwang"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "7c709e0a2b305c53dd5dc0a58de4e9b91efbe4215e3f3618c9b33f827e053ef4"
   },
   {
     "id": "Y_7FfE_V9wU",
     "slug": "ethprague23-sequencer-prover-separation-in-zero-knowledge-rollups",
     "videoId": "Y_7FfE_V9wU",
     "url": "https://www.youtube.com/watch?v=Y_7FfE_V9wU",
-    "img": "Y_7FfE_V9wU.jpg",
     "publishedAt": "2023-08-09T08:10:57Z",
     "desc": "Zero-Knowledge rollups tend to split the transaction ordering responsibilities and state transition correctness proving into distinct protocol participant roles. This talk will explore potential approaches to designing a balanced protocol with two distinct roles.",
     "duration": 1347,
@@ -1412,14 +1499,15 @@
     "event": "ethprague23",
     "people": [
       "Toghrul Maharramov"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "e63171e3889223028c1979aa46fe86eea30209413335fe9e2d74141de52a6105"
   },
   {
     "id": "BSnjaf_SrqA",
     "slug": "ethprague23-stark-powered-data",
     "videoId": "BSnjaf_SrqA",
     "url": "https://www.youtube.com/watch?v=BSnjaf_SrqA",
-    "img": "BSnjaf_SrqA.jpg",
     "publishedAt": "2023-08-09T08:11:59Z",
     "desc": "We will discover how validity proofs and especially STARK proofs can be leveraged to make a real decentralized oracle network.",
     "duration": 1284,
@@ -1428,14 +1516,15 @@
     "event": "ethprague23",
     "people": [
       "0xevolve"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "56bea174b5e421f1a8b7779f0caf08072fbd114eea05b5b63bcdc7c2ba4f4036"
   },
   {
     "id": "TXq8xekPyUo",
     "slug": "ethprague23-cross-ecosystem-apps-are-the-most-capable-in-web3",
     "videoId": "TXq8xekPyUo",
     "url": "https://www.youtube.com/watch?v=TXq8xekPyUo",
-    "img": "TXq8xekPyUo.jpg",
     "publishedAt": "2023-08-09T15:31:31Z",
     "desc": "A vast design space is opening for cross-ecosystem applications. This includes customized Cosmos appchains able to send and execute complex transactions on EVM chains. It will also involve new forms of shared security using tools like Eigenlayer and Babylon.",
     "duration": 1219,
@@ -1444,14 +1533,15 @@
     "event": "ethprague23",
     "people": [
       "Manian"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "4cceea4e3238c75f2764194be9c9746c3d7024c12fa2f351b12ed5e4138b6866"
   },
   {
     "id": "URnUs4sSrU4",
     "slug": "ethprague23-eip-3668-cross-chain-interoperability-protocol",
     "videoId": "URnUs4sSrU4",
     "url": "https://www.youtube.com/watch?v=URnUs4sSrU4",
-    "img": "URnUs4sSrU4.jpg",
     "publishedAt": "2023-08-09T15:34:41Z",
     "desc": "",
     "duration": 515,
@@ -1460,14 +1550,15 @@
     "event": "ethprague23",
     "people": [
       "Luc van Kampen (luc.computer)"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "250153c825de75bbce3c778b602ce6a76d8fc1016c72887ca18c7e2835561386"
   },
   {
     "id": "hSKHD55RIH0",
     "slug": "ethprague23-nft-beyond-the-hype-how-token-economy-impacts-creative-entrepreneurship",
     "videoId": "hSKHD55RIH0",
     "url": "https://www.youtube.com/watch?v=hSKHD55RIH0",
-    "img": "hSKHD55RIH0.jpg",
     "publishedAt": "2023-08-09T15:35:55Z",
     "desc": "This study is at the intersection of technology, creator economy and society and tries to explore how token economy impacts creative entrepreneurship.",
     "duration": 1450,
@@ -1476,14 +1567,15 @@
     "event": "ethprague23",
     "people": [
       "Abena Asante"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "70f01b3dfc90061ea16dda24fa3ad799052c209c64301dd9abfb00c8278931c9"
   },
   {
     "id": "hFC-XqG5ngs",
     "slug": "ethprague23-mastering-cross-chain-bridges",
     "videoId": "hFC-XqG5ngs",
     "url": "https://www.youtube.com/watch?v=hFC-XqG5ngs",
-    "img": "hFC-XqG5ngs.jpg",
     "publishedAt": "2023-08-09T15:37:27Z",
     "desc": "Today, 99.9% of all bridged assets rely on centralized services, often hidden behind fancy buzzwords. This talk cuts through buzzwords and explains why “cross-chain” is a hard problem and overviews the prs&cons of using different bridge designs ELI5-style.",
     "duration": 1400,
@@ -1492,14 +1584,15 @@
     "event": "ethprague23",
     "people": [
       "Alexei Zamyatin"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "730854f144c4c77e559a336d2d6c432e8af32eb3609d51a20bee16c2295e8672"
   },
   {
     "id": "MHjJ5uYCseY",
     "slug": "ethprague23-blockchain-enabled-data-marketplaces-democratizing-data-access",
     "videoId": "MHjJ5uYCseY",
     "url": "https://www.youtube.com/watch?v=MHjJ5uYCseY",
-    "img": "MHjJ5uYCseY.jpg",
     "publishedAt": "2023-08-09T15:38:42Z",
     "desc": "Learn how blockchain can democratize data access by creating secure & transparent marketplaces for data. Explore the benefits of a decentralized approach and the challenges of creating a fair & efficient marketplace. Discover real-world examples and potential use cases in health",
     "duration": 1150,
@@ -1508,14 +1601,15 @@
     "event": "ethprague23",
     "people": [
       "Saul Martin"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "f62aed9b65f19ce84418bf45c697554bbeb0449b52edf0c91b4b9429a9dc13b6"
   },
   {
     "id": "ChZwwEgtb14",
     "slug": "ethprague23-web3-marketplaces-offer-evolution-above-the-status-quo",
     "videoId": "ChZwwEgtb14",
     "url": "https://www.youtube.com/watch?v=ChZwwEgtb14",
-    "img": "ChZwwEgtb14.jpg",
     "publishedAt": "2023-08-09T15:40:14Z",
     "desc": "Web3 communities and marketplaces are triumphing where web2 ecosystems have failed. Privacy, data breaches, all go hand in hand with the 'traditional' web2 systems we have unfortunately become accustomed to, web3 is resetting the balance by individuals first.",
     "duration": 1425,
@@ -1524,14 +1618,15 @@
     "event": "ethprague23",
     "people": [
       "Anjali Young"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "6a8f9bbd7983116e3ce2daa5cca3004176be3fab694c0e5e70d6c05db302855d"
   },
   {
     "id": "V7Ev1BS6NxA",
     "slug": "ethprague23-improving-interoperability-through-hybrid-rollups",
     "videoId": "V7Ev1BS6NxA",
     "url": "https://www.youtube.com/watch?v=V7Ev1BS6NxA",
-    "img": "V7Ev1BS6NxA.jpg",
     "publishedAt": "2023-08-09T15:42:04Z",
     "desc": "Optimistic Rollups and Zero Knowledge Rollups both improve the Ethereum stack by providing scalable and interoperable opportunities. By combing these two mechanisms, Hybrid Rollups can increase security measures while vastly decreasing the cost and time to finalize transactions.",
     "duration": 1171,
@@ -1540,6 +1635,8 @@
     "event": "ethprague23",
     "people": [
       "Ming Guo"
-    ]
+    ],
+    "target": "pp-prague",
+    "imgHash": "9e060e5887b227378a155cb9e8caabea48e62a42a817d8fca2b8c578d000446a"
   }
 ]

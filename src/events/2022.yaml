@@ -311,6 +311,19 @@
     meetup_id: '289601083'
     meetup: https://www.meetup.com/paralelnipolis/events/289601083/
 
+- id: ethbrno-2022
+  name: ETHBrno² (2022)
+  project: ethbrno
+  major: true
+  place:
+    city: Brno
+    country: cz
+  venues:
+    - name: Impact Hub Brno
+  date: '2022-11-11'
+  days: 3
+  refs:
+    web: https://2022.ethbrno.cz/
 
 - id: 2022-11-09-talk-and-print-or-cypherpunk-now-x-paralelni-polis
   name: Talk & Print | Cypherpunk Now x Paralelní Polis

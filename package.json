@@ -12,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "js-yaml": "^4.1.0"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5"
   }
 }

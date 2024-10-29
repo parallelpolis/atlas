@@ -1196,12 +1196,20 @@
   img: mykola-siusko.png
   refs:
     twitter: nicksvyaznoy
+  roles:
+    - project: w3pn-events
+      role: contributor
 
 - id: pg
   name: Piergiorgio Catti De Gasperi
   img: pg.jpg
+  altNames:
+    - PG
   refs:
     twitter: PG_CDG
+  roles:
+    - project: w3pn-events
+      role: contributor
 
 - id: coinmandeer
   name: Coinmandeer
@@ -1210,3 +1218,8 @@
     twitter: KeenOfCoin
     github: coinmandeer
     matrix: coinmandeer:matrix.org
+  roles:
+    - project: w3p-explorer
+      role: contributor
+    - project: w3pn-events
+      role: contributor

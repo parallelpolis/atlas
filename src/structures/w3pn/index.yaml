@@ -8,3 +8,7 @@ refs:
 projects:
   - id: w3pn-events
     name: Web3Privacy Now Events
+    years: [ 2023 ]
+  - id: w3p-explorer
+    name: Web3Privacy Explorer
+    years: [ 2023 ]

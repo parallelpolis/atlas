@@ -1,0 +1,10 @@
+name: Web3Privacy Now
+shortname: W3PN
+labels:
+  - community
+years: [ 2023 ]
+refs:
+  web: https://web3privacy.info
+projects:
+  - id: w3pn-events
+    name: Web3Privacy Now Events

@@ -1,0 +1,11 @@
+name: Gwei.cz
+years: [ 2020 ]
+local: CZ/Prague
+refs:
+  web: https://gwei.cz
+labels:
+  - community
+projects:
+  - id: ethbrno
+    name: ETHBrno
+    years: [ 2021 ]

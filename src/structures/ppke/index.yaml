@@ -1,0 +1,21 @@
+name: Paralelná Polis Košice
+native: true
+labels:
+  - physical space
+years: [ 2021 ]
+local: SK/Košice
+code: ksc
+img: kosice.webp
+refs:
+  web: https://paralelnapoliskosice.sk
+  twitter: parallelpoliske
+  github: ParalelnaPolisKE
+  nostr: npub19u6u0h9pwg8k63e9f535enqdkgzl8wqzwzlnrtnwr853wt4ypszsapm6e6
+projects:
+  - id: vojdivon
+    name: vojdi von
+    years: [ 2020, 2022 ]
+    img: ../instances/kosice.webp
+    caption: A list of friendly projects and organisations of [Paralelná Polis Košice](/i/kosice).
+    refs:
+      web: https://vojdivon.sk

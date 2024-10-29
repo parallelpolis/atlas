@@ -1,0 +1,12 @@
+name: Department of Decentralization
+shortname: DoD
+years: [ 2018 ]
+local: DE/Berlin
+labels:
+  - community
+refs:
+  web: https://dod.ngo/
+projects:
+  - id: ethberlin
+    name: ETHBerlin
+    years: [ 2018 ]

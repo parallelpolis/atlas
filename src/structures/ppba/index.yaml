@@ -1,0 +1,23 @@
+name: Paralelná Polis Bratislava
+native: true
+labels:
+  - community
+years: [ 2018, 2020 ]
+types: [ local ]
+local: SK/Bratislava
+code: bts
+img: bratislava.webp
+refs:
+  web: https://paralelnapolis.sk
+  twitter: paralelnapolis
+  github: ParalelnaPolis
+projects:
+  - id: tame-me
+    name: Tame Me
+    instances: [ bratislava ]
+    years: [ 2020, 2022 ]
+    img: tame-me.png
+    refs:
+      web: https://paralelnapolis.github.io/tameMe/
+    caption: |
+      The crypto wedding project aims to facilitate cohabitation for couples who do not want to undergo an institutionalized marriage and for us (🏳️‍🌈) who are still not allowed by law to live with dignity.

@@ -1,0 +1,22 @@
+name: Parallele Polis Vienna
+native: true
+local: AT/Vienna
+labels:
+  - community
+years: [ 2020, 2024 ]
+types: [ global, local ]
+code: vie
+img: wien.webp
+refs:
+  twitter: ParallelePolis
+  web: https://parallele.at
+  github: parallele-at
+projects:
+  - id: noncon
+    name: NONCON
+    instances: [ wien ]
+    years: [ 2020, 2020 ]
+    types: [ conference ]
+    img: noncon.jpg
+    caption: |
+      NONCON is an unconventional (online) conference organized by Parallele Polis Vienna, focused on digital privacy, decentralization, and crypto-anarchism.

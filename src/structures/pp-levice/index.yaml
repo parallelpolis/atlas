@@ -1,0 +1,7 @@
+name: Paralelná Polis Levice
+native: true
+local: SK/Levice
+labels:
+  - community
+refs:
+  web: https://www.paralelnapolislevice.sk/

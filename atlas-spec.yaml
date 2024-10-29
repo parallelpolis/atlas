@@ -5,3 +5,7 @@ collections:
     sort: [ date, desc ]
   archive:
     engine: archive
+  people:
+    type: flat
+    engine: people
+    sort: [ merit, desc ]

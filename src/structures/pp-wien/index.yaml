@@ -14,7 +14,6 @@ refs:
 projects:
   - id: noncon
     name: NONCON
-    instances: [ wien ]
     years: [ 2020, 2020 ]
     types: [ conference ]
     img: noncon.jpg

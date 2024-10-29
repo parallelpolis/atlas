@@ -31,7 +31,6 @@ projects:
   - id: institute-of-cryptoanarchy
     name: Institute of Cryptoanarchy
     name_cs: Institut Kryptoanarchie
-    instances: [ prague ]
     years: [ 2014, 2024 ]
     types: [ institution ]
     img: institute-of-cryptoanarchy.png
@@ -59,7 +58,6 @@ projects:
   
   - id: hcpp
     name: Hackers Congress Paralelní Polis
-    instances: [ prague ]
     years: [ 2014 ]
     types: [ conference ]
     shortname: HCPP
@@ -73,7 +71,6 @@ projects:
     
   - id: pizza-day
     name: Pizza Day Prague
-    instances: [ prague ]
     years: [ 2022 ]
     types: [ conference ]
     refs:
@@ -86,7 +83,6 @@ projects:
 
   - id: ethprague
     name: ETHPrague
-    instances: [ prague ]
     years: [ 2022, 2023 ]
     types: [ conference, hackathon ]
     refs:
@@ -98,7 +94,6 @@ projects:
  
   - id: studio-pp
     name: Paralelní Polis Studio
-    instances: [ prague ]
     name_cs: Studio Paralelní Polis
     years: [ 2020, 2022 ]
     types: [ service ]
@@ -110,7 +105,6 @@ projects:
 
   - id: bordel
     name: Bordel
-    instances: [ prague ]
     years: [ 2020, 2023 ]
     types: [ place ]
     img: bordel.jpeg
@@ -123,7 +117,6 @@ projects:
 
   - id: decentruck
     name: Decentruck
-    instances: [ prague ]
     types: [ service ]
     years: [ 2020, 2021 ]
     img: decentruck.jpg
@@ -134,7 +127,6 @@ projects:
 
   - id: hackatoshi-flying-circuit
     name: Hackatoshi's Flying Circuit
-    instances: [ prague ]
     types: [ hackathon ]
     years: [ 2017, 2021 ]
     img: hackathoshi-flying-circuit.png
@@ -148,7 +140,6 @@ projects:
   - id: the-coins
     name: The Coins
     name_cs: Mince
-    instances: [ prague ]
     types: [ awards ]
     years: [ 2017, 2020 ]
     img: the-coins.jpeg
@@ -182,7 +173,6 @@ projects:
 
   - id: paper-hub
     name: Paper Hub
-    instances: [ prague ]
     types: [ place, coworking ]
     years: [ 2014, 2024 ]
     img: paper-hub.jpg
@@ -193,7 +183,6 @@ projects:
     
   - id: bitcoin-coffee
     name: Bitcoin Coffee
-    instances: [ prague ]
     years: [ 2014, 2024 ]
     types: [ service, place ]
     img: bitcoin-coffee.png

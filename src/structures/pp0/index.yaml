@@ -15,7 +15,6 @@ refs:
 projects:
   - id: paralelnipolis-info
     name: paralelnipolis.info
-    instances: [ zero ]
     years: [ 2024 ]
     types: [ presentation, archive ]
     img: ../instances/zero.webp
@@ -26,7 +25,6 @@ projects:
 
   - id: parallel-glossary
     name: Parallel Glossary
-    instances: [ zero ]
     years: [ 2024 ]
     types: [ knowledge-base ]
     img: ../instances/zero.webp

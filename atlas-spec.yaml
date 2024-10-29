@@ -2,5 +2,6 @@ collections:
   structures: {}
   events:
     type: flat
+    sort: [ date, desc ]
   archive:
     engine: archive

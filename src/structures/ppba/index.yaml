@@ -14,7 +14,6 @@ refs:
 projects:
   - id: tame-me
     name: Tame Me
-    instances: [ bratislava ]
     years: [ 2020, 2022 ]
     img: tame-me.png
     refs:

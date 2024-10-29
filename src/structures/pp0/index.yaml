@@ -19,20 +19,19 @@ projects:
     types: [ presentation, archive ]
     img: ../instances/zero.webp
     caption: |
-      Information and aggregation portal interconnecting whole movement. Includes a [Parallel Glossary](/glossary) and list of all Instances, Concepts, Events and archive with all videos (managed by [PP0](/s/pp0)).
+      Information and aggregation portal interconnecting whole movement. Data source is [Atlas](/c/atlas) (managed by [PP0](/s/pp0))
     refs:
       web: https://paralelnipolis.info
 
-  - id: parallel-glossary
-    name: Parallel Glossary
+  - id: atlas
+    name: Atlas
     years: [ 2024 ]
     types: [ knowledge-base ]
     img: ../instances/zero.webp
     caption: |
-      Collection of key terms and concepts at the intersection of cryptoanarchy, digital freedom, decentralized technologies, and biohacking, designed to empower and inspire the parallel society.
+      Atlas of Parallel Polis ecosystem (open data) - structures, people, events, archive, books
     refs:
-      web: /glossary
-      github: ParalelniPolis0/glossary
+      github: ParalelniPolis0/atlas
 
 guilds:
   - id: it

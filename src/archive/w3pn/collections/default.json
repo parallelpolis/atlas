@@ -203,8 +203,10 @@
     "publishedAt": "2024-05-31T10:04:18Z",
     "desc": "Seth For Privacy - Long advocate for privacy, self-sovereignty & free software.\n\nFreedom.tech: https://freedom.tech founder.\nX: https://x.com/sethforprivacy",
     "duration": 188,
-    "name": "Seth For Privacy: W3PN video intervention",
-    "people": []
+    "name": "Seth For Privacy video intervention",
+    "people": [
+      "Seth For Privacy|sethforprivacy"
+    ]
   },
   {
     "id": "4rh3T4DTWUs",
@@ -215,8 +217,12 @@
     "publishedAt": "2024-06-01T09:46:49Z",
     "desc": "Marx, Derrida, Trotsky, Freud... \n\nPrivacy, decentralization & even Ethereum can be philosophical concepts.\nDr Paul Dylan-Ennis shares with Web3Privacy Now summit #2 his stream of consciousness.",
     "duration": 324,
-    "name": "Paul Dylan-Ennis video intervention: Web3Privacy Now summit #2",
-    "people": []
+    "project": "w3pn-events",
+    "event": "w3pn-summit-prague-2024",
+    "name": "Paul Dylan-Ennis video intervention",
+    "people": [
+      "Paul Dylan-Ennis"
+    ]
   },
   {
     "id": "h9rjHQyCxow",
@@ -225,10 +231,14 @@
     "url": "https://www.youtube.com/watch?v=h9rjHQyCxow",
     "img": "h9rjHQyCxow.jpg",
     "publishedAt": "2024-06-02T08:42:48Z",
+    "project": "w3pn-events",
+    "event": "w3pn-summit-prague-2024",
     "desc": "An entrepreneur, hacker and explorer.\nExplore Juraj's book \"Cypherpunk visions and trends 2023-2025\": https://hackyourself.io/product/cypherpunk-visions-and-trends-2023-2025/\n\nhttps://juraj.bednar.io",
     "duration": 274,
-    "name": "Juraj Bednar with a video intervention for Web3Privacy Now summit #2",
-    "people": []
+    "name": "Juraj Bednar video intervention",
+    "people": [
+      "Juraj Bednar|juraj-bednar"
+    ]
   },
   {
     "id": "TL8JeX_SP3o",
@@ -237,10 +247,14 @@
     "url": "https://www.youtube.com/watch?v=TL8JeX_SP3o",
     "img": "TL8JeX_SP3o.jpg",
     "publishedAt": "2024-06-03T11:19:32Z",
+    "project": "w3pn-events",
+    "event": "w3pn-summit-prague-2024",
     "desc": "David Chaum - visionary inventor of ecash, mixnet, PETs etc.\n\nDavid shared his message on the necessity of privacy in the age of AI.\n\nhttps://en.wikipedia.org/wiki/David_Chaum\nhttps://xx.network",
     "duration": 495,
-    "name": "David Chaum on Privacy &amp; AI x Web3Privacy Now summit #2",
-    "people": []
+    "name": "David Chaum on Privacy & AI",
+    "people": [
+      "David Chaum"
+    ]
   },
   {
     "id": "F1tMuZkpAS8",
@@ -249,10 +263,14 @@
     "url": "https://www.youtube.com/watch?v=F1tMuZkpAS8",
     "img": "F1tMuZkpAS8.jpg",
     "publishedAt": "2024-06-04T10:03:41Z",
+    "project": "w3pn-events",
+    "event": "w3pn-summit-prague-2024",
     "desc": "Michel Bauwens, Director of P2P Foundation\nUnpacks the potential of crypto for commons, public goods, and open-source.\n\nhttps://p2pfoundation.net\nhttps://x.com/mbauwens",
     "duration": 261,
-    "name": "Michel Bauwens on Mutual Coordination Economics x Web3Privacy Now summit #2",
-    "people": []
+    "name": "Michel Bauwens on Mutual Coordination Economics",
+    "people": [
+      "Michel Bauwens"
+    ]
   },
   {
     "id": "hhcQCdz_Kl0",
@@ -263,8 +281,12 @@
     "publishedAt": "2024-06-05T09:51:43Z",
     "desc": "Ahmed Ghappour - professor of criminal law and computer security at the Boston University School of Law.  General Counsel @ Espresso Systems\n\n\"Free Software to End Mass Surveillance\" video intervention was a part of Web3Privacy now summit #2\n\nhttps://www.linkedin.com/in/aghappour/",
     "duration": 279,
-    "name": "Free Software to End Mass Surveillance with Ahmed Ghappour [GC, Espresso Systems]",
-    "people": []
+    "project": "w3pn-events",
+    "event": "w3pn-summit-prague-2024",
+    "name": "Free Software to End Mass Surveillance",
+    "people": [
+      "Ahmed Ghappour"
+    ]
   },
   {
     "id": "0b736g-xQRk",
@@ -275,8 +297,12 @@
     "publishedAt": "2024-06-06T10:22:51Z",
     "desc": "ajs- educator, maintainer of XMR.radio, core at Monerokon talks of free software & event production stack.\n\nhttps://github.com/ajs-xmr/\nhttp://monerokon.org",
     "duration": 294,
-    "name": "ajs [Monerokon] on Collaboration tooling x Web3Privacy Now summit",
-    "people": []
+    "project": "w3pn-events",
+    "event": "w3pn-summit-prague-2024",
+    "name": "Collaboration tooling from Monero perspective",
+    "people": [
+      "ajs"
+    ]
   },
   {
     "id": "g5lIpem25xM",
@@ -287,8 +313,12 @@
     "publishedAt": "2024-06-06T10:44:28Z",
     "desc": "Ben spent majority of his life as an environmental campaigner and self-described nerd. Was a Deputy Leader of the Green Party of BC. He was now facilitating a grants program funding public goods including a climate solutions round on behalf of Gitcoin. And now works for Thrive Protocol.\n\nhttps://www.benwest.blog/about/\nhttps://www.benwest.blog/links/\nhttps://x.com/BenWest\n\n#privacy #web3privacy #web3privacynow",
     "duration": 271,
-    "name": "Ben West [Thrive Protocol ] &quot;On-chain reputation vs privacy&quot; x Web3Privacy Now summit #2",
-    "people": []
+    "project": "w3pn-events",
+    "event": "w3pn-summit-prague-2024",
+    "name": "On-chain reputation vs privacy",
+    "people": [
+      "Ben West"
+    ]
   },
   {
     "id": "_K7MPaAHQg0",
@@ -299,8 +329,12 @@
     "publishedAt": "2024-06-07T13:24:33Z",
     "desc": "Tor is a trial and appellate lawyer. He’s best known for representing hackers and white-collar defendants in federal criminal court and on appeal. \n\nhttps://www.torekeland.com\nhttps://www.torekeland.com/roman-sterlingov/",
     "duration": 161,
-    "name": "Tor Ekeland on Roman Sterlingov case x Web3Privacy Now Summit #2",
-    "people": []
+    "project": "w3pn-events",
+    "event": "w3pn-summit-prague-2024",
+    "name": "Tor Ekeland on Roman Sterlingov case",
+    "people": [
+      "Tor Ekeland"
+    ]
   },
   {
     "id": "AWgwuwmMTcM",
@@ -345,7 +379,9 @@
     "publishedAt": "2024-06-11T08:02:11Z",
     "desc": "From Tornado Cash to sustainable privacy ecosystem panel\n\nPeter Van Valkenburgh x Coin Center\nhttps://x.com/valkenburgh\n\nLefteris Karapetsas x Rotki\n\nFatemeh Fannizadeh x Swarm\n\nMeetup: https://lu.ma/w3pn-meetup-berlin1\n\n--------\nSupport\n- Donate: https://docs.web3privacy.info/donate/\n- Become a member: https://web3privacy.info/membership/\n- Contribute: https://docs.web3privacy.info/contributors/\n\nExplore\nhttp://web3privacy.info\nhttp://github.com/web3privacy/\nhttp://docs.web3privacy.info",
     "duration": 2502,
-    "name": "From Tornado Cash to sustainable privacy panel | Valkenburgh -Lefteris-Fatemeh | W3PN Berlin Meetup",
+    "project": "w3pn-events",
+    "event": "w3pn-berlin-2024",
+    "name": "Panel: From Tornado Cash to sustainable privacy panel",
     "people": [
       "Peter Van Valkenburgh",
       "Lefteris Karapetsas",
@@ -708,10 +744,12 @@
     "publishedAt": "2024-10-27T21:29:30Z",
     "desc": "Web3Privacy Now is a think-and-Do-tank of hundreds of people, projects, and organizations committed to protecting and advancing civil liberties, decentralization, and open-source software.\n\nWe aim to manifest profound political and social change by advocating #privacy in the #web3 Era. With unified efforts, we carve out a path toward a more equitable, decentralized and freedom-respecting digital commons. \n\n→ https://web3privacy.info/",
     "duration": 1273,
-    "name": "Web3Privacy Now is Care, Ecosystem, and Impact - PG",
+    "name": "Web3Privacy Now is Care, Ecosystem, and Impact",
     "project": "w3pn-events",
     "event": "w3pn-summit-rome-2024",
-    "people": []
+    "people": [
+      "PG"
+    ]
   },
   {
     "id": "lJpFsnaAHXM",

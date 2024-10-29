@@ -229,11 +229,14 @@
     "publishedAt": "2022-08-13T17:30:08Z",
     "desc": "Bitcoin emerged as a cypherpunk technology, and the community of cryptoanarchists formed naturally around it. Coming from these roots, Bitcoin became probably their most influential invention. But with years passing, after many waves of adoption and fluctuations in the community, the echo of cypherpunks in Bitcoin is becoming less important. With these ideals lost, where is Bitcoin heading today? Is the wider Bitcoin community even aware of the cypherpunk background of Bitcoin, the principles of early contributors, and their visions? Let’s discuss it with cypherpunks, cryptoanarchists, and OG Bitcoiners who helped shape the Bitcoin space.\n\nAmir Taaki, Aaron van Wirdum, Joerg Platzer & Pavol Luptak\n\n",
     "duration": 5261,
-    "name": "Panel Discussion",
+    "name": "Panel: Bitcoin and Cypherpunk vision",
     "project": "pizza-day",
     "event": "pd22",
     "people": [
-      "BITCOIN AND CYPHERPUNK VISION"
+      "Amir Taaki|amir-taaki",
+      "Aaron Van Wirdum",
+      "Joerg Platzer|joerg-platzer",
+      "Pavol Luptak|wilder"
     ]
   },
   {
@@ -627,12 +630,10 @@
     "publishedAt": "2023-09-10T22:54:28Z",
     "desc": "For over 5000 years, an underground war has played out between state civilization and free society.\n\nThis war is not merely a physical one, but a spiritual war.\n\nToday the struggle continues. Life evolves and moves upwards through the efforts of society. The state as a parasite harvests this human energy for its own survival.\n\nBut grand events are playing out. The pendulum swings towards freedom. This is the hour. Cyber-guerillas rise up!\n\nRESISTANCE IS LIFE!\n\nhcpp.cz\n\n",
     "duration": 23,
-    "name": "HCPP23",
-    "project": null,
-    "event": null,
-    "people": [
-      "Resistance"
-    ]
+    "name": "HCPP23: Resistance Trailer",
+    "project": "hcpp",
+    "event": "hcpp23",
+    "people": []
   },
   {
     "id": "NQ_-mv0aILQ",

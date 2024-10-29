@@ -84,8 +84,12 @@
     "publishedAt": "2023-08-07T14:22:55Z",
     "desc": "Are you ready to build a more sustainable and decentralized future?",
     "duration": 2783,
-    "name": "Hackathon Opening and Bounty Announcements",
-    "people": []
+    "project": "ethprague",
+    "event": "ethprague23",
+    "name": "Hackathon Opening and Bounty Announcements @ ETHPrague 2023",
+    "people": [
+      "Ceci"
+    ]
   },
   {
     "id": "M5Cas9MZ69Y",
@@ -517,8 +521,12 @@
     "publishedAt": "2023-08-08T17:26:01Z",
     "desc": "Brewster Kahle is an American digital librarian, a computer engineer, Internet entrepreneur, and advocate of universal access to all knowledge. Kahle founded the Internet Archive and Alexa Internet. In 2012, he was inducted into the Internet Hall of Fame.",
     "duration": 317,
+    "project": "ethprague",
+    "event": "ethprague23",
     "name": "Livestream Interview with Brewster Kahle",
-    "people": []
+    "people": [
+      "Brewster Kahle"
+    ]
   },
   {
     "id": "imZu4sY0kr0",
@@ -530,7 +538,9 @@
     "desc": "Paul Graham Raven / The unbearable lightness of solarpunk: utopian visions and infrastructural complications",
     "duration": 2414,
     "name": "The unbearable lightness of solarpunk: utopian visions and invisible infrastructures",
-    "people": []
+    "people": [
+      "Paul Graham Raven"
+    ]
   },
   {
     "id": "UcuekX5uf3s",
@@ -541,8 +551,12 @@
     "publishedAt": "2023-08-08T17:29:09Z",
     "desc": "Building the next generation of DAOs with FactoryDAO @FactDAO",
     "duration": 387,
+    "project": "ethprague",
+    "event": "ethprague23",
     "name": "Livestream Interview with Nick Almond",
-    "people": []
+    "people": [
+      "Nick Almond"
+    ]
   },
   {
     "id": "e2CWMTeQnwI",
@@ -635,8 +649,12 @@
     "publishedAt": "2023-08-08T18:01:27Z",
     "desc": "coordination arms dealer @unchainiran http://privacypools.com @reflexerfinance @molochdao @spankchain",
     "duration": 300,
+    "project": "ethprague",
+    "event": "ethprague23",
     "name": "Livestream Interview with Ameen Soleimani",
-    "people": []
+    "people": [
+      "Ameen Soleimani"
+    ]
   },
   {
     "id": "Nlzxc-w5Kr0",
@@ -647,8 +665,12 @@
     "publishedAt": "2023-08-08T18:08:21Z",
     "desc": "Austin is the hacker's hacker. 👩‍🎤 builder 🧑‍🏫 http://SpeedRunEthereum.com 🏗 http://scaffoldeth.io 🏰 http://buidlguidl.com 🎨 http://nifty.ink 🛠 http://eth.build 🏷 atg.eth",
     "duration": 299,
+    "project": "ethprague",
+    "event": "ethprague23",
     "name": "Livestream Interview with Austin Griffith",
-    "people": []
+    "people": [
+      "Austin Griffith"
+    ]
   },
   {
     "id": "G7H_AK5OYl8",
@@ -659,8 +681,12 @@
     "publishedAt": "2023-08-08T18:09:58Z",
     "desc": "Decentralizing things at Missing Link. Ex-@paritytech. Comms for @polkadot, @substrate_io and @kusamanetwork launches.",
     "duration": 328,
+    "project": "ethprague",
+    "event": "ethprague23",
     "name": "Livestream Interview with Phil Lucsok",
-    "people": []
+    "people": [
+      "Phil Lucsok"
+    ]
   },
   {
     "id": "sKoqokDaOBA",
@@ -704,7 +730,9 @@
     "desc": "",
     "duration": 243,
     "name": "Livestream Interview with Christoph Jentzsch",
-    "people": []
+    "people": [
+      "Christoph Jentzsch"
+    ]
   },
   {
     "id": "aGbAfDM7zMA",
@@ -716,7 +744,10 @@
     "desc": "Alex Gluchowski, Frank Chaparro / Moderator: Frank Chaparro, Host of The Scoop, Editor-at-large at The Block",
     "duration": 2224,
     "name": "Fireside chat: Freedom, progress, and prosperity — zkEVMs will scale the internet of value",
-    "people": []
+    "people": [
+      "Alex Gluchowski",
+      "Frank Chaparro"
+    ]
   },
   {
     "id": "wYd4otLjrP0",
@@ -728,7 +759,9 @@
     "desc": "Tokenization of companies - from TheDAO, ICOs and security tokens to now.",
     "duration": 338,
     "name": "Livestream Interview with Cryptowanderer",
-    "people": []
+    "people": [
+      "Cryptowanderer"
+    ]
   },
   {
     "id": "iwlgCNEmblE",
@@ -770,9 +803,13 @@
     "img": "uH7TiI8XQ68.jpg",
     "publishedAt": "2023-08-08T18:28:33Z",
     "desc": "",
+    "project": "ethprague",
+    "event": "ethprague23",
     "duration": 299,
     "name": "Livestream Interview with Guillaume Ballet",
-    "people": []
+    "people": [
+      "Guillaume Ballet"
+    ]
   },
   {
     "id": "mjUJ4PhBG0I",

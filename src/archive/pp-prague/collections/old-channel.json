@@ -256,12 +256,10 @@
     "publishedAt": "2017-05-18T15:02:57Z",
     "desc": "See the next Hackers Congress HCPP17 on October in Prague ► https://liberate.hcpp.cz\nFollow and support us → https://hcpp.cz/#support\nYoutube playlist → http://bit.ly/playlistHCPP16\n\nConsensus Reality\n\nConsensus Reality (aka Conreality) is a live-action augmented-reality, tactical wargame platform currently in an early development phase. If AR, drones, and milsim scenarios sound up your alley, join us for a preview of breaking new ground in open-source software.\n---\nConsensus Reality (aka Conreality) is the first tactical open source software and operating system for smart hardware and also a live-action game platform for military simulations and AR based scenarios. It enables the deployment of swarms of autonomous combat drones which we will demonstrate live as a world premiere during this presentation. Attend at your own risk!",
     "duration": 2316,
-    "name": "Conreality Team",
-    "project": null,
-    "event": null,
-    "people": [
-      "HCPP16"
-    ]
+    "name": "Consensus Reality (aka Conreality)",
+    "project": "hcpp",
+    "event": "hcpp16",
+    "people": []
   },
   {
     "id": "QBKsHW_9_UA",
@@ -272,7 +270,7 @@
     "publishedAt": "2017-05-23T14:16:53Z",
     "desc": "In previous years I had a talk about why I think Liberty is a DIY project - that it's a personal responsibility of each and every one of us. Then I had two presentations about hacking the biology of our bodies and brain. This talk is continuation of all this work - how does liberty tie to our health, mental and physical performance? What are some of the best hacks to be more free, improve your brain and bodily function?\n",
     "duration": 2997,
-    "name": "Liberty Is A Diy Project",
+    "name": "Liberty is a DIY project",
     "project": "hcpp",
     "event": "hcpp16",
     "people": [
@@ -304,7 +302,9 @@
     "publishedAt": "2017-08-17T06:17:09Z",
     "desc": "See the next Hackers Congress HCPP17 in October in Prague ► https://liberate.hcpp.cz\nTickets ► https://liberate.hcpp.cz/#tickets\nHCPP17 newsletter ► https://liberate.hcpp.cz/#newsletter\nFollow and support us → https://hcpp.cz/#support\nYoutube playlist HCPP16 → http://bit.ly/playlistHCPP16",
     "duration": 64,
-    "name": "Hackers Congress Paralelní Polis 2017",
+    "name": "HCPP17 Trailer",
+    "project": "hcpp",
+    "event": "hcpp17",
     "people": []
   },
   {
@@ -416,8 +416,8 @@
     "desc": "Follow and support us ► https://liberate.hcpp.cz/#support\nParalelní Polis website → https://www.paralelnipolis.cz/o-nas/en/\nParalelní Polis Facebook → https://www.facebook.com/vejdiven\n\nTechnological advancements not only make cash vanish but also bring about new ways of recording transactions and storing value. A ​member of ​the​ Czech National Bank​ Board​, a cryptoanarchist, roboinvestment strategist and a money theorist will have their take on the future of money. How can digitalization of transactions and money better serve people and societies? How are they transforming the global financial system? Do alternative community currencies presage the end of fiat money? How can we arrive at frictionless economy? \n\n​Speakers:​\nOldřich Dědek, member of the CNB Bank Board \nAleš Michl, ​​owner, Quant Investment Fund\nJakub Jedlinský, assistant professor, University of Economics in Prague\nJan Hubík, Hackerspace, Parallel Polis\n\nChair: Maria Staszkiewicz, Czech Fintech Association\n\nABOUT HCPP17 → https://liberate.hcpp.cz/\n\nLiberate!\n\nHCPP17 PARTNERS:\n\nMAIN PARTNERS\n\nTREZOR → https://trezor.io/\nGENERAL BYTES → https://www.generalbytes.com/\nSLUSH POOL → https://slushpool.com\nBITCOIN PAY → https://www.bitcoinpay.com\nCOINMATE → https://coinmate.io\n\nCRYPTOPUZZLE PARTNERS\n\nNETHEMBA → https://nethemba.com\nSATORI → http://zd3n.com/\n\nNEWS LIVE BROADCASTING PARTNER\n\nWorld Crypto Network → http://www.worldcryptonetwork.com\n\nCATERING PARTNERS\n\nNordbeans, Street Catering",
     "duration": 4175,
     "name": "Panel: The Future Of Money @ HCPP17",
-    "project": null,
-    "event": null,
+    "project": "hcpp",
+    "event": "hcpp17",
     "people": [
       "Oldřich Dědek",
       "Aleš Michl",
@@ -533,8 +533,8 @@
     "desc": "Follow and support us ► https://liberate.hcpp.cz/#support\nParalelní Polis website → https://www.paralelnipolis.cz/o-nas/en/\nParalelní Polis Facebook → https://www.facebook.com/vejdiven\n\nALEXA MARTINEZ\n\nAlexa is a sex and relationship anarchist from New Orleans, Louisiana, who is constantly questioning the status quo when it comes to the deepest and most personal aspects of who we are. She is a sex coach, mentor, educator and the founder of The Violet Butterfly LLC.\n\nTALK: EXPLORING CONSENSUAL NON MONOGAMY\n\nA look at the evolution of monogamy, how relationships have changed through time along with what is currently available on the fringe today.\n\nABOUT HCPP17 → https://liberate.hcpp.cz/\n\nLiberate!\n\nHCPP17 PARTNERS:\n\nMAIN PARTNERS\n\nTREZOR → https://trezor.io/\nGENERAL BYTES → https://www.generalbytes.com/\nSLUSH POOL → https://slushpool.com\nBITCOIN PAY → https://www.bitcoinpay.com\nCOINMATE → https://coinmate.io\n\nCRYPTOPUZZLE PARTNERS\n\nNETHEMBA → https://nethemba.com\nSATORI → http://zd3n.com/\n\nNEWS LIVE BROADCASTING PARTNER\n\nWorld Crypto Network → http://www.worldcryptonetwork.com\n\nCATERING PARTNERS\n\nNordbeans, Street Catering",
     "duration": 2828,
     "name": "Exploring Consensual Non Monogamy",
-    "project": null,
-    "event": null,
+    "project": "hcpp",
+    "event": "hcpp17",
     "people": [
       "Alexa Martinez|alexa-martinez"
     ]
@@ -549,8 +549,8 @@
     "desc": "Follow and support us ► https://liberate.hcpp.cz/#support\nParalelní Polis website → https://www.paralelnipolis.cz/o-nas/en/\nParalelní Polis Facebook → https://www.facebook.com/vejdiven\n\nPAIGE PETERSON\n\nPaige leads the community team and user education at Zcash Company and is an Internet security and privacy activist. She previously organized the San Francisco Bitcoin Meetup and has interest in and experience with a range of p2p technologies including mesh networking and decentralized data storage.\n\nTALK: FOUNDATIONS OF INTERNET MONEY\n\nConfidentiality in financial systems is a core property for maintaining fungibility and protecting fundamental human values. While financial privacy is a key tool in protecting against surveillance and censorship in oppressive situations, it is also a basic necessity for day to day business activity. The privacy features in Zcash set a foundation for Internet money that benefits all.\n\nABOUT HCPP17 → https://liberate.hcpp.cz/\n\nLiberate!\n\nHCPP17 PARTNERS:\n\nMAIN PARTNERS\n\nTREZOR → https://trezor.io/\nGENERAL BYTES → https://www.generalbytes.com/\nSLUSH POOL → https://slushpool.com\nBITCOIN PAY → https://www.bitcoinpay.com\nCOINMATE → https://coinmate.io\n\nCRYPTOPUZZLE PARTNERS\n\nNETHEMBA → https://nethemba.com\nSATORI → http://zd3n.com/\n\nNEWS LIVE BROADCASTING PARTNER\n\nWorld Crypto Network → http://www.worldcryptonetwork.com\n\nCATERING PARTNERS\n\nNordbeans, Street Catering",
     "duration": 2527,
     "name": "Foundations Of Internet Money",
-    "project": null,
-    "event": null,
+    "project": "hcpp",
+    "event": "hcpp17",
     "people": [
       "Paige Peterson"
     ]
@@ -822,8 +822,8 @@
     "desc": "Follow and support us ► https://liberate.hcpp.cz/#support\nParalelní Polis website → https://www.paralelnipolis.cz/o-nas/en/\nParalelní Polis Facebook → https://www.facebook.com/vejdiven\n\nNOUD VAN GEMERT & REYNIER JONKERS \n\nNoud and Reynier are criminal defense lawyers from Amsterdam who specialize in cybercrime. They have a particular interest in criminal legal aspects of cryptocurrencies and encryption.\n\nTALK: CRIMINAL LAW 101: ON CRYPTOCURRENCIES AND ENCRYPTION\n\nUnder the flag of national security, governmental authorities are inclined to access all communications and follow every euro that is being spent. Encrypted communication and crypto currencies greatly enhance our privacy, but they’re legally challenged by investigative authorities. Noud and Reynier are criminal defense lawyers and defend this tech in the court room. They'll tell everything you need to know about criminal law, and how to prevent (unconsciously) laundering Bitcoins.\n\nABOUT HCPP17 → https://liberate.hcpp.cz/\n\nLiberate!\n\nHCPP17 PARTNERS:\n\nMAIN PARTNERS\n\nTREZOR → https://trezor.io/\nGENERAL BYTES → https://www.generalbytes.com/\nSLUSH POOL → https://slushpool.com\nBITCOIN PAY → https://www.bitcoinpay.com\nCOINMATE → https://coinmate.io\n\nCRYPTOPUZZLE PARTNERS\n\nNETHEMBA → https://nethemba.com\nSATORI → http://zd3n.com/\n\nNEWS LIVE BROADCASTING PARTNER\n\nWorld Crypto Network → http://www.worldcryptonetwork.com\n\nCATERING PARTNERS\n\nNordbeans, Street Catering",
     "duration": 2526,
     "name": "Criminal Law 101: On Cryptocurrencies And Encryption",
-    "project": null,
-    "event": null,
+    "project": "hcpp",
+    "event": "hcpp17",
     "people": [
       "Noud van Gemert",
       "Reynier Jonkers"
@@ -875,8 +875,8 @@
     "desc": "Follow and support us ► https://liberate.hcpp.cz/#support\nParalelní Polis website → https://www.paralelnipolis.cz/o-nas/en/\nParalelní Polis Facebook → https://www.facebook.com/vejdiven\n\nMARTIN HABOVŠTIAK \n\nMartin discovered the beauty of computer code when eleven and didn't stop studying IT since then. He joined first Slovak hackerspace called Progressbar soon after it was funded and met many interesting people. This led to discovering Bitcoin and consequently Anarcho-Capitalism/Voluntaryism.\n\nTALK: COMPARING TRADE-OFFS OF CRYPTOCURRENCIES\n\nWhen Bitcoin was created, it was widely believed to be anonymous currency. This was proven to be inaccurate in practice and that incentivized people to search for other solutions. This talk will compare Bitcoin, Monero and Zcash to provide information about not just their anonymity but also other properties. The talk is meant even for non-technical people, so yes, you will understand it!\n\nABOUT HCPP17 → https://liberate.hcpp.cz/\n\nLiberate!\n\nHCPP17 PARTNERS:\n\nMAIN PARTNERS\n\nTREZOR → https://trezor.io/\nGENERAL BYTES → https://www.generalbytes.com/\nSLUSH POOL → https://slushpool.com\nBITCOIN PAY → https://www.bitcoinpay.com\nCOINMATE → https://coinmate.io\n\nCRYPTOPUZZLE PARTNERS\n\nNETHEMBA → https://nethemba.com\nSATORI → http://zd3n.com/\n\nNEWS LIVE BROADCASTING PARTNER\n\nWorld Crypto Network → http://www.worldcryptonetwork.com\n\nCATERING PARTNERS\n\nNordbeans, Street Catering",
     "duration": 2617,
     "name": "Comparing Trade-offs Of Cryptocurrencies",
-    "project": null,
-    "event": null,
+    "project": "hcpp",
+    "event": "hcpp17",
     "people": [
       "Martin Habovštiak|habo"
     ]
@@ -890,11 +890,11 @@
     "publishedAt": "2018-10-05T11:48:34Z",
     "desc": "",
     "duration": 501,
-    "name": "Opening Speech",
-    "project": null,
-    "event": null,
+    "name": "Opening Speech @ HCPP18",
+    "project": "hcpp",
+    "event": "hcpp18",
     "people": [
-      "Studio1"
+      "Martin Leskovjan|martin-leskovjan"
     ]
   },
   {
@@ -970,11 +970,11 @@
     "publishedAt": "2018-10-05T14:55:30Z",
     "desc": "How to organize a crypto / bitcoin meet-up in your area? How to fund the meet-up, how to attract an audience. What are experience of people around the world in organizing the meet-ups?",
     "duration": 2776,
-    "name": "Panel",
+    "name": "Panel: Crypto meet",
     "project": "hcpp",
     "event": "hcpp18",
     "people": [
-      "CRYPTO MEET"
+      "juraj-bednar"
     ]
   },
   {
@@ -1018,11 +1018,12 @@
     "publishedAt": "2018-10-05T16:52:23Z",
     "desc": "Speakers: Jim Warnock, Jakub Krcmar.\n\n\nJim Warnock\nBIO\nJim Warnock grew up in Birmingham, Alabama and after graduating from the Woodrow Wilson School of Politics at UVA. He has worked in many different industries for brands like The Financial Times, Zegna, and the History Channel in leadership positions in sales, TV and Film production, and marketing. As Director of Outreach for HRF he assists activists fighting for freedom from Syria to Venezuela to North Korea working in fundraising and programming to find creative solutions to some of the world's most pressing issues. He has been instrumental in the creation and promotion of several impactful new programs at HRF, and is honored to lend his creativity and sales experience in the promotion of freedom and human rights.\n\nABSTRACT - Freeing North Korea with Media and Information\nJim Warnock, Director of Outreach for Human Rights Foundation, presents Flashdrives for Freedom, a unique program that takes donated flash drives, fills them with outside media and educational content, and sends them into North Korea in an effort to inform the North Korean people about the outside world and help free them from the brainwashing and information control of the Kim regime.\n\nInstitute of Cryptoanarchy",
     "duration": 2687,
-    "name": "Institute: Lightning Talks",
-    "project": null,
-    "event": null,
+    "name": "Lightning Talks @ HCPP18",
+    "project": "hcpp",
+    "event": "hcpp18",
     "people": [
-      "HCPP 2018"
+      "Jim Warnock",
+      "Jakub Krcmar"
     ]
   },
   {
@@ -1178,11 +1179,14 @@
     "publishedAt": "2018-10-06T13:29:59Z",
     "desc": "The panel discussion with Monero, Zcash, HORIZEN people will raise both philosophical and technical questions related to truly anonymous cryptocurrencies. What impact will they have on our society? How can the governments cope with their massive use? \n\nModerator: Pavol Lupták\nPanelists: binaryFate, Arno Pfefferling, Peter Todd\n\n\nbinaryFate\nBIO\nPost-doctoral researcher in the field of AI and optimisation algorithms; early Bitcoin advocate and entrepreneur; Monero contributor and supporter since its inception.\n\nABSTRACT - Fungibility is the real deal\nHaving run a Bitcoin business early on, I encountered first hand the problems associated with its transparency and inherent lack of fungibility. I believe it is important to educate about the relation between privacy and fungibility, the implications of mass surveillance enabled by our technology and financial system, and that the aim of so-called \"privacy cryptocurrencies\" is actually to provide the basic fungibility we must expect from a functional currency.\n\n\nArno Pfefferling\nBIO\nArno Pfefferling is 30 years old, holds a M.Sc. degree in material science from Freiberg (Saxony) and have worked since 2011 in the semiconductor industry. Got in touch with DLT in late 2016 and work since September 2017 for HORIZEN, a privacy coin with core features from BITCOIN, ZEC, DASH. After almost twelve months in the ZEN BLOCKCHAIN FOUNDATION the responsibility which Arno currently has is for business development within the Central European Region. Spreading the spirit of ZEN to continuously grow the community as well as enable individual blockchain use-cases which needs vital privacy features. Long term goal is to be part of a full secured economic platform where participants can use HORIZEN for crypto payments, ZenChat for anonymous messaging, ZenHide for borderless internet access, ZenPub for decentralized file storage, ZenGrid for edge computing power and ZenHelp as Q&A desk. All under the mission of lead blockchain technological forefront & contribute to humanity through innovation.\n\nABSTRACT - Truly Anonymous Cryptocurrencies\nWhat is privacy in a digital 100% decentralized eco-system and where do I see the zk-SNARK technology in comparison to Monero, Bitcoin and next generation technics like Mimblewimble and so on. This are points which I would like to discuss within the panel. \n\n\nPeter Todd\nBIO\nPeter Todd is an applied cryptography consultant known for his work on the OpenTimestamps project, Bitcoin protocol research, and contributions to the Bitcoin Core project.",
     "duration": 2917,
-    "name": "Panel",
+    "name": "Panel: Truly anonymous cryptocurrencies",
     "project": "hcpp",
     "event": "hcpp18",
     "people": [
-      "TRULY ANONYMOUS CRYPTOCURRENCIES"
+      "Pavol Lupták|wilder",
+      "binaryFate",
+      "Arno Pfefferling",
+      "Peter Todd|peter-todd"
     ]
   },
   {
@@ -1226,8 +1230,10 @@
     "publishedAt": "2018-10-06T15:57:01Z",
     "desc": "Speaker: Juraj Bednár\n\nAs a kid, I have read books about off-shore tax havens as one would read an adventure novel. This world is almost gone thanks to FATCA and other means of financial surveillance. What changed? Are we are transitioning to a new order? Building on our experience with starting Paralelná Polis and running several businesses, I will explain the problems of surveillance state in financial sector and how we can sustain running a business and personal life mostly on cryptocurrencies and liberating technologies. What to do with volatility? What if crypto goes down? How do we escape the surveillance apparatus, reclaim our freedom, have fun and make money doing so? We have no time to waste in reforming the old linear governmental structures, let's terraform a parallel exponential crypto universe together, today!\n\nInstitute of Cryptoanarchy",
     "duration": 3027,
-    "name": "Institute: FROM TAX HAVENS THROUGH FINANCIAL SURVEILLANCE TO CRYPTO-UTOPISTIC NEW ORDER",
-    "people": []
+    "name": "From tax havens through financial surveillance to a crypto-utopian new order",
+    "people": [
+      "Juraj Bednár|juraj-bednar"
+    ]
   },
   {
     "id": "9xNalfr45Qg",
@@ -1286,8 +1292,10 @@
     "publishedAt": "2018-10-06T16:59:12Z",
     "desc": "Speaker: Austin Craig\n\nThe Starfish and the Spider was first published in 2006, outlining the properties of decentralized (or “starfish”) organizations. The idea of decentralized organizations was still fairly new, but becoming more common with the spread of the Internet, itself a decentralized network. Starfish organizations were almost always characterised by weaknesses hinging on a single factor: Money. Money or any other valuable resource had to be centrally managed. That is, until the invention of cryptocurrency. This presentation will highlight how cryptocurrency fundamentally changes the capabilities and possibilities of decentralized organizations. At Mainframe, we’re building a decentralized network for censorship resistant message routing and unstoppable applications. The decentralized management of scarce resources is critical to our success.\n\nInstitute of Cryptoanarchy",
     "duration": 2614,
-    "name": "Institute: HOW CRYPTOCURRENCY HELPED THE STARFISH BEAT THE SPIDER with Austin Craig",
-    "people": []
+    "name": "How cryptocurrency helped the starfish beat the spider",
+    "people": [
+      "Austin Craig"
+    ]
   },
   {
     "id": "boC38xXLypI",
@@ -1298,7 +1306,7 @@
     "publishedAt": "2018-10-06T17:57:53Z",
     "desc": "Start:6:45\nSpeakers: Alena Vránová (Remote Talk) Giacomo Zucco\n\nInstitute of Cryptoanarchy",
     "duration": 3051,
-    "name": "Institute: The B with Alena Vránová (Remote Talk) Giacomo Zucco",
+    "name": "The B with Alena Vránová (Remote Talk) Giacomo Zucco",
     "people": [
       "alena-vranova",
       "giacomo-zucco"
@@ -1377,8 +1385,12 @@
     "publishedAt": "2018-10-07T12:51:56Z",
     "desc": "A privacy coin like Monero entails the absolute anonymity of its users. Implementing an application with great UI/UX entails direct user contact and feedback, and goes as far as recording and collecting usage patterns and more. So building an application for Monero must deal with these diametric principles. This talk will examine this dilemma and the path Monerujo has taken to resolve it.\n\nInstitute of Cryptoanarchy",
     "duration": 2715,
-    "name": "Institute: USER X VS UX (DESIGNING IN DARKNESS) with Dimi &quot;m2049r&quot; Divak",
-    "people": []
+    "project": "hcpp",
+    "event": "hcpp18",
+    "name": "User X vs UX (Designing in Darkness)",
+    "people": [
+      "Dimi \"m2049r\" Divak"
+    ]
   },
   {
     "id": "8Z3FhWgfadE",
@@ -1422,7 +1434,7 @@
     "publishedAt": "2018-10-07T15:01:15Z",
     "desc": "Pseudonymous, trustless and fluid organizations are here to change our current corporate and government-centric approach to organizing as a society. DAOs debunk governments and their monopoly on governance.\n\nThese new entities are unstoppable by design, and let us experiment with governance at the speed of software. We will explore how they work, and how to unstoppable, censorship-resistant and global organizations.\n\nInstitute of Cryptoanarchy",
     "duration": 3001,
-    "name": "Daos Are The New Order",
+    "name": "DAOs Are The New Order",
     "project": "hcpp",
     "event": "hcpp18",
     "people": [
@@ -1487,8 +1499,12 @@
     "publishedAt": "2018-10-07T17:49:35Z",
     "desc": "",
     "duration": 521,
-    "name": "Studio1: CLOSING SPEECH",
-    "people": []
+    "project": "hcpp",
+    "event": "hcpp18",
+    "name": "Closing Speech @ HCPP18",
+    "people": [
+      "Martin Leskovjan|martin-leskovjan"
+    ]
   },
   {
     "id": "-TjBseEjnRw",
@@ -1632,11 +1648,11 @@
     "publishedAt": "2019-10-16T15:58:11Z",
     "desc": "Throughout history and around the world people have been 1) intent on controlling others; 2) content to be controlled; and 3) determined to be free of control by others. The latter group is constantly seeking and preparing contingencies for their own eventual and necessary escape to freedom. This can be aided by contemplating the paths taken by more than 240 million others in recent years with varying degrees of success. And surely the numbers would be much greater except for the multitude and measure of the obstacles.\n\nSome paths to freedom are crude and unsophisticated, but nonetheless imaginative and brazen. The most apparent and direct way to avoid the clutches of tyranny is to physically move to places of relatively less tyranny. The movement of great numbers of people around the planet evokes passions of both courage and fear with all the consequent conflict and trauma for leavers & remainers as well as for inviters & excluders.\n\nIronically, much of the desperation of people in poor countries is aggravated by some, perhaps well-intentioned but calamitous, behavior by governments in prosperous countries: i.e. trade manipulations, drug wars, and assistance to foreign rulers. This assistance to rulers includes the closing of escape routes. Likewise, well-intentioned domestic government assistance and a multitude of labor and commercial laws have forcefully aggravated the adjustment and tolerance of migration into relatively prosperous and free countries.\n\nOf many models possible as a solution to these dilemmas of migration, Hong Kong provides useful historical lessons that are practical, humanitarian, and ethical from a libertarian perspective.\n\n#hcpp19 #optout #paralelnipolis #instituteofcryptoanarchy",
     "duration": 2934,
-    "name": "Ken Schoolland - The Oldest And Most Feared Opt-out Strategy: Migration",
-    "project": null,
-    "event": null,
+    "name": "The Oldest And Most Feared Opt-out Strategy: Migration",
+    "project": "hcpp",
+    "event": "hcpp19",
     "people": [
-      "#hcpp19"
+      "Ken Schoolland"
     ]
   },
   {
@@ -1840,11 +1856,11 @@
     "publishedAt": "2019-10-16T15:58:43Z",
     "desc": "#hcpp19 #optout #paralelnipolis #instituteofcryptoanarchy",
     "duration": 705,
-    "name": "Closing Speech",
-    "project": null,
-    "event": null,
+    "name": "Closing Speech @ HCPP19",
+    "project": "hcpp",
+    "event": "hcpp19",
     "people": [
-      "#hcpp19"
+      "Martin Leskovjan|martin-leskovjan"
     ]
   },
   {
@@ -1984,11 +2000,11 @@
     "publishedAt": "2019-10-16T15:58:46Z",
     "desc": "#hcpp19 #optout #paralelnipolis #instituteofcryptoanarchy",
     "duration": 786,
-    "name": "Opening Speech",
-    "project": null,
-    "event": null,
+    "name": "Opening Speech @ HCPP19",
+    "project": "hcpp",
+    "event": "hcpp19",
     "people": [
-      "#hcpp19"
+      "Pavol Luptak|wilder"
     ]
   },
   {
@@ -2278,11 +2294,11 @@
     "publishedAt": "2020-08-25T09:33:21Z",
     "desc": "Very first video of the new HCPP.TV, stay tuned!\n\nPavol Lupták, co-founder of Paralelní Polis and one of the organizers will one by one introduce this year's speakers and panelists.\n\nhttps://digital-totality.hcpp.cz",
     "duration": 569,
-    "name": "Hcpp.tv",
-    "project": null,
-    "event": null,
+    "name": "Introducing Frank Braun & Smuggler - HCPP.TV",
+    "project": "hcpp",
+    "event": "hcpp20",
     "people": [
-      "Introducing Frank Braun",
+      "Frank Braun|frank-braun",
       "Smuggler|smuggler"
     ]
   },
@@ -2295,11 +2311,11 @@
     "publishedAt": "2020-09-01T15:22:34Z",
     "desc": "Pavol Lupták, co-founder of Paralelní Polis and one of the organizers will one by one introduce this year's speakers and panelists.\n\nhttps://digital-totality.hcpp.cz",
     "duration": 401,
-    "name": "Hcpp.tv",
-    "project": null,
-    "event": null,
+    "name": "Introducing Paul Rosenberg - HCPP.TV",
+    "project": "hcpp",
+    "event": "hcpp20",
     "people": [
-      "Introducing Paul Rosenberg"
+      "Paul Rosenberg|paul-rosenberg"
     ]
   },
   {
@@ -2311,11 +2327,11 @@
     "publishedAt": "2020-09-09T05:03:13Z",
     "desc": "Pavol Lupták, co-founder of Paralelní Polis and one of the organizers will one by one introduce this year's speakers and panelists.\n\nhttps://digital-totality.hcpp.cz",
     "duration": 552,
-    "name": "Hcpp.tv",
-    "project": null,
-    "event": null,
+    "name": "Introducing seasteading - Chad & Nadia - HCPP.TV",
+    "project": "hcpp",
+    "event": "hcpp20",
     "people": [
-      "Introducing seasteading - Chad",
+      "Chad",
       "Nadia"
     ]
   },
@@ -2328,11 +2344,11 @@
     "publishedAt": "2020-09-16T17:15:11Z",
     "desc": "Pavol Lupták, co-founder of Paralelní Polis and one of the organizers will one by one introduce this year's speakers and panelists.\n\nhttps://digital-totality.hcpp.cz",
     "duration": 395,
-    "name": "Hcpp.tv",
-    "project": null,
-    "event": null,
+    "name": "Introducing Pavla Holcová - HCPP.TV",
+    "project": "hcpp",
+    "event": "hcpp20",
     "people": [
-      "Introducing Pavla Holcová"
+      "Pavla Holcová|pavla-holcova"
     ]
   },
   {

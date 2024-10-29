@@ -160,8 +160,13 @@
     "publishedAt": "2023-08-09T19:40:01Z",
     "desc": "Sara Polak will interview Marius van der Wijden.",
     "duration": 770,
-    "name": "Live Interview: Marius van der Wijden and Sara Polak",
-    "people": []
+    "project": "ethprague",
+    "event": "ethprague22",
+    "name": "Live Interview: Marius van der Wijden",
+    "people": [
+      "Marius van der Wijden",
+      "Sara Polak|sara-polak"
+    ]
   },
   {
     "id": "I001OIl9x_Y",
@@ -328,8 +333,13 @@
     "publishedAt": "2023-08-09T20:13:18Z",
     "desc": "Sara Polak will interview Makoto Inoue.",
     "duration": 608,
-    "name": "Live Interview: Makoto Inoue and Sara Polak",
-    "people": []
+    "project": "ethprague",
+    "event": "ethprague22",
+    "name": "Live Interview: Makoto Inoue",
+    "people": [
+      "Makoto Inoue",
+      "Sara Polak|sara-polak"
+    ]
   },
   {
     "id": "BxEINVJMXsk",
@@ -356,8 +366,13 @@
     "publishedAt": "2023-08-09T20:16:39Z",
     "desc": "Sara Polak will interview DCBuilder.",
     "duration": 1747,
-    "name": "Live Interview: DCBuilder and Sara Polak",
-    "people": []
+    "project": "ethprague",
+    "event": "ethprague22",
+    "name": "Live Interview: DCBuilder",
+    "people": [
+      "DCBuilder",
+      "Sara Polak|sara-polak"
+    ]
   },
   {
     "id": "WkXxbG6zLEw",
@@ -493,8 +508,12 @@
     "publishedAt": "2023-08-09T20:49:40Z",
     "desc": "A panel discussion about recent lessons learned from DeFi.",
     "duration": 1686,
+    "project": "ethprague",
+    "event": "ethprague22",
     "name": "Panel: What did this past year teach us about DeFi",
-    "people": []
+    "people": [
+      "SteveFau"
+    ]
   },
   {
     "id": "GUaGP8sAeCQ",
@@ -537,9 +556,14 @@
     "img": "1uoSKaznyBE.jpg",
     "publishedAt": "2023-08-10T07:33:27Z",
     "desc": "",
+    "project": "ethprague",
+    "event": "ethprague22",
     "duration": 549,
-    "name": "Live Interview: MP Fernandez and Sara Polak",
-    "people": []
+    "name": "Live Interview: MP Fernandez",
+    "people": [
+      "MP Fernandez",
+      "sara-polak"
+    ]
   },
   {
     "id": "Lq8-0xu4lBo",
@@ -550,13 +574,13 @@
     "publishedAt": "2023-08-10T07:34:19Z",
     "desc": "",
     "duration": 692,
-    "name": "Live Interview: Jarrad Hope and Sara Polak",
+    "name": "Live Interview: Jarrad Hope",
     "people": [
       "jarrad-hope",
       "sara-polak"
     ],
     "project": "ethprague",
-    "event": "ethprague23"
+    "event": "ethprague22"
   },
   {
     "id": "T2h_0UE3lDU",
@@ -566,9 +590,14 @@
     "img": "T2h_0UE3lDU.jpg",
     "publishedAt": "2023-08-10T07:45:38Z",
     "desc": "",
+    "project": "ethprague",
+    "event": "ethprague22",
     "duration": 562,
-    "name": "Live Interview: Péter Szilagyi and Sara Polak",
-    "people": []
+    "name": "Live Interview: Péter Szilagyi",
+    "people": [
+      "Péter Szilagyi",
+      "Sara Polak|sara-polak"
+    ]
   },
   {
     "id": "2GUVhAIJblU",
@@ -578,9 +607,14 @@
     "img": "2GUVhAIJblU.jpg",
     "publishedAt": "2023-08-10T07:46:44Z",
     "desc": "",
+    "project": "ethprague",
+    "event": "ethprague22",
     "duration": 630,
-    "name": "Live Interview: Sara Polak and Althea Allen",
-    "people": []
+    "name": "Live Interview: Althea Allen",
+    "people": [
+      "Althea Allen",
+      "Sara Polak|sara-polak"
+    ]
   },
   {
     "id": "Enrpgl1oHpo",

@@ -24,7 +24,9 @@
     "publishedAt": "2015-09-20T10:20:26Z",
     "desc": "Get ready for the second Hackers Congress in Parallel Polis, Prague - http://www.hcpp.cz/eng\n2 / 3 / 4 / 10 / 2015\nPOLITICAL ART / SCIENCE AND TECHNOLOGIES / FREEDOM AND CRYPTOANARCHY / DECENTRALISED ECONOMY AND CRYPTOCURRENCIES\n\nVideo by: http://www.phosphenepictures.com\nCheck them out, they are awesome!",
     "duration": 75,
-    "name": "Hackers Congress Paralelní Polis 2015 trailer",
+    "project": "hcpp",
+    "event": "hcpp15",
+    "name": "Hackers Congress Paralelní Polis 2015 Trailer",
     "people": []
   },
   {
@@ -1888,7 +1890,7 @@
     "publishedAt": "2019-10-16T15:58:43Z",
     "desc": "In some ways, Bitcoin UX is already better than Internet banking. In other ways, it's much worse. This presentation will describe experiences of visitors of Paralelna Polis Bratislava as well as experience of techies, who tried to use Lightning Network. The talk will also suggest improvements to make opting-out easier and possible for more people.\n\n#hcpp19 #optout #paralelnipolis #instituteofcryptoanarchy",
     "duration": 2828,
-    "name": "Ux Challenges Of The Bitcoin Ecosystem",
+    "name": "UX Challenges Of The Bitcoin Ecosystem",
     "project": "hcpp",
     "event": "hcpp19",
     "people": [

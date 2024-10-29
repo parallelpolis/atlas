@@ -1196,3 +1196,17 @@
   img: mykola-siusko.png
   refs:
     twitter: nicksvyaznoy
+
+- id: pg
+  name: Piergiorgio Catti De Gasperi
+  img: pg.jpg
+  refs:
+    twitter: PG_CDG
+
+- id: coinmandeer
+  name: Coinmandeer
+  img: coinmandeer.png
+  refs:
+    twitter: KeenOfCoin
+    github: coinmandeer
+    matrix: coinmandeer:matrix.org

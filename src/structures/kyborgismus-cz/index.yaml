@@ -1,0 +1,6 @@
+name: Kyborgismus.cz
+local: CZ
+labels:
+  - service
+refs:
+  web: https://kyborgismus.cz

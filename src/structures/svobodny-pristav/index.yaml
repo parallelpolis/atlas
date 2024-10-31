@@ -1,0 +1,8 @@
+name: Svobodný přístav
+shortname: SP
+local: CZ
+labels:
+  - community
+#years: [ 2023 ]
+refs:
+  web: https://pristav.urza.cz

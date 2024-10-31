@@ -1190,6 +1190,8 @@
   days: 3
   startTime: '2019-07-19T16:20:00+02:00'
   endTime: '2019-07-21T23:59:00+02:00'
+  organizers:
+    - josefj
   description: >-
     Weekend-long hacking competition focused on privacy, individual freedom,
     decentralization and viable system exploits. Each track will have three

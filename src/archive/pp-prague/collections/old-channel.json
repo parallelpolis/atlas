@@ -1600,9 +1600,9 @@
     "publishedAt": "2019-10-16T15:57:48Z",
     "desc": "Cypherpunks and cryptoanarchists have always dreamt of truely anonymous financial systems. This lead to Bitcoin and other blockchain cryptocurrencies. One episode of this development is widely overlooked today: Digital Cash, eCash, eCache and other Digital Bearer Certificate (DBC) systems.\n\nDBCs enable blazing fast, anonymous and untraceable transactions that resemble cash transactions much closer than cryptocurrencies. They are conceptually simple and require much less complex infrastructures. Nevertheless they have been ignored by cryptoanarchist researchers over the last decade.\n\nIn this talk we shall explore the necessary properties of government-independent value transfer systems, how to decentralize DBCs, and what a future with digital anonymous micro-transactions means for the realization of cryptoanarchist ideas.\n\n#hcpp19 #optout #paralelnipolis #instituteofcryptoanarchy",
     "duration": 3111,
-    "name": "The Forgotten Art Of Anonymous Digital Cash: Opting-out Of Complexity #hcpp19",
-    "project": null,
-    "event": null,
+    "name": "The Forgotten Art Of Anonymous Digital Cash: Opting-out Of Complexity",
+    "project": "hcpp",
+    "event": "hcpp19",
     "people": [
       "Smuggler|smuggler"
     ]

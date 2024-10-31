@@ -9,6 +9,8 @@
     country: cz
   venues:
     - name: Paralelní Polis Praha
+  organizers:
+    - josefj
   description: |
     ## Nonconformist hackathon
 

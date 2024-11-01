@@ -5,6 +5,7 @@ refs:
   web: https://gwei.cz
 labels:
   - community
+img: gweicz.png
 projects:
   - id: ethbrno
     name: ETHBrno

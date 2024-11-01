@@ -1,5 +1,6 @@
 collections:
-  structures: {}
+  structures:
+    engine: structures
   events:
     type: flat
     sort: [ date, desc ]

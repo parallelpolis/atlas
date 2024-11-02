@@ -42,7 +42,7 @@
         "videoCodec": "avc1",
         "videoBitrate": 3385964,
         "audioCodec": "Opus",
-        "audioBitrace": 130040
+        "audioBitrate": 130040
       },
       "hls": {
         "path": "/videos/all/SSiSrCsHIWc/hls/master.m3u8",
@@ -98,7 +98,7 @@
         "videoCodec": "vp09",
         "videoBitrate": 427386,
         "audioCodec": "Opus",
-        "audioBitrace": 97720
+        "audioBitrate": 97720
       },
       "hls": {
         "path": "/videos/all/Ul-WFb9MHR8/hls/master.m3u8",

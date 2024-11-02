@@ -667,7 +667,24 @@
     "event": "pd23",
     "people": [
       "Lea Petras|lea-petras"
-    ]
+    ],
+    "storage": {
+      "id": "Vu2AHs4jdX8",
+      "path": "/videos/all/Vu2AHs4jdX8",
+      "duration": "1584.901",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/Vu2AHs4jdX8/source.mp4",
+        "hash": "bbf3aa44f77f1f366d49617a369659a0bb289254abc7a4e07edb0b6dec832ceb",
+        "size": 196805227,
+        "resolution": "1920x1080",
+        "bitrate": "993401",
+        "videoCodec": "avc1",
+        "videoBitrate": 866514,
+        "audioCodec": "Opus",
+        "audioBitrace": 121819
+      }
+    }
   },
   {
     "id": "_B-bTm3oVgM",
@@ -683,7 +700,24 @@
     "event": "pd23",
     "people": [
       "Max Hillebrand|max-hillebrand"
-    ]
+    ],
+    "storage": {
+      "id": "_B-bTm3oVgM",
+      "path": "/videos/all/_B-bTm3oVgM",
+      "duration": "3747.061",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/_B-bTm3oVgM/source.mp4",
+        "hash": "bca229a452bd2e9587dec704ac50bf13cffe5446a98523e3cb94b793d7cd3c37",
+        "size": 547174794,
+        "resolution": "1920x1080",
+        "bitrate": "1168222",
+        "videoCodec": "avc1",
+        "videoBitrate": 1045402,
+        "audioCodec": "Opus",
+        "audioBitrace": 117641
+      }
+    }
   },
   {
     "id": "i83KP3hCeT4",
@@ -699,7 +733,24 @@
     "event": "pd23",
     "people": [
       "Maxim Orlovsky|maxim-orlovsky"
-    ]
+    ],
+    "storage": {
+      "id": "i83KP3hCeT4",
+      "path": "/videos/all/i83KP3hCeT4",
+      "duration": "2666.021",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/i83KP3hCeT4/source.mp4",
+        "hash": "e3630d210652c96e974b87ef5fb25072a2af8d9be69c125877f199687bab6b40",
+        "size": 604379492,
+        "resolution": "1920x1080",
+        "bitrate": "1813578",
+        "videoCodec": "avc1",
+        "videoBitrate": 1687105,
+        "audioCodec": "Opus",
+        "audioBitrace": 121486
+      }
+    }
   },
   {
     "id": "5NTypY91Q0I",
@@ -715,7 +766,24 @@
     "event": "pd23",
     "people": [
       "Vlad Costea|vlad-costea"
-    ]
+    ],
+    "storage": {
+      "id": "5NTypY91Q0I",
+      "path": "/videos/all/5NTypY91Q0I",
+      "duration": "611.821",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/5NTypY91Q0I/source.mp4",
+        "hash": "a83e816dd041f74080a8fe3323868555161afc5128f20eec2979d21eaa66f5d4",
+        "size": 65759497,
+        "resolution": "1920x1080",
+        "bitrate": "859853",
+        "videoCodec": "avc1",
+        "videoBitrate": 724528,
+        "audioCodec": "Opus",
+        "audioBitrace": 130506
+      }
+    }
   },
   {
     "id": "8aaXlInU8y4",
@@ -731,7 +799,24 @@
     "event": "pd23",
     "people": [
       "Peter Todd|peter-todd"
-    ]
+    ],
+    "storage": {
+      "id": "8aaXlInU8y4",
+      "path": "/videos/all/8aaXlInU8y4",
+      "duration": "507.421",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/8aaXlInU8y4/source.mp4",
+        "hash": "78050b4cf390afe9dfc2bc6269057b3d70ab5aec18d5ff5323b194729e93a6bd",
+        "size": 49919861,
+        "resolution": "1920x1080",
+        "bitrate": "787037",
+        "videoCodec": "avc1",
+        "videoBitrate": 654435,
+        "audioCodec": "Opus",
+        "audioBitrace": 127608
+      }
+    }
   },
   {
     "id": "aGU4JdrqV1k",
@@ -747,7 +832,24 @@
     "event": "pd23",
     "people": [
       "Martin Matejka|martin-matejka"
-    ]
+    ],
+    "storage": {
+      "id": "aGU4JdrqV1k",
+      "path": "/videos/all/aGU4JdrqV1k",
+      "duration": "1306.781",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/aGU4JdrqV1k/source.mp4",
+        "hash": "a0c3ad20580a561967604762fb4948ff0da0ce378e5b2c526741923b061a63b4",
+        "size": 145819126,
+        "resolution": "1920x1080",
+        "bitrate": "892692",
+        "videoCodec": "avc1",
+        "videoBitrate": 756858,
+        "audioCodec": "Opus",
+        "audioBitrace": 130853
+      }
+    }
   },
   {
     "id": "QGE2iLKeau0",
@@ -763,7 +865,24 @@
     "event": "pd23",
     "people": [
       "exiledsurfer|exiledsurfer"
-    ]
+    ],
+    "storage": {
+      "id": "QGE2iLKeau0",
+      "path": "/videos/all/QGE2iLKeau0",
+      "duration": "811.701",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/QGE2iLKeau0/source.mp4",
+        "hash": "1694c46a2676f72186c2031fa48428739cab56b8b5a313d5fd7f68631557e40f",
+        "size": 76783236,
+        "resolution": "1920x1080",
+        "bitrate": "756764",
+        "videoCodec": "avc1",
+        "videoBitrate": 623381,
+        "audioCodec": "Opus",
+        "audioBitrace": 128265
+      }
+    }
   },
   {
     "id": "nzTtgek-4GY",
@@ -779,7 +898,24 @@
     "event": "pd23",
     "people": [
       "Rigel Walshe"
-    ]
+    ],
+    "storage": {
+      "id": "nzTtgek-4GY",
+      "path": "/videos/all/nzTtgek-4GY",
+      "duration": "2863.581",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/nzTtgek-4GY/source.mp4",
+        "hash": "4146ccd12988bc1348fa6493533ef1605a6f3a8bf2bcc0bb0bb6fc57cccd9bcf",
+        "size": 419069310,
+        "resolution": "1920x1080",
+        "bitrate": "1170756",
+        "videoCodec": "avc1",
+        "videoBitrate": 1043650,
+        "audioCodec": "Opus",
+        "audioBitrace": 122242
+      }
+    }
   },
   {
     "id": "bnolAGgGIO0",
@@ -795,7 +931,24 @@
     "event": "pd23",
     "people": [
       "Peter Todd|peter-todd"
-    ]
+    ],
+    "storage": {
+      "id": "bnolAGgGIO0",
+      "path": "/videos/all/bnolAGgGIO0",
+      "duration": "2967.301",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/bnolAGgGIO0/source.mp4",
+        "hash": "304305529c00b23305f5af5d49ef75b0fe05d2fd9be846e3da8c4bc39557409b",
+        "size": 449329916,
+        "resolution": "1920x1080",
+        "bitrate": "1211417",
+        "videoCodec": "avc1",
+        "videoBitrate": 1079273,
+        "audioCodec": "Opus",
+        "audioBitrace": 127245
+      }
+    }
   },
   {
     "id": "3DgpgLmtdjs",
@@ -811,7 +964,24 @@
     "event": "pd23",
     "people": [
       "Tim Akinbo"
-    ]
+    ],
+    "storage": {
+      "id": "3DgpgLmtdjs",
+      "path": "/videos/all/3DgpgLmtdjs",
+      "duration": "3090.181",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/3DgpgLmtdjs/source.mp4",
+        "hash": "090a035a356ebc8e1c7f92b27314cf35482d751ed1854f5464cfc2eabd45cbb0",
+        "size": 843907613,
+        "resolution": "1920x1080",
+        "bitrate": "2184746",
+        "videoCodec": "avc1",
+        "videoBitrate": 2057273,
+        "audioCodec": "Opus",
+        "audioBitrace": 122722
+      }
+    }
   },
   {
     "id": "mlcLCvpuHG8",
@@ -825,7 +995,24 @@
     "name": "Pizza Day Prague 2024 Trailer",
     "project": "pizza-day",
     "event": "pd24",
-    "people": []
+    "people": [],
+    "storage": {
+      "id": "mlcLCvpuHG8",
+      "path": "/videos/all/mlcLCvpuHG8",
+      "duration": "39.441",
+      "framerate": "59.940",
+      "source": {
+        "path": "/videos/all/mlcLCvpuHG8/source.mp4",
+        "hash": "b3f722beb7d7279ada309b4a388081a6c663cb5c614cd2df87368ec49d651a65",
+        "size": 9587415,
+        "resolution": "1280x720",
+        "bitrate": "1944660",
+        "videoCodec": "avc1",
+        "videoBitrate": 1797901,
+        "audioCodec": "Opus",
+        "audioBitrace": 137658
+      }
+    }
   },
   {
     "id": "l-p3Ub1z420",
@@ -841,7 +1028,24 @@
     "event": "hcpp23",
     "people": [
       "Jarred Hope|jarrad-hope"
-    ]
+    ],
+    "storage": {
+      "id": "l-p3Ub1z420",
+      "path": "/videos/all/l-p3Ub1z420",
+      "duration": "4632.341",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/l-p3Ub1z420/source.mp4",
+        "hash": "d6b22eaa702ddc226e52353ce3c187e3f635d7ff0afb21002b4fa7d475f79d5f",
+        "size": 506677566,
+        "resolution": "1920x1080",
+        "bitrate": "875026",
+        "videoCodec": "avc1",
+        "videoBitrate": 749161,
+        "audioCodec": "Opus",
+        "audioBitrace": 120982
+      }
+    }
   },
   {
     "id": "2j-XAJOH7-c",
@@ -857,7 +1061,24 @@
     "event": "hcpp23",
     "people": [
       "Ryan Lackey|ryan-lackey"
-    ]
+    ],
+    "storage": {
+      "id": "2j-XAJOH7-c",
+      "path": "/videos/all/2j-XAJOH7-c",
+      "duration": "3440.601",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/2j-XAJOH7-c/source.mp4",
+        "hash": "9cd3715a346a27cd8609c031dd984c1455b98217475f82f84ee593cf10e66d07",
+        "size": 255858689,
+        "resolution": "1920x1080",
+        "bitrate": "594916",
+        "videoCodec": "avc1",
+        "videoBitrate": 464433,
+        "audioCodec": "Opus",
+        "audioBitrace": 125565
+      }
+    }
   },
   {
     "id": "hk-St_zpOyM",
@@ -873,7 +1094,24 @@
     "event": "hcpp23",
     "people": [
       "Rachel-Rose O&#39;Leary|rachel-rose"
-    ]
+    ],
+    "storage": {
+      "id": "hk-St_zpOyM",
+      "path": "/videos/all/hk-St_zpOyM",
+      "duration": "3029.181",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/hk-St_zpOyM/source.mp4",
+        "hash": "1c802067b1dbdfb2e8016f8e787a03209da033cdd66f8084585581ead7544e37",
+        "size": 302830100,
+        "resolution": "1920x1080",
+        "bitrate": "799768",
+        "videoCodec": "avc1",
+        "videoBitrate": 678710,
+        "audioCodec": "Opus",
+        "audioBitrace": 116233
+      }
+    }
   },
   {
     "id": "MDeyOnwnzS8",
@@ -890,7 +1128,24 @@
     "people": [
       "Richard M. Stallman|richard-stallman",
       "Amir Taaki|amir-taaki"
-    ]
+    ],
+    "storage": {
+      "id": "MDeyOnwnzS8",
+      "path": "/videos/all/MDeyOnwnzS8",
+      "duration": "4296.861",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/MDeyOnwnzS8/source.mp4",
+        "hash": "17957d00b64e9b55b5cefbcf07829852d2f3066a6f31b179620271d0a534888a",
+        "size": 1066037462,
+        "resolution": "1920x1080",
+        "bitrate": "1984774",
+        "videoCodec": "avc1",
+        "videoBitrate": 1861697,
+        "audioCodec": "Opus",
+        "audioBitrace": 118291
+      }
+    }
   },
   {
     "id": "RpmDtxWmvgs",
@@ -906,7 +1161,24 @@
     "event": "hcpp23",
     "people": [
       "Mitch Altman|mitch-altman"
-    ]
+    ],
+    "storage": {
+      "id": "RpmDtxWmvgs",
+      "path": "/videos/all/RpmDtxWmvgs",
+      "duration": "3851.861",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/RpmDtxWmvgs/source.mp4",
+        "hash": "52cab65953a35b7986d2e415b4b7278d1133ad054aac53e9aeac7493189eb460",
+        "size": 279742560,
+        "resolution": "1920x1080",
+        "bitrate": "581002",
+        "videoCodec": "avc1",
+        "videoBitrate": 461341,
+        "audioCodec": "Opus",
+        "audioBitrace": 114849
+      }
+    }
   },
   {
     "id": "tuqvTMYx4i0",
@@ -922,7 +1194,24 @@
     "event": "hcpp23",
     "people": [
       "Amir Taaki|amir-taaki"
-    ]
+    ],
+    "storage": {
+      "id": "tuqvTMYx4i0",
+      "path": "/videos/all/tuqvTMYx4i0",
+      "duration": "2925.761",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/tuqvTMYx4i0/source.mp4",
+        "hash": "a970d833315052a6e48e6fc6b6fbf3c0657c0453fa11e12135b23849cd408d7e",
+        "size": 262701412,
+        "resolution": "1920x1080",
+        "bitrate": "718313",
+        "videoCodec": "avc1",
+        "videoBitrate": 602355,
+        "audioCodec": "Opus",
+        "audioBitrace": 111145
+      }
+    }
   },
   {
     "id": "vA_qlNP0ag0",
@@ -938,7 +1227,24 @@
     "event": "hcpp23",
     "people": [
       "Vit Jedlicka|vit-jedlicka"
-    ]
+    ],
+    "storage": {
+      "id": "vA_qlNP0ag0",
+      "path": "/videos/all/vA_qlNP0ag0",
+      "duration": "2538.241",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/vA_qlNP0ag0/source.mp4",
+        "hash": "e76ba70b808006e2c8a9de74d20346dacb96ae56569236e07d86b9883453ba0a",
+        "size": 287777438,
+        "resolution": "1920x1080",
+        "bitrate": "907014",
+        "videoCodec": "avc1",
+        "videoBitrate": 785083,
+        "audioCodec": "Opus",
+        "audioBitrace": 117112
+      }
+    }
   },
   {
     "id": "QyAmqP17go8",
@@ -954,7 +1260,24 @@
     "event": "hcpp23",
     "people": [
       "Maxim Orlovsky|maxim-orlovsky"
-    ]
+    ],
+    "storage": {
+      "id": "QyAmqP17go8",
+      "path": "/videos/all/QyAmqP17go8",
+      "duration": "3091.941",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/QyAmqP17go8/source.mp4",
+        "hash": "208c236ce5adc64c480d8f65ca7435a98be238d5db01b71b341a644e28c54ddd",
+        "size": 248385276,
+        "resolution": "1920x1080",
+        "bitrate": "642665",
+        "videoCodec": "avc1",
+        "videoBitrate": 523074,
+        "audioCodec": "Opus",
+        "audioBitrace": 114758
+      }
+    }
   },
   {
     "id": "eTkeMApiwL4",
@@ -986,7 +1309,24 @@
     "event": "hcpp23",
     "people": [
       "Richard M. Stallman|richard-stallman"
-    ]
+    ],
+    "storage": {
+      "id": "qJTuwqT6p4k",
+      "path": "/videos/all/qJTuwqT6p4k",
+      "duration": "6506.201",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/qJTuwqT6p4k/source.mp4",
+        "hash": "b879c293562828a5ad13482b3f49a1b4fcc333507bc3c99cac60b16b9a83640e",
+        "size": 1717216603,
+        "resolution": "1920x1080",
+        "bitrate": "2111483",
+        "videoCodec": "avc1",
+        "videoBitrate": 1997412,
+        "audioCodec": "Opus",
+        "audioBitrace": 109262
+      }
+    }
   },
   {
     "id": "hZIIEPqv0oE",
@@ -1004,7 +1344,24 @@
       "Juraj Bednar|juraj-bednar",
       "Pavol Luptak|wilder",
       "Martin Leskovjan|martin-leskovjan"
-    ]
+    ],
+    "storage": {
+      "id": "hZIIEPqv0oE",
+      "path": "/videos/all/hZIIEPqv0oE",
+      "duration": "3582.401",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/hZIIEPqv0oE/source.mp4",
+        "hash": "b9c4184a14f494a0ab30c409624bf242834bc17169e04a4b3a2fdea557b1aa9c",
+        "size": 590804429,
+        "resolution": "1920x1080",
+        "bitrate": "1319349",
+        "videoCodec": "avc1",
+        "videoBitrate": 1190908,
+        "audioCodec": "Opus",
+        "audioBitrace": 123607
+      }
+    }
   },
   {
     "id": "m6xzvytaE_w",
@@ -1023,7 +1380,24 @@
       "R. Lackey|ryan-lackey",
       "A. Taaki|amir-taaki",
       "P. Luptak|wilder"
-    ]
+    ],
+    "storage": {
+      "id": "m6xzvytaE_w",
+      "path": "/videos/all/m6xzvytaE_w",
+      "duration": "3174.361",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/m6xzvytaE_w/source.mp4",
+        "hash": "0bf55178af2ab12cb31c1dd9777f868d17fdb9b9cddd3ca2fcc46fecb0da7684",
+        "size": 499793137,
+        "resolution": "1920x1080",
+        "bitrate": "1259575",
+        "videoCodec": "avc1",
+        "videoBitrate": 1132520,
+        "audioCodec": "Opus",
+        "audioBitrace": 122226
+      }
+    }
   },
   {
     "id": "gdjKHIi-lxw",
@@ -1039,7 +1413,24 @@
     "event": "hcpp23",
     "people": [
       "Paul Rosenberg|paul-rosenberg"
-    ]
+    ],
+    "storage": {
+      "id": "gdjKHIi-lxw",
+      "path": "/videos/all/gdjKHIi-lxw",
+      "duration": "3396.341",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/gdjKHIi-lxw/source.mp4",
+        "hash": "f3bbd3cb7c15393846d4b371ff6917afd88986a321288c3a2d2f76e6c7171847",
+        "size": 430736817,
+        "resolution": "1920x1080",
+        "bitrate": "1014590",
+        "videoCodec": "avc1",
+        "videoBitrate": 896174,
+        "audioCodec": "Opus",
+        "audioBitrace": 113396
+      }
+    }
   },
   {
     "id": "SX4xldspRHA",
@@ -1055,7 +1446,24 @@
     "event": "hcpp23",
     "people": [
       "Cody Wilson|cody-wilson"
-    ]
+    ],
+    "storage": {
+      "id": "SX4xldspRHA",
+      "path": "/videos/all/SX4xldspRHA",
+      "duration": "3521.181",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/SX4xldspRHA/source.mp4",
+        "hash": "88b1ed9ffc842e6586b49e61230a10875ca9b38776224a220f19eda7a1548292",
+        "size": 279557190,
+        "resolution": "1920x1080",
+        "bitrate": "635144",
+        "videoCodec": "avc1",
+        "videoBitrate": 509122,
+        "audioCodec": "Opus",
+        "audioBitrace": 121101
+      }
+    }
   },
   {
     "id": "ZKwc8Y_ExEE",
@@ -1071,7 +1479,24 @@
     "event": "hcpp23",
     "people": [
       "Amin Rafiee|amin-rafiee"
-    ]
+    ],
+    "storage": {
+      "id": "ZKwc8Y_ExEE",
+      "path": "/videos/all/ZKwc8Y_ExEE",
+      "duration": "4063.261",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/ZKwc8Y_ExEE/source.mp4",
+        "hash": "d2f277bbd8f3d8dfe152b01e18cc61b1225360d7f2b7ccf43986bd92001cd44d",
+        "size": 509982940,
+        "resolution": "1920x1080",
+        "bitrate": "1004086",
+        "videoCodec": "avc1",
+        "videoBitrate": 875976,
+        "audioCodec": "Opus",
+        "audioBitrace": 123319
+      }
+    }
   },
   {
     "id": "3tu-m8_Dbls",
@@ -1087,7 +1512,24 @@
     "event": "hcpp23",
     "people": [
       "Silke Noa|silke-noa"
-    ]
+    ],
+    "storage": {
+      "id": "3tu-m8_Dbls",
+      "path": "/videos/all/3tu-m8_Dbls",
+      "duration": "2756.441",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/3tu-m8_Dbls/source.mp4",
+        "hash": "86e4604b6120a0ee345f36d0c44d91db043e5148da1ec6d56e02dfa0a3fe42be",
+        "size": 324903526,
+        "resolution": "1920x1080",
+        "bitrate": "942965",
+        "videoCodec": "avc1",
+        "videoBitrate": 831354,
+        "audioCodec": "Opus",
+        "audioBitrace": 106801
+      }
+    }
   },
   {
     "id": "rmEJsE4j2UI",
@@ -1103,7 +1545,24 @@
     "event": "hcpp23",
     "people": [
       "Pavel Hubacek|pavel-hubacek"
-    ]
+    ],
+    "storage": {
+      "id": "rmEJsE4j2UI",
+      "path": "/videos/all/rmEJsE4j2UI",
+      "duration": "3195.701",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/rmEJsE4j2UI/source.mp4",
+        "hash": "4ff00f402c3ed75d3228e5b4f5efcf27e60325e4b28e750ed4ac5b5848cdb31b",
+        "size": 206474632,
+        "resolution": "1920x1080",
+        "bitrate": "516881",
+        "videoCodec": "avc1",
+        "videoBitrate": 390919,
+        "audioCodec": "Opus",
+        "audioBitrace": 120977
+      }
+    }
   },
   {
     "id": "OS0hIJ2K02c",
@@ -1119,6 +1578,23 @@
     "event": "hcpp23",
     "people": [
       "Seth for Privacy|sethforprivacy"
-    ]
+    ],
+    "storage": {
+      "id": "OS0hIJ2K02c",
+      "path": "/videos/all/OS0hIJ2K02c",
+      "duration": "3465.981",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/OS0hIJ2K02c/source.mp4",
+        "hash": "73c48a78320457b7df3b9e199561b5861b488ec550337982b9a00f4f0fb3b310",
+        "size": 336465848,
+        "resolution": "1920x1080",
+        "bitrate": "776613",
+        "videoCodec": "avc1",
+        "videoBitrate": 645452,
+        "audioCodec": "Opus",
+        "audioBitrace": 126230
+      }
+    }
   }
 ]

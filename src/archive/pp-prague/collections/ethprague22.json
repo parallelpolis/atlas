@@ -465,7 +465,49 @@
       "Mário Havel|mario"
     ],
     "target": "pp-prague",
-    "imgHash": "3fd1bab1e214ffa20b97f0ab221bbcf69734c439cac1b5b60e7bd29c041c4c60"
+    "imgHash": "3fd1bab1e214ffa20b97f0ab221bbcf69734c439cac1b5b60e7bd29c041c4c60",
+    "storage": {
+      "id": "W84zs6K7WuE",
+      "path": "/videos/all/W84zs6K7WuE",
+      "duration": "1177.221",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/W84zs6K7WuE/source.mp4",
+        "hash": "8981e157c49e9a94553b0c9e987015272834cc4cadea4839914679f52e23cffc",
+        "size": 154784109,
+        "resolution": "1920x1080",
+        "bitrate": "1051861",
+        "videoCodec": "avc1",
+        "videoBitrate": 932001,
+        "audioCodec": "Opus",
+        "audioBitrace": 114922
+      },
+      "hls": {
+        "path": "/videos/all/W84zs6K7WuE/hls/master.m3u8",
+        "streams": [
+          {
+            "id": "720p",
+            "path": "/videos/all/W84zs6K7WuE/hls/720p/playlist.m3u8",
+            "size": 120860562
+          },
+          {
+            "id": "1080p",
+            "path": "/videos/all/W84zs6K7WuE/hls/1080p/playlist.m3u8",
+            "size": 164261781
+          },
+          {
+            "id": "144p",
+            "path": "/videos/all/W84zs6K7WuE/hls/144p/playlist.m3u8",
+            "size": 31414487
+          },
+          {
+            "id": "360p",
+            "path": "/videos/all/W84zs6K7WuE/hls/360p/playlist.m3u8",
+            "size": 55636971
+          }
+        ]
+      }
+    }
   },
   {
     "id": "Kgn02msiOJM",

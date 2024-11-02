@@ -27,7 +27,49 @@
     "project": "hcpp",
     "event": "hcpp15",
     "name": "Hackers Congress Paralelní Polis 2015 Trailer",
-    "people": []
+    "people": [],
+    "storage": {
+      "id": "SSiSrCsHIWc",
+      "path": "/videos/all/SSiSrCsHIWc",
+      "duration": "74.901",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/SSiSrCsHIWc/source.mp4",
+        "hash": "700790c56a1173ee3098ce6cca68af87aeffd5ef9c0c6ce9b2b9266e4f5c9df8",
+        "size": 32960024,
+        "resolution": "1920x1080",
+        "bitrate": "3520383",
+        "videoCodec": "avc1",
+        "videoBitrate": 3385964,
+        "audioCodec": "Opus",
+        "audioBitrace": 130040
+      },
+      "hls": {
+        "path": "/videos/all/SSiSrCsHIWc/hls/master.m3u8",
+        "streams": [
+          {
+            "id": "720p",
+            "path": "/videos/all/SSiSrCsHIWc/hls/720p/playlist.m3u8",
+            "size": 19380040
+          },
+          {
+            "id": "1080p",
+            "path": "/videos/all/SSiSrCsHIWc/hls/1080p/playlist.m3u8",
+            "size": 33997040
+          },
+          {
+            "id": "144p",
+            "path": "/videos/all/SSiSrCsHIWc/hls/144p/playlist.m3u8",
+            "size": 3145676
+          },
+          {
+            "id": "360p",
+            "path": "/videos/all/SSiSrCsHIWc/hls/360p/playlist.m3u8",
+            "size": 7463848
+          }
+        ]
+      }
+    }
   },
   {
     "id": "Ul-WFb9MHR8",
@@ -41,7 +83,49 @@
     "name": "Bitcoin scaling with Andreas Antonopoulos",
     "people": [
       "andreas-antonopoulos"
-    ]
+    ],
+    "storage": {
+      "id": "Ul-WFb9MHR8",
+      "path": "/videos/all/Ul-WFb9MHR8",
+      "duration": "3762.621",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/Ul-WFb9MHR8/source.mp4",
+        "hash": "6dde6b32a62f30ce05158d723a5c34757c4686e65fd664eabd775a4ee3ae9c60",
+        "size": 248856405,
+        "resolution": "1920x1080",
+        "bitrate": "529113",
+        "videoCodec": "vp09",
+        "videoBitrate": 427386,
+        "audioCodec": "Opus",
+        "audioBitrace": 97720
+      },
+      "hls": {
+        "path": "/videos/all/Ul-WFb9MHR8/hls/master.m3u8",
+        "streams": [
+          {
+            "id": "720p",
+            "path": "/videos/all/Ul-WFb9MHR8/hls/720p/playlist.m3u8",
+            "size": 480575198
+          },
+          {
+            "id": "1080p",
+            "path": "/videos/all/Ul-WFb9MHR8/hls/1080p/playlist.m3u8",
+            "size": 281394489
+          },
+          {
+            "id": "144p",
+            "path": "/videos/all/Ul-WFb9MHR8/hls/144p/playlist.m3u8",
+            "size": 107896193
+          },
+          {
+            "id": "360p",
+            "path": "/videos/all/Ul-WFb9MHR8/hls/360p/playlist.m3u8",
+            "size": 205617277
+          }
+        ]
+      }
+    }
   },
   {
     "id": "HEZAlNBJjA0",

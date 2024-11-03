@@ -1,6 +1,7 @@
 name: Svobodný přístav
 shortname: SP
 local: CZ
+img: svobodny-pristav.svg
 labels:
   - community
 #years: [ 2023 ]

@@ -2,6 +2,7 @@ name: Department of Decentralization
 shortname: DoD
 years: [ 2018 ]
 local: DE/Berlin
+img: dod.svg
 labels:
   - community
 refs:

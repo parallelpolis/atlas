@@ -16,12 +16,14 @@ projects:
     name: Web3Privacy Events
     caption: Series of meetups and summits focused on privacy in the Web3 ecosystem.
     years: [ 2023 ]
+    img: w3pn.png
     refs:
       luma: web3privacy
 
   - id: w3p-explorer
     name: Web3Privacy Explorer
     years: [ 2023 ]
+    img: w3pn.png
     caption: Digital registry and rating system for Web3 projects. It evaluates and catalogs each project based on its privacy features.
     refs:
       web: https://explorer.web3privacy.info/

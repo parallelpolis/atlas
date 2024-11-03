@@ -1,15 +1,19 @@
 [
-    {
-        "id": "mWEyfO53kGU",
-        "slug": "privacy-project-sustainability",
-        "videoId": "mWEyfO53kGU",
-        "url": "https://www.youtube.com/watch?v=mWEyfO53kGU",
-        "publishedAt": "2023-06-08T10:00:00",
-        "desc": "Co-founder & CEO Oliver Gale participated in a panel about privacy project sustainability at the Web3 Privacy Summit, joining Antoni Zolciak, Co-Founder at Aleph Zero.",
-        "duration": 1839,
-        "name": "Privacy Project Sustainability",
-        "project": "w3pn-events",
-        "event": "w3pn-summit-prague-2023",
-        "people": []
-    }
+  {
+    "id": "mWEyfO53kGU",
+    "slug": "privacy-project-sustainability",
+    "videoId": "mWEyfO53kGU",
+    "url": "https://www.youtube.com/watch?v=mWEyfO53kGU",
+    "publishedAt": "2023-06-08T10:00:00",
+    "desc": "Co-founder & CEO Oliver Gale participated in a panel about privacy project sustainability at the Web3 Privacy Summit, joining Antoni Zolciak, Co-Founder at Aleph Zero.",
+    "duration": 1839,
+    "name": "Privacy Project Sustainability",
+    "project": "w3pn-events",
+    "event": "w3pn-summit-prague-2023",
+    "people": [
+      "Oliver Gale",
+      "Antoni Zolciak",
+      "Mykola Siusko|mykola-siusko"
+    ]
+  }
 ]

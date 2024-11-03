@@ -24,6 +24,8 @@ lists:
     refs:
       yt:playlist: PLkCRcxMT8qhbiwMX7S8FvmS9O1jp4xaVs
 
+  - id: external
+
 setup:
 
   - videoId: HEZAlNBJjA0

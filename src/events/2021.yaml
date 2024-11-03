@@ -54,3 +54,22 @@
   speakers:
     - tey-el-rjula
   aftermovie: vc2AZPTMWcI
+
+- id: ksp21
+  date: "2021-09-18"
+  name: "KSP 2021: Jak podpořit děti v lásce k učení"
+  project: konference-sp
+  seq: 2
+  place:
+    name: CEVRO
+    city: Prague
+    country: cz
+  langs: [ cs ]
+  speakers:
+    - urza
+    - Josef Šíma
+    - Veronika Hurdová
+    - Jana Nováčková
+    - Gabriela Ježková
+    - Zuzana Candigliota
+    - Zdeňka Šíp Staňková

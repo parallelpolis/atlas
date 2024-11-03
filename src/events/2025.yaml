@@ -1,0 +1,25 @@
+- id: ksp25
+  date: "2025-02-22"
+  name: "KSP 2025: Kulturní války"
+  project: konference-sp
+  seq: 6
+  place:
+    name: Právnická fakulta Univerzity Karlovy
+    city: Prague
+    country: cz
+  langs: [ cs ]
+  refs:
+    web: https://konference.urza.cz/
+  speakers:
+    - urza
+    - Roman Joch
+    - Pavel Ševčík
+    - Fronéma Lark
+    - Vláďa Krupa
+    - Timofej Kožuchov
+  description: |
+    Progresivní společenské síly toužící po změnách a vývoji jsou od pradávna v určitém konfliktu se silami konzervativními toužícími po zachování statu quo a časem ověřeného odkazu našich předků; oba protipóly mají svůj velký smysl pro vývoj naší společnosti – bez progresivistů bychom se příliš neposouvali, zatímco bez konzervativců bychom snáze přijímali i změny, kterými se můžeme poškodit. Nejrůznější hnutí pro či proti pokroku či novým společenským pořádkům, kde se dobrovolně sdružují lidé podobného smýšlení, považuji za živnou půdu pro zdravou civilizaci; bohužel však problémy – jako vždy – přicházejí ve chvíli, kdy se tyto názorové proudy začnou snažit uchopit státní moc a náslím skrze ni nutit svůj pohled na svět těm, kdo s ním nesouzní.
+
+    Bez státních intervencí by konzervativci ani progresivisté nebyli nuceni financovat propagandu druhé strany a být jí vystaveni (často i skrze státní školství působící už na děti). V rukou státu má však nejspíš každá ideologie určitý potenciál položit základ nové totalitě; a tak se konzervativci (oprávněně) obávají třeba povinného vnucování LGBT hodnot, zatímco progresivisté zase kupříkladu násilí či státního útlaku vůči trans lidem (neméně oprávněně). Obě skupiny se cítí ohroženy; a vystupují podle toho, čímž vyvolávají o to silnější pocity ohrožení u svých protějšků. Rostoucí napětí můžeme pozorovat prakticky ve všech západních demokraciích. Co s tím? Je něco takového vůbec možné zastavit? Věříme v míruilovná řešení; a proto pořádáme konferenci, jejímž cílem je přispět k bližšímu porozumění mezi oběma tábory.
+
+    Tímto vás zveme na „Konferenci Svobodného přístavu 2025: Kulturní války včera, dnes a zítra“; vystupovat budou zajímaví konzervativní i progresivističtí řečníci s nejrůznějšími tématy od cancel culture až po problematiku menšin; a samozřejmě libertariáni apelující na nestátní řešení. Chceme klást důraz na hledání společných řešení; nikoliv na další prohlubování již tak dost hlubokých příkopů.

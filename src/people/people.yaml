@@ -383,6 +383,11 @@
   caption: Anarchocapitalist author, member of Svoboda učení (Freedom to Learn), head of Ludwig von Mises Institute CZ/SK, author of Urza.cz
   desc: |
     Urza is an anarchocapitalist author who wrote almost one thousand of libertarian texts. He is a head of Ludwig von Mises Institute CZ & SK, member of Svoboda učení (Freedom to Learn), author of Urza.cz and associate of Paralelní Polis. Urza is mainly focusing on moral aspects of stateless society, free market based education system and government propaganda at public schools. He is about to publish the first Czech book about anarchocapitalism. (hcpp17)
+  roles:
+    - project: konference-sp
+      role: contributor
+    - project: ankap-serie
+      role: contributor
 
 - id: adam-back
   name: Adam Back
@@ -1139,6 +1144,10 @@
     github: burningtree
   roles:
     - project: atlas
+      role: contributor
+    - project: paralelnipolis-info
+      role: contributor
+    - project: ethbrno
       role: contributor
 
 - id: dominik-stroukal

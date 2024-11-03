@@ -640,6 +640,23 @@
     meetup_id: '298927114'
     meetup: https://www.meetup.com/paralelnipolis/events/298927114/
 
+- id: ksp24
+  date: "2024-02-24"
+  name: "KSP 2024: Technologie"
+  project: konference-sp
+  seq: 5
+  place:
+    name: CEVRO
+    city: Prague
+    country: cz
+  langs: [ cs ]
+  speakers:
+    - urza
+    - Jan Romportl
+    - Hynek Jína
+    - Ondřej Tulach
+    - Jan Skalický
+    - Jan Hubík
 
 - id: 2024-02-17-intro-to-telegram-mini-apps-lecture-workshop-and-networking
   name: 'Intro to Telegram Mini Apps: Lecture, Workshop, and Networking'

@@ -1371,6 +1371,7 @@
     "duration": 176,
     "name": "How to Add a Project to Explorer",
     "people": [],
+    "project": "w3p-explorer",
     "target": "w3pn",
     "imgHash": "5b84414e529ee9e7ec214522967d0622c9f2172f0ecb33c3331769e2561d2d5d",
     "storage": {
@@ -1402,6 +1403,7 @@
     "name": "Edit your project on Explorer",
     "people": [],
     "target": "w3pn",
+    "project": "w3p-explorer",
     "imgHash": "60a45d6f9313781b52faa0ce0303fbb129a0f8969c273497dd8eb7f671bdae79",
     "storage": {
       "id": "P13CJN3Z7kk",

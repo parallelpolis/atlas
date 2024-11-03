@@ -770,3 +770,21 @@
   refs:
     meetup_id: '288348882'
     meetup: https://www.meetup.com/paralelnipolis/events/288348882/
+
+- id: ksp22
+  date: "2022-05-28"
+  name: "KSP 2022: Peníze"
+  project: konference-sp
+  seq: 3
+  place:
+    name: CEVRO
+    city: Prague
+    country: cz
+  langs: [ cs ]
+  speakers:
+    - urza
+    - josef-tetek
+    - wilder
+    - Mojmír Hampl
+    - Lukáš Kovanda
+    - Petr Bartoň

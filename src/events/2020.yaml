@@ -885,6 +885,25 @@
     meetup_id: '268453177'
     meetup: https://www.meetup.com/paralelnipolis/events/268453177/
 
+- id: ksp20
+  date: "2020-02-01"
+  name: "KSP 2020: Totalita"
+  project: konference-sp
+  seq: 1
+  place:
+    name: CEVRO
+    city: Prague
+    country: cz
+  langs: [ cs ]
+  speakers:
+    - urza
+    - wilder
+    - Josef Šíma
+    - Roman Joch
+    - Jan Zugar
+    - Lidija Zavoralová
+    - Adam Růžička
+    - Rivok
 
 - id: 2020-01-31-juraj-bednar-or-hackni-sa
   name: Juraj Bednár | Hackni sa

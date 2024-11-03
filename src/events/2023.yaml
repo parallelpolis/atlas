@@ -1613,6 +1613,23 @@
     meetup_id: '291175351'
     meetup: https://www.meetup.com/paralelnipolis/events/291175351/
 
+- id: ksp23
+  date: "2023-02-18"
+  name: "KSP 2023: Drogy a zbraně"
+  project: konference-sp
+  seq: 4
+  place:
+    name: CEVRO
+    city: Prague
+    country: cz
+  langs: [ cs ]
+  speakers:
+    - urza
+    - Martin Duřt
+    - Jakub Engelmajer
+    - Ondřej Čada
+    - Dominik Stroukal
+    - Tereza Urzová
 
 - id: 2023-02-17-kyborgismus-and-or-brave-new-brain
   name: Kyborgismus AND | Brave New Brain

@@ -13,3 +13,9 @@ projects:
     name: Anarchokapitalismus (série)
     years: [ 2016, 2018 ]
     caption: Series of talks on anarcho-capitalism in czech language by [Urza](/p/urza).
+
+  - id: konference-sp
+    name: Konference Svobodného přístavu
+    years: [ 2020 ]
+    caption: Libertarian conference in czech language that brings together conservative and progressive speakers to discuss topics like money, totalitarianism, drugs, cultural wars and others.
+    langs: [ cs ]

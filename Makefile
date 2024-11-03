@@ -21,4 +21,4 @@ bind: ## bind videos
 	node lib/bind-videos.js
 
 extract-urza:
-	node lib/yt-extract.js pp-prague:ancap playlist PLmwDL0lIJTxCc0yL4i9M2aNQ4a5wRzjb7 '{"people":["urza"]}'
+	node lib/yt-extract.js pp-prague:ancap playlist PLmwDL0lIJTxCc0yL4i9M2aNQ4a5wRzjb7 '{"people":["urza"], "lang": "cs"}'

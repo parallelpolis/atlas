@@ -3,6 +3,7 @@ shortname: W3PN
 labels:
   - community
 years: [ 2023 ]
+img: w3pn.png
 refs:
   web: https://web3privacy.info
 projects:

@@ -352,6 +352,7 @@
   venues:
     - name: Paralelni Polis Praha
   date: '2020-02-23'
+  langs: [ cs ]
   startTime: '2020-02-23T09:00:00+01:00'
   endTime: '2020-02-23T12:00:00+01:00'
   description: >-

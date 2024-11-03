@@ -19,3 +19,5 @@ projects:
     years: [ 2020 ]
     caption: Libertarian conference in czech language that brings together conservative and progressive speakers to discuss topics like money, totalitarianism, drugs, cultural wars and others.
     langs: [ cs ]
+    refs:
+      web: https://konference.urza.cz

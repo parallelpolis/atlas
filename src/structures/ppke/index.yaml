@@ -15,7 +15,7 @@ projects:
   - id: vojdivon
     name: vojdi von
     years: [ 2020, 2022 ]
-    img: ../instances/kosice.webp
+    img: ppke.webp
     caption: A list of friendly projects and organisations of [Paralelná Polis Košice](/s/ppke).
     refs:
       web: https://vojdivon.sk

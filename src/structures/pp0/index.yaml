@@ -17,7 +17,7 @@ projects:
     name: paralelnipolis.info
     years: [ 2024 ]
     types: [ presentation, archive ]
-    img: ../instances/zero.webp
+    img: pp0.webp
     caption: |
       Information and aggregation portal interconnecting whole movement. Data source is [Atlas](/c/atlas) (managed by [PP0](/s/pp0))
     refs:
@@ -27,7 +27,7 @@ projects:
     name: Atlas
     years: [ 2024 ]
     types: [ knowledge-base ]
-    img: ../instances/zero.webp
+    img: pp0.webp
     caption: |
       Atlas of Parallel Polis ecosystem (open data) - structures, people, events, archive, books
     refs:

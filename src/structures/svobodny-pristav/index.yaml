@@ -7,3 +7,8 @@ labels:
 #years: [ 2023 ]
 refs:
   web: https://pristav.urza.cz
+
+projects:
+  - id: ankap-serie
+    name: Anarchokapitalismus (série)
+    years: [ 2016 ]

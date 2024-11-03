@@ -11,6 +11,7 @@ caption: "[Draft] The digital-first meta instance of Paralelní Polis, which was
 refs:
   web: https://pp0.co
   github: ParalelniPolis0
+  bsky: paralelnipolis.info
 
 projects:
   - id: paralelnipolis-info
@@ -22,6 +23,7 @@ projects:
       Information and aggregation portal interconnecting whole movement. Data source is [Atlas](/c/atlas) (managed by [PP0](/s/pp0))
     refs:
       web: https://paralelnipolis.info
+      github: ParalelniPolis0/paralelnipolis.info
 
   - id: atlas
     name: Atlas

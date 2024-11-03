@@ -4,12 +4,24 @@ labels:
   - community
 years: [ 2023 ]
 img: w3pn.png
+caption: Leading research project and think-and-do tank focused on discovering, analyzing, and promoting privacy-enhancing services within the Web3 industry. 
 refs:
   web: https://web3privacy.info
+  twitter: web3privacy
+  bsky: web3privacy.info
+  github: web3privacy
+
 projects:
   - id: w3pn-events
-    name: Web3Privacy Now Events
+    name: Web3Privacy Events
+    caption: Series of meetups and summits focused on privacy in the Web3 ecosystem.
     years: [ 2023 ]
+    refs:
+      luma: web3privacy
+
   - id: w3p-explorer
     name: Web3Privacy Explorer
     years: [ 2023 ]
+    caption: Digital registry and rating system for Web3 projects. It evaluates and catalogs each project based on its privacy features.
+    refs:
+      web: https://explorer.web3privacy.info/

@@ -9,4 +9,5 @@ img: gweicz.png
 projects:
   - id: ethbrno
     name: ETHBrno
+    caption: Independent, privacy-focused [lunarpunk](/t/lunarpunk) hackathon hosted in Brno, Czech Republic emphasizes Ethereum and Web3 security developments.
     years: [ 2021 ]

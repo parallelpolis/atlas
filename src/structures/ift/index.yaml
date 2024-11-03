@@ -5,3 +5,14 @@ labels:
   - studio
 refs:
   web: https://free.technology
+  twitter: instituteft
+projects:
+- id: logos
+  name: Logos
+  years: [ 2022 ]
+  img: logos.png
+  caption: Fully decentralised, privacy-preserving, and politically neutral technology stack that provides the necessary support for self-sovereign virtual territories.
+  labels:
+    - technology stack
+  refs:
+    web: https://logos.co/

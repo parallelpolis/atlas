@@ -1135,8 +1135,10 @@
   img: tree.jpg
   refs:
     web: https://tree.fail
+    bsky: tree.fail
+    github: burningtree
   roles:
-    - project: parallel-glossary
+    - project: atlas
       role: contributor
 
 - id: dominik-stroukal

@@ -963,6 +963,8 @@
     "desc": "Let your body bath in gong vibrations. The tones will enter every cell of your body, taking you into inner journey of imagination and relaxation.",
     "duration": 3130,
     "name": "Gong Bath: Sounds of Universe",
+    "project": "ethprague",
+    "event": "ethprague23",
     "people": [],
     "target": "pp-prague",
     "imgHash": "f3bb85c91fd4f41d077b0ba3bba38fe09d16d7fbbafd4883c44e5dd258a420de",
@@ -2426,6 +2428,8 @@
       "Federico Kunze Küllmer",
       "Daniel Burckhardt"
     ],
+    "project": "ethprague",
+    "event": "ethprague23",
     "target": "pp-prague",
     "imgHash": "94de02d7dca338bf6734ade8ba9c6146612c301251d3725ccdb2fbd952665250",
     "storage": {

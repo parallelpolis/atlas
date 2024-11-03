@@ -43,6 +43,8 @@
     "duration": 1544,
     "name": "Building multichain/layered DApps / Justyna Broniszewska, Bartek Rutkowski",
     "people": [],
+    "project": "ethprague",
+    "event": "ethprague22",
     "target": "pp-prague",
     "imgHash": "7f68065236448928e93916a50cd852dde090fdc37a3caa6ae4959e0b70b12c75",
     "storage": {
@@ -175,6 +177,8 @@
     "duration": 1156,
     "name": "Web Augmentation: fighting mass brainwashing by teaching society to consciously choose",
     "people": [],
+    "project": "ethprague",
+    "event": "ethprague22",
     "target": "pp-prague",
     "imgHash": "7977b26a7d41a205353984b055712775b1f8ec8aa8ab5bf5b9c41072bca3cce9",
     "storage": {
@@ -377,6 +381,8 @@
     "name": "How smart contract help settle disputes in decentralised dispute resolution platforms",
     "people": [],
     "target": "pp-prague",
+    "project": "ethprague",
+    "event": "ethprague22",
     "imgHash": "706320b01a069a9fee9ff30da0edd2c6ba5dd763609850898ec677e0da918dd0",
     "storage": {
       "id": "I001OIl9x_Y",
@@ -1245,7 +1251,7 @@
   },
   {
     "id": "Lq8-0xu4lBo",
-    "slug": "ethprague23-live-interview-jarrad-hope-and-sara-polak",
+    "slug": "ethprague22-live-interview-jarrad-hope-and-sara-polak",
     "videoId": "Lq8-0xu4lBo",
     "url": "https://www.youtube.com/watch?v=Lq8-0xu4lBo",
     "publishedAt": "2023-08-10T07:34:19Z",

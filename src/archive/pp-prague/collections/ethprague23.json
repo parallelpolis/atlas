@@ -729,6 +729,8 @@
     "name": "Juvix: Towards a Functional Programming Language for Decentralized Applications and Beyond",
     "people": [],
     "target": "pp-prague",
+    "project": "ethprague",
+    "event": "ethprague23",
     "imgHash": "a443891cd8f83b9a7957be7b6837186306ece71a16f1e0c8c99b0d09a92b0fad",
     "storage": {
       "id": "nk6aDtzhLYY",
@@ -1571,6 +1573,8 @@
     "desc": "",
     "duration": 243,
     "name": "Livestream Interview with Christoph Jentzsch",
+    "project": "ethprague",
+    "event": "ethprague23",
     "people": [
       "Christoph Jentzsch|christoph-jentzsch"
     ],
@@ -1607,6 +1611,8 @@
       "Alex Gluchowski",
       "Frank Chaparro"
     ],
+    "project": "ethprague",
+    "event": "ethprague23",
     "target": "pp-prague",
     "imgHash": "cd6c752e5526fc04f4f98dc27cfc90e7290628c3e27fe5f866434b35f2cf5667",
     "storage": {
@@ -1639,6 +1645,8 @@
     "people": [
       "Cryptowanderer"
     ],
+    "project": "ethprague",
+    "event": "ethprague23",
     "target": "pp-prague",
     "imgHash": "8ab606e84805f239916c65e9955b8fa905aa1197e28c91cd6f81482c89b83d24",
     "storage": {
@@ -2281,6 +2289,8 @@
     "duration": 1634,
     "name": "ETH Staking: Addressing the challenges of Liquid Staking Derivatives (LSD)",
     "people": [],
+    "project": "ethprague",
+    "event": "ethprague23",
     "target": "pp-prague",
     "imgHash": "5b21493447015941c6a6bfad25aad2d7a436fa7b5749a80bb64186e860633cf0",
     "storage": {

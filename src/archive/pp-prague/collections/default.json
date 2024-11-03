@@ -11,7 +11,24 @@
     "name": "HCPP21 Chaos Aftermovie",
     "people": [],
     "project": "hcpp",
-    "event": "hcpp21"
+    "event": "hcpp21",
+    "storage": {
+      "id": "vc2AZPTMWcI",
+      "path": "/videos/all/vc2AZPTMWcI",
+      "duration": "162.781",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/vc2AZPTMWcI/source.mp4",
+        "hash": "88cdb7c88761c77b6a80a055683407a2cdf3a21d03e9d47e428d5934836a8407",
+        "size": 68110203,
+        "resolution": "1920x1080",
+        "bitrate": "3347329",
+        "videoCodec": "avc1",
+        "videoBitrate": 3218673,
+        "audioCodec": "Opus",
+        "audioBitrate": 124762
+      }
+    }
   },
   {
     "id": "lnBJ0D2rxso",
@@ -27,7 +44,24 @@
     "event": "hcpp21",
     "people": [
       "Bitcoin Rehab Podcast"
-    ]
+    ],
+    "storage": {
+      "id": "lnBJ0D2rxso",
+      "path": "/videos/all/lnBJ0D2rxso",
+      "duration": "1137.021",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/lnBJ0D2rxso/source.mp4",
+        "hash": "a67e9affabd24f9e74d42694d02f4029109957b4437e229ed0cec445bbd2047c",
+        "size": 206692478,
+        "resolution": "1920x1080",
+        "bitrate": "1454274",
+        "videoCodec": "avc1",
+        "videoBitrate": 1330446,
+        "audioCodec": "Opus",
+        "audioBitrate": 119042
+      }
+    }
   },
   {
     "id": "MPUUkDOo_CQ",
@@ -43,7 +77,24 @@
     "event": "hcpp21",
     "people": [
       "Tey el-Rjula|tey-el-rjula"
-    ]
+    ],
+    "storage": {
+      "id": "MPUUkDOo_CQ",
+      "path": "/videos/all/MPUUkDOo_CQ",
+      "duration": "1285.240",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/MPUUkDOo_CQ/source.mp4",
+        "hash": "71d62cd8f3fb5b726125c299b03603860973c7de9e7431666959782386e4e498",
+        "size": 172997635,
+        "resolution": "1920x1080",
+        "bitrate": "1076827",
+        "videoCodec": "avc1",
+        "videoBitrate": 954561,
+        "audioCodec": "Opus",
+        "audioBitrate": 117443
+      }
+    }
   },
   {
     "id": "mRQ4ghJ0zmI",
@@ -59,7 +110,24 @@
     "event": "hcpp21",
     "people": [
       "Cryptorg Art"
-    ]
+    ],
+    "storage": {
+      "id": "mRQ4ghJ0zmI",
+      "path": "/videos/all/mRQ4ghJ0zmI",
+      "duration": "1750.049",
+      "framerate": "29.970",
+      "source": {
+        "path": "/videos/all/mRQ4ghJ0zmI/source.mp4",
+        "hash": "e035377a0989a696274594e68a47267b579db71d36b51205f764f124473e9d9e",
+        "size": 196798333,
+        "resolution": "1280x720",
+        "bitrate": "899624",
+        "videoCodec": "avc1",
+        "videoBitrate": 772927,
+        "audioCodec": "Opus",
+        "audioBitrate": 119448
+      }
+    }
   },
   {
     "id": "PDmoANgXHe0",
@@ -71,12 +139,9 @@
     "desc": "The legendary Bitcoin pizza transaction marks an important moment in the history of libre digital money. A small step, signalizing the birth of a whole era. It’s been 12 years since Bitcoin stepped into the world of payment networks for physical goods and opened the gates for the creation of a global parallel economy. Since then, we have experienced rather exponential growth in this new financial world. From a small community of cypherpunks and hackers, Bitcoin grew into a phenomenon with today’s mainstream recognition. Flourishing adoption upholds further levels, as the public interest always comes in waves. Yet with each wave passing by, the inspirational spirit of the original innovators fades a little bit more. Mass adoption poses continued challenges from governments, the public, and often the community itself. New questions about the purpose, scalability, and sustainability arise every day. These are not going to solve themselves, nor disappear.\n\nDecentralized systems thrive in the era of chaos, but their antifragility is rooted in layer zero, the community. It’s on us, the current generation of Bitcoiners, to help with fighting the new crypto wars. The impact on corporations and governments was inevitable at this scale. Uncertainty fueling the adoption also tends to light greedy polarization within communities. The tribalistic race to build walls instead of bridges accelerates as technological meritocracy becomes the standard.\n\nAre the cypherpunks of the world ready to cope with it? Pizza Day Conference aims to bridge the atmosphere of Bitcoin’s early days to the present by creating an open space for discussion and inspiration without political or economical dogmas.\n\nCome to learn about using Bitcoin in your business or personal finances, the background of the cypherpunk and the current cryptoanarchy subculture, as well as to discuss sustainability, long-term effectiveness, and their limitations.\n\nwww.pizzaday.cz\n\n",
     "duration": 61,
     "name": "Pizza Day Prague 2022",
-    "project": null,
-    "event": null,
-    "people": [
-      "One day of conference",
-      "3 days of fun!"
-    ]
+    "project": "pizza-day",
+    "event": "pd22",
+    "people": []
   },
   {
     "id": "y3XWzfcB7B0",

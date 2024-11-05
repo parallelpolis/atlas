@@ -28,12 +28,12 @@
     luma: w3pn-meetup-devcon7
     web: https://congress.web3privacy.info/
   imgs:
+    - path: cypherpunk-congress-2024-poster.webp
+      type: poster
     - path: cypherpunk-congress-2024-square.webp
       type: square
     - path: cypherpunk-congress-2024-logo.webp
       type: logo
-    - path: cypherpunk-congress-2024-poster.webp
-      type: poster
   speakers:
     - vitalik-buterin
     - jarrad-hope

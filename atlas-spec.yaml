@@ -3,6 +3,7 @@ collections:
     engine: structures
   events:
     type: flat
+    engine: events
     sort: [ date, desc ]
   archive:
     engine: archive

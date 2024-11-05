@@ -29,3 +29,6 @@
     - joerg-platzer
     - pavol-rusnak
     - jiri-materna
+  imgs:
+    - path: hcpp15-poster.jpg
+      type: poster

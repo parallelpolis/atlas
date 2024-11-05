@@ -19,7 +19,7 @@ projects:
   - id: protocol-berg
     name: Protocol Berg
     years: [ 2023 ]
-    img: protocol-berg.webp
+    img: protocol-berg-non-transparent.webp
     caption: |
       Series of conferences focusing on protocol research and decentralized infrastructure happening in Berlin, Germany.
     refs:

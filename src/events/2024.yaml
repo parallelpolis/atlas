@@ -8,6 +8,11 @@
     country: th
   refs:
     web: https://psc.logos.co/
+  imgs:
+    - path: psc24-square.webp
+      type: square
+    - path: psc24-banner.jpeg
+      type: banner
   description: |
     As nation states lose their grasp, innovation emerges to imagine alternatives. Tap into the next wave of leaders, builders, and pioneers on the most important frontier of all. Expect activations, talks and workshops on building network states, pop-up communities, charter cities, decentralised governance and the technology that sustains it.
 

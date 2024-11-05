@@ -19,6 +19,13 @@ projects:
     img: w3pn.png
     refs:
       luma: web3privacy
+  
+  - id: ecc
+    name: Ethereum Cypherpunk Congress
+    years: [ 2024 ]
+    img: ecc-logo.webp
+    refs:
+      web: https://congress.web3privacy.info/
 
   - id: w3p-explorer
     name: Web3Privacy Explorer

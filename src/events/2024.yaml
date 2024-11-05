@@ -18,9 +18,10 @@
 
 - id: w3pn-eth-cypherpunk-congress-2024
   date: '2024-11-11'
-  project: w3pn-events
+  project: ecc
   major: true
   name: Ethereum Cypherpunk Congress
+  seq: 1
   place:
     city: Bangkok
     country: th
@@ -40,8 +41,18 @@
     - amir-taaki
     - rachel-rose
     - exiledsurfer
+  caption: |
+    Historical communal gathering defining Cypherpunk values, culture and actions within the Ethereum ecosystem.
   description: |
-    Join the largest freedom & privacy activism gathering facilitated by the Web3Privacy now collective + [rave](https://lu.ma/gqmn3nsl)
+    ​Join the largest freedom & privacy activism gathering facilitated by the Web3Privacy now collective.
+
+    The wind of change is blowing through Ethereum. The time has come to evolve from mass consumption to a culture of high values.
+
+    Where decentralization, freedom, privacy, and politics are not empty words, but part of activism toward a more just world.
+
+    Join us in Bangkok on November 11th 2024 at this congress as part of [DevCon](https://devcon.org/).
+
+    [READ OUR MANIFESTO](https://congress.web3privacy.info/manifesto.html)
 
 - id: hcpp24
   name: "HCPP24: Hardcore"

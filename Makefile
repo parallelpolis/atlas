@@ -22,3 +22,15 @@ bind: ## bind videos
 
 extract-urza:
 	node lib/yt-extract.js pp-prague:ancap playlist PLmwDL0lIJTxCc0yL4i9M2aNQ4a5wRzjb7 '{"people":["urza"], "lang": "cs", "project": "ankap-serie"}'
+
+extract-ksp:
+	node lib/yt-extract.js svobodny-pristav:ksp20 playlist PLmwDL0lIJTxCexaPXOeLubdilZ7qT0SHa '{"lang": "cs", "project": "konference-sp", "event": "ksp20"}'
+	node lib/yt-extract.js svobodny-pristav:ksp21 playlist PLmwDL0lIJTxDbyaF8OSIHIUKT3nUfPn8d '{"lang": "cs", "project": "konference-sp", "event": "ksp21"}'
+	node lib/yt-extract.js svobodny-pristav:ksp22 playlist PLmwDL0lIJTxAKDGKwJWMwXG3QLWm65xHl '{"lang": "cs", "project": "konference-sp", "event": "ksp22"}'
+	node lib/yt-extract.js svobodny-pristav:ksp23 playlist PLmwDL0lIJTxAiv4UON_5YAKB0-UWp-osA '{"lang": "cs", "project": "konference-sp", "event": "ksp23"}'
+	node lib/yt-extract.js svobodny-pristav:ksp24 playlist PLmwDL0lIJTxBfzH_IglHxH60OmmswxoNx '{"lang": "cs", "project": "konference-sp", "event": "ksp24"}'
+
+
+	
+
+	

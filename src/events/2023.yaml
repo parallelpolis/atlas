@@ -869,7 +869,10 @@
     city: Prague
     country: cz
   venues:
-    - name: X10 
+    - name: X10
+  imgs:
+    - path: w3pn-s23prg-poster.webp
+      type: poster
   speakers:
     - rachel-rose
     - mario

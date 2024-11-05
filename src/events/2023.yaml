@@ -575,6 +575,31 @@
     meetup_id: '295732709'
     meetup: https://www.meetup.com/paralelnipolis/events/295732709/
 
+- id: protocol-berg-2023
+  date: "2023-09-15"
+  name: "Protocol Berg"
+  project: protocol-berg
+  seq: 1
+  place:
+    name: Heeresbäckerei, Kreuzberg
+    city: Berlin
+    country: de
+  refs:
+    web: https://2023.protocol.berlin/
+  caption: |
+    Protocol Berg is a novel summit providing a location specifically for protocol research, decentralized infrastructure, and core-developer experience. The one-day event with two stages, opportunities for technical workshops, and protocol community gatherings brings together protocol researchers and other stakeholders from different decentralized protocols. Attendance is free of charge. The event will not host any sponsors or commercial talks.
+  description: |
+    Protocol Berg was a one-day technical conference targeting an audience of protocol/system/network engineers, decentralized-infrastructure administrators, researchers, and other curious minds. Protocol Berg aimed to bring distributed technology ecosystems together to exchange concepts and technology, talk about shared open problems, and learn from each other.
+
+    Topics covered by the event orbited mainly around consensus protocols, distributed virtual machines, peer-to-peer networking, decentralized infrastructure, open-source governance, and protocol research.
+
+    We welcomed 650 attendees, and tickets were free, as in free lemonade. All attendees had to adhere to the event's Code of Conduct.
+
+    Protocol Berg was a donation-backed, non-profit event. Therefore, there were no sponsors.
+  speakers:
+    - afri
+    - mario
+
 
 - id: 2023-07-28-kyborgismus-and-or-meet-the-founders
   name: Kyborgismus AND | Meet the founders!

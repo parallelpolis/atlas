@@ -7,7 +7,21 @@ labels:
   - community
 refs:
   web: https://dod.ngo/
+  twitter: dod_berlin
+caption: |
+  Berlin-based collective organizing decentralization-focused events like ETHBerlin hackathon and Protocol Berg conference.
 projects:
+
   - id: ethberlin
     name: ETHBerlin
     years: [ 2018 ]
+
+  - id: protocol-berg
+    name: Protocol Berg
+    years: [ 2023 ]
+    img: protocol-berg.webp
+    caption: |
+      Series of conferences focusing on protocol research and decentralized infrastructure happening in Berlin, Germany.
+    refs:
+      web: https://protocol.berlin
+      bsky: protocol.berlin

@@ -123,6 +123,7 @@
   altNames:
     - Pavol Luptak
     - P. Luptak
+    - Palo Lupták
   refs:
     twitter: wilderko
     nostr: npub15xkpvjux5fw2q0kgl8m9c6pv0wu5urgctq9tthftmu559lf4wxqqknkrnh
@@ -405,6 +406,7 @@
 
 - id: josef-tetek
   name: Josef Tětek
+  altNames: [ Pepa Tětek ]
   img: josef-tetek.jpg
   refs:
     twitter: JosefTetek

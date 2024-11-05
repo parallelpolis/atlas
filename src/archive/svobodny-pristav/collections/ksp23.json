@@ -5,7 +5,7 @@
     "videoId": "w060eBXdjFs",
     "url": "https://www.youtube.com/watch?v=w060eBXdjFs",
     "publishedAt": "2023-02-25T18:42:02Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3DD84yqfZJK2kzaMWp7NykBWYj4aufbyzs\nLTC: LXaqYMTz2zz2W5aGhzXDr9BGbpRGqLHH2C\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nPrvní přednášející „Konference Svobodného přístavu 2023: Drogy a zbraně včera, dnes a zítra“ byla Tereza Urzová se svou přednáškou „Nezamýšlené dopady prohibice“.\n\nStojím za legalizací všech psychoaktivních látek, počínaje dnes legálním nikotinem, konče heroinem. Přijde vám to šílené? Ano, i mně to tak kdysi přišlo. Postupně jsem ale došla k závěru, že mi jiná legislativa nedává smysl, a to jak z hlediska medicínského, tak z hlediska ekonomického, morálního a lidského.\n\nTereza Urzová je lékařka, spoluzakladatelka spolku Svobodný přístav spolupracující s vícero libertariánskými asociacemi. Téma prohibice psychoaktivních látek je pro ni oblíbené téma, ve kterém se potkává problematika medicíny, ekonomie i osobní svobody.",
+    "desc": "První přednášející „Konference Svobodného přístavu 2023: Drogy a zbraně včera, dnes a zítra“ byla Tereza Urzová se svou přednáškou „Nezamýšlené dopady prohibice“.\n\nStojím za legalizací všech psychoaktivních látek, počínaje dnes legálním nikotinem, konče heroinem. Přijde vám to šílené? Ano, i mně to tak kdysi přišlo. Postupně jsem ale došla k závěru, že mi jiná legislativa nedává smysl, a to jak z hlediska medicínského, tak z hlediska ekonomického, morálního a lidského.\n\nTereza Urzová je lékařka, spoluzakladatelka spolku Svobodný přístav spolupracující s vícero libertariánskými asociacemi. Téma prohibice psychoaktivních látek je pro ni oblíbené téma, ve kterém se potkává problematika medicíny, ekonomie i osobní svobody.",
     "duration": 3477,
     "name": "Nezamýšlené dopady prohibice",
     "project": "konference-sp",
@@ -13,7 +13,24 @@
     "people": [
       "Tereza Urzová"
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "w060eBXdjFs",
+      "path": "/videos/all/w060eBXdjFs",
+      "duration": "3476.721",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/w060eBXdjFs/source.mp4",
+        "hash": "3e55a18dadf952c645420a9db90a8317f068ce117e5790d52398e67eda8983f5",
+        "size": 249249986,
+        "resolution": "1280x720",
+        "bitrate": "573529",
+        "videoCodec": "avc1",
+        "videoBitrate": 455607,
+        "audioCodec": "Opus",
+        "audioBitrate": 109791
+      }
+    }
   },
   {
     "id": "jlxu7fivshY",
@@ -21,7 +38,7 @@
     "videoId": "jlxu7fivshY",
     "url": "https://www.youtube.com/watch?v=jlxu7fivshY",
     "publishedAt": "2023-03-04T10:50:14Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3DD84yqfZJK2kzaMWp7NykBWYj4aufbyzs\nLTC: LXaqYMTz2zz2W5aGhzXDr9BGbpRGqLHH2C\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nDruhým přednášejícím „Konference Svobodného přístavu 2023: Drogy a zbraně včera, dnes a zítra“ byl OC se svou přednáškou „Zajímavé zbraně, zhoubné zákony“.\n\nNa několika historických momentech si ukážeme, jak se vyvíjely střelné zbraně od pradávné historie až do současnosti; vedle zajímavostí technických se blíže podíváme i na proměny přístupu společnosti k osobním zbraním, osobní svobodě a osobní odpovědnosti i na důsledky, k nimž to neúprosně vede.\n\nOC se zabývá zbraněmi již mnoho let; je jejich sběratelem a také aktivním střelcem. Publikoval řadu článků, věnovaných technice i historii zbraní; kromě toho je autorem mnoha odborných publikací z oblasti IT.",
+    "desc": "Druhým přednášejícím „Konference Svobodného přístavu 2023: Drogy a zbraně včera, dnes a zítra“ byl OC se svou přednáškou „Zajímavé zbraně, zhoubné zákony“.\n\nNa několika historických momentech si ukážeme, jak se vyvíjely střelné zbraně od pradávné historie až do současnosti; vedle zajímavostí technických se blíže podíváme i na proměny přístupu společnosti k osobním zbraním, osobní svobodě a osobní odpovědnosti i na důsledky, k nimž to neúprosně vede.\n\nOC se zabývá zbraněmi již mnoho let; je jejich sběratelem a také aktivním střelcem. Publikoval řadu článků, věnovaných technice i historii zbraní; kromě toho je autorem mnoha odborných publikací z oblasti IT.",
     "duration": 2097,
     "name": "Zajímavé zbraně, zhoubné zákony",
     "project": "konference-sp",
@@ -29,7 +46,24 @@
     "people": [
       "OC"
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "jlxu7fivshY",
+      "path": "/videos/all/jlxu7fivshY",
+      "duration": "2096.821",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/jlxu7fivshY/source.mp4",
+        "hash": "05a4049467f54cdf8a2e36d2e4dc484b72f96dc1ede220662c4c424d79a884b0",
+        "size": 160291371,
+        "resolution": "1280x720",
+        "bitrate": "611560",
+        "videoCodec": "avc1",
+        "videoBitrate": 497589,
+        "audioCodec": "Opus",
+        "audioBitrate": 105874
+      }
+    }
   },
   {
     "id": "cp5HVs9ebEg",
@@ -37,7 +71,7 @@
     "videoId": "cp5HVs9ebEg",
     "url": "https://www.youtube.com/watch?v=cp5HVs9ebEg",
     "publishedAt": "2023-03-05T10:50:00Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3DD84yqfZJK2kzaMWp7NykBWYj4aufbyzs\nLTC: LXaqYMTz2zz2W5aGhzXDr9BGbpRGqLHH2C\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nTřetím přednášejícím „Konference Svobodného přístavu 2023: Drogy a zbraně včera, dnes a zítra“ byl Urza se svou přednáškou „Čas zákazů“.\n\nCo se stane, když něco zakážeme? Bez ohledu na důvody či smysluplnost takového zákazu má většina lidí potřebu věřit, že daný zákaz je smysluplný; aniž o dané problematice cokoliv vědí, dokáží zpětně „vymyslet“, proč bylo to či ono zakázáno a co by se „určitě stalo“, kdyby to zakázáno nebylo. Má to jediný háček – velice často to prostě není pravda; to však státům nebrání využívat těchto neznalostí (a strachů) při prosazování zákazů. Drogy a zbraně bývaly ještě před sto lety běžné předměty „denní“ potřeby; až celkem nedávno byly stigmatizovány a zakázány – přesto se zdá, že jen bez nich může naše civilizace fungovat. Zajímavé je, že spousta lidí, kteří poznali nesmyslnost zákazů drog nebo zbraní, ostře prosazují regulace toho druhého… Proč?\n\nUrza je anarchokapitalistický autor; napsal přes tisíc libertariánských textů na web i do tištěných médií a první českou knihu o anarchokapitalismu. O svobodě, etice, vždělávání, volném trhu, ekonomii a roli státu ve společnosti nejen patnáct let čte, přemýšlí a píše, ale též přednáší, natáčí videa a je zván do různých pořadů i panelových diskusí. Spolu s manželkou Terezou tvoří Svobodný přístav; učí ve svobodné škole Ježek bez klece; vede český a slovenský Institut Ludwiga von Misese, jehož je spoluzakladatelem; patří do předsednictva spolku Svoboda učení a dlouhodobě aktivně spolupracuje s mnoha libertariánskými iniciativami. Více o něm naleznete na stránkách Urza.cz.",
+    "desc": "Třetím přednášejícím „Konference Svobodného přístavu 2023: Drogy a zbraně včera, dnes a zítra“ byl Urza se svou přednáškou „Čas zákazů“.\n\nCo se stane, když něco zakážeme? Bez ohledu na důvody či smysluplnost takového zákazu má většina lidí potřebu věřit, že daný zákaz je smysluplný; aniž o dané problematice cokoliv vědí, dokáží zpětně „vymyslet“, proč bylo to či ono zakázáno a co by se „určitě stalo“, kdyby to zakázáno nebylo. Má to jediný háček – velice často to prostě není pravda; to však státům nebrání využívat těchto neznalostí (a strachů) při prosazování zákazů. Drogy a zbraně bývaly ještě před sto lety běžné předměty „denní“ potřeby; až celkem nedávno byly stigmatizovány a zakázány – přesto se zdá, že jen bez nich může naše civilizace fungovat. Zajímavé je, že spousta lidí, kteří poznali nesmyslnost zákazů drog nebo zbraní, ostře prosazují regulace toho druhého… Proč?\n\nUrza je anarchokapitalistický autor; napsal přes tisíc libertariánských textů na web i do tištěných médií a první českou knihu o anarchokapitalismu. O svobodě, etice, vždělávání, volném trhu, ekonomii a roli státu ve společnosti nejen patnáct let čte, přemýšlí a píše, ale též přednáší, natáčí videa a je zván do různých pořadů i panelových diskusí. Spolu s manželkou Terezou tvoří Svobodný přístav; učí ve svobodné škole Ježek bez klece; vede český a slovenský Institut Ludwiga von Misese, jehož je spoluzakladatelem; patří do předsednictva spolku Svoboda učení a dlouhodobě aktivně spolupracuje s mnoha libertariánskými iniciativami. Více o něm naleznete na stránkách Urza.cz.",
     "duration": 3596,
     "name": "Čas zákazů",
     "project": "konference-sp",
@@ -45,7 +79,24 @@
     "people": [
       "urza"
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "cp5HVs9ebEg",
+      "path": "/videos/all/cp5HVs9ebEg",
+      "duration": "3595.701",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/cp5HVs9ebEg/source.mp4",
+        "hash": "833f63be2000e1aab6e0c40af15b44e1ff762ff29945db93662690e3e1341e70",
+        "size": 298261676,
+        "resolution": "1280x720",
+        "bitrate": "663596",
+        "videoCodec": "avc1",
+        "videoBitrate": 542345,
+        "audioCodec": "Opus",
+        "audioBitrate": 113092
+      }
+    }
   },
   {
     "id": "XdqVJw9xAa4",
@@ -53,7 +104,7 @@
     "videoId": "XdqVJw9xAa4",
     "url": "https://www.youtube.com/watch?v=XdqVJw9xAa4",
     "publishedAt": "2023-03-11T09:58:05Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3DD84yqfZJK2kzaMWp7NykBWYj4aufbyzs\nLTC: LXaqYMTz2zz2W5aGhzXDr9BGbpRGqLHH2C\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nČtvrtým přednášejícím „Konference Svobodného přístavu 2023: Drogy a zbraně včera, dnes a zítra“ byl Martin Duřt se svou přednáškou „Jsou psychedelika revolucí v psychoterapii?“.\n\nV dnešní době zažíváme psychedelickou revoluci, obnovení vědeckého výzkumu této unikátní třídy látek po mnoha desetiletích, kdy bádání tímto směrem nebylo z politických důvodů možné. Nové studie ukazují na velký potenciál psychedelik pomoci s léčbou řady duševních obtíží. Ač to představuje novou naději pro lidi trpící jinak jen obtížně vyřešitelnými problémy, otazníky zůstávají a je důležité neupadnout do romantické představy psychedelik jakožto všeléků na všechny neduhy.\n\nMartin Duřt je výzkumník fenomenologie psychoaktivních látek, spoluzakladatel harm reduction platformy Czeched Substance, člen České psychedelické společnosti a autor blogu utheraptor.art. Ve své práci se zaměřuje na odhalování vlivu drog na lidské vědomí a snižování jejich rizik. Když se nevěnuje vědě, tvoří umění pomocí umělé inteligence a píše.",
+    "desc": "Čtvrtým přednášejícím „Konference Svobodného přístavu 2023: Drogy a zbraně včera, dnes a zítra“ byl Martin Duřt se svou přednáškou „Jsou psychedelika revolucí v psychoterapii?“.\n\nV dnešní době zažíváme psychedelickou revoluci, obnovení vědeckého výzkumu této unikátní třídy látek po mnoha desetiletích, kdy bádání tímto směrem nebylo z politických důvodů možné. Nové studie ukazují na velký potenciál psychedelik pomoci s léčbou řady duševních obtíží. Ač to představuje novou naději pro lidi trpící jinak jen obtížně vyřešitelnými problémy, otazníky zůstávají a je důležité neupadnout do romantické představy psychedelik jakožto všeléků na všechny neduhy.\n\nMartin Duřt je výzkumník fenomenologie psychoaktivních látek, spoluzakladatel harm reduction platformy Czeched Substance, člen České psychedelické společnosti a autor blogu utheraptor.art. Ve své práci se zaměřuje na odhalování vlivu drog na lidské vědomí a snižování jejich rizik. Když se nevěnuje vědě, tvoří umění pomocí umělé inteligence a píše.",
     "duration": 3275,
     "name": "Jsou psychedelika revolucí v psychoterapii?",
     "project": "konference-sp",
@@ -61,7 +112,24 @@
     "people": [
       "Martin Duřt"
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "XdqVJw9xAa4",
+      "path": "/videos/all/XdqVJw9xAa4",
+      "duration": "3274.621",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/XdqVJw9xAa4/source.mp4",
+        "hash": "7ac367ed43b1d965a442eca35b9aa87fd1477889681e7d0622b8fd8d4d21d900",
+        "size": 243798837,
+        "resolution": "1280x720",
+        "bitrate": "595608",
+        "videoCodec": "avc1",
+        "videoBitrate": 477959,
+        "audioCodec": "Opus",
+        "audioBitrate": 109539
+      }
+    }
   },
   {
     "id": "f49vbNUTnLc",
@@ -69,7 +137,7 @@
     "videoId": "f49vbNUTnLc",
     "url": "https://www.youtube.com/watch?v=f49vbNUTnLc",
     "publishedAt": "2023-03-12T10:46:36Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3DD84yqfZJK2kzaMWp7NykBWYj4aufbyzs\nLTC: LXaqYMTz2zz2W5aGhzXDr9BGbpRGqLHH2C\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nPátým přednášejícím „Konference Svobodného přístavu 2023: Drogy a zbraně včera, dnes a zítra“ byl Jakub Engelmajer se svou přednáškou „Svoboda, bezpečnost a ozbrojený občan“.\n\nPalné zbraně jednotlivce a přístup k nim je propojený s osobní svobodou, osobní zodpovědností a svobodou společnosti. Proč být ozbrojený občan, co vlastně znamená být ozbrojený a jaké to má reálné dopady na jednotlivé držitele zbraní i společnost celkově – to vše se doslechnete na jeho přednášce.\n\nJakub je absolventem Politologie a evropských studií UPOL, dlouholetý držitel zbrojního průkazu, od roku 2016 jako zkušební komisař pro zbraně a střelivo jmenovaný MVČR zkouší žadatele o zbrojní průkaz na zkouškách odborné způsobilosti. Od vzniku spolku koncem roku 2021 místopředseda Spolku zkušebních komisařů pro zbraně a střelivo v ČR. Od roku 2019 je členem představenstva LEX z.s. Sdružení na ochranu práv majitelů zbraní a koordinátor LEX Východní Čechy. Je držitel zbrojní licence pro výuka nebo výcvik ve střelbě a instruktorem střeleckého týmu B-rdy Combat Shooting Působí jako rozhodčí střeleckých závodů LOS a IDPA. V rámci svých aktivit přednáší, pořádá střelecké přípravy, spolupracuje na tvorbě a připomínkování nové zbraňové legislativy a získávání spojenců a partnerů pro podporu práva občanů ČR vlastnit, držet a nosit palnou zbraň.",
+    "desc": "Pátým přednášejícím „Konference Svobodného přístavu 2023: Drogy a zbraně včera, dnes a zítra“ byl Jakub Engelmajer se svou přednáškou „Svoboda, bezpečnost a ozbrojený občan“.\n\nPalné zbraně jednotlivce a přístup k nim je propojený s osobní svobodou, osobní zodpovědností a svobodou společnosti. Proč být ozbrojený občan, co vlastně znamená být ozbrojený a jaké to má reálné dopady na jednotlivé držitele zbraní i společnost celkově – to vše se doslechnete na jeho přednášce.\n\nJakub je absolventem Politologie a evropských studií UPOL, dlouholetý držitel zbrojního průkazu, od roku 2016 jako zkušební komisař pro zbraně a střelivo jmenovaný MVČR zkouší žadatele o zbrojní průkaz na zkouškách odborné způsobilosti. Od vzniku spolku koncem roku 2021 místopředseda Spolku zkušebních komisařů pro zbraně a střelivo v ČR. Od roku 2019 je členem představenstva LEX z.s. Sdružení na ochranu práv majitelů zbraní a koordinátor LEX Východní Čechy. Je držitel zbrojní licence pro výuka nebo výcvik ve střelbě a instruktorem střeleckého týmu B-rdy Combat Shooting Působí jako rozhodčí střeleckých závodů LOS a IDPA. V rámci svých aktivit přednáší, pořádá střelecké přípravy, spolupracuje na tvorbě a připomínkování nové zbraňové legislativy a získávání spojenců a partnerů pro podporu práva občanů ČR vlastnit, držet a nosit palnou zbraň.",
     "duration": 3403,
     "name": "Svoboda, bezpečnost a ozbrojený občan",
     "project": "konference-sp",
@@ -77,7 +145,24 @@
     "people": [
       "Jakub Engelmajer"
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "f49vbNUTnLc",
+      "path": "/videos/all/f49vbNUTnLc",
+      "duration": "3402.041",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/f49vbNUTnLc/source.mp4",
+        "hash": "dcef5fbf133668c4a8e303929a043650acc44f91101af6ab74bea5b91f3aa9d4",
+        "size": 381992169,
+        "resolution": "1280x720",
+        "bitrate": "898266",
+        "videoCodec": "avc1",
+        "videoBitrate": 774573,
+        "audioCodec": "Opus",
+        "audioBitrate": 116335
+      }
+    }
   },
   {
     "id": "bxYwXjnl91Y",
@@ -85,7 +170,7 @@
     "videoId": "bxYwXjnl91Y",
     "url": "https://www.youtube.com/watch?v=bxYwXjnl91Y",
     "publishedAt": "2023-03-18T10:56:14Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3DD84yqfZJK2kzaMWp7NykBWYj4aufbyzs\nLTC: LXaqYMTz2zz2W5aGhzXDr9BGbpRGqLHH2C\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nŠestým přednášejícím „Konference Svobodného přístavu 2023: Drogy a zbraně včera, dnes a zítra“ byl Dominik Stroukal se svou přednáškou „Hra na kočku a myš a jednorožce“.\n\nDark Web není statické místo, ale neustále se vyvíjející ekosystém, kde je možné (mimo jiné) nakoupit drogy. Akce proti temným tržištím vyvolávají reakce. Je zásadní rozdíl mezi drogami a zbraněmi. Proč? Dá se předvídat, kam se internetový obchod s drogami a zbraněmi pohne?\n\nMgr. Ing. Dominik Stroukal, Ph.D. přednáší na Metropolitní univerzitě Praha. Je autorem několika knih, včetně poslední Dark Web: Sex, drogy a bitcoiny, je členem Národní ekonomické rady vlády (NERV) a ekonomickým poradcem SatoshiLabs. Slyšet ho můžete pravidelně v podcastu Ve vatě.",
+    "desc": "Šestým přednášejícím „Konference Svobodného přístavu 2023: Drogy a zbraně včera, dnes a zítra“ byl Dominik Stroukal se svou přednáškou „Hra na kočku a myš a jednorožce“.\n\nDark Web není statické místo, ale neustále se vyvíjející ekosystém, kde je možné (mimo jiné) nakoupit drogy. Akce proti temným tržištím vyvolávají reakce. Je zásadní rozdíl mezi drogami a zbraněmi. Proč? Dá se předvídat, kam se internetový obchod s drogami a zbraněmi pohne?\n\nMgr. Ing. Dominik Stroukal, Ph.D. přednáší na Metropolitní univerzitě Praha. Je autorem několika knih, včetně poslední Dark Web: Sex, drogy a bitcoiny, je členem Národní ekonomické rady vlády (NERV) a ekonomickým poradcem SatoshiLabs. Slyšet ho můžete pravidelně v podcastu Ve vatě.",
     "duration": 3062,
     "name": "Hra na kočku a myš a jednorožce",
     "project": "konference-sp",
@@ -93,7 +178,24 @@
     "people": [
       "dominik-stroukal"
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "bxYwXjnl91Y",
+      "path": "/videos/all/bxYwXjnl91Y",
+      "duration": "3061.701",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/bxYwXjnl91Y/source.mp4",
+        "hash": "76b9bcb35a4fe3fb27c618c304f1301b4aa7368a384203fd3e4037a780f03600",
+        "size": 266608401,
+        "resolution": "1280x720",
+        "bitrate": "696628",
+        "videoCodec": "avc1",
+        "videoBitrate": 576299,
+        "audioCodec": "Opus",
+        "audioBitrate": 112197
+      }
+    }
   },
   {
     "id": "QOJjAadYNkU",
@@ -101,7 +203,7 @@
     "videoId": "QOJjAadYNkU",
     "url": "https://www.youtube.com/watch?v=QOJjAadYNkU",
     "publishedAt": "2023-03-19T10:45:40Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3DD84yqfZJK2kzaMWp7NykBWYj4aufbyzs\nLTC: LXaqYMTz2zz2W5aGhzXDr9BGbpRGqLHH2C\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nNe všichni účastníci „Konference Svobodného přístavu 2023: Drogy a zbraně včera, dnes a zítra“ potřebují pauzu na oběd; a právě pro ty připravil Ondřej Plachý svůj workshop „Vzduchové zbraně bez zbrojního průkazu“.\n\nV dnešní době různých státních restrikcí je v tuto chvíli jedinečná možnost pro každého jednotlivce, vybavit se vzduchovou zbraní, kterou ještě před zhruba rokem nemohl vlastnit bez toho, aniž by musel vlastnit zbrojní průkaz a zbraň registrovat. Tyto vysoce přesné a zároveň poměrně výkonné zbraně lze perfektně použít pro sportovní účely, ale v krajním případě i pro přežití či sebeobranu.\n\nOndřej Plachý je zakladatelem a hlavním vývojářem firmy Altaros Air Solutions jež vyrábí PCP vzduchovkové zbraně a jejich příslušenství. Na profesionální úrovni se problematice vzduchovek věnuje již 15 let a za tu dobu se stal autorem několika českých i zahraničních patentů. Je držitelem světového rekordu v nejdelším zásahu terče vzduchovou puškou a to na vzdálenost 1280m. Také vyvinul unikátní technologie výroby olověných střel pro vzduchovky, které se vyrábí metodou obrábění na specificky upravených CNC soustruzích. Světový rekord vytvořil s PCP vzduchovkou vlastní konstrukce a již zmíněnými CNC soustruženými olověnými střelami.",
+    "desc": "Ne všichni účastníci „Konference Svobodného přístavu 2023: Drogy a zbraně včera, dnes a zítra“ potřebují pauzu na oběd; a právě pro ty připravil Ondřej Plachý svůj workshop „Vzduchové zbraně bez zbrojního průkazu“.\n\nV dnešní době různých státních restrikcí je v tuto chvíli jedinečná možnost pro každého jednotlivce, vybavit se vzduchovou zbraní, kterou ještě před zhruba rokem nemohl vlastnit bez toho, aniž by musel vlastnit zbrojní průkaz a zbraň registrovat. Tyto vysoce přesné a zároveň poměrně výkonné zbraně lze perfektně použít pro sportovní účely, ale v krajním případě i pro přežití či sebeobranu.\n\nOndřej Plachý je zakladatelem a hlavním vývojářem firmy Altaros Air Solutions jež vyrábí PCP vzduchovkové zbraně a jejich příslušenství. Na profesionální úrovni se problematice vzduchovek věnuje již 15 let a za tu dobu se stal autorem několika českých i zahraničních patentů. Je držitelem světového rekordu v nejdelším zásahu terče vzduchovou puškou a to na vzdálenost 1280m. Také vyvinul unikátní technologie výroby olověných střel pro vzduchovky, které se vyrábí metodou obrábění na specificky upravených CNC soustruzích. Světový rekord vytvořil s PCP vzduchovkou vlastní konstrukce a již zmíněnými CNC soustruženými olověnými střelami.",
     "duration": 2523,
     "name": "Workshop, Vzduchovky bez zbrojního průkazu",
     "project": "konference-sp",
@@ -109,7 +211,24 @@
     "people": [
       "Ondra Plachý"
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "QOJjAadYNkU",
+      "path": "/videos/all/QOJjAadYNkU",
+      "duration": "2522.141",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/QOJjAadYNkU/source.mp4",
+        "hash": "bfc2c085de6c7a0c23286cb09b8b0080f8ba873222cc6132400cdb4a5df27cd9",
+        "size": 449808941,
+        "resolution": "1280x720",
+        "bitrate": "1426753",
+        "videoCodec": "avc1",
+        "videoBitrate": 1301057,
+        "audioCodec": "Opus",
+        "audioBitrate": 117749
+      }
+    }
   },
   {
     "id": "qG3O2uMNWRw",
@@ -117,12 +236,34 @@
     "videoId": "qG3O2uMNWRw",
     "url": "https://www.youtube.com/watch?v=qG3O2uMNWRw",
     "publishedAt": "2023-03-25T10:46:36Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3DD84yqfZJK2kzaMWp7NykBWYj4aufbyzs\nLTC: LXaqYMTz2zz2W5aGhzXDr9BGbpRGqLHH2C\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nKonferenci Svobodného přístavu 2023: Drogy a zbraně včera, dnes a zítra jsme zakončili panelovou diskusí, které se zúčastnili Martin Duřt, Urza a Jakub Engelmajer; role moderátorky se ujala Tereza Urzová.\n\nDěkujeme všem diskutujícím, posluchačům, podporovatelům (https://opristavu.urza.cz/), propagátorům i celému realizačnímu týmu.\n\nKompletní program konference naleznete zde:\nhttps://konference.urza.cz/2023/img/program.1024x1448.png",
+    "desc": "Konferenci Svobodného přístavu 2023: Drogy a zbraně včera, dnes a zítra jsme zakončili panelovou diskusí, které se zúčastnili Martin Duřt, Urza a Jakub Engelmajer; role moderátorky se ujala Tereza Urzová.\n\nDěkujeme všem diskutujícím, posluchačům, podporovatelům (https://opristavu.urza.cz/), propagátorům i celému realizačnímu týmu.\n\nKompletní program konference naleznete zde:\nhttps://konference.urza.cz/2023/img/program.1024x1448.png",
     "duration": 3871,
     "name": "Panelová diskuse Konference Svobodného přístavu 2023: Drogy a zbraně včera, dnes a zítra",
-    "people": [],
+    "people": [
+      "Martin Duřt",
+      "Urza|urza",
+      "Jakub Engelmajer",
+      "Tereza Urzová"
+    ],
     "lang": "cs",
     "project": "konference-sp",
-    "event": "ksp23"
+    "event": "ksp23",
+    "storage": {
+      "id": "qG3O2uMNWRw",
+      "path": "/videos/all/qG3O2uMNWRw",
+      "duration": "3870.881",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/qG3O2uMNWRw/source.mp4",
+        "hash": "18e975ac771e6fad70576380a76dd31a2e81a7ee3331d3de0ce66e66565acfce",
+        "size": 473302521,
+        "resolution": "1280x720",
+        "bitrate": "978180",
+        "videoCodec": "avc1",
+        "videoBitrate": 859278,
+        "audioCodec": "Opus",
+        "audioBitrate": 111531
+      }
+    }
   }
 ]

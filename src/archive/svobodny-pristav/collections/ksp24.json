@@ -5,7 +5,7 @@
     "videoId": "WEO5TwCl_PA",
     "url": "https://www.youtube.com/watch?v=WEO5TwCl_PA",
     "publishedAt": "2024-03-09T09:08:30Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3R249NdnKx4AasgT2d35LGwX5wZxgZezb7\nLTC: LMQhTeLZGVNdt2yD2hVugvjteqh8cByDhD\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nPrvním přednášejícím „Konference Svobodného přístavu 2024: Technologie včera, dnes a zítra“ byl Jan Hubík se svou přednáškou „Kryptoanarchie“.\n\nKryptoanarchie jsou především praktické nástroje k dosahování digitální svobody.\n\nHonza má formální vzdělání v několika oborech od fyziky po finance a pracovní život začínal jako datový vědec v astrofyzice. Vždy ale měl rád technologie a vše kolem počítačů, což ho v roce 2013 přivedlo k Bitcoinu a od té doby se mu věnuje z mnoha pohledů - těžba, investice, použití v životě i podnikání a dopady na společnost. Od roku 2015 se angažoval v Paralelní Polis a jejím Institutu Kryptoanarchie, odkud v roce 2019 odešel do Alzy, kde rozjel Fraud & Risk oddělení. Z Alzy ho v roce 2021 vylákala Xapo Bank, kde do konce roku 2023 na pozici Anti Financial Crime SME ladil systémy pro monitoring transakcí.",
+    "desc": "Prvním přednášejícím „Konference Svobodného přístavu 2024: Technologie včera, dnes a zítra“ byl Jan Hubík se svou přednáškou „Kryptoanarchie“.\n\nKryptoanarchie jsou především praktické nástroje k dosahování digitální svobody.\n\nHonza má formální vzdělání v několika oborech od fyziky po finance a pracovní život začínal jako datový vědec v astrofyzice. Vždy ale měl rád technologie a vše kolem počítačů, což ho v roce 2013 přivedlo k Bitcoinu a od té doby se mu věnuje z mnoha pohledů - těžba, investice, použití v životě i podnikání a dopady na společnost. Od roku 2015 se angažoval v Paralelní Polis a jejím Institutu Kryptoanarchie, odkud v roce 2019 odešel do Alzy, kde rozjel Fraud & Risk oddělení. Z Alzy ho v roce 2021 vylákala Xapo Bank, kde do konce roku 2023 na pozici Anti Financial Crime SME ladil systémy pro monitoring transakcí.",
     "duration": 2285,
     "name": "Kryptoanarchie",
     "project": "konference-sp",
@@ -13,7 +13,24 @@
     "people": [
       "Jan Hubík"
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "WEO5TwCl_PA",
+      "path": "/videos/all/WEO5TwCl_PA",
+      "duration": "2284.241",
+      "framerate": "29.970",
+      "source": {
+        "path": "/videos/all/WEO5TwCl_PA/source.mp4",
+        "hash": "08a1c69da5c5c56f9693be9135b442c0f9f41ec6110899801a9381fc604144e8",
+        "size": 180979792,
+        "resolution": "1280x720",
+        "bitrate": "633838",
+        "videoCodec": "vp09",
+        "videoBitrate": 515171,
+        "audioCodec": "Opus",
+        "audioBitrate": 110869
+      }
+    }
   },
   {
     "id": "tSiKNOkAkWs",
@@ -21,7 +38,7 @@
     "videoId": "tSiKNOkAkWs",
     "url": "https://www.youtube.com/watch?v=tSiKNOkAkWs",
     "publishedAt": "2024-03-10T09:45:35Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3R249NdnKx4AasgT2d35LGwX5wZxgZezb7\nLTC: LMQhTeLZGVNdt2yD2hVugvjteqh8cByDhD\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nDruhým přednášejícím „Konference Svobodného přístavu 2024: Technologie včera, dnes a zítra“ byl Hynek Jína se svou přednáškou „Jak Bitcoin chrání svobodu“.\n\nMůžete se těšit na povídání o tom, co potřebujeme k tomu, aby nás Bitcoin dokázal chránit před inflací, krádeží a cenzurou a jakou roli v tom hraje bitcoinová komunita.\n\nHynek Jína je Head of Suite Development ve společnosti Trezor. Je ekonom, libertarián, obhájce svobodného vzdělávání, bývalý učitel hudební výchovy a organizátor svobodných rodinných pobytů Svéjá. Zajímá se o rozvoj komunity, adopci a škálování bitcoinu, lightning network, platby prostřednictvím coinjoinu a další související témata.",
+    "desc": "Druhým přednášejícím „Konference Svobodného přístavu 2024: Technologie včera, dnes a zítra“ byl Hynek Jína se svou přednáškou „Jak Bitcoin chrání svobodu“.\n\nMůžete se těšit na povídání o tom, co potřebujeme k tomu, aby nás Bitcoin dokázal chránit před inflací, krádeží a cenzurou a jakou roli v tom hraje bitcoinová komunita.\n\nHynek Jína je Head of Suite Development ve společnosti Trezor. Je ekonom, libertarián, obhájce svobodného vzdělávání, bývalý učitel hudební výchovy a organizátor svobodných rodinných pobytů Svéjá. Zajímá se o rozvoj komunity, adopci a škálování bitcoinu, lightning network, platby prostřednictvím coinjoinu a další související témata.",
     "duration": 2082,
     "name": "Jak Bitcoin chrání svobodu",
     "project": "konference-sp",
@@ -29,7 +46,24 @@
     "people": [
       "Hynek Jína"
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "tSiKNOkAkWs",
+      "path": "/videos/all/tSiKNOkAkWs",
+      "duration": "2081.181",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/tSiKNOkAkWs/source.mp4",
+        "hash": "452e051edfcf8e93a9613aad10459139cfeae22ec17e3f7c9fbc9523ae3391fa",
+        "size": 172611369,
+        "resolution": "1280x720",
+        "bitrate": "663513",
+        "videoCodec": "vp09",
+        "videoBitrate": 550228,
+        "audioCodec": "Opus",
+        "audioBitrate": 105595
+      }
+    }
   },
   {
     "id": "UOIOUZHcW8s",
@@ -37,7 +71,7 @@
     "videoId": "UOIOUZHcW8s",
     "url": "https://www.youtube.com/watch?v=UOIOUZHcW8s",
     "publishedAt": "2024-03-16T09:09:09Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3R249NdnKx4AasgT2d35LGwX5wZxgZezb7\nLTC: LMQhTeLZGVNdt2yD2hVugvjteqh8cByDhD\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nTřetím přednášejícím „Konference Svobodného přístavu 2024: Technologie včera, dnes a zítra“ byl Urza se svou přednáškou „Strachem proti svobodě“.\n\nHistorie lidstva je plná fascinujících vynálezů a inovací, které často změnily životy lidí i celou společnost k nepoznání; většina takových změn se samozřejmě neobešla bez masivních obav z budoucnosti – lidský pokrok je totiž lemován strachem z neznámého. Starší generace od nepaměti nadávají na mladší; spousta lidí v prakticky každé historické epoše má pocit, že se blíží skutečný či metaforický konec světa. Přesto si však nakonec vždy poradíme; a nejen to, jako společnost se v dlouhodobém horizontu neustále vyvíjíme a zdokonalujeme. Strach je však neměnný; vládci už dávno pochopili, že jej lze využívat k vládnutí a ovládání mas, takže jej rádi přiživují. Jak se k tomu lze postavit? Je vůbec něco, co můžeme udělat? A pokud ano, co vlastně?\n\nUrza je anarchokapitalistický autor; napsal přes tisíc libertariánských textů na web i do tištěných médií a první českou knihu o anarchokapitalismu. O svobodě, etice, vždělávání, volném trhu, ekonomii a roli státu ve společnosti nejen patnáct let čte, přemýšlí a píše, ale též přednáší, natáčí videa a je zván do různých pořadů i panelových diskusí. Spolutvoří Svobodný přístav; učí ve svobodné škole Ježek bez klece a dlouhodobě aktivně spolupracuje s mnoha libertariánskými iniciativami.",
+    "desc": "Třetím přednášejícím „Konference Svobodného přístavu 2024: Technologie včera, dnes a zítra“ byl Urza se svou přednáškou „Strachem proti svobodě“.\n\nHistorie lidstva je plná fascinujících vynálezů a inovací, které často změnily životy lidí i celou společnost k nepoznání; většina takových změn se samozřejmě neobešla bez masivních obav z budoucnosti – lidský pokrok je totiž lemován strachem z neznámého. Starší generace od nepaměti nadávají na mladší; spousta lidí v prakticky každé historické epoše má pocit, že se blíží skutečný či metaforický konec světa. Přesto si však nakonec vždy poradíme; a nejen to, jako společnost se v dlouhodobém horizontu neustále vyvíjíme a zdokonalujeme. Strach je však neměnný; vládci už dávno pochopili, že jej lze využívat k vládnutí a ovládání mas, takže jej rádi přiživují. Jak se k tomu lze postavit? Je vůbec něco, co můžeme udělat? A pokud ano, co vlastně?\n\nUrza je anarchokapitalistický autor; napsal přes tisíc libertariánských textů na web i do tištěných médií a první českou knihu o anarchokapitalismu. O svobodě, etice, vždělávání, volném trhu, ekonomii a roli státu ve společnosti nejen patnáct let čte, přemýšlí a píše, ale též přednáší, natáčí videa a je zván do různých pořadů i panelových diskusí. Spolutvoří Svobodný přístav; učí ve svobodné škole Ježek bez klece a dlouhodobě aktivně spolupracuje s mnoha libertariánskými iniciativami.",
     "duration": 3657,
     "name": "Strachem proti svobodě",
     "project": "konference-sp",
@@ -45,7 +79,24 @@
     "people": [
       "urza"
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "UOIOUZHcW8s",
+      "path": "/videos/all/UOIOUZHcW8s",
+      "duration": "3656.421",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/UOIOUZHcW8s/source.mp4",
+        "hash": "03a4369fb678019ec2c336f620884e72dbbbb7df9a821ed177c944221cf2a8ac",
+        "size": 321265908,
+        "resolution": "1280x720",
+        "bitrate": "702908",
+        "videoCodec": "vp09",
+        "videoBitrate": 591492,
+        "audioCodec": "Opus",
+        "audioBitrate": 103727
+      }
+    }
   },
   {
     "id": "jHiUCbZeHDc",
@@ -53,7 +104,7 @@
     "videoId": "jHiUCbZeHDc",
     "url": "https://www.youtube.com/watch?v=jHiUCbZeHDc",
     "publishedAt": "2024-03-17T10:38:38Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3R249NdnKx4AasgT2d35LGwX5wZxgZezb7\nLTC: LMQhTeLZGVNdt2yD2hVugvjteqh8cByDhD\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nČtvrtým přednášejícím „Konference Svobodného přístavu 2024: Technologie včera, dnes a zítra“ byl O. T. se svou přednáškou „Průřez systémovými riziky technologií“.\n\nJakkoliv mohou být technologie mocnými nástroji, mohou nás také (podobně mocně) připravovat o svobodu. Jak?\n\nO. T. analytickými metodami zkoumá jednotlivé aspekty různých systémů od požadavků na funkce přes návrh a architekturu až po implementaci a nachází v nich reálná rizika, jejich příčiny, jak se mohou kombinovat a jak následky rizik kaskádují.",
+    "desc": "Čtvrtým přednášejícím „Konference Svobodného přístavu 2024: Technologie včera, dnes a zítra“ byl O. T. se svou přednáškou „Průřez systémovými riziky technologií“.\n\nJakkoliv mohou být technologie mocnými nástroji, mohou nás také (podobně mocně) připravovat o svobodu. Jak?\n\nO. T. analytickými metodami zkoumá jednotlivé aspekty různých systémů od požadavků na funkce přes návrh a architekturu až po implementaci a nachází v nich reálná rizika, jejich příčiny, jak se mohou kombinovat a jak následky rizik kaskádují.",
     "duration": 3585,
     "name": "Průřez systémovými riziky technologií",
     "project": "konference-sp",
@@ -61,7 +112,24 @@
     "people": [
       "O. T."
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "jHiUCbZeHDc",
+      "path": "/videos/all/jHiUCbZeHDc",
+      "duration": "3584.921",
+      "framerate": "25.000",
+      "source": {
+        "path": "/videos/all/jHiUCbZeHDc/source.mp4",
+        "hash": "a86523cb869447349cb03b1518bef074fc9a1d9e8ad1e763f22b5b8c6c22550d",
+        "size": 190606902,
+        "resolution": "1920x1080",
+        "bitrate": "425353",
+        "videoCodec": "vp09",
+        "videoBitrate": 319404,
+        "audioCodec": "Opus",
+        "audioBitrate": 101943
+      }
+    }
   },
   {
     "id": "7Cz1MX6O_Ss",
@@ -69,7 +137,7 @@
     "videoId": "7Cz1MX6O_Ss",
     "url": "https://www.youtube.com/watch?v=7Cz1MX6O_Ss",
     "publishedAt": "2024-03-23T10:50:01Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3R249NdnKx4AasgT2d35LGwX5wZxgZezb7\nLTC: LMQhTeLZGVNdt2yD2hVugvjteqh8cByDhD\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nPátým přednášejícím „Konference Svobodného přístavu 2024: Technologie včera, dnes a zítra“ byl Honza Skalický se svou přednáškou „Podvody na internetu a digitální stopa“.\n\nPřednáška se bude zabývat fenoménem podvodů na internetu, provede jejich stručnou klasifikaci a zaměří se na častý typ podvodného nákupu zboží. Zanalyzuje digitální stopu, kterou mohou zanechat, a její případné využití při stíhání podvodníků. Předložené situace budou ilustrovány na příkladech z praxe a na závěr se zamyslíme i nad rolí státu v řešené problematice.\n\nIng. Jan Skalický vystudoval výpočetní techniku na Elektrotechnické fakultě ČVUT. V současnosti pracuje jako vedoucí vývoje SW a lektor kurzů programování. Kromě pozic specialisty vývoje mikropočítačových systémů pracoval i v jaderné elektrárně Temelín. Je příznivcem rakouské ekonomické školy, klasického liberalismu a decentralizovaných systémů, mezi něž patří i Bitcoin a jiné kryptoměny. Je spoluautorem dvou knih na toto téma.",
+    "desc": "Pátým přednášejícím „Konference Svobodného přístavu 2024: Technologie včera, dnes a zítra“ byl Honza Skalický se svou přednáškou „Podvody na internetu a digitální stopa“.\n\nPřednáška se bude zabývat fenoménem podvodů na internetu, provede jejich stručnou klasifikaci a zaměří se na častý typ podvodného nákupu zboží. Zanalyzuje digitální stopu, kterou mohou zanechat, a její případné využití při stíhání podvodníků. Předložené situace budou ilustrovány na příkladech z praxe a na závěr se zamyslíme i nad rolí státu v řešené problematice.\n\nIng. Jan Skalický vystudoval výpočetní techniku na Elektrotechnické fakultě ČVUT. V současnosti pracuje jako vedoucí vývoje SW a lektor kurzů programování. Kromě pozic specialisty vývoje mikropočítačových systémů pracoval i v jaderné elektrárně Temelín. Je příznivcem rakouské ekonomické školy, klasického liberalismu a decentralizovaných systémů, mezi něž patří i Bitcoin a jiné kryptoměny. Je spoluautorem dvou knih na toto téma.",
     "duration": 3311,
     "name": "Podvody na internetu a digitální stopa",
     "project": "konference-sp",
@@ -77,7 +145,24 @@
     "people": [
       "Jan Skalický"
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "7Cz1MX6O_Ss",
+      "path": "/videos/all/7Cz1MX6O_Ss",
+      "duration": "3310.761",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/7Cz1MX6O_Ss/source.mp4",
+        "hash": "2a72a68d55c2ba643fa120125345796b5691b62d45a08349a7349db7c3b48fab",
+        "size": 205892201,
+        "resolution": "1280x720",
+        "bitrate": "497510",
+        "videoCodec": "vp09",
+        "videoBitrate": 379705,
+        "audioCodec": "Opus",
+        "audioBitrate": 110119
+      }
+    }
   },
   {
     "id": "fcgGKzYU_Qs",
@@ -85,13 +170,32 @@
     "videoId": "fcgGKzYU_Qs",
     "url": "https://www.youtube.com/watch?v=fcgGKzYU_Qs",
     "publishedAt": "2024-03-24T09:03:47Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3R249NdnKx4AasgT2d35LGwX5wZxgZezb7\nLTC: LMQhTeLZGVNdt2yD2hVugvjteqh8cByDhD\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nŠestým přednášejícím „Konference Svobodného přístavu 2024: Technologie včera, dnes a zítra“ byl Jan Romportl se svou přednáškou „Kterak se AI do nás propálila skrze ChatGPT“.\n\nSystém ChatGPT, který na konci listopadu 2022 veřejnosti představila společnost OpenAI, dosáhl několika zásadních výsledků. Například: (1) celoplanetární ChatGPT fetišismus; (2) vznik neskutečného množství nových „AI expertů“ mudrujících cosi o jazykových modelech a o tom, komu všemu ty modely vezmou práci; (3) populární influenceři, kteří ještě donedávna vybalovali, testovali a komentovali nové iPhony a natáčeli se u toho na YouTube, tak nyní ve stejném stylu vybalují nové AI produkty a šíří o nich konzumní povědomí do laické veřejnosti; (4) zpozornění nečekaně velkého množství lidí, že tu opravdu asi nějaká AI začíná být; (5) vypjatá argumentační gymnastika odpůrců AI, kteří se opírají o představu, že ChatGPT je jen „statistický papoušek“, který na rozdíl od člověka nerozumí tomu textu „opravdicky“; (6) OpenAI naznačuje, že už se skutečně začínají přibližovat k obecné umělé inteligenci (AGI), a že bychom tomu měli už konečně začít věnovat pozornost. Takže… Jak na tom tedy reálně teď jsme? Jaký kus ještě chybí mezi velkými jazykový modely a AGI? Proč je A(G)I jedna z hlavních nadějí lidstva a zároveň zásadním existenčním rizikem? Na to vše se můžete těšit v přednášce.\n\nJan Romportl, zakladatel a bývalý ředitel Dataclair.ai, je nyní nezávislým konzultantem v oblasti umělé inteligence a vede vlastní startup, který se zaměřuje na řešení problémů současného online světa pomocí AI. Jako držitel doktorátu z umělé inteligence a filozofie má za sebou více než 12 let univerzitního výzkumu a výuky v oblastech umělé inteligence a interakce člověka se strojem. Jeho zkušenosti zahrnují také vedoucí pozici v oddělení Interakce člověka a stroje na Západočeské univerzitě v Plzni a spolupráci s Centrumem teoretických studií Univerzity Karlovy a Spolkem pro efektivní altruismus.",
+    "desc": "Šestým přednášejícím „Konference Svobodného přístavu 2024: Technologie včera, dnes a zítra“ byl Jan Romportl se svou přednáškou „Kterak se AI do nás propálila skrze ChatGPT“.\n\nSystém ChatGPT, který na konci listopadu 2022 veřejnosti představila společnost OpenAI, dosáhl několika zásadních výsledků. Například: (1) celoplanetární ChatGPT fetišismus; (2) vznik neskutečného množství nových „AI expertů“ mudrujících cosi o jazykových modelech a o tom, komu všemu ty modely vezmou práci; (3) populární influenceři, kteří ještě donedávna vybalovali, testovali a komentovali nové iPhony a natáčeli se u toho na YouTube, tak nyní ve stejném stylu vybalují nové AI produkty a šíří o nich konzumní povědomí do laické veřejnosti; (4) zpozornění nečekaně velkého množství lidí, že tu opravdu asi nějaká AI začíná být; (5) vypjatá argumentační gymnastika odpůrců AI, kteří se opírají o představu, že ChatGPT je jen „statistický papoušek“, který na rozdíl od člověka nerozumí tomu textu „opravdicky“; (6) OpenAI naznačuje, že už se skutečně začínají přibližovat k obecné umělé inteligenci (AGI), a že bychom tomu měli už konečně začít věnovat pozornost. Takže… Jak na tom tedy reálně teď jsme? Jaký kus ještě chybí mezi velkými jazykový modely a AGI? Proč je A(G)I jedna z hlavních nadějí lidstva a zároveň zásadním existenčním rizikem? Na to vše se můžete těšit v přednášce.\n\nJan Romportl, zakladatel a bývalý ředitel Dataclair.ai, je nyní nezávislým konzultantem v oblasti umělé inteligence a vede vlastní startup, který se zaměřuje na řešení problémů současného online světa pomocí AI. Jako držitel doktorátu z umělé inteligence a filozofie má za sebou více než 12 let univerzitního výzkumu a výuky v oblastech umělé inteligence a interakce člověka se strojem. Jeho zkušenosti zahrnují také vedoucí pozici v oddělení Interakce člověka a stroje na Západočeské univerzitě v Plzni a spolupráci s Centrumem teoretických studií Univerzity Karlovy a Spolkem pro efektivní altruismus.",
     "duration": 3546,
-    "name": "Jan Romportl: Kterak se AI do nás propálila skrze ChatGPT",
-    "people": [],
+    "name": "Kterak se AI do nás propálila skrze ChatGPT",
+    "people": [
+      "Jan Romportl:"
+    ],
     "lang": "cs",
     "project": "konference-sp",
-    "event": "ksp24"
+    "event": "ksp24",
+    "storage": {
+      "id": "fcgGKzYU_Qs",
+      "path": "/videos/all/fcgGKzYU_Qs",
+      "duration": "3545.761",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/fcgGKzYU_Qs/source.mp4",
+        "hash": "77aaa7e0580582efdaeb1fcd4bb7a2d538fbeeff5383439f635caa85cfdc6f4f",
+        "size": 179812886,
+        "resolution": "1280x720",
+        "bitrate": "405697",
+        "videoCodec": "vp09",
+        "videoBitrate": 286658,
+        "audioCodec": "Opus",
+        "audioBitrate": 111351
+      }
+    }
   },
   {
     "id": "1nEhxU7aOUY",
@@ -99,12 +203,34 @@
     "videoId": "1nEhxU7aOUY",
     "url": "https://www.youtube.com/watch?v=1nEhxU7aOUY",
     "publishedAt": "2024-03-29T10:24:48Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3R249NdnKx4AasgT2d35LGwX5wZxgZezb7\nLTC: LMQhTeLZGVNdt2yD2hVugvjteqh8cByDhD\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nKonferenci Svobodného přístavu 2024: Technologie včera, dnes a zítra jsme zakončili panelovou diskusí, které se zúčastnili Urza, Jan Skalický a Jan Romportl; role moderátorky se ujala Tereza Urzová.\n\nDěkujeme všem diskutujícím, posluchačům, podporovatelům (https://opristavu.urza.cz/), propagátorům i celému realizačnímu týmu.\n\nKompletní program konference naleznete zde:\nhttps://konference.urza.cz/2024/img/program.1024x1448.png",
+    "desc": "Konferenci Svobodného přístavu 2024: Technologie včera, dnes a zítra jsme zakončili panelovou diskusí, které se zúčastnili Urza, Jan Skalický a Jan Romportl; role moderátorky se ujala Tereza Urzová.\n\nDěkujeme všem diskutujícím, posluchačům, podporovatelům (https://opristavu.urza.cz/), propagátorům i celému realizačnímu týmu.\n\nKompletní program konference naleznete zde:\nhttps://konference.urza.cz/2024/img/program.1024x1448.png",
     "duration": 5044,
     "name": "Panelová diskuse Konference Svobodného přístavu 2024: Technologie včera, dnes a zítra",
-    "people": [],
+    "people": [
+      "Urza|urza",
+      "Jan Skalický",
+      "Jan Romportl",
+      "Tereza Urzová"
+    ],
     "lang": "cs",
     "project": "konference-sp",
-    "event": "ksp24"
+    "event": "ksp24",
+    "storage": {
+      "id": "1nEhxU7aOUY",
+      "path": "/videos/all/1nEhxU7aOUY",
+      "duration": "5043.741",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/1nEhxU7aOUY/source.mp4",
+        "hash": "5c363ae53cb941c64bbc5f25f64aec3132d22f6c6f74169e4575993e637c7a5c",
+        "size": 432228567,
+        "resolution": "1280x720",
+        "bitrate": "685568",
+        "videoCodec": "vp09",
+        "videoBitrate": 570431,
+        "audioCodec": "Opus",
+        "audioBitrate": 107447
+      }
+    }
   }
 ]

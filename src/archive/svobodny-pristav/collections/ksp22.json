@@ -5,7 +5,7 @@
     "videoId": "rh2WPOR16lg",
     "url": "https://www.youtube.com/watch?v=rh2WPOR16lg",
     "publishedAt": "2022-06-04T09:52:34Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3Q9v9cbDmpHcXLgYsoc9yTnajqwDpPi17L\nLTC: LVx56HPN1fT8fTqF29N92g7VEzHNRqkDH2\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nPrvním přednášejícím „Konference Svobodného přístavu 2022: Peníze včera, dnes a zítra“ byl Petr Bartoň se svou přednáškou „Zlatý systém neměl drobné. Nekypěl jen dobrotou. Tvrdý byl zvlášť na chudobné: Svobodu sťal robotou.“.\n\nČešky a Češi mohou být hrdy a hrdí. Dali světu dolar (poslední měnu vázanou na zlato), první konkurenční jednotnou evropskou měnu (Řím i EU svoje měny vnucovaly), i slovo robot. O to více bychom měli mít na paměti, že nevolnictví a robota byly následkem nedostatku drobných ve středověku. Není všechno zlato co se třpytí.\n\nPetr Bartoň je hlavním ekonomem investiční skupiny Natland. Vystudoval ekonomii na univerzitách v Cambridge a Chicagu a je členem řady mezinárodních skupin zabývajících se řešením aktuálních ekonomických otázek.",
+    "desc": "Prvním přednášejícím „Konference Svobodného přístavu 2022: Peníze včera, dnes a zítra“ byl Petr Bartoň se svou přednáškou „Zlatý systém neměl drobné. Nekypěl jen dobrotou. Tvrdý byl zvlášť na chudobné: Svobodu sťal robotou.“.\n\nČešky a Češi mohou být hrdy a hrdí. Dali světu dolar (poslední měnu vázanou na zlato), první konkurenční jednotnou evropskou měnu (Řím i EU svoje měny vnucovaly), i slovo robot. O to více bychom měli mít na paměti, že nevolnictví a robota byly následkem nedostatku drobných ve středověku. Není všechno zlato co se třpytí.\n\nPetr Bartoň je hlavním ekonomem investiční skupiny Natland. Vystudoval ekonomii na univerzitách v Cambridge a Chicagu a je členem řady mezinárodních skupin zabývajících se řešením aktuálních ekonomických otázek.",
     "duration": 4038,
     "name": "Zlatý systém neměl drobné aneb Historie peněz",
     "project": "konference-sp",
@@ -13,7 +13,24 @@
     "people": [
       "Petr Bartoň"
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "rh2WPOR16lg",
+      "path": "/videos/all/rh2WPOR16lg",
+      "duration": "4037.741",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/rh2WPOR16lg/source.mp4",
+        "hash": "c422d3259793e874a2db89eae1a6c135eae5807f1c8542158e466f44266206af",
+        "size": 320356806,
+        "resolution": "1280x720",
+        "bitrate": "634725",
+        "videoCodec": "avc1",
+        "videoBitrate": 523664,
+        "audioCodec": "Opus",
+        "audioBitrate": 103712
+      }
+    }
   },
   {
     "id": "pWA28B-Y7gI",
@@ -21,7 +38,7 @@
     "videoId": "pWA28B-Y7gI",
     "url": "https://www.youtube.com/watch?v=pWA28B-Y7gI",
     "publishedAt": "2022-06-05T09:28:07Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3Q9v9cbDmpHcXLgYsoc9yTnajqwDpPi17L\nLTC: LVx56HPN1fT8fTqF29N92g7VEzHNRqkDH2\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nDruhým přednášejícím „Konference Svobodného přístavu 2022: Peníze včera, dnes a zítra“ byl Lukáš Kovanda se svou přednáškou „Bitcoin jako revoluční zarážka nebezpečné evoluce nekrytých peněz“.\n\nHistorie peněz je tak trochu dějinami jejich postupného odpojování od reálných statků, nakonec bohužel i od reality. Původní étos bitcoinu spočíval právě ve snaze zvrátit odtržení peněz do reality. Povedlo se?\n\nLukáš Kovanda, Ph.D., je český ekonom a autor ekonomické literatury. Působí jako hlavní ekonom Trinity Bank. Je členem Národní ekonomické rady vlády, která se nyní zaměřuje zejména na boj s ekonomickými důsledky šíření onemocnění COVID-19. Je činný také jako socioekonomický analytik při Organizaci spojených národů (OSN). Analyzuje a komentuje makroekonomická témata, investice i nové fenomény typu sdílené ekonomiky, kryptoměn či fintechu. Sleduje vývoj (geo)politické a ekonomické situace ve světě a v České republice.\nPřednáší na Národohospodářské fakultě Vysoké školy ekonomické v Praze. Je členem vědeckého grémia České bankovní asociace. Vydal dva sborníky rozhovorů (nejen) s laureáty Nobelovy ceny za ekonomii. Je autorem behaviorálně-ekonomických knih Proč je vzduch zadarmo a panenství drahé a Proč si ženy přitažlivost koupit nemohou, a muži ano, které vyšly i na Slovensku. Společně s Evženem Korcem vydali knihu Koupě bytu pod lupou aneb Jak úspěšně vybrat, financovat a koupit byt.",
+    "desc": "Druhým přednášejícím „Konference Svobodného přístavu 2022: Peníze včera, dnes a zítra“ byl Lukáš Kovanda se svou přednáškou „Bitcoin jako revoluční zarážka nebezpečné evoluce nekrytých peněz“.\n\nHistorie peněz je tak trochu dějinami jejich postupného odpojování od reálných statků, nakonec bohužel i od reality. Původní étos bitcoinu spočíval právě ve snaze zvrátit odtržení peněz do reality. Povedlo se?\n\nLukáš Kovanda, Ph.D., je český ekonom a autor ekonomické literatury. Působí jako hlavní ekonom Trinity Bank. Je členem Národní ekonomické rady vlády, která se nyní zaměřuje zejména na boj s ekonomickými důsledky šíření onemocnění COVID-19. Je činný také jako socioekonomický analytik při Organizaci spojených národů (OSN). Analyzuje a komentuje makroekonomická témata, investice i nové fenomény typu sdílené ekonomiky, kryptoměn či fintechu. Sleduje vývoj (geo)politické a ekonomické situace ve světě a v České republice.\nPřednáší na Národohospodářské fakultě Vysoké školy ekonomické v Praze. Je členem vědeckého grémia České bankovní asociace. Vydal dva sborníky rozhovorů (nejen) s laureáty Nobelovy ceny za ekonomii. Je autorem behaviorálně-ekonomických knih Proč je vzduch zadarmo a panenství drahé a Proč si ženy přitažlivost koupit nemohou, a muži ano, které vyšly i na Slovensku. Společně s Evženem Korcem vydali knihu Koupě bytu pod lupou aneb Jak úspěšně vybrat, financovat a koupit byt.",
     "duration": 3136,
     "name": "BTC jako revoluční zarážka evoluce nekrytých peněz",
     "project": "konference-sp",
@@ -29,7 +46,24 @@
     "people": [
       "L. Kovanda"
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "pWA28B-Y7gI",
+      "path": "/videos/all/pWA28B-Y7gI",
+      "duration": "3135.761",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/pWA28B-Y7gI/source.mp4",
+        "hash": "b8a17a2add111d3128ad84e9c5421f0be3ae12ccd9467077363287797017e612",
+        "size": 268923817,
+        "resolution": "1280x720",
+        "bitrate": "686082",
+        "videoCodec": "avc1",
+        "videoBitrate": 575674,
+        "audioCodec": "Opus",
+        "audioBitrate": 103079
+      }
+    }
   },
   {
     "id": "SkiubbsZq4g",
@@ -37,7 +71,7 @@
     "videoId": "SkiubbsZq4g",
     "url": "https://www.youtube.com/watch?v=SkiubbsZq4g",
     "publishedAt": "2022-06-10T14:57:44Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3Q9v9cbDmpHcXLgYsoc9yTnajqwDpPi17L\nLTC: LVx56HPN1fT8fTqF29N92g7VEzHNRqkDH2\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nTřetím přednášejícím „Konference Svobodného přístavu 2022: Peníze včera, dnes a zítra“ byl Urza se svou přednáškou „Internet ze starověku“.\n\nPeníze ve svých přednáškách občas nazývám „starověkým internetem“; jedná se o úžasný prostředek komunikace mezi lidmi, který krom informací přenáší navíc i motivace. Dle mého názoru jde o jeden z nejdůležitějších vynálezů lidstva; díky němu můžeme efektivně alokovat zdroje a vysílat důležité signály lidem, o jejichž existenci nemáme ani tušení, ale přesto s nimi můžeme – skrze systém cen – kooperovat a koordinovat naše úsilí při tvorbě bohatství. Tento způsob komunikace probíhá skvěle, dokud jej nezačnou narušovat státy, když chtějí „pomáhat a chránit“ své občany; většina lidí – politiky nevyjímaje – totiž vůbec nezná či nechápe tuto nedocenitelnou funkci peněz, takže ani nedohlédne důsledky jejího (částečného) paralyzování.\n\nUrza je autorem první české knihy o anarchokapitalismu a více než tisíce libertariánských textů na webu i v tištěných médiích. O svobodě, etice, vzdělávání, trhu, ekonomii a roli státu ve společnosti nejen přes deset let čte, přemýšlí a píše, ale též přednáší (třeba v rámci cyklu Anarchokapitalismus v Paralelní Polis a v (de)Centrále, ale také ve školách i na mnoha konferencích), natáčí videa a přijímá pozvání do různých pořadů či panelových diskusí, kde hájí svobodu jednotlivce.\nS manželkou Terezou tvoří Svobodný přístav; vede český a slovenský Institut Ludwiga von Misese, jenž založil spolu s dalšími anarchokapitalisty; vytváří Studio Svobodného přístavu, Stoky Svobodného přístavu, Kanál Svobodného přístavu i stránky Urza.cz; patří do předsednictva spolku Svoboda učení; aktivně spolupracuje s libertariánskými hnutími prosazujícími osobní i ekonomickou svobodu a píše články pro různé weby zabývající se fungováním společnosti.",
+    "desc": "Třetím přednášejícím „Konference Svobodného přístavu 2022: Peníze včera, dnes a zítra“ byl Urza se svou přednáškou „Internet ze starověku“.\n\nPeníze ve svých přednáškách občas nazývám „starověkým internetem“; jedná se o úžasný prostředek komunikace mezi lidmi, který krom informací přenáší navíc i motivace. Dle mého názoru jde o jeden z nejdůležitějších vynálezů lidstva; díky němu můžeme efektivně alokovat zdroje a vysílat důležité signály lidem, o jejichž existenci nemáme ani tušení, ale přesto s nimi můžeme – skrze systém cen – kooperovat a koordinovat naše úsilí při tvorbě bohatství. Tento způsob komunikace probíhá skvěle, dokud jej nezačnou narušovat státy, když chtějí „pomáhat a chránit“ své občany; většina lidí – politiky nevyjímaje – totiž vůbec nezná či nechápe tuto nedocenitelnou funkci peněz, takže ani nedohlédne důsledky jejího (částečného) paralyzování.\n\nUrza je autorem první české knihy o anarchokapitalismu a více než tisíce libertariánských textů na webu i v tištěných médiích. O svobodě, etice, vzdělávání, trhu, ekonomii a roli státu ve společnosti nejen přes deset let čte, přemýšlí a píše, ale též přednáší (třeba v rámci cyklu Anarchokapitalismus v Paralelní Polis a v (de)Centrále, ale také ve školách i na mnoha konferencích), natáčí videa a přijímá pozvání do různých pořadů či panelových diskusí, kde hájí svobodu jednotlivce.\nS manželkou Terezou tvoří Svobodný přístav; vede český a slovenský Institut Ludwiga von Misese, jenž založil spolu s dalšími anarchokapitalisty; vytváří Studio Svobodného přístavu, Stoky Svobodného přístavu, Kanál Svobodného přístavu i stránky Urza.cz; patří do předsednictva spolku Svoboda učení; aktivně spolupracuje s libertariánskými hnutími prosazujícími osobní i ekonomickou svobodu a píše články pro různé weby zabývající se fungováním společnosti.",
     "duration": 3334,
     "name": "Internet ze starověku",
     "project": "konference-sp",
@@ -45,7 +79,24 @@
     "people": [
       "urza"
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "SkiubbsZq4g",
+      "path": "/videos/all/SkiubbsZq4g",
+      "duration": "3333.801",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/SkiubbsZq4g/source.mp4",
+        "hash": "c3e2386d0ee199528d7ea129151e7563b1fd1464e3e04a739ef6e24e673c6e44",
+        "size": 328303622,
+        "resolution": "1280x720",
+        "bitrate": "787818",
+        "videoCodec": "avc1",
+        "videoBitrate": 668206,
+        "audioCodec": "Opus",
+        "audioBitrate": 112085
+      }
+    }
   },
   {
     "id": "StwrJl0nk9M",
@@ -53,15 +104,32 @@
     "videoId": "StwrJl0nk9M",
     "url": "https://www.youtube.com/watch?v=StwrJl0nk9M",
     "publishedAt": "2022-06-12T08:21:13Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3Q9v9cbDmpHcXLgYsoc9yTnajqwDpPi17L\nLTC: LVx56HPN1fT8fTqF29N92g7VEzHNRqkDH2\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nČtvrtým přednášejícím „Konference Svobodného přístavu 2022: Peníze včera, dnes a zítra“ byl Pepa Tětek se svou přednáškou „Bitcoin: peníze, které osvobozují“.\n\nZatímco na západě je bitcoin často vnímán jako zpestření portfolia, v chudých zemích se rapidně stává nástrojem osvobození. Jak se k bitcoinu staví lidé ze zemí jako je Kuba, Jihoafrická republika, či Libanon? A proč lidem bez finančního privilegia často docvakne bitcoin hned po prvním seznámení?\n\nJosef Tětek je ekonom s dlouhodobým zájmem o podstatu peněz a bitcoin. Je brand ambassadorem hardwarové peněženky Trezor a tvůrce Stackuj.cz Podcastu. Josef je autorem knih Nepřátelé státu, přátelé svobody a Bitcoin: Odluka peněz od státu. Na Twitteru ho najdete jako SatsJoseph.",
+    "desc": "Čtvrtým přednášejícím „Konference Svobodného přístavu 2022: Peníze včera, dnes a zítra“ byl Pepa Tětek se svou přednáškou „Bitcoin: peníze, které osvobozují“.\n\nZatímco na západě je bitcoin často vnímán jako zpestření portfolia, v chudých zemích se rapidně stává nástrojem osvobození. Jak se k bitcoinu staví lidé ze zemí jako je Kuba, Jihoafrická republika, či Libanon? A proč lidem bez finančního privilegia často docvakne bitcoin hned po prvním seznámení?\n\nJosef Tětek je ekonom s dlouhodobým zájmem o podstatu peněz a bitcoin. Je brand ambassadorem hardwarové peněženky Trezor a tvůrce Stackuj.cz Podcastu. Josef je autorem knih Nepřátelé státu, přátelé svobody a Bitcoin: Odluka peněz od státu. Na Twitteru ho najdete jako SatsJoseph.",
     "duration": 1984,
     "name": "Bitcoin – peníze, které osvobozují",
     "project": "konference-sp",
     "event": "ksp22",
     "people": [
-      "Pepa Tětek"
+      "Pepa Tětek|josef-tetek"
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "StwrJl0nk9M",
+      "path": "/videos/all/StwrJl0nk9M",
+      "duration": "1983.041",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/StwrJl0nk9M/source.mp4",
+        "hash": "929ce18d29fe05e7fa1fd8a76430fb5d15eabf093ba42b3583a2441aae296427",
+        "size": 216430154,
+        "resolution": "1280x720",
+        "bitrate": "873124",
+        "videoCodec": "avc1",
+        "videoBitrate": 755960,
+        "audioCodec": "Opus",
+        "audioBitrate": 109480
+      }
+    }
   },
   {
     "id": "lyBW-fHRfKU",
@@ -69,7 +137,7 @@
     "videoId": "lyBW-fHRfKU",
     "url": "https://www.youtube.com/watch?v=lyBW-fHRfKU",
     "publishedAt": "2022-06-17T08:52:06Z",
-    "desc": "Omlouváme se za kvalitu zvuku; dělali jsme, co se dalo, ale dvě přednášky jsme nezaznamenali tak kvalitně, jak jsme si přáli.\n--------\nChcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3Q9v9cbDmpHcXLgYsoc9yTnajqwDpPi17L\nLTC: LVx56HPN1fT8fTqF29N92g7VEzHNRqkDH2\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nPátým přednášejícím „Konference Svobodného přístavu 2022: Peníze včera, dnes a zítra“ byl Mojmír Hampl se svou přednáškou „Elastické peníze – podstata současného monetárního systému“.\n\nJe s podivem, že peněžní systém denně všichni používáme, ale přitom často i poučenější lidé mají jen matnou či dokonce nulovou představu o jeho podstatě a fungování. V přednášce se zaměříme na to, v čem je současný systém elastických peněz odlišný od systémů fixních peněz a vysvětlíme, jak a kde peníze vznikají a zanikají.\n\nMojmír Hampl je český ekonom, bankéř a publicista s tituly z Vysoké školy ekonomické v Praze a University of Surrey ve Velké Británii. Většinu svého dosavadního profesního života zasvětil České národní bance (ČNB), kam nastoupil jako analytik po obhajobě diplomové práce u tehdejšího viceguvernéra ČNB Pavla Kysilky.\nPo čtyřleté přestávce, kdy působil jako ekonom v České spořitelně a později jako člen vedení České konsolidační agentury, se v roce 2006 do ČNB vrátil, když byl jmenován do její bankovní rady. Mezi lety 2008 a 2018 zastával funkci viceguvernéra ČNB. Celý život se ve svých pracích opakovaně vrací k tématu peněz, měn a centrálních bank. I proto je znám svými velmi ostrými názory na téma eura a také evropské integrace. Publikoval více než tři sta populárních a odborných článků v nejrůznějších oblastech jeho širokého zájmu - od makroekonomie, přes ekonomickou historii až po příspěvky na téma kryptoměn. Přednášel na řadě míst světa, zejména o měnové politice a centrálním bankovnictví.",
+    "desc": "Omlouváme se za kvalitu zvuku; dělali jsme, co se dalo, ale dvě přednášky jsme nezaznamenali tak kvalitně, jak jsme si přáli.\n--------\nPátým přednášejícím „Konference Svobodného přístavu 2022: Peníze včera, dnes a zítra“ byl Mojmír Hampl se svou přednáškou „Elastické peníze – podstata současného monetárního systému“.\n\nJe s podivem, že peněžní systém denně všichni používáme, ale přitom často i poučenější lidé mají jen matnou či dokonce nulovou představu o jeho podstatě a fungování. V přednášce se zaměříme na to, v čem je současný systém elastických peněz odlišný od systémů fixních peněz a vysvětlíme, jak a kde peníze vznikají a zanikají.\n\nMojmír Hampl je český ekonom, bankéř a publicista s tituly z Vysoké školy ekonomické v Praze a University of Surrey ve Velké Británii. Většinu svého dosavadního profesního života zasvětil České národní bance (ČNB), kam nastoupil jako analytik po obhajobě diplomové práce u tehdejšího viceguvernéra ČNB Pavla Kysilky.\nPo čtyřleté přestávce, kdy působil jako ekonom v České spořitelně a později jako člen vedení České konsolidační agentury, se v roce 2006 do ČNB vrátil, když byl jmenován do její bankovní rady. Mezi lety 2008 a 2018 zastával funkci viceguvernéra ČNB. Celý život se ve svých pracích opakovaně vrací k tématu peněz, měn a centrálních bank. I proto je znám svými velmi ostrými názory na téma eura a také evropské integrace. Publikoval více než tři sta populárních a odborných článků v nejrůznějších oblastech jeho širokého zájmu - od makroekonomie, přes ekonomickou historii až po příspěvky na téma kryptoměn. Přednášel na řadě míst světa, zejména o měnové politice a centrálním bankovnictví.",
     "duration": 2447,
     "name": "Elastické peníze",
     "project": "konference-sp",
@@ -77,7 +145,24 @@
     "people": [
       "Mojmír Hampl"
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "lyBW-fHRfKU",
+      "path": "/videos/all/lyBW-fHRfKU",
+      "duration": "2446.061",
+      "framerate": "29.970",
+      "source": {
+        "path": "/videos/all/lyBW-fHRfKU/source.mp4",
+        "hash": "00be12b42d1c616ab3e187f7b4b65e4830896c00675f4e2122c57bd294cd8fbe",
+        "size": 224863676,
+        "resolution": "1280x720",
+        "bitrate": "735431",
+        "videoCodec": "avc1",
+        "videoBitrate": 633859,
+        "audioCodec": "Opus",
+        "audioBitrate": 93461
+      }
+    }
   },
   {
     "id": "7BoyLIptCWA",
@@ -85,15 +170,33 @@
     "videoId": "7BoyLIptCWA",
     "url": "https://www.youtube.com/watch?v=7BoyLIptCWA",
     "publishedAt": "2022-06-18T14:02:44Z",
-    "desc": "Omlouváme se za kvalitu zvuku; dělali jsme, co se dalo, ale dvě přednášky jsme nezaznamenali tak kvalitně, jak jsme si přáli.\n--------\nChcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3Q9v9cbDmpHcXLgYsoc9yTnajqwDpPi17L\nLTC: LVx56HPN1fT8fTqF29N92g7VEzHNRqkDH2\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nKonferenci „Konference Svobodného přístavu 2022: Peníze včera, dnes a zítra“ uzavřeli Marianna Sádecká a Palo Lupták se svou přednáškou „Peniaze Latinskej Ameriky“.\n\nAké úžitkové predmety je možné vyrobiť z venezuelských bolivarov? Prečo v Uruguaji nikdy nepoužívať hotovosť? Prečo naopak v Argentíne nikdy nepoužívať platobné karty? Je lepší na posielanie peňazí Bitcoin alebo Western Union? Aké krypto peňaženky používať v El Salvadore? Čo je panamský balboa? V ktorých latinskoamerických krajinách sa dá platiť eurom?\n\nMarianna Sádecká sa pohráva so životom na viacerých poliach – na poli ekonomickom, na ktorom sa jej pozdávajú tie najslobodnejšie cesty a tiež na poli umeleckom s divadlom a hudbou. Študovala politickú ekonómiu a médiá, no vždy k tomu pridávala záujem o nové technológie. Kryptomeny a šifrovacie nástroje považuje za mocný nástroj na ochranu súkromia človeka. Podieľala sa na Demobite – festivale počítačového umenia, zakladala Slovak Students for Liberty považujúc za dôležité zvyšovať ekonomickú gramotnosť. Rada zoširoka vníma život a experimentuje – v hudbe, jedle aj cestovaní. Miluje Berlín, Belehrad, Brno, Bratislavu aj Latinskú Ameriku.\n\nPavol Luptak je kryptoanarchista a voluntaryista, který se věnuje technologickému a společenskému hackingu. Svou kariéru začal jako počítačový hacker s mnoha prestižními certifikáty v oblasti IT bezpečnosti. V roce 2007 založil IT bezpečnostní společnost Nethemba zaměřenou na penetrační testy a etický hacking, několik let poté spoluzaložil společnost Hacktrophy. Je zodpovědný za řadu projektů v oblasti veřejné bezpečnosti (např. prolomení nejpoužívanějších karet Mifare Classic, hackování veřejných SMS jízdenek na dopravu/parkoviště, hack e-Kasa). Jako hackerský nadšenec spoluzaložil hackerspace Progressbar v Bratislavě a Paralelní Polis v Praze a Bratislava. Kromě technologií Pavol miluje i současné umění. Stal se členem známé české skupiny současného umění Ztohoven, která je zodpovědná za mnoho hacktivistických projektů současného \"mediálního sochařství\", a spolu se svým přítelem založil společnost pro digitální umění Satori. S vývojem Paralelní Polis se Pavol rozhodl dosáhnout své vize - úplného opt-outu ze systému. Díky globálnosti a flexibilitě se rozhodl vzdát trvalého pobytu, přešel z bankovních účtů na kryptoměny, začal využívat globální zdravotní péči a stal se globálním občanem.",
+    "desc": "Omlouváme se za kvalitu zvuku; dělali jsme, co se dalo, ale dvě přednášky jsme nezaznamenali tak kvalitně, jak jsme si přáli.\n--------\nKonferenci „Konference Svobodného přístavu 2022: Peníze včera, dnes a zítra“ uzavřeli Marianna Sádecká a Palo Lupták se svou přednáškou „Peniaze Latinskej Ameriky“.\n\nAké úžitkové predmety je možné vyrobiť z venezuelských bolivarov? Prečo v Uruguaji nikdy nepoužívať hotovosť? Prečo naopak v Argentíne nikdy nepoužívať platobné karty? Je lepší na posielanie peňazí Bitcoin alebo Western Union? Aké krypto peňaženky používať v El Salvadore? Čo je panamský balboa? V ktorých latinskoamerických krajinách sa dá platiť eurom?\n\nMarianna Sádecká sa pohráva so životom na viacerých poliach – na poli ekonomickom, na ktorom sa jej pozdávajú tie najslobodnejšie cesty a tiež na poli umeleckom s divadlom a hudbou. Študovala politickú ekonómiu a médiá, no vždy k tomu pridávala záujem o nové technológie. Kryptomeny a šifrovacie nástroje považuje za mocný nástroj na ochranu súkromia človeka. Podieľala sa na Demobite – festivale počítačového umenia, zakladala Slovak Students for Liberty považujúc za dôležité zvyšovať ekonomickú gramotnosť. Rada zoširoka vníma život a experimentuje – v hudbe, jedle aj cestovaní. Miluje Berlín, Belehrad, Brno, Bratislavu aj Latinskú Ameriku.\n\nPavol Luptak je kryptoanarchista a voluntaryista, který se věnuje technologickému a společenskému hackingu. Svou kariéru začal jako počítačový hacker s mnoha prestižními certifikáty v oblasti IT bezpečnosti. V roce 2007 založil IT bezpečnostní společnost Nethemba zaměřenou na penetrační testy a etický hacking, několik let poté spoluzaložil společnost Hacktrophy. Je zodpovědný za řadu projektů v oblasti veřejné bezpečnosti (např. prolomení nejpoužívanějších karet Mifare Classic, hackování veřejných SMS jízdenek na dopravu/parkoviště, hack e-Kasa). Jako hackerský nadšenec spoluzaložil hackerspace Progressbar v Bratislavě a Paralelní Polis v Praze a Bratislava. Kromě technologií Pavol miluje i současné umění. Stal se členem známé české skupiny současného umění Ztohoven, která je zodpovědná za mnoho hacktivistických projektů současného \"mediálního sochařství\", a spolu se svým přítelem založil společnost pro digitální umění Satori. S vývojem Paralelní Polis se Pavol rozhodl dosáhnout své vize - úplného opt-outu ze systému. Díky globálnosti a flexibilitě se rozhodl vzdát trvalého pobytu, přešel z bankovních účtů na kryptoměny, začal využívat globální zdravotní péči a stal se globálním občanem.",
     "duration": 3033,
     "name": "Peniaze Latinskej Ameriky",
     "project": "konference-sp",
     "event": "ksp22",
     "people": [
-      "Marianna Sádecká a Palo Lupták"
+      "Marianna Sádecká",
+      "Palo Lupták|wilder"
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "7BoyLIptCWA",
+      "path": "/videos/all/7BoyLIptCWA",
+      "duration": "3032.701",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/7BoyLIptCWA/source.mp4",
+        "hash": "62cfafe4204f1e89d795072b76a665ef0a731ded559aa50145242ebf17fb9a19",
+        "size": 466804240,
+        "resolution": "1280x720",
+        "bitrate": "1231389",
+        "videoCodec": "avc1",
+        "videoBitrate": 1130953,
+        "audioCodec": "Opus",
+        "audioBitrate": 93244
+      }
+    }
   },
   {
     "id": "UHuQlCqLfLA",
@@ -101,7 +204,7 @@
     "videoId": "UHuQlCqLfLA",
     "url": "https://www.youtube.com/watch?v=UHuQlCqLfLA",
     "publishedAt": "2022-06-25T09:45:37Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3Q9v9cbDmpHcXLgYsoc9yTnajqwDpPi17L\nLTC: LVx56HPN1fT8fTqF29N92g7VEzHNRqkDH2\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nNe všichni účastníci „Konference Svobodného přístavu 2022: Peníze včera, dnes a zítra“ potřebují pauzu na oběd; a právě pro ty připravil Honza Pobořil svůj workshop „Úvod do Bitcoinu“.\n\nHonza Pobořil je vývojář na volné noze, konzultant a specialista na Bitcoin; je spolutvůrcem projektu berubitcoin.cz.",
+    "desc": "Ne všichni účastníci „Konference Svobodného přístavu 2022: Peníze včera, dnes a zítra“ potřebují pauzu na oběd; a právě pro ty připravil Honza Pobořil svůj workshop „Úvod do Bitcoinu“.\n\nHonza Pobořil je vývojář na volné noze, konzultant a specialista na Bitcoin; je spolutvůrcem projektu berubitcoin.cz.",
     "duration": 2467,
     "name": "Workshop – Úvod do Bitcoinu",
     "project": "konference-sp",
@@ -109,7 +212,24 @@
     "people": [
       "Honza Pobořil"
     ],
-    "lang": "cs"
+    "lang": "cs",
+    "storage": {
+      "id": "UHuQlCqLfLA",
+      "path": "/videos/all/UHuQlCqLfLA",
+      "duration": "2466.221",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/UHuQlCqLfLA/source.mp4",
+        "hash": "ba193b904d2bc54b3e0e3e76f68b9811a2331c45fc33a928443d2a5a1de876a3",
+        "size": 361006136,
+        "resolution": "1280x720",
+        "bitrate": "1171042",
+        "videoCodec": "avc1",
+        "videoBitrate": 1036371,
+        "audioCodec": "Opus",
+        "audioBitrate": 127413
+      }
+    }
   },
   {
     "id": "f-kb3YpLNpA",
@@ -117,12 +237,35 @@
     "videoId": "f-kb3YpLNpA",
     "url": "https://www.youtube.com/watch?v=f-kb3YpLNpA",
     "publishedAt": "2022-06-26T09:48:24Z",
-    "desc": "Chcete-li podpořit tuto i další Konference Svobodného přístavu, prosím, pošlete dobrovolný příspěvek v krypto či korunách!\nBTC: 3Q9v9cbDmpHcXLgYsoc9yTnajqwDpPi17L\nLTC: LVx56HPN1fT8fTqF29N92g7VEzHNRqkDH2\nČíslo účtu: 2201359764/2010; variabilní symbol: 5\n--------\nKonferenci Svobodného přístavu 2022: Peníze včera, dnes a zítra jsme zakončili panelovou diskusí, které se zúčastnili Palo Lupták, Mojmír Hampl, Urza a Pepa Tětek; role moderátorky se ujala Tereza Urzová.\n\nDěkujeme všem diskutujícím, posluchačům, podporovatelům (https://opristavu.urza.cz/), propagátorům i celému realizačnímu týmu.\n\nKompletní program konference naleznete zde:\nhttps://konference.urza.cz/2022/img/program.1024x1448.png",
+    "desc": "Konferenci Svobodného přístavu 2022: Peníze včera, dnes a zítra jsme zakončili panelovou diskusí, které se zúčastnili Palo Lupták, Mojmír Hampl, Urza a Pepa Tětek; role moderátorky se ujala Tereza Urzová.\n\nDěkujeme všem diskutujícím, posluchačům, podporovatelům (https://opristavu.urza.cz/), propagátorům i celému realizačnímu týmu.\n\nKompletní program konference naleznete zde:\nhttps://konference.urza.cz/2022/img/program.1024x1448.png",
     "duration": 5111,
     "name": "Panelová diskuse Konference Svobodného přístavu 2022: Peníze včera, dnes a zítra",
-    "people": [],
+    "people": [
+      "Palo Lupták|wilder",
+      "Mojmír Hampl",
+      "Urza|urza",
+      "Pepa Tětek|josef-tetek",
+      "Tereza Urzová"
+    ],
     "lang": "cs",
     "project": "konference-sp",
-    "event": "ksp22"
+    "event": "ksp22",
+    "storage": {
+      "id": "f-kb3YpLNpA",
+      "path": "/videos/all/f-kb3YpLNpA",
+      "duration": "5110.281",
+      "framerate": "30.000",
+      "source": {
+        "path": "/videos/all/f-kb3YpLNpA/source.mp4",
+        "hash": "7283de04eebbd041e801babfdab182a69aadf9b678dd222abe4070be9849afc5",
+        "size": 453037679,
+        "resolution": "1280x720",
+        "bitrate": "709218",
+        "videoCodec": "avc1",
+        "videoBitrate": 590182,
+        "audioCodec": "Opus",
+        "audioBitrate": 110901
+      }
+    }
   }
 ]

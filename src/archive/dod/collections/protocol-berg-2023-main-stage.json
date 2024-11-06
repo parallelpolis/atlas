@@ -1,0 +1,261 @@
+[
+  {
+    "id": "jBJabe_rWIE",
+    "slug": "protocol-berg-2023-protocol-berg-opening-ceremony",
+    "videoId": "jBJabe_rWIE",
+    "url": "https://www.youtube.com/watch?v=jBJabe_rWIE",
+    "publishedAt": "2023-10-06T14:10:30Z",
+    "desc": "The Department of Decentralization welcomes you to Protocol Berg!\n\n\n\nWe briefly run you through the concept of the event and the program highlights of the day. Furthermore, we share logistical and operational tips on how to navigate the venue, information on food and drinks, and more.\n\n\nhttps://protocol.berlin",
+    "duration": 791,
+    "name": "Protocol Berg: Opening Ceremony",
+    "people": [
+      "Franziska Heintel|franzi",
+      "Afri Schoedon|afri"
+    ],
+    "project": "protocol-berg",
+    "event": "protocol-berg-2023"
+  },
+  {
+    "id": "poF6RaCurQQ",
+    "slug": "protocol-berg-2023-measuring-decentralization-across-l2-networks",
+    "videoId": "poF6RaCurQQ",
+    "url": "https://www.youtube.com/watch?v=poF6RaCurQQ",
+    "publishedAt": "2023-10-04T10:33:35Z",
+    "desc": "Measuring Decentralization Across L2 Networks\n\nMany studies and analyses have been performed on Layer-1 protocols that measure decentralization to the point where we have an accepted set of standards. Such standards include, but are not limited to, nakamoto coefficient, validator distribution, and full node counts. This talk explores the challenges in measuring decentralization across layer-2s on Ethereum, Polkadot and Cosmos where the technology varies and creates new avenues of centralization more obscured from the view of users.\n\nAsynchronous Phil - A Berlin professional since 2013, focused on Bitcoin, Ethereum and Polkadot. Communications for Parity Technologies 2017-2022, now an independent contributor to Ethereum and Polkadot communications.\n\nhttps://protocol.berlin",
+    "duration": 1214,
+    "name": "Measuring Decentralization Across L2 Networks",
+    "project": "protocol-berg",
+    "event": "protocol-berg-2023",
+    "people": [
+      "Asynchronous Phil"
+    ]
+  },
+  {
+    "id": "Q8V0FuoP2ZQ",
+    "slug": "protocol-berg-2023-idk-what-x-is-and-at-this-point-im-afraid-to-ask",
+    "videoId": "Q8V0FuoP2ZQ",
+    "url": "https://www.youtube.com/watch?v=Q8V0FuoP2ZQ",
+    "publishedAt": "2023-10-04T10:40:03Z",
+    "desc": "idk what x is and at this point i'm afraid to ask\n\ntogether we will speed run the definitions of the terms that you've heard but would hate for someone to ask you to define on a podcast.\n\nJenny Pollack - jenny is an engineer turned product leader and a long time believer in decentralized applications and the infrastructure and communities that form them\n\nhttps://protocol.berlin",
+    "duration": 1236,
+    "name": "idk what x is and at this point i'm afraid to ask",
+    "project": "protocol-berg",
+    "event": "protocol-berg-2023",
+    "people": [
+      "Jenny Pollack"
+    ]
+  },
+  {
+    "id": "AJDJvMS8LIE",
+    "slug": "protocol-berg-2023-verkle-sync-bring-a-node-up-in-minutes",
+    "videoId": "AJDJvMS8LIE",
+    "url": "https://www.youtube.com/watch?v=AJDJvMS8LIE",
+    "publishedAt": "2023-10-04T11:56:35Z",
+    "desc": "Verkle sync: bring a node up in minutes\n\nA high-level introduction to verkle sync, a synchronization algorithm made possible by the use of verkle trees and stateless Ethereum.\n\nGuillaume Ballet: Core developer, member of the geth team. I focus on evolutions to the protocol, and bringing research ideas to fruition.\n\n Tanishq Jasoria\n\nhttps://protocol.berlin",
+    "duration": 1502,
+    "name": "Verkle sync: bring a node up in minutes",
+    "project": "protocol-berg",
+    "event": "protocol-berg-2023",
+    "people": [
+      "Guillaume Ballet",
+      "Tanishq Jasoria"
+    ]
+  },
+  {
+    "id": "P52kocriqFY",
+    "slug": "protocol-berg-2023-powdr-a-modular-stack-for-zkvms",
+    "videoId": "P52kocriqFY",
+    "url": "https://www.youtube.com/watch?v=P52kocriqFY",
+    "publishedAt": "2023-10-04T11:59:45Z",
+    "desc": "powdr - a modular stack for zkVMs\n\n\nIn the recent months, there has been a surge in the popularity of zkVM implementations. Many of these use specialized solutions and code, sometimes even all the way down to the cryptography, which makes these zkVMs very monolithic and non-interoperable.\n\n\nPowdr takes a modular approach to designing and constructing zkVMs, employing multiple compilation and optimization stages to arrive at the final prover and verifier. Users can define custom instruction sets for a VM, specify how those compile to constraints, generate sub-machines and declare how to connect them. Moreover, the flexibility of powdr enables users to select from a variety of proving backends when generating the prover and verifier components.\n\n\nTo validate this concept, we have successfully developed a fully functional verifier that compiles (no-std) Rust code into eSTARK and Halo2 proofs via the RISC-V architecture. Additionally, we are currently working on adapting this verifier to wasm and Valida, VMs that take very different architectural approaches than RISC-V.\n\n\nChristian Reitwiessner is widely recognized for his substantial contributions to the Ethereum ecosystem, mainly for developing the smart contract language Solidity and improvements to the Ethereum Virtual Machine. Recently, his focus lies in advancing zero-knowledge technologies, particularly through his work on the powdr project.\n\n\nhttps://protocol.berlin",
+    "duration": 1547,
+    "name": "powdr: a modular stack for zkVMs",
+    "project": "protocol-berg",
+    "event": "protocol-berg-2023",
+    "people": [
+      "Christian Reitwiessner"
+    ]
+  },
+  {
+    "id": "3vD892-GZ9s",
+    "slug": "protocol-berg-2023-will-your-crypto-project-be-censored-philosophy-and-practice",
+    "videoId": "3vD892-GZ9s",
+    "url": "https://www.youtube.com/watch?v=3vD892-GZ9s",
+    "publishedAt": "2023-10-04T14:48:50Z",
+    "desc": "Will your crypto project be censored?\n\nCensorship is spreading, from Infura blocking IP addresses, to Github taking the Tornado Cash repo down. This talk will provide a legal anthropological analysis of the elements that might put a project at risk, so that you can take the necessary steps to protect your efforts.\n\n\nCostanza Gallo - I work for the Swarm Foundation where I recently led the project Wikipedia on Swarm, to make a web3 censorship resistant copy of Wikipedia. Prior to that, I was community manager with the Golem Network. I have a MSc in Law, Anthropology and Society from the London School of Economics, where I focused on the interplay between State Secrecy and Democratic Governance. But my passion for freedom of speech goes way back: my father was a satirical cartoonist and a political journalist, he was often the target of censorship attempts so it’s a family affair.\n\nhttps://protocol.berlin",
+    "duration": 1203,
+    "name": "Will your crypto project be censored Philosophy and practice",
+    "project": "protocol-berg",
+    "event": "protocol-berg-2023",
+    "people": [
+      "Costanza Gallo"
+    ]
+  },
+  {
+    "id": "O9QZveTdW5I",
+    "slug": "protocol-berg-2023-parachain-consensus-from-the-ground-up",
+    "videoId": "O9QZveTdW5I",
+    "url": "https://www.youtube.com/watch?v=O9QZveTdW5I",
+    "publishedAt": "2023-10-04T15:46:58Z",
+    "desc": "Polkadot Parachain Consensus went live in December 2021. What is it? How does it work? How does it compare to scaling solutions on Ethereum? Are parachains a rollup?\n\neskimor - I am father of twins and a programmer. At the age of 15, I heard that ordinary people can actually program computers, I bought a 1200 page book about C++ and started learning. I sticked with C++ for quite a while, learned Java, went back to C++, learned D, Python, Haskell and eventually Rust. Then I became interested in peer-to-peer systems, experimented with rust-libp2p and found that blockchains could play a major role in mitigating shortcomings of p2p systems. So it happened that I applied at Parity Technologies as a core developer. At Parity Technologies I am driving and implementing major parts of Polkadot's Parachain consensus.\n\nhttps://protocol.berlin",
+    "duration": 1222,
+    "name": "Parachain Consensus from the Ground Up",
+    "project": "protocol-berg",
+    "event": "protocol-berg-2023",
+    "people": [
+      "eskimor"
+    ]
+  },
+  {
+    "id": "UkxVcmFDsmI",
+    "slug": "protocol-berg-2023-creating-a-browser-embedded-light-client-a-post-mortem",
+    "videoId": "UkxVcmFDsmI",
+    "url": "https://www.youtube.com/watch?v=UkxVcmFDsmI",
+    "publishedAt": "2023-10-04T15:49:06Z",
+    "desc": "Smoldot is a JavaScript package containing a light client for the Polkadot network, that can run from within a web page. Its development, which started nearly 4 years ago, was no easy feat. This talk is a post-modern that will go over the challenges that have been encountered and how we solved them.\n\ntomaka - Pierre Krieger has been in the Rust ecosystem since 2014. After leading several popular open source repositories such as glutin, glium, vulkano, or redshirt, he joined Parity Technologies in 2017 where he led the networking team of Substrate (the framework Polkadot uses). He left Parity at the end of 2022 in order to focus on its work on a Substrate/Polkadot light client as a freelance.\n\nhttps://protocol.berlin",
+    "duration": 1421,
+    "name": "Creating a browser embedded light client: a post-mortem",
+    "project": "protocol-berg",
+    "event": "protocol-berg-2023",
+    "people": [
+      "tomaka"
+    ]
+  },
+  {
+    "id": "sOddvRJHu50",
+    "slug": "protocol-berg-2023-modular-interoperability-lets-get-to-1-standard-before-there-are-15",
+    "videoId": "sOddvRJHu50",
+    "url": "https://www.youtube.com/watch?v=sOddvRJHu50",
+    "publishedAt": "2023-10-04T15:54:11Z",
+    "desc": "Charly and Susannah explain to you a modular framework for understanding and talking about interoperability, and try to convince you to participate in the creation of a single standard for one layer in this modular framework (hint: the corollary being TCP/IP)\n\nSusannah Evans is the product lead for the IBC team at Interchain\n\nCharleen Fei\n\nhttps://protocol.berlin",
+    "duration": 1451,
+    "name": "Modular Interoperability let's get to 1 standard, before there are 15",
+    "project": "protocol-berg",
+    "event": "protocol-berg-2023",
+    "people": [
+      "Evans",
+      "Fei"
+    ]
+  },
+  {
+    "id": "kEOZ5rPgKdM",
+    "slug": "protocol-berg-2023-dynamic-ibc-the-new-wave-of-dapp-composability",
+    "videoId": "kEOZ5rPgKdM",
+    "url": "https://www.youtube.com/watch?v=kEOZ5rPgKdM",
+    "publishedAt": "2023-10-04T15:56:06Z",
+    "desc": "Until now, interoperable applications using IBC could only be built by launching your own chain on Cosmos. The new Dynamic IBC (dIBC) creates new possibilities for smart contracts to create their own data packets and compose with other dApps and appchains to unlock a new battery of use cases in web3.\n\n\nFederico Kunze Küllmer - Evmos Co-founder. Cosmos Core Contributor. IBC Core Engineer.\n\nhttps://protocol.berlin",
+    "duration": 1281,
+    "name": "Dynamic IBC: the new wave of dApp composability",
+    "project": "protocol-berg",
+    "event": "protocol-berg-2023",
+    "people": [
+      "Federico Kunze Küllmer"
+    ]
+  },
+  {
+    "id": "j7b8Upipmeg",
+    "slug": "protocol-berg-2023-agile-coretime",
+    "videoId": "j7b8Upipmeg",
+    "url": "https://www.youtube.com/watch?v=j7b8Upipmeg",
+    "publishedAt": "2023-10-04T16:39:40Z",
+    "desc": "The \"Polkadot Ubiquitous Computer\" (or just Polkadot UC), represents the public service provided by the Polkadot Network: it is a trust-free, WebAssembly-based, multicore, internet-native omnipresent virtual machine which is highly resilient to interference and corruption. The present system of allocating resources of the Polkadot Ubiquitous Computer (parachain slot auctions) is based on a model of one-core-per-parachain: this is a legacy interpretation of the Polkadot platform and is not a reflection of its present capabilities. With Polkadot's capability to adapt to its users'need, a new paradign for allocating coretime is being implemented by ecosystem teams. Coretime on the Polkadot UC is envisioned to be sold by the Polkadot System in two separate formats: Bulk Coretime and Instantaneous Coretime. When a Polkadot Core is utilized, we say it is dedicated to a \"Task\" rather than a \"parachain\". The Task to which a Core is dedicated may change at every Relay-chain block and while one predominant type of Task is to secure a Cumulus-based blockchain (i.e. a parachain), other types of Tasks are envisioned. Bulk Coretime is sold periodically on a specialised system chain known as the \"Coretime-chain\" and allocated in advance of its usage, whereas Instantaneous Coretime is sold on the Relay-chain immediately prior to usage on a block-by-block basis.\n\nGavin Wood\n\nhttps://protocol.berlin",
+    "duration": 2833,
+    "name": "Agile Coretime",
+    "project": "protocol-berg",
+    "event": "protocol-berg-2023",
+    "people": [
+      "Gavin Wood"
+    ]
+  },
+  {
+    "id": "AQFksVANMew",
+    "slug": "protocol-berg-2023-interplanetary-consensus-scaling-the-open-data-economy",
+    "videoId": "AQFksVANMew",
+    "url": "https://www.youtube.com/watch?v=AQFksVANMew",
+    "publishedAt": "2023-10-04T16:44:51Z",
+    "desc": "Consensus poses a major scalability bottleneck in blockchain networks - hampering web-scale applications like Twitch, Twitter, Tiktok, or web3 alternatives to scale within web3. Interplanetary Consensus (IPC) is a new framework to enable on-demand horizontal scalability of Filecoin to meet web-scale application demands - unlocking an open data economy of composable subnets for scalable computation, fast data retrievals, application-specific gaming networks, and more on the Filecoin network.\n\nMolly Mackinlay leads Engineering and Research Development at Protocol Labs. This includes OSS stewardship across IPFS, Filecoin, and libp2p; designing and managing new breakthroughs like the Filecoin Virtual Machine (FVM); and helping launch new networks like Saturn (web3 CDN) and IPC (L2 subnets). Her work at PL also involves past roles as IPFS Project Lead and launching the Filecoin mainnet. She started her career as an (A)PM at Google after graduating from Stanford.\n\nhttps://protocol.berlin",
+    "duration": 1559,
+    "name": "InterPlanetary Consensus: Scaling the open data economy",
+    "project": "protocol-berg",
+    "event": "protocol-berg-2023",
+    "people": [
+      "Molly Mackinlay"
+    ]
+  },
+  {
+    "id": "-9g7ab_FEZY",
+    "slug": "protocol-berg-2023-protocol-berg-special-the-blockspace-expo",
+    "videoId": "-9g7ab_FEZY",
+    "url": "https://www.youtube.com/watch?v=-9g7ab_FEZY",
+    "publishedAt": "2023-10-04T17:00:09Z",
+    "desc": "Protocol researchers and developers from distant ecosystems gather to talk about their blockspace.\n\n\n\nWe present a workshop centred around blockspace and its provision in four different ecosystems. Blockspace is the key resource supplied by blockchains, which allows users to transact. Considerable infrastructure has now seen the light of day towards refining blockspace and delivering more value across the stack, from users to the protocol. But blockspace is not an homogenous resource, being deeply tied with both the consensus protocols which supply it and the infrastructure which refines it. Comparing notes between ecosystems will allow us to uncover best practices and opportunities to learn from one another.\n\n\nOur workshop will feature researchers and developers from four different ecosystems, represented by:\n- Robert Habermeier (Polkadot)\n- Sam Hart (Skip Protocol)\n- Jannik Luhn (Shutter Network)\n- Barnabé Monnot (Robust Incentives Group @ Ethereum Foundation)\n\n\nEach speaker will present key facts about their blockspace, its design and its philosophy (4x 8mins each). After these opening remarks, we feature a panel moderated by Christopher Goes (Heliax) to dive into the deep questions (~40 mins). Expect resource pricing, MEV, base-layer encryption, composability and many other themes to be discussed!\n\n\nhttps://protocol.berlin",
+    "duration": 4808,
+    "name": "Protocol Berg Special: The Blockspace Expo",
+    "people": [],
+    "project": "protocol-berg",
+    "event": "protocol-berg-2023"
+  },
+  {
+    "id": "MgQHzzTb0zk",
+    "slug": "protocol-berg-2023-how-to-unleash-the-power-of-account-abstraction",
+    "videoId": "MgQHzzTb0zk",
+    "url": "https://www.youtube.com/watch?v=MgQHzzTb0zk",
+    "publishedAt": "2023-10-04T17:02:20Z",
+    "desc": "EIP-4337 gave some guidelines and visibility for Account Abstraction, but this is only the start. To fully unfold the power of smart contract based accounts it requires careful considerations and good standards. In this talk we want to give an overview on the current state of modular smart contract accounts and how to fully take advantage of the flexibility that comes with them.\n\nRichard Meissner is the co-founder of Safe with almost a decade of experience as a software engineer. He joined the Gnosis team in 2017 as the tech lead for Gnosis Safe. Working behind the scenes, Richard is setting security standards for Web3 by building the safest digital asset manager and expanding the possibilities of digital asset ownership. Richard is also a thought leader on account abstraction and what it enables for the future of web3.\n\nhttps://protocol.berlin",
+    "duration": 1517,
+    "name": "How to unleash the power of Account Abstraction",
+    "project": "protocol-berg",
+    "event": "protocol-berg-2023",
+    "people": [
+      "Richard Meissner"
+    ]
+  },
+  {
+    "id": "-_R0yiEpjbk",
+    "slug": "protocol-berg-2023-misadventures-in-governance",
+    "videoId": "-_R0yiEpjbk",
+    "url": "https://www.youtube.com/watch?v=-_R0yiEpjbk",
+    "publishedAt": "2023-10-04T17:06:42Z",
+    "desc": "Eyewitness Reports from a Decade-Long Unaligned Bystander - In this presentation, I will draw upon ten years of interdisciplinary research into the social formations around protocol networks.\n\nWassim Z. Alsindi is the founder and creative director of the 0x Salon, which conducts experiments in post-disciplinary collective knowledge practices. A veteran of the timechain, Wassim specialises in conceptual design and philosophy of peer-to-peer systems, on which he writes, speaks, teaches, and consults. He has an editorial column at the MIT Computational Law Report, and he co-founded MIT’s Cryptoeconomic Systems journal and conference series. Wassim has curated arts festivals, led a sculptural engineering laboratory and published experimental music, satirical theatre, poetry, and speculative scripture. Wassim holds a Ph.D. in ultrafast supramolecular photophysics from the University of Nottingham.\n\nhttps://protocol.berlin",
+    "duration": 1514,
+    "name": "(mis)adventures in governance",
+    "project": "protocol-berg",
+    "event": "protocol-berg-2023",
+    "people": [
+      "Wassim Z. Alsindi"
+    ]
+  },
+  {
+    "id": "WMTie5aCK_w",
+    "slug": "protocol-berg-2023-the-nature-of-the-protocol",
+    "videoId": "WMTie5aCK_w",
+    "url": "https://www.youtube.com/watch?v=WMTie5aCK_w",
+    "publishedAt": "2023-10-06T14:08:36Z",
+    "desc": "Since 2019, we’ve been studying the novel dynamics unlocked by crypto protocols, articulating new mentals model for understanding them, such as \"headless brands\" and \"squad wealth.\" Since our work on public goods and with our experience as researchers and builders, our thinking has taken a more deeply political turn as we consider the long-term impact of crypto protocols as institutional bodies.\n\n\n\nInstitutional legitimacy and accountability of actors are problems which recur time and again as critical themes in protocol development and operations. Attempts to solve these problems are very wide-ranging, drawing from notions of the state (DAO constitutionalism) to corporations (coin-voting shareholder governance). As a result, protocol work has become a byzantine maze of narratives and mismatched mental models which are often a poor fit for the technical affordances of blockchains.\n\n\nIn this keynote talk, we will share insights from 5 years of techno-cultural analysis in the crypto space. We'll then present several frameworks that reveal how accountability and legitimacy arise—or don't—in crypto protocols. Drawing from legal and political theory (featuring pirates), we'll share a political philosophy of crypto institutions that will help protocol stewards and core developers understand power, behavioral regulation, and even violence in the nature of the protocol.\n\n\nSam Hart is the Head of Product and Strategy at Skip, a team building MEV solutions that improve protocol sustainability and cross-chain UX. He is also Co-founder of Timewave, an organization that creates tools for intelligent on-chain resource allocation and trustless cooperation.\n\n\nToby Shorin is a writer and technologist based in New York and the cofounder of Other Internet Research Institute. His research examines the moral genealogy of technological and cultural evolution.\n\n\nLaura Lotti - Researcher at Other Internet investigating the institutional affordances of blockchain protocols\n\n\n\nhttps://protocol.berlin",
+    "duration": 1535,
+    "name": "The Nature of the Protocol",
+    "project": "protocol-berg",
+    "event": "protocol-berg-2023",
+    "people": [
+      "Sam Hart",
+      "Toby Shorin",
+      "Laura Lotti"
+    ]
+  },
+  {
+    "id": "gTXYp_ndnKg",
+    "slug": "protocol-berg-2023-closing-ceremony",
+    "videoId": "gTXYp_ndnKg",
+    "url": "https://www.youtube.com/watch?v=gTXYp_ndnKg",
+    "publishedAt": "2023-10-04T17:09:54Z",
+    "desc": "In this session, we invite you to grab a closing drink and wrap up the day with us! Learn more about the motivation behind Protocol Berg: What led us to organize this event, and why did we decide to set it up as a donation-backed, sponsorless, non-profit event that is free to attend?\n\n\n\nWe will share our thoughts on event content curation, sponsors, and ecosystem collaboration. We will create transparency over our expenditures and how this event was financed.\n\n\nWe will also touch on the hardships and experiences of organizing a donation-only event, purely brought to you by a group of volunteers, always keeping in mind our goal: putting the attendee experience and content quality first.\n\n\nhttps://protocol.berlin",
+    "duration": 1389,
+    "name": "Closing Ceremony",
+    "project": "protocol-berg",
+    "event": "protocol-berg-2023",
+    "people": [
+      "franzi",
+      "afri"
+    ]
+  }
+]

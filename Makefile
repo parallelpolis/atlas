@@ -31,4 +31,5 @@ extract-ksp:
 	node lib/yt-extract.js svobodny-pristav:ksp24 playlist PLmwDL0lIJTxBfzH_IglHxH60OmmswxoNx '{"lang": "cs", "project": "konference-sp", "event": "ksp24"}'
 
 extract-dod:
-	node lib/yt-extract.js dod:ethberlin24-keynotes playlist PLjOcf_IVqERmocijf0P3_JTt04xgFa1YZ '{"project": "ethberlin", "event": "ethberlin4"}'
+#node lib/yt-extract.js dod:ethberlin24-keynotes playlist PLjOcf_IVqERmocijf0P3_JTt04xgFa1YZ '{"project": "ethberlin", "event": "ethberlin4"}'
+	node lib/yt-extract.js dod:protocol-berg-2023-main-stage playlist PLjOcf_IVqERn-nzPYZ54Idhfb7jWWlO03 '{"project": "protocol-berg", "event": "protocol-berg-2023"}'

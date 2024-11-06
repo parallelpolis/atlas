@@ -32,6 +32,7 @@
   name: Exiledsurfer
   refs:
     twitter: exiledsurfer
+    bsky: exiledsurfer.bsky.social
   desc: |
     As a contributor to the archaic Bitcoin Foundation, he has been around the ecosystem for quite some time. He is a privacy, transparency & decentralization CryptoRealist with a background in various projects. He is a founder of NFTdroppr, a co-founder of Parallele Polis in Vienna, a contributor at Sovryn, and a strategist at Mattereum.
   img: exiledsurfer.jpeg
@@ -179,6 +180,7 @@
     Ryan discovered the cypherpunks mailing list as a young teenager in the early 1990s, telephoned NSA to order the NCSC Rainbow Series of books, and became a true believer in cryptoanarchy and the power of cryptography to stand up to nation-states and other oppressors. He’s worked on projects and companies involving Chaumian digital cash systems, offshore data havens in the North Sea, seasteading, uncensorable hosting technologies, remote attestation-based tamperproof cloud computing, and now cryptocurrency insurance infrastructure. He is currently the Chief Security Officer of Evertas Insurance and lives in San Juan, Puerto Rico.
   refs:
     twitter: octal
+    bsky: octal.bsky.social
   img: ryan-lackey.jpeg
   altNames: [ R. Lackey ]
 
@@ -1166,6 +1168,7 @@
   img: dr-nick.png
   refs:
     twitter: DrNickA
+    bsky: drnick.bsky.social
 
 - id: vaclav-pavlin
   name: Václav Pavlín
@@ -1191,6 +1194,7 @@
   img: afri.jpg
   refs:
     twitter: q9fcc
+    bsky: q9f.cc
 
 - id: ameen-soleimani
   name: Ameen Soleimani
@@ -1244,6 +1248,7 @@
   img: franzi.jpg
   refs:
     twitter: _franzihei
+    bsky: franzi.bsky.social
 
 - id: lefteris-karapetsas
   name: Lefteris Karapetsas

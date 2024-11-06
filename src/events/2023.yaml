@@ -31,6 +31,86 @@
     - danny-holland
     - mario
     - wlodek-gogloza
+    - Ming Guo
+    - Anjali Young
+    - Saul Martin
+    - Alexei Zamyatin
+    - Abena Asante
+    - Luc van Kampen (luc.computer)
+    - Manian
+    - 0xevolve
+    - Toghrul Maharramov
+    - Daniel Hwang
+    - Camila Ramos Garzon
+    - Avihu Mordechai Levy
+    - Laurence Kirk
+    - Alex Gluchowski
+    - Anett Rolikova
+    - Nicolas Consigny
+    - Bernd Riedel
+    - Burak Arikan
+    - Gene Kogan
+    - Lorenzo Nardiello
+    - Dustin Jacobus
+    - Harry Bairstow
+    - Kirsten Pomales
+    - Abeer Sharma
+    - Federico Kunze Küllmer
+    - Daniel Burckhardt
+    - Klaus Kursawe
+    - Katherine Radeka
+    - Rasim Muftiev
+    - Alex Holland
+    - Zeynep Ecenaz Altınok
+    - Atris
+    - Marcus Aurelius
+    - Madalina Raicu
+    - Sam MacPherson
+    - Leonardo Bautista-Gomez
+    - Tom Teman
+    - Daniel K.
+    - Jayaditya Gupta
+    - Dr. Marina Steinkirch
+    - dcbuilder
+    - Guillaume Ballet
+    - Karl Floersch
+    - Cryptowanderer
+    - Frank Chaparro
+    - Nicolas Manea
+    - Phil Lucsok
+    - Austin Griffith
+    - ameen-soleimani
+    - Paul Graham Raven
+    - Ryan McClure
+    - dr-nick
+    - Rhys Williams
+    - Dominik Schmid
+    - Michael
+    - Steffen Kux
+    - Puncar
+    - Miao ZhiCheng
+    - Grace Rachmany
+    - Sahil Sen
+    - Filip Siroky
+    - Tian-Yuan Zhao
+    - Paul Gadi
+    - Radek Svarz
+    - tina-haibodi
+    - Eylon
+    - Manu Alzuru
+    - Ole Ersson
+    - Becca Bowlin
+    - Alessandro Ardovini
+    - Stani Kulechov
+    - Joseph Schweitzer
+    - lefteris-karapetsas
+    - Konstantinos Paparas
+    - Ceci
+    - Maksim Izmaylov
+    - Nissa Szabo
+    - Shayan Eskandari
+    - Martina Bauerová
+    - eleonore-blanc
   organizers:
     - josefj
   aftermovie: bOIYk4Hrjhw
@@ -600,6 +680,25 @@
   speakers:
     - afri
     - mario
+    - franzi
+    - Sam Hart
+    - Toby Shorin
+    - Laura Lotti
+    - Wassim Z. Alsindi
+    - Richard Meissner
+    - Molly Mackinlay
+    - Gavin Wood
+    - Federico Kunze Küllmer
+    - Evans
+    - Fei
+    - tomaka
+    - eskimor
+    - Costanza Gallo
+    - Christian Reitwiessner
+    - Guillaume Ballet
+    - Tanishq Jasoria
+    - Jenny Pollack
+    - Asynchronous Phil
 
 
 - id: 2023-07-28-kyborgismus-and-or-meet-the-founders
@@ -858,7 +957,22 @@
   place:
     city: Rome
     country: it
-  speakers: []
+  speakers:
+    - Costanza Gallo
+    - Rik Krieger
+    - Jakub K.
+    - Vincenzo Iovino
+    - Alex Zaidelson
+    - Roman Prokhorenko
+    - serinko
+    - Catsnacks
+    - vaclav-pavlin
+    - jaromil
+    - Tsu_Kareta
+    - Mesquka
+    - Carlo Chialastri
+    - Andrea Togni
+    - eleonore-blanc
 
 - id: w3pn-summit-prague-2023
   name: "Web3Privacy Now Summit #1"
@@ -877,6 +991,9 @@
   speakers:
     - rachel-rose
     - mario
+    - Oliver Gale
+    - Antoni Zolciak
+    - mykola-siusko
 
 - id: 2023-06-02-welcome-to-prague-meet-paralelni-polis
   name: Welcome to Prague, meet Paralelní Polis!
@@ -988,6 +1105,8 @@
     - max-hillebrand
     - lea-petras
     - juraj-bednar
+    - Tim Akinbo
+    - Rigel Walshe
   organizers:
     - mario
     - kx
@@ -1661,6 +1780,9 @@
     - Ondřej Čada
     - Dominik Stroukal
     - Tereza Urzová
+    - Ondra Plachý
+    - dominik-stroukal
+    - OC
 
 - id: 2023-02-17-kyborgismus-and-or-brave-new-brain
   name: Kyborgismus AND | Brave New Brain

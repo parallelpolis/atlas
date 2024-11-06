@@ -329,6 +329,19 @@
   place:
     city: Berlin
     country: de
+  speakers:
+    - franzi
+    - afri
+    - vitalik-buterin
+    - ameen-soleimani
+    - Puja Ohlhaver
+    - Mikhail Nikulin
+    - Edmund Edgar
+    - Matthew Hodgson
+    - Christopher Goes
+    - Peter van Valkenburg
+    - dr-nick
+    - Fatemeh Fannizadeh
 
 - id: w3pn-berlin-2024
   name: Web3Privacy Now Berlin 2024
@@ -338,6 +351,19 @@
   place:
     city: Berlin
     country: de
+  speakers:
+    - ying-tong
+    - Josh Davila
+    - afri
+    - Ying Tong
+    - mykola-siusko
+    - Julio
+    - Jaya
+    - Sebastian
+    - Peter Van Valkenburgh
+    - lefteris-karapetsas
+    - Fatemeh Fannizadeh
+    - stella-r-magnet
 
 - id: w3pn-summit-prague-2024
   name: Web3Privacy Now Prague 2024
@@ -353,6 +379,19 @@
   speakers:
     - wilder
     - mario
+    - franzi
+    - dr-nick
+    - jaromil
+    - Awa Sunyin
+    - Tor Ekeland
+    - Ben West
+    - ajs
+    - Ahmed Ghappour
+    - Michel Bauwens
+    - David Chaum
+    - juraj-bednar
+    - Paul Dylan-Ennis
+    - sethforprivacy
 
 - id: w3pn-summit-rome-2024
   name: Web3Privacy Now Rome 2024
@@ -363,7 +402,14 @@
   place:
     city: Rome
     country: it
-  speakers: []
+  speakers:
+    - Denis Jaromil Roio
+    - pg
+    - Andrea Togni
+    - Leona Hioki
+    - Luca Lezzerini
+    - Marco Castignoli
+    - Arturo Filastò
 
 - id: pd24
   name: "Pizza Day Prague 2024: Scaling Wars"
@@ -691,6 +737,9 @@
     - Ondřej Tulach
     - Jan Skalický
     - Jan Hubík
+    - Tereza Urzová
+    - 'Jan Romportl:'
+    - O. T.
 
 - id: 2024-02-17-intro-to-telegram-mini-apps-lecture-workshop-and-networking
   name: 'Intro to Telegram Mini Apps: Lecture, Workshop, and Networking'

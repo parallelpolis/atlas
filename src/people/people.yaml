@@ -1266,3 +1266,9 @@
   img: dcbuilder.jpg
   refs:
     twitter: DCbuild3r
+
+- id: peter-szilagyi
+  name: Péter Szilágyi
+  altNames:
+    - Péter Szilagyi
+  img: peter-szilagyi.jpeg

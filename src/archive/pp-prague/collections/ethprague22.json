@@ -516,7 +516,7 @@
     "project": "ethprague",
     "event": "ethprague22",
     "people": [
-      "Péter Szilágyi"
+      "Péter Szilágyi|peter-szilagyi"
     ],
     "target": "pp-prague",
     "imgHash": "79ec9f0d19854d8c8ddba86e0795abb0164af34a40c615f60f37bb784c434746",
@@ -1296,7 +1296,7 @@
     "duration": 562,
     "name": "Live Interview: Péter Szilagyi",
     "people": [
-      "Péter Szilagyi",
+      "Péter Szilagyi|peter-szilagyi",
       "Sara Polak|sara-polak"
     ],
     "target": "pp-prague",

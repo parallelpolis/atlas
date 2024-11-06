@@ -30,7 +30,5 @@ extract-ksp:
 	node lib/yt-extract.js svobodny-pristav:ksp23 playlist PLmwDL0lIJTxAiv4UON_5YAKB0-UWp-osA '{"lang": "cs", "project": "konference-sp", "event": "ksp23"}'
 	node lib/yt-extract.js svobodny-pristav:ksp24 playlist PLmwDL0lIJTxBfzH_IglHxH60OmmswxoNx '{"lang": "cs", "project": "konference-sp", "event": "ksp24"}'
 
-
-	
-
-	
+extract-dod:
+	node lib/yt-extract.js dod:ethberlin24-keynotes playlist PLjOcf_IVqERmocijf0P3_JTt04xgFa1YZ '{"project": "ethberlin", "event": "ethberlin4"}'

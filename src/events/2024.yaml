@@ -320,6 +320,16 @@
     meetup_id: '300284665'
     meetup: https://www.meetup.com/paralelnipolis/events/300284665/
 
+- id: ethberlin4
+  name: ETHBerlin04 (2024)
+  date: "2024-05-24"
+  major: true
+  project: ethberlin
+  seq: 4
+  place:
+    city: Berlin
+    country: de
+
 - id: w3pn-berlin-2024
   name: Web3Privacy Now Berlin 2024
   date: "2024-05-24"

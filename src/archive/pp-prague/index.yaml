@@ -26,6 +26,10 @@ lists:
 
   - id: external
   - id: ancap
+  - id: hcpp24
+    base:
+      project: hcpp
+      event: hcpp24
 
 setup:
 

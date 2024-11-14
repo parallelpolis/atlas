@@ -24,6 +24,10 @@ bind: ## bind videos
 speakers: ## detect speakers
 	node lib/detect-speakers.js
 
+extract-pp:
+	node lib/yt-extract.js pp-prague:hcpp24 playlist PLRUSTVWJngiefsTySFA3DuW20v4ehxKb8 '{"project":"hcpp", "event": "hcpp24"}'
+
+
 extract-urza:
 	node lib/yt-extract.js pp-prague:ancap playlist PLmwDL0lIJTxCc0yL4i9M2aNQ4a5wRzjb7 '{"people":["urza"], "lang": "cs", "project": "ankap-serie"}'
 

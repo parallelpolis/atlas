@@ -7,7 +7,8 @@ code: pp0
 img: pp0.webp
 altNames:
   - pp0
-caption: "[Draft] The digital-first meta instance of Paralelní Polis, which was born after the closure of the Prague location in 2024. This cypherpunk hub interconnect other instances and preserves the PP legacy (not only) in cyberspace."
+caption: |
+  The digital-first meta instance of Paralelní Polis, which was born after the closure of the Prague location in 2024. This cypherpunk hub interconnect other structures and preserves the PP legacy (not only) in cyberspace.
 refs:
   web: https://pp0.co
   github: ParalelniPolis0
@@ -17,16 +18,18 @@ projects:
   - id: paralelnipolis-info
     name: paralelnipolis.info
     years: [ 2024 ]
-    types: [ presentation, archive ]
+    types: [ presentation ]
     img: pp0.webp
     caption: |
-      Information and aggregation portal interconnecting whole movement. Data source is [Atlas](/c/atlas) (managed by [PP0](/s/pp0))
+      Information and aggregation portal interconnecting whole movement.
+    description: |
+      Data source is [Atlas](/c/atlas) (managed by [PP0](/s/pp0))
     refs:
       web: https://paralelnipolis.info
       github: ParalelniPolis0/paralelnipolis.info
 
   - id: atlas
-    name: Atlas
+    name: Parallel Atlas
     years: [ 2024 ]
     types: [ knowledge-base ]
     img: pp0.webp
@@ -34,6 +37,16 @@ projects:
       Atlas of Parallel Polis ecosystem (open data) - structures, people, events, archive, books
     refs:
       github: ParalelniPolis0/atlas
+  
+  - id: pp-archive
+    name: Parallel Archives
+    years: [ 2024 ]
+    types: [ archive ]
+    img: pp0.webp
+    caption: |
+      Archive of videos, books, documents and other materials related to Paralelní Polis.
+    refs:
+      web: https://archive.pp0.co
 
 guilds:
   - id: it

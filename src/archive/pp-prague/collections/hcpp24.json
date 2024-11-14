@@ -1,0 +1,214 @@
+[
+  {
+    "id": "WyR_Qrp36Eg",
+    "slug": "hcpp24-beyond-the-great-firewall-global-frontiers-in-privacy-tech",
+    "videoId": "WyR_Qrp36Eg",
+    "url": "https://www.youtube.com/watch?v=WyR_Qrp36Eg",
+    "publishedAt": "2024-11-12T11:26:52Z",
+    "desc": "This talk explores cutting-edge privacy technologies emerging in response to worldwide digital surveillance and control. Starting with China's digital landscape, we'll expand to examine global challenges and solutions in the fight for online privacy and free speech.\n\nWe'll analyze the evolving ecosystem of privacy-preserving tools and techniques, showing how innovations sparked by restrictive environments can be applied globally. Our goal is to provide actionable insights for privacy advocates, developers, and users facing various threats to digital freedom.\nThroughout the talk, we'll draw connections between privacy challenges and solutions across various global contexts. We'll examine how techniques developed in response to China's digital environment can be adapted worldwide. Brazil's attempts to regulate social media and France's stringent data protection laws will serve as additional case studies, highlighting the universal nature of the struggle for digital rights.\n\nWe'll explore how platforms like Signal navigate the complex landscape of global regulations while implementing features such as end-to-end encryption. The discussion will touch on the challenges faced by founders and companies in this space, illustrating the real-world complexities of operating global communication platforms in diverse regulatory environments.\n\n",
+    "duration": 3266,
+    "name": "Beyond the Great Firewall: Global Frontiers in Privacy Tech",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "yisi-liu"
+    ]
+  },
+  {
+    "id": "G9eNq5o_23Y",
+    "slug": "hcpp24-part-ii-the-dehumanizing-process-of-immigration-systems",
+    "videoId": "G9eNq5o_23Y",
+    "url": "https://www.youtube.com/watch?v=G9eNq5o_23Y",
+    "publishedAt": "2024-11-12T11:30:06Z",
+    "desc": "At HCPP19, Travin Keith spoke about the broken and dehumanizing immigration systems around the world through his first-had experience as well as some relevant data uncovered as he tried to find a new home in the world. Now, 5 years later and having gained a new passport, among other things, he has solved many problems, encountered new ones, and deals with some of the same ones he had before. However, the problems that he solved were only for himself and the greater problem remains. This talk will go over what he's done and why he's done it, as well as some additional information gained along the way that may be helpful for those seeking to expand their flag theory footprint. For those who attended his talk in 2019, he will also address discuss immigration issues he had to address with 2 more countries that he did not get to go over in 2019.\n\n",
+    "duration": 3208,
+    "name": "Part II: The Dehumanizing Process of Immigration Systems",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "travin-keith"
+    ]
+  },
+  {
+    "id": "TFasLWSk-rI",
+    "slug": "hcpp24-how-to-fix-the-internet-nostr-reticulum-and-other-ideas",
+    "videoId": "TFasLWSk-rI",
+    "url": "https://www.youtube.com/watch?v=TFasLWSk-rI",
+    "publishedAt": "2024-11-12T12:20:43Z",
+    "desc": "The internet is broken. We want free stuff, so we are the product. The datacenters are not free. Our identities, our social graphs, our channels and often our revenue are either owned or passed through intermediaries, who can flip the switch - and we're gone. There are ways to take our online lives back, but it needs a bit of a cypherpunk mindset, and willingness to experiment. Reticulum is a low-level mesh network when the basic Internet infrastructure fails. We can run it in cities over radio. Nostr is a protocol for publishing content, building social graphs and building replacement for Twitter/X, Instagram, but also Meetup, maps-based apps and many other things. And most of it (somehow) works today. If you are a bit cypherpunk and not a normie, come over!\n\n",
+    "duration": 3805,
+    "name": "How to fix the Internet - Nostr, Reticulum and other ideas",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "juraj-bednar"
+    ]
+  },
+  {
+    "id": "QWaHpp70_FU",
+    "slug": "hcpp24-what-to-do-with-your-phone-number-in-the-21st-century",
+    "videoId": "QWaHpp70_FU",
+    "url": "https://www.youtube.com/watch?v=QWaHpp70_FU",
+    "publishedAt": "2024-11-12T11:41:30Z",
+    "desc": "Phone numbers are as retro today as FAX or disco parties. But what can be done with them in an age where people other than hipsters or steampunkers use them?\n\nThis talk is aimed at people who want to simplify their lives and not use a phone number, but still enjoy some of its benefits while still being able to remain anonymous. I will address why it's important not to use one phone number for everything, how mandatory SIM card registration works, and what alternatives exist for maintaining privacy. Throughout the talk, I will focus on the risks associated with deanonymisation through IMEI numbers and using the same devices in different locations. Examples of solutions include anonymous SIM cards, dedicated mobile phones, SMS forwarding, VoIP numbers, and anonymous eSIM services.\n\n",
+    "duration": 3245,
+    "name": "What to do with your phone number in the 21st century?",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "Michal Kodnar"
+    ]
+  },
+  {
+    "id": "3NlJtWcQHP4",
+    "slug": "hcpp24-fall-of-bitcoin-commercial-privacy-a-personal-account-of-the-privacy-wars",
+    "videoId": "3NlJtWcQHP4",
+    "url": "https://www.youtube.com/watch?v=3NlJtWcQHP4",
+    "publishedAt": "2024-11-12T11:32:47Z",
+    "desc": "The US Government is on the verge to declare self-custodial ownership of Bitcoin a felony. With the latest Tornado Cash and Samourai Wallet arrests, the government wants to force down overly broad and exceeding laws that it pulls out of its rear end constantly, claiming everything is now a EMESSBEE, therefore VASPs are coming to your Frying Pan and you will need a license for that. Samourai Wallet brought me to Hacker's Congress and we have become eternal enemies, but what is the real story behind their arrest and what are our chances for getting out of this mess if the government declares them guilty on all counts? What could happen and what can companies do to either \"comply\" or be subjugated. Can there be profit made in this space, or this is the end? What we can find out by the end of Wasabi Wallet? Those on the front lines brought you HWW coinjoins and they are now over, you can no longer plug in your Trezor to coinjoin safely in the comfort of your homes. What implications this have in general, and what a positive outcome could be for us and the whole general privacy space on Bitcoin?\n\n",
+    "duration": 2299,
+    "name": "Fall of Bitcoin Commercial Privacy: a personal account of the privacy wars",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "Karo Zagorus"
+    ]
+  },
+  {
+    "id": "6EH_J8rlG94",
+    "slug": "hcpp24-refuse-resist-with-foss-and-heavy-metal",
+    "videoId": "6EH_J8rlG94",
+    "url": "https://www.youtube.com/watch?v=6EH_J8rlG94",
+    "publishedAt": "2024-11-12T12:57:37Z",
+    "desc": "Thanks to the Internet, humanity is changing. I want to take you on a journey to understand this change, what types of crowds exist, and how to work with them to change a centralized system (like our current one). Then, I will switch to the FOSS world to see what good YOU can do on a big scale for humankind.\n\nI'll share only examples from my personal experience that worked well and some that failed. There also will be some 🤘 metal music.\n\n",
+    "duration": 3098,
+    "name": "Refuse, Resist with FOSS and Heavy Metal",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "Бого"
+    ]
+  },
+  {
+    "id": "zoJJ2bue76M",
+    "slug": "hcpp24-travel-hacking-for-crypto-digital-nomads",
+    "videoId": "zoJJ2bue76M",
+    "url": "https://www.youtube.com/watch?v=zoJJ2bue76M",
+    "publishedAt": "2024-11-12T11:39:19Z",
+    "desc": "The workshop is for EU citizens and aims to explain how it is possible to live a comfortable life as a digital crypto nomad, thanks to your favorite crypto, anywhere in the world, including Europe:\n\nWith no EU residency\nWith no EU bank account\nWith no EU snooping\nWith no taxes in the EU\nWith no European health, social contributions, and other obligations - but with the best International healthcare\n\n",
+    "duration": 3894,
+    "name": "Travel Hacking for Crypto Digital Nomads",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "wilder"
+    ]
+  },
+  {
+    "id": "4rTCekMDVbc",
+    "slug": "hcpp24-the-democratic-web",
+    "videoId": "4rTCekMDVbc",
+    "url": "https://www.youtube.com/watch?v=4rTCekMDVbc",
+    "publishedAt": "2024-11-12T11:34:36Z",
+    "desc": "If there was any doubt before, the COVID-19 pandemic made it clear: digital life is real life. Our lives exist on the Web no less than they do on the streets. But while the streets are governed by the state, the Internet lacks a formal governing body.\n\nThis has led to a centralized, monopolistic situation where a few large corporations practically govern the web. The result is a Web where users are being manipulated, their privacy ignored, or they live in a state of insecurity of being blocked out of platforms their life depends on. Due to the international nature of the Internet, regulators around the globe face difficulties controlling this situation.\n\nWhat is needed is a model for the web with an internal governance mechanism, controlled by the \"citizens\" of the web (Webizens).\n\nThe core principles of the Democratic Web are as follows.\n1. An alternative web to the current one that includes an internal governance layer.\n2. The governance layer is controlled by Webizens, which are citizens of the Democratic web.\n3. There is a naturalization process for users to become Webizens.\n4. The web is governed in a democratic process by its Webizens.\n\nTechnically this requires an updated HTTP protocol, an online identity system, and a decentralized blockchain-based infrastructure.\n\nFrom the political science side of things, we need an updated model of the Three Branches of Government model (legislature, executive, and judiciary branches) for a global purely online governance process.\n\n",
+    "duration": 2492,
+    "name": "The Democratic Web",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "Neiman"
+    ]
+  },
+  {
+    "id": "qfTP27e481Y",
+    "slug": "hcpp24-musings-on-our-successes-and-failures",
+    "videoId": "qfTP27e481Y",
+    "url": "https://www.youtube.com/watch?v=qfTP27e481Y",
+    "publishedAt": "2024-11-12T13:02:25Z",
+    "desc": "Michael does his yearly wrap-up of the pulse of the community.\n\n",
+    "duration": 1311,
+    "name": "Musings on our successes and failures",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "exiledsurfer"
+    ]
+  },
+  {
+    "id": "yFprpxPtywI",
+    "slug": "hcpp24-illusion-of-choice",
+    "videoId": "yFprpxPtywI",
+    "url": "https://www.youtube.com/watch?v=yFprpxPtywI",
+    "publishedAt": "2024-11-12T13:10:33Z",
+    "desc": "Every day we make decisions but what good are choices if we can't access all our options? We may feel empowered by believing we've made choices based on our desires and identity, but in reality, most choices are limited by design. Whether it's choosing between a Samsung or an iPhone, using Twitter or Telegram, or preferring Apple over Microsoft, these choices are illusions.\n\nAs mentioned in The Matrix: \"Choice is an illusion, created between those with power, and those without.\"\n\nThose who wish to take away our freedoms, the magicians behind these illusions, present their narrow-minded, cowardly neo-communist worldviews as the norm. They work tirelessly to promote a single path: you will own nothing and you will be happy. To them, privacy and freedom are dangerous tools. Like any narcissist or sociopath, they believe the only way to progress is through absolute control and manipulation. They have gaslighted most of our brothers and sisters into accepting their perverted ideologies and beliefs.\n\nWe reject this notion because we are not limited in our ability to think or imagine. We believe the world can be filled with light and progress without giving up our natural rights to expression and freedom.\n\nJoin me as I share my journey over the last 11 years, including the lessons, experiences, and hardships that have shaped who I am today. Learn from my experiences of living on Bitcoin for 8 years while traveling across 15 countries and 4 continents. A life inspired by the desire for greater freedom and happiness.\n\n",
+    "duration": 3517,
+    "name": "Illusion of Choice",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "amin-rafiee"
+    ]
+  },
+  {
+    "id": "XwE1jYUevx4",
+    "slug": "hcpp24-one-does-not-simply-try-a-bitcoin-app",
+    "videoId": "XwE1jYUevx4",
+    "url": "https://www.youtube.com/watch?v=XwE1jYUevx4",
+    "publishedAt": "2024-11-12T13:36:13Z",
+    "desc": "When writing Bitcoin applications, developers often use test networks to make sure it's working correctly. The general public doesn't know that they even exist though they could find them valuable. The goal of this talk is to spread awareness of test networks, their value beyond development and basics of their use.\n\n",
+    "duration": 1029,
+    "name": "One does not simply try a Bitcoin app",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "habo"
+    ]
+  },
+  {
+    "id": "oFRvY5NcULg",
+    "slug": "hcpp24-what-are-we-even-doing-here",
+    "videoId": "oFRvY5NcULg",
+    "url": "https://www.youtube.com/watch?v=oFRvY5NcULg",
+    "publishedAt": "2024-11-12T13:33:22Z",
+    "desc": "Crypto was built on a web of trust by like-minded nerds. Today, we don't recognize the field anymore: it's been coopted by lizard-brains and their zero-sum money games. Those not coopted by toxic memes still remember why we started out together. Our mission is not yet fulfilled, the promised land has not yet been reached, all in spite of the positive propaganda eminating from the new \"fintech elite\".\n\nLet's remember why we are here and how we can still save the world from itself. I am here to synthesize a new message of hope. To tell a story that wakes up not only us but everyone who can read the signs.\n\n",
+    "duration": 1237,
+    "name": "What are we even doing here?",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "florian-glatz"
+    ]
+  },
+  {
+    "id": "CbXlr0M6sCk",
+    "slug": "hcpp24-choices-motivation-meaning-traversing-the-time-of-our-lives",
+    "videoId": "CbXlr0M6sCk",
+    "url": "https://www.youtube.com/watch?v=CbXlr0M6sCk",
+    "publishedAt": "2024-11-12T15:45:01Z",
+    "desc": "What motivates us to do what we do? How do we find meaning in doing it? What makes us choose what we choose? Can we do better? What is important? Can we thrive and feel excellent, regardless of particular outcomes?\n\nThroughout our lives we tend to go with the flow of what is happening, making choices by default. Where do those choices come from? In the face of rapidly changing and challenging times that we live in, both personal and political, both social and economic, can we find motivation to do what we do? Can we actually improve anything? Can we find and maintain enthusiasm to move forward into the unknown and feel good about our choices, regardless of outcome? Drawing from lessons learned (and re-learned), doing my best to face the challenges while often haphazardly wandering through my 67 years on the planet, this talk will attempt to address these existential, important question that we all face (whether consciously, or not). Along the way, I will ramble on related topics, but bring it all together at the end with insights that I hope you will resonate with, and that I hope may be helpful for all of us in embracing our personal and collective futures.\n\n",
+    "duration": 3502,
+    "name": "Choices, Motivation, Meaning: Traversing the Time of our Lives",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "mitch-altman"
+    ]
+  },
+  {
+    "id": "QXInVwICggg",
+    "slug": "hcpp24-hcpp24",
+    "videoId": "QXInVwICggg",
+    "url": "https://www.youtube.com/watch?v=QXInVwICggg",
+    "publishedAt": "2024-11-13T12:48:51Z",
+    "desc": "Join Amir Taaki, Jaromil, and Vecna as they examine the 40-year legacy of free software and its profound impact on society. This engaging panel discusses how open-source principles have shaped digital freedoms and considers the challenges and future of a truly free digital world.\n\n",
+    "duration": 4957,
+    "name": "Panel discussion: Free software & free society: Examining a 40 year legacy",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "amir-taaki",
+      "jaromil",
+      "Vecna"
+    ]
+  }
+]

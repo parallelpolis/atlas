@@ -448,5 +448,173 @@
         "audioBitrate": 114435
       }
     }
+  },
+  {
+    "id": "HmOw73tYzKI",
+    "slug": "hcpp24-without-permission-with-programmable-cryptography",
+    "videoId": "HmOw73tYzKI",
+    "url": "https://www.youtube.com/watch?v=HmOw73tYzKI",
+    "publishedAt": "2024-11-12T15:00:45Z",
+    "desc": "There's a war on general computation, software is eating the world and privacy is dead. Who owns your data and what do they do with it?\n\nZero Knowledge Proofs are magic. In recent years, they've become both more mature and popular. More broadly, programmable cryptography gives us rich and novel ways to interact with and make cryptographic claims. You know, the stuff that our digital life is made up of.\n\nOne underappreciated aspect of programmable cryptography is its permission-less nature. As long as there's cryptographic matter somewhere, we can use it.\n\nWe'll look into novel tech like OpenPassport, TLSNotary, ZK Email, and ZKP2P to see what we can do with programmable cryptography. It is our data. Let's use it.\n\nThe future is here but unevenly distributed. Let's follow the magic and see where it takes us.\n\n",
+    "duration": 2602,
+    "name": "Without permission, with programmable cryptography",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "Oskar Thoren"
+    ]
+  },
+  {
+    "id": "_I_vLL-mA5o",
+    "slug": "hcpp24-how-to-hack-the-world-2024",
+    "videoId": "_I_vLL-mA5o",
+    "url": "https://www.youtube.com/watch?v=_I_vLL-mA5o",
+    "publishedAt": "2024-11-12T15:29:15Z",
+    "desc": "These efforts of ours go far beyond computer systems: we have a whole world to hack. Our model of golden-ruled decentralization is a fundamentally better way of organizing human life than the regimentation that has been thrust upon us; it not only harmonizes with what we are but improves us rather than damaging us, as the dominating system has for so long.\n\n",
+    "duration": 3539,
+    "name": "How To Hack The World (2024)",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "paul-rosenberg"
+    ]
+  },
+  {
+    "id": "PhO7TflQjpg",
+    "slug": "hcpp24-hardcore-cypherpunk-values",
+    "videoId": "PhO7TflQjpg",
+    "url": "https://www.youtube.com/watch?v=PhO7TflQjpg",
+    "publishedAt": "2024-11-12T16:02:34Z",
+    "desc": "In an era where digital privacy, decentralization, and resistance to authority are under siege, \"Hardcore Cypherpunk Values\" revisits the uncompromising principles of the Cypherpunk movement. As cryptography becomes commodified and blockchain technologies scale, many core values are being diluted by corporate interests, state regulations, and user complacency. This talk cuts through the noise, returning to the radical origins of Cypherpunk ideals, exploring why today, more than ever, we must reclaim the \"hardcore\" ethos that once defined digital resistance.\n\n",
+    "duration": 3645,
+    "name": "Hardcore Cypherpunk Values",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "matthias-tarasiewicz"
+    ]
+  },
+  {
+    "id": "6TD6mbSHles",
+    "slug": "hcpp24-assangedao-freed-julian-assange-by-all-means-necessary-mission-accomplished",
+    "videoId": "6TD6mbSHles",
+    "url": "https://www.youtube.com/watch?v=6TD6mbSHles",
+    "publishedAt": "2024-11-13T13:30:18Z",
+    "desc": "In late 2021, while Julian Assange bravely endured the harsh conditions of England’s supermax Belmarsh prison, with his health and legal situation rapidly deteriorating, a group of crypto-native cypherpunks united to fight for his freedom. Harnessing crypto’s most powerful tools for coordination and capital formation, we raised more than 17k ETH by forming a DAO with one goal: to free Assange by any means necessary. The AssangeDAO funds were used to cover all of Assange's legal costs and support many campaigns.\n\nWithin 2 years, Assange was freed from prison. AssangeDAO became the first DAO in history to achieve a tangible, high-stakes, real-world goal: freeing Assange. His freedom today would not have been possible without the contributions of the 10,000 anons behind this effort. Yet, while the world celebrates Assange’s lawyers and digital rights groups, the contribution of AssangeDAO has remained largely unrecognized. Its story is still untold.\n\nThis is a small attempt to do justice to AssangeDAO, its extraordinary achievement, and the ongoing challenges it continues to face.\n\n",
+    "duration": 3802,
+    "name": "AssangeDAO freed Julian Assange by all means necessary! Mission accomplished?",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "silke-noa"
+    ]
+  },
+  {
+    "id": "ouq68bBp_dI",
+    "slug": "hcpp24-darkfi-anonymous-apps-chat-daos-swaps-payments",
+    "videoId": "ouq68bBp_dI",
+    "url": "https://www.youtube.com/watch?v=ouq68bBp_dI",
+    "publishedAt": "2024-11-12T13:30:43Z",
+    "desc": "",
+    "duration": 4637,
+    "name": "DarkFi Anonymous Apps: Chat, DAOs, Swaps, Payments",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "amir-taaki"
+    ]
+  },
+  {
+    "id": "NksJf8s0Vvg",
+    "slug": "hcpp24-economic-dao-governance-a-contestable-control-approach",
+    "videoId": "NksJf8s0Vvg",
+    "url": "https://www.youtube.com/watch?v=NksJf8s0Vvg",
+    "publishedAt": "2024-11-12T16:04:04Z",
+    "desc": "In this article, we propose a new form of DAO governance that uses a sequential auction mechanism to overcome entrenched control issues that have emerged for DAOs by creating a regime of temporary contestable control. The mechanism avoids potential public choice problems inherent in voting approaches but at the same time provides a vehicle that can enhance and secure value that inheres to DAO voting and other DAO non-market governance procedures. It is robust to empty voting and is code-feasible. It facilitates the ability of DAOs to meet their normative and operational goals in the face of diverse regulatory approaches. Designed to shift control to the party with the most promising business plan, at the same time it distributes social surplus in a way that tends to promote investment by other parties.\n\n",
+    "duration": 3348,
+    "name": "Economic DAO Governance: A Contestable Control Approach",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "Jeff Strnad"
+    ]
+  },
+  {
+    "id": "27LALVmNhEY",
+    "slug": "hcpp24-hcpp24",
+    "videoId": "27LALVmNhEY",
+    "url": "https://www.youtube.com/watch?v=27LALVmNhEY",
+    "publishedAt": "2024-11-12T19:43:10Z",
+    "desc": "The next 500 years will be an era of reforestation, the restoration of power in communities, and the re-empowerment of society. DarkFi helps us get there.\n\n",
+    "duration": 3851,
+    "name": "DarkFi: 500 Year Forest Dynasty",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "Rachel-Rose O'Leary|rachel-rose"
+    ]
+  },
+  {
+    "id": "UXznirqcBd4",
+    "slug": "hcpp24-corruption-kyc-and-the-cost-of-compliance",
+    "videoId": "UXznirqcBd4",
+    "url": "https://www.youtube.com/watch?v=UXznirqcBd4",
+    "publishedAt": "2024-11-12T16:06:01Z",
+    "desc": "Trillions of dollars in illicit financial flows slosh around our financial system today, facilitated by the most powerful centralized institutions. Current efforts to address IFFs are ineffective and result in harmful side effects for some of the most vulnerable in society. In this talk, we investigate the causes and impact of IFFs. Despite what certain bankers and politicians might have told you, the transparency and programmability of cryptocurrencies are a solution to, not a cause of, the problem.\n\n",
+    "duration": 3638,
+    "name": "Corruption, KYC and the Cost of Compliance",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "jarrad-hope"
+    ]
+  },
+  {
+    "id": "m5LDhMiAZgQ",
+    "slug": "hcpp24-playing-in-hardcore-mode-where-todays-cypherpunk-technology-falls-short",
+    "videoId": "m5LDhMiAZgQ",
+    "url": "https://www.youtube.com/watch?v=m5LDhMiAZgQ",
+    "publishedAt": "2024-11-12T15:09:59Z",
+    "desc": "Using technology is often difficult even without security or privacy considerations. Normal or even fairly robust security and privacy requirements make it even harder to effectively use technology. Yet, most of the time, the there are identified vulnerabilities even if those requirements are met -- these attacks are just considered to be uneconomic or beyond the resources or motivations of the attacker.\n\nWe will discuss some of the higher-than-normal threat environments, situations where due to extreme value of protected assets, other-than-economic factors, or changing technologies and assumptions, normal assumptions about the lengths an attacker will go to don't hold. This is particularly scary for normal users because threats aren't static: what requires a 15 year long well-resourced development program to exploit today might be a hobbyist project to exploit in a few years, after the system and its protection measures are in production and difficult to update.\n\nWhile not everyone is operating in hardcore mode, the vulnerabilities exposed can often be addressed by technological or fundamental changes which benefit everyone, and these changes are often cost-effective when applied globally, leaving everyone but the attackers better off.\n\n",
+    "duration": 3396,
+    "name": "Playing in Hardcore Mode: Where today's cypherpunk technology falls short",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "ryan-lackey"
+    ]
+  },
+  {
+    "id": "aTUKPsRxIPM",
+    "slug": "hcpp24-hacktivism-and-the-real-crypto-movement",
+    "videoId": "aTUKPsRxIPM",
+    "url": "https://www.youtube.com/watch?v=aTUKPsRxIPM",
+    "publishedAt": "2024-11-12T16:04:46Z",
+    "desc": "This intervention draws from 30 years of hacktivism history to trace possible future for a movement that has found into cryptography its most powerful empowerment opportunity. An old cage is rusting: the billion dollar cybersecurity farce, the trusted computing straitjacket, and the paternalist throne of die-hard cyberemperors.\n\nIn the last couple of decades, planetary-scale computation precipitated the ongoing transformation of existing jurisdictions and disciplinary realms, a trend that is both depicted and tackled by the notion of \"algorithmic sovereignty\". This talk will address such transformations with particular attention to the web3/crypto sphere, and propose practical and strategic solutions to develop a space for \"digital commons\", to strengthen freedom against new aggressive forms of human exploitation and centralized control.\n\nDeterminism underpins our power: we want humans to understand machines and not the contrary. We need new trustless models in cybernetics, to fight back against the supremacy of centralized black-box governance. Our technical challenge is to create deterministic conditions for replicable computation and implement algorithms whose mode of operation can be scientifically proven, communicated with simplicity, forked, and debated. Algorithms of dissent.\n\n",
+    "duration": 3459,
+    "name": "Hacktivism and the real crypto movement",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "jaromil"
+    ]
+  },
+  {
+    "id": "rEfTyv-7xNo",
+    "slug": "hcpp24-hcpp24",
+    "videoId": "rEfTyv-7xNo",
+    "url": "https://www.youtube.com/watch?v=rEfTyv-7xNo",
+    "publishedAt": "2024-11-13T13:51:48Z",
+    "desc": "In this forward-looking panel, Eric Sirion, Max Hillebrand, Max Hampshire, and Liam Eagen dive into the future of freedom technologies. Building on Paul’s concept of “Hacking Ahead” and Max’s insights on freedom tech, the panelists explore the tools and innovations society will need to protect digital freedoms, address path dependencies, and navigate diverse approaches to a more open and autonomous future.\n\n",
+    "duration": 3202,
+    "name": "Panel discussion: Freedom Technologies",
+    "project": "hcpp",
+    "event": "hcpp24",
+    "people": [
+      "Eric Sirion",
+      "Max Hillebrand|max-hillebrand",
+      "Max Hampshire|max-hampshire",
+      "Liam Eagen"
+    ]
   }
 ]

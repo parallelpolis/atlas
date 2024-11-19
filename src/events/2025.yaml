@@ -24,6 +24,21 @@
 
     Follow us on [X](https://x.com/protocol_berg), [Bluesky](https://bsky.app/profile/protocol.berlin), or [Matrix](https://matrix.to/#/%23protocol:dod.ngo) for updates. For the previous event, see [Protocol Berg 2023](https://2023.protocol.berlin/).
 
+- id: monerokon
+  name: Monero Konferenco 5
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Second Culture
+    - name: La Fabrika
+  date: '2025-06-20'
+  days: 3
+  major: true
+  description: >-
+    Monero Konferenco (“MoneroKon”) is an annual meeting of privacy advocates, cypherpunks, researchers, and developers and is designed to disseminate scientific and technical results in privacy-enhancing technologies and distributed systems.
+  refs:
+    web: https://monerokon.org/
 
 - id: ksp25
   date: "2025-02-22"

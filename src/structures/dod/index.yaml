@@ -25,3 +25,11 @@ projects:
     refs:
       web: https://protocol.berlin
       bsky: protocol.berlin
+
+  - id: cdc
+    name: Critical Decentralisation Cluster
+    years: [ 2015 ]
+    refs:
+      web: https://decentral.community/
+    caption: |
+      The Critical Decentralisation Cluster (CDC) is a group of likeminded assemblies working together to present projects, talks and workshops that critically discuss the future of decentralisation.

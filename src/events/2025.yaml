@@ -1,3 +1,38 @@
+- id: pd25
+  name: "Pizza Day Prague 2025: Make Crisis Great Again"
+  date: "2025-05-17"
+  major: true
+  project: pizza-day
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Second Culture
+  days: 2
+  seq: 4
+  #speakers:
+  #  - mario
+  organizers:
+    - kx
+  #  - mario
+  #startTime: '2024-05-18T10:00:00+02:00'
+  #endTime: '2024-05-19T20:00:00+02:00'
+  description: |
+    Bitcoin was born from the ashes of a broken system—a rebellion against corrupt institutions, crumbling banks, and the shackles of centralized control. It was forged as a tool of freedom, an act of defiance against the tyranny of the state and the financial elites.
+
+    But today, Bitcoin is facing a new kind of crisis: an identity crisis. As adoption grows, opportunists swarm, motivated by greed and not the principles that gave rise to this revolution. Corporations, governments, and centralized forces are trying to co-opt Bitcoin, to cage it, to make it just another tool for the powerful. The dream of decentralization is under threat, as speculation overshadows the true purpose of Bitcoin as a weapon for liberation.
+    
+    This is not a conference for shallow hype. It is a gathering for the rebels, the visionaries, and the true believers. We are here to reclaim Bitcoin’s soul, to stand firm against those who would dilute its power, and to restore its purpose as a force for personal sovereignty.
+    
+    Crisis gave us Bitcoin. Now, we embrace that crisis to remind the world what Bitcoin was always meant to be: a tool for freedom in a world desperate for change. Let’s make that crisis matter.
+    
+    **Make crisis great again.**
+    
+    - Tickets: https://tix.pizzaday.cz/25/
+    - CFP: https://speak.pizzaday.cz/25/cfp
+  refs:
+    web: https://2025.pizzaday.cz/
+
 - id: protocol-berg-2025
   date: "2025-06-12"
   name: "Protocol Berg v2"

@@ -40,3 +40,6 @@ extract-ksp:
 extract-dod:
 #node lib/yt-extract.js dod:ethberlin24-keynotes playlist PLjOcf_IVqERmocijf0P3_JTt04xgFa1YZ '{"project": "ethberlin", "event": "ethberlin4"}'
 	node lib/yt-extract.js dod:protocol-berg-2023-main-stage playlist PLjOcf_IVqERn-nzPYZ54Idhfb7jWWlO03 '{"project": "protocol-berg", "event": "protocol-berg-2023"}'
+
+extract-w3p-cypherpunk-congress-2024:
+	node lib/yt-extract.js w3pn:eth-cypherpunk-congress-2024 playlist PLSsVHWrO8Yh2FBmQ3JwauylmYI4F6z5Q3 '{"project": "w3pn", "event": "w3pn-eth-cypherpunk-congress-2024"}'

@@ -5,3 +5,4 @@ lists:
     config:
       toTitleCase: false
   - id: summit1
+  - id: eth-cypherpunk-congress-2024

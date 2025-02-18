@@ -62,7 +62,7 @@
       "Josh Davila",
       "Ying Tong",
       "Alan",
-      "PG",
+      "PG|pg",
       "Manu Alzuru",
       "Luis Bezzenberger",
       "Shady El Damaty"
@@ -80,7 +80,7 @@
     "duration": 2569,
     "name": "My ongoing escape",
     "people": [
-      "Bob Summerwill"
+      "Bob Summerwill|bob-summerwill"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024"
@@ -291,7 +291,7 @@
     "duration": 1988,
     "name": "Amir Taaki [DarkFi]",
     "people": [
-      "Amir Taaki"
+      "Amir Taaki|amir-taaki"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024"
@@ -338,7 +338,7 @@
     "duration": 1804,
     "name": "Jarrad Hope [Logos]",
     "people": [
-      "Jarrad Hope"
+      "Jarrad Hope|jarrad-hope"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024"
@@ -388,7 +388,7 @@
     "duration": 1589,
     "name": "Rachel-Rose O'Leary [DarkFi]",
     "people": [
-      "Rachel-Rose O'Leary"
+      "Rachel-Rose O'Leary|rachel-rose"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024"
@@ -446,7 +446,7 @@
     "duration": 1313,
     "name": "Nick Almond [FactoryDAO]",
     "people": [
-      "Nick Almond"
+      "Nick Almond|dr-nick"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024"
@@ -461,7 +461,7 @@
     "duration": 1711,
     "name": "Lefteris Karapetsas [Rotki]",
     "people": [
-      "Lefteris Karapetsas"
+      "Lefteris Karapetsas|lefteris-karapetsas"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024"
@@ -476,7 +476,7 @@
     "duration": 1013,
     "name": "Ameen Soleimani [0xbow]",
     "people": [
-      "Ameen Soleimani"
+      "Ameen Soleimani|ameen-soleimani"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024"
@@ -504,7 +504,7 @@
     "duration": 1627,
     "name": "Vitalik Buterin & Sebastian Bürgel Fireside Chat",
     "people": [
-      "Vitalik Buterin",
+      "Vitalik Buterin|vitalik-buterin",
       "Sebastian Bürgel"
     ],
     "project": "w3pn",
@@ -520,7 +520,7 @@
     "duration": 212,
     "name": "Ethereum Cypherpunk Transition narrated by Exiledsurfer",
     "people": [
-      "Exiledsurfer"
+      "Exiledsurfer|exiledsurfer"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024"

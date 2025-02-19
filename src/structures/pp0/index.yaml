@@ -12,11 +12,11 @@ caption: |
 refs:
   web: https://pp0.co
   github: ParalelniPolis0
-  bsky: paralelnipolis.info
+  bsky: parallelpolis.info
 
 projects:
-  - id: paralelnipolis-info
-    name: paralelnipolis.info
+  - id: parallelpolis-info
+    name: parallelpolis.info
     years: [ 2024 ]
     types: [ presentation ]
     img: pp0.webp
@@ -25,8 +25,8 @@ projects:
     description: |
       Data source is [Atlas](/c/atlas) (managed by [PP0](/s/pp0))
     refs:
-      web: https://paralelnipolis.info
-      github: ParalelniPolis0/paralelnipolis.info
+      web: https://parallelpolis.info
+      github: ParalelniPolis0/parallelpolis.info
 
   - id: atlas
     name: Parallel Atlas
@@ -172,6 +172,6 @@ description: |
   * the operation of services and protocols that preserve individual freedoms
 
   ## Components
-  * [Web](https://paralelnipolis.info) - encyclopedia and archive of the entire PP ecosystem
+  * [Web](https://parallelpolis.info) - encyclopedia and archive of the entire PP ecosystem
   * Forum - a public forum for research and discussion across the movement (TODO)
   * Matrix server - communication platform available for the whole community (TODO)

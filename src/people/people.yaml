@@ -1277,3 +1277,51 @@
   altNames:
     - Péter Szilagyi
   img: peter-szilagyi.jpeg
+
+- id: constanza-gallo
+  name: Costanza Gallo
+  caption: Swarm
+  img: costanza-gallo.jpg
+  refs:
+    twitter: costgallo
+
+- id: josh-davila
+  name: Josh Davila
+  caption: The Blockchain Socialist
+  img: josh-davila.jpg
+  refs:
+    twitter: TBSocialist
+
+- id: robert-degroot
+  name: Robert De Groot
+  img: robert-degroot.png
+  refs:
+    twitter: robdotrego
+
+- id: christopher-goes
+  name: Christopher Goes
+  caption: Co-Founder of Anoma
+  img: christopher-goes.png
+  refs:
+    twitter: cwgoes
+
+- id: sebastian-burgel
+  name: Sebastian Bürgel
+  caption: Founder of HOPR
+  img: sebastian-burgel.jpg
+  refs:
+    twitter: SCBuergel
+
+- id: daniel-luca
+  name: Daniel Luca
+  caption: Tech VC Eden Block
+  img: daniel-luca.jpg
+  refs:
+    twitter: cleanunicorn
+
+- id: manu-alzuru
+  name: Manu Alzuru
+  img: manu-alzuru.png
+  caption: Core of Blockravers
+  refs:
+    twitter: ManuAlzuru

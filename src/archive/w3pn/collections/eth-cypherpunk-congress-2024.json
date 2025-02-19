@@ -110,11 +110,11 @@
     "duration": 3115,
     "name": "Panel: Turning Degens Into Cypherpunks",
     "people": [
-      "Josh Davila",
+      "Josh Davila|josh-davila",
       "Ying Tong",
       "Alan",
       "PG|pg",
-      "Manu Alzuru",
+      "Manu Alzuru|manu-alzuru",
       "Luis Bezzenberger",
       "Shady El Damaty"
     ],
@@ -181,7 +181,7 @@
     "name": "Dialogue: What does a encrypted supercomputer look like?",
     "people": [
       "Yannik Schrade",
-      "Robert De Groot"
+      "Robert De Groot|robert-degroot"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024",
@@ -245,7 +245,7 @@
     "duration": 1389,
     "name": "Privacy laws and the surveillance state",
     "people": [
-      "Costanza Gallo"
+      "Costanza Gallo|constanza-gallo"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024",
@@ -469,7 +469,7 @@
     "duration": 1439,
     "name": "The Privacy paradox in AI",
     "people": [
-      "Daniel Luca"
+      "Daniel Luca|daniel-luca"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024",
@@ -629,7 +629,7 @@
     "duration": 1567,
     "name": "Panel: Relationship between research and applied privacy protocols",
     "people": [
-      "Christopher Goes",
+      "Christopher Goes|christopher-goes",
       "Pie Man",
       "Amit"
     ],
@@ -732,7 +732,7 @@
       "Fatemeh Fannizadeh",
       "Tuba Eldem",
       "Nelly Cornejo",
-      "Costanza Gallo"
+      "Costanza Gallo|constanza-gallo"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024",
@@ -1049,7 +1049,7 @@
     "name": "Fireside Chat: Vitalik Buterin & Sebastian Bürgel",
     "people": [
       "Vitalik Buterin|vitalik-buterin",
-      "Sebastian Bürgel"
+      "Sebastian Bürgel|sebastian-burgel"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024",

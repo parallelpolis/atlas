@@ -1333,3 +1333,12 @@
   refs:
     web: https://juan.benet.ai
     twitter: juanbenet
+
+- id: peter-van-valkenburgh
+  name: Peter van Valkenburgh
+  altNames:
+    - Peter van Valkenburg
+  img: peter-van-valkenburgh.png
+  caption: Executive Director of CoinCenter
+  refs:
+    twitter: valkenburgh

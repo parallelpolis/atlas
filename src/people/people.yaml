@@ -1325,3 +1325,11 @@
   caption: Core of Blockravers
   refs:
     twitter: ManuAlzuru
+
+- id: juan-benet
+  name: Juan Benet
+  img: juan-benet.jpg
+  caption: Obsessed with Knowledge, Science, and Technology -- Protocol Labs, IPFS, Filecoin
+  refs:
+    web: https://juan.benet.ai
+    twitter: juanbenet

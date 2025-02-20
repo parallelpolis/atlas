@@ -2,5 +2,6 @@ name: DarkFi Community
 labels:
   - community
 years: [ 2021 ]
+img: darkfi.jpg
 refs:
   web: https://dark.fi/

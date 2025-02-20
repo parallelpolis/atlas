@@ -1,7 +1,9 @@
 name: RIAT Institute
 labels:
   - community
+img: riat.jpg
 caption: |
   RIAT is an independent research institute specializing in privacy, cybersecurity, and open source. Our mission is to make things verifiable and reproducible. We foster, document, and support reverse engineering as method for cultural and technological advancement.
 refs:
   web: https://riat.at/
+  twitter: riat_at

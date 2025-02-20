@@ -21,8 +21,6 @@
   roles:
     - project: bordel
       type: contributor
-    - project: pizza-day
-      type: contributor
     - project: hackathoshi-flying-circuit
       type: contributor
     - project: ethprague

@@ -4,7 +4,10 @@ labels:
   - physical space
 years: [ 2024 ]
 img: assets/second-culture.jpg
-caption: Second Culture is a Berlin-style coworking space where a community of freelancers, small work teams or emerging startups can find their work base. Here, individuals and teams from diverse backgrounds work on their projects in an original design environment. We welcome liberally minded, innovative, proactive and creative freelancers and startups interested in digital freedom topics. We allow you to trade hierarchy and strict rules for complete work freedom.
+caption: |
+  Second Culture is a Berlin-style coworking space where a community of freelancers, small work teams or emerging startups can find their work base.
+description: |
+  Here, individuals and teams from diverse backgrounds work on their projects in an original design environment. We welcome liberally minded, innovative, proactive and creative freelancers and startups interested in digital freedom topics. We allow you to trade hierarchy and strict rules for complete work freedom.
 refs:
   web: https://secondculture.cz
   twitter: secondculturecz
@@ -12,7 +15,7 @@ refs:
 projects:
   - id: pizza-day
     name: Pizza Day Prague
-    years: [ 2022, 2024 ]
+    years: [ 2022 ]
     types: [ conference ]
     refs:
       web: https://pizzaday.cz

@@ -1,6 +1,8 @@
 name: LunarDAO
 years: [ 2022 ]
+img: lunardao.jpg
 refs:
   web: https://lunardao.net
+  twitter: lunarpunksquad
 labels:
   - grants

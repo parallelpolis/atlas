@@ -4,5 +4,7 @@ local: CZ
 labels:
   - community
 years: [ 1990 ]
+img: inlist.jpg
 refs:
   web: https://inlist.cz/
+  twitter: inlistcz

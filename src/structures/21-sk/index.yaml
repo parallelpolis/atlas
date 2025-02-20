@@ -3,6 +3,7 @@ shortname: 21SK
 local: SK
 labels:
   - community
+img: 21-sk.jpg
 #years: [ 2023 ]
 refs:
   web: https://www.dvadsatjeden.org/

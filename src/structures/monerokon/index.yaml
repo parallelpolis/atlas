@@ -2,6 +2,7 @@ name: Monero Konferenco
 years: [2019]
 labels:
   - events
+img: monerokon.jpg
 refs:
   web: https://monerokon.org/
   twitter: MoneroKon

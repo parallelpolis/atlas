@@ -58,7 +58,7 @@ projects:
   
   - id: hcpp
     name: Hackers Congress Paralelní Polis
-    years: [ 2014 ]
+    years: [ 2014, 2024 ]
     types: [ conference ]
     shortname: HCPP
     refs:
@@ -69,17 +69,6 @@ projects:
     description: |
       Hackers Congress Paralelni Polis is an annual conference in Prague focusing on cryptoanarchy, digital privacy, decentralization, and emerging technologies. Organized by the Czech nonprofit Paralelni Polis, it brings together hackers, activists, and tech enthusiasts to explore cutting-edge ideas and technologies that promote individual freedom in the digital age.
     
-  - id: pizza-day
-    name: Pizza Day Prague
-    years: [ 2022 ]
-    types: [ conference ]
-    refs:
-      web: https://pizzaday.cz
-    img: assets/pizza-day.jpg
-    caption: |
-      The event series explores the technical and ideological challenges of scaling a decentralized cryptocurrency, bringing together the community to navigate these issues.
-    description: |
-      The legendary Bitcoin pizza transaction marks an important moment in the history of libre digital money. A small step, signalizing the birth of a whole era. It’s been 12 years since Bitcoin stepped into the world of payment networks for physical goods and opened the gates for the creation of a global parallel economy. Since then, we have experienced rather exponential growth in this new financial world. From a small community of cypherpunks and hackers, Bitcoin grew into a phenomenon with today’s mainstream recognition. Flourishing adoption upholds further levels, as the public interest always comes in waves. Yet with each wave passing by, the inspirational spirit of the original innovators fades a little bit more. Mass adoption poses continued challenges from governments, the public, and often the community itself. New questions about the purpose, scalability and sustainability arise every day. These are not going to solve themselves, nor disappear.
 
   - id: ethprague
     name: ETHPrague

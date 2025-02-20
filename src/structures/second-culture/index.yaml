@@ -1,0 +1,23 @@
+name: Second Culture
+local: CZ/Prague
+labels:
+  - physical space
+years: [ 2024 ]
+img: assets/second-culture.jpg
+caption: Second Culture is a Berlin-style coworking space where a community of freelancers, small work teams or emerging startups can find their work base. Here, individuals and teams from diverse backgrounds work on their projects in an original design environment. We welcome liberally minded, innovative, proactive and creative freelancers and startups interested in digital freedom topics. We allow you to trade hierarchy and strict rules for complete work freedom.
+refs:
+  web: https://secondculture.cz
+  twitter: secondculturecz
+
+projects:
+  - id: pizza-day
+    name: Pizza Day Prague
+    years: [ 2022, 2024 ]
+    types: [ conference ]
+    refs:
+      web: https://pizzaday.cz
+    img: assets/pizza-day.jpg
+    caption: |
+      The event series explores the technical and ideological challenges of scaling a decentralized cryptocurrency, bringing together the community to navigate these issues.
+    description: |
+      The legendary Bitcoin pizza transaction marks an important moment in the history of libre digital money. A small step, signalizing the birth of a whole era. It’s been 12 years since Bitcoin stepped into the world of payment networks for physical goods and opened the gates for the creation of a global parallel economy. Since then, we have experienced rather exponential growth in this new financial world. From a small community of cypherpunks and hackers, Bitcoin grew into a phenomenon with today’s mainstream recognition. Flourishing adoption upholds further levels, as the public interest always comes in waves. Yet with each wave passing by, the inspirational spirit of the original innovators fades a little bit more. Mass adoption poses continued challenges from governments, the public, and often the community itself. New questions about the purpose, scalability and sustainability arise every day. These are not going to solve themselves, nor disappear.

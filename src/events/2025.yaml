@@ -1,3 +1,18 @@
+- id: ethbrno3
+  name: ETHBrno×3 (2025)
+  date: "2025-10-17"
+  major: true
+  project: ethbrno
+  place:
+    city: Brno
+    country: cz
+  days: 3
+  seq: 3
+  refs:
+    web: https://ethbrno.cz
+    bsky: ethbrno.cz
+    twitter: ethbrno
+
 - id: pd25
   name: "Pizza Day Prague 2025: Make Crisis Great Again"
   date: "2025-05-17"

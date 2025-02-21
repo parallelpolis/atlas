@@ -352,6 +352,7 @@
   name: ETHBrno² (2022)
   project: ethbrno
   major: true
+  seq: 2
   place:
     city: Brno
     country: cz

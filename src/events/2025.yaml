@@ -59,6 +59,78 @@
 
     Follow us on [X](https://x.com/protocol_berg), [Bluesky](https://bsky.app/profile/protocol.berlin), or [Matrix](https://matrix.to/#/%23protocol:dod.ngo) for updates. For the previous event, see [Protocol Berg 2023](https://2023.protocol.berlin/).
 
+- id: w3pn-hackathon25
+  date: "2025-06-13"
+  days: 3
+  name: W3PN_Hacks
+  project: w3pn-events
+  place:
+    city: Berlin
+    country: de
+  major: true
+  imgs:
+    - path: w3pn-hackathon25.jpg
+      type: square
+  refs:
+    web: https://lu.ma/wero3jvo
+    luma: wero3jvo
+  description: |
+    ​*We are facilitating a unique interdisciplinary privacy-centric hackathon around Berlin Blockchain Week.*
+
+    ​The main focus will be on practical solutions that can be applicable to stories and challenges that people experience around us now.
+
+    ​Those solutions can be turned into products, so finally, we will have so-called "end-user" privacy.
+
+    ​Now.
+
+    ​Not tomorrow, or in a 5 years.
+
+    ​W3PN_Hacks concept
+    ===================
+
+    ​We believe in unity at times of political separation. Privacy in the web3 requires an interdisciplinary push from multiple actors from developers to event producers. *Solidarity is the way to build "privacy awareness stack".*
+
+    ​W3PN_Hacks will unite experienced Ethereum hackathon winners, OG hackers with 20 years of experience, internet surveillance experts, human rights organisations, social scientists, designers - everyone needed to develop a common language of Practical Privacy.
+
+    ​Read "[Cypherpunk hacker class 2.0](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/eX712tU88lqW8UDR3Bkh5Wt3NpuSJgPJq1OdtD2CJaY)" article as a necessity for hackathon change.
+
+    ​W3PN_Hacks principles
+
+    -   ​Social layer - be open to people with different background, skill sets, geos, genders, nationalities etc. Create a collaborative environment for plurality to thrive.
+
+    -   ​Real world use-cases - focus on the stories that need privacy now. Real, alive, practical. Beyond only transactional privacy or web3 echo chamber.
+
+    -   ​Web2 + web3 privacy - match the best from two worlds, so cultures will enrich each other (example: invite GlobalLeaks team members to share takeaways about building & maintaining whistleblower platform that people really use).
+
+    ![User Uploaded Image](https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=800,height=568.8888888888889/editor-images/65/7f9842b7-8384-47b2-95c2-0a3686abbd35.jpg)
+
+    ​Powered by practical tooling
+    =============================
+
+    ​Empowering devs on their journey to build resilient privacy dapps.
+
+    -   ​[Hackathon curation pack](https://absorbing-diagram-66b.notion.site/Privacy-Builder-Pack-2cae5f1e195c4970b4eb41a14d3f4bde) made by Jensei (6-Ethereum hackathon winner streak)
+
+    -   ​[Pagency framework](https://github.com/web3privacy/pagency) for privacy use-cases ideation by Mykola
+
+    -   ​[Privacy Academy](http://academy.web3privacy.info/) maintaned by Peter Farbey
+
+    -   ​[Privacy use-cases Generator](http://ideas.web3privacy.info/) - tool to help builders experiment with the potential use-cases (also facilitated by privacy experts from Vitalik Buterin to RailgunDAO members).
+
+    ​Wanna help us to help a memorable milestone for contemporary hackathons and privacy in the web3 culture?
+
+    Collaborate by contacting us via
+
+    -   ​X <https://x.com/web3privacy>
+
+    -   ​TG <https://t.me/+ZGFx7P_uaLUxZThk>
+
+    -   ​Matrix [https://matrix.web3privacy.info](https://matrix.web3privacy.info/)
+
+    ​Partnerships: <https://x.com/PG_CDG>
+
+    ​*Let the spirit of Practical Privacy be with you in 2025!*
+
 - id: monerokon25
   name: Monero Konferenco 5
   project: monerokon

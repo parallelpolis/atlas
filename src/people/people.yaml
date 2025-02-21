@@ -1472,3 +1472,19 @@
   img: arno-pfefferling.jpg
   refs:
     twitter: mrceebo
+
+- id: luke-kayaba-parker
+  name: Luke 'Kayaba' Parker
+  img: luke-kayaba-parker.png
+  refs:
+    twitter: kayabanerve
+
+- id: aaron-feickert
+  name: Aaron Feickert
+  img: aaron-feickert.jpeg
+
+- id: liam-eagen
+  name: Liam Eagen
+  img: liam-eagen.png
+  refs:
+    twitter: liameagen

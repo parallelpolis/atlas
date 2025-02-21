@@ -396,6 +396,7 @@
   venues:
     - name: Paralelni Polis Praha
   date: '2024-06-07'
+  days: 3
   major: true
   startTime: '2024-06-07T10:00:00+02:00'
   endTime: '2024-06-09T20:00:00+02:00'
@@ -415,6 +416,7 @@
 
     **[Learn more!](https://monerokon.com/)**
   refs:
+    web: https://www.monerokon.org/past_events/2024.html
     meetup_id: '300284665'
     meetup: https://www.meetup.com/paralelnipolis/events/300284665/
 

@@ -1,0 +1,511 @@
+[
+  {
+    "id": "mWBDmautqK0",
+    "slug": "monerokon23-simplex-chat-private-and-secure-messaging-platform-without-user-ids-remote",
+    "videoId": "mWBDmautqK0",
+    "url": "https://www.youtube.com/watch?v=mWBDmautqK0",
+    "publishedAt": "2023-10-22T01:19:35Z",
+    "desc": "#MoneroKon 2023",
+    "duration": 1150,
+    "name": "SimpleX Chat: Private and Secure Messaging Platform Without User IDs (Remote)",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Evgeny Poberezkin"
+    ]
+  },
+  {
+    "id": "vrCAiLPfXlg",
+    "slug": "monerokon23-full-chain-membership-proofs-solving-one-of-moneros-last-privacy-hurdles",
+    "videoId": "vrCAiLPfXlg",
+    "url": "https://www.youtube.com/watch?v=vrCAiLPfXlg",
+    "publishedAt": "2023-10-17T08:50:21Z",
+    "desc": "MoneroKon 2023 - slides: https://github.com/MoneroKon/meta/blob/61fd7c2caabd30d3bb4d1bbd4ca631e6e01196dd/slides/2023/Luke%20Parker%20Full%20Chain%20Membership%20Proofs%20MoneroKon%202023.pdf",
+    "duration": 1112,
+    "name": "Full Chain Membership Proofs: Solving One of Monero’s Last Privacy Hurdles",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Luke Parker"
+    ]
+  },
+  {
+    "id": "h4xL9_5RE64",
+    "slug": "monerokon23-the-monero-standard-remote",
+    "videoId": "h4xL9_5RE64",
+    "url": "https://www.youtube.com/watch?v=h4xL9_5RE64",
+    "publishedAt": "2023-10-29T18:25:00Z",
+    "desc": "#MoneroKon 2023",
+    "duration": 2302,
+    "name": "The Monero Standard (Remote)",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Stoic.xmr"
+    ]
+  },
+  {
+    "id": "9ZdWe5VZRuo",
+    "slug": "monerokon23-basicswap-increasing-moneros-resiliency-using-basicswap-dex",
+    "videoId": "9ZdWe5VZRuo",
+    "url": "https://www.youtube.com/watch?v=9ZdWe5VZRuo",
+    "publishedAt": "2023-10-21T17:57:29Z",
+    "desc": "#MoneroKon 2023",
+    "duration": 1266,
+    "name": "BasicSwap: Increasing Monero's Resiliency using BasicSwap DEX",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Kewde"
+    ]
+  },
+  {
+    "id": "p79BveGg288",
+    "slug": "monerokon23-eth-xmr-atomic-swaps",
+    "videoId": "p79BveGg288",
+    "url": "https://www.youtube.com/watch?v=p79BveGg288",
+    "publishedAt": "2023-10-29T15:57:38Z",
+    "desc": "MoneroKon 2023",
+    "duration": 1324,
+    "name": "ETH-XMR Atomic Swaps",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "noot"
+    ]
+  },
+  {
+    "id": "clCcuAIaAz4",
+    "slug": "monerokon23-pavol-luptak-monero-and-cryptocurrencies-as-the-most-powerful-liberalizing-tool-of-global-opportunism",
+    "videoId": "clCcuAIaAz4",
+    "url": "https://www.youtube.com/watch?v=clCcuAIaAz4",
+    "publishedAt": "2023-10-17T08:13:19Z",
+    "desc": "MoneroKon 2023",
+    "duration": 1619,
+    "name": "Monero & Cryptocurrencies as the Most Powerful Liberalizing Tool of Global Opportunism",
+    "people": [
+      "Pavol Lupták|wilder"
+    ],
+    "project": "monerokon",
+    "event": "monerokon23"
+  },
+  {
+    "id": "-sTT84Up7FY",
+    "slug": "monerokon23-analysing-monero-merchants-traffic-using-simple-chainanalysis",
+    "videoId": "-sTT84Up7FY",
+    "url": "https://www.youtube.com/watch?v=-sTT84Up7FY",
+    "publishedAt": "2023-10-21T09:20:01Z",
+    "desc": "MoneroKon 2023",
+    "duration": 1404,
+    "name": "Analysing Monero Merchants‘ Traffic Using Simple Chainanalysis",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "juraj-bednar"
+    ]
+  },
+  {
+    "id": "tLX-Cd170Ro",
+    "slug": "monerokon23-a-holistic-security-analysis-of-monero-transactions-remote",
+    "videoId": "tLX-Cd170Ro",
+    "url": "https://www.youtube.com/watch?v=tLX-Cd170Ro",
+    "publishedAt": "2023-10-21T20:11:38Z",
+    "desc": "#MoneroKon 2023",
+    "duration": 2967,
+    "name": "A Holistic Security Analysis of Monero Transactions (Remote)",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Benedikt Wagner"
+    ]
+  },
+  {
+    "id": "KuIRDTsyzkQ",
+    "slug": "monerokon23-overview-security-spam-scaling-and-fee-markets-in-monero-and-bitcoin-like-cryptocurrencies",
+    "videoId": "KuIRDTsyzkQ",
+    "url": "https://www.youtube.com/watch?v=KuIRDTsyzkQ",
+    "publishedAt": "2023-10-17T09:45:49Z",
+    "desc": "MoneroKon 2023 - slides: https://github.com/MoneroKon/meta/blob/693277f994f06c359695cd37136041c7e8256c78/slides/2023/MoneroPresentation23Jun23.pdf",
+    "duration": 2991,
+    "name": "Overview Security, Spam, Scaling & Fee Markets in Monero & Bitcoin Like Cryptocurrencies",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "ArticMine"
+    ]
+  },
+  {
+    "id": "c936RGM1w5s",
+    "slug": "monerokon23-anonymous-set-proofs-for-infinite-ring-size",
+    "videoId": "c936RGM1w5s",
+    "url": "https://www.youtube.com/watch?v=c936RGM1w5s",
+    "publishedAt": "2023-10-21T09:23:38Z",
+    "desc": "MoneroKon 2023",
+    "duration": 1893,
+    "name": "Anonymous Set Proofs for Infinite Ring Size",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "amir-taaki"
+    ]
+  },
+  {
+    "id": "MYzZ1DzSWCY",
+    "slug": "monerokon23-monero-light-wallets-today-and-in-the-future",
+    "videoId": "MYzZ1DzSWCY",
+    "url": "https://www.youtube.com/watch?v=MYzZ1DzSWCY",
+    "publishedAt": "2023-10-21T10:24:20Z",
+    "desc": "MoneroKon 2023",
+    "duration": 1630,
+    "name": "Monero Light Wallets: Today and in the Future",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Justin Berman"
+    ]
+  },
+  {
+    "id": "bHpq2vnoUAg",
+    "slug": "monerokon23-worlds-freest-country-introducing-liberland",
+    "videoId": "bHpq2vnoUAg",
+    "url": "https://www.youtube.com/watch?v=bHpq2vnoUAg",
+    "publishedAt": "2023-10-21T16:55:06Z",
+    "desc": "MoneroKon 2023",
+    "duration": 1299,
+    "name": "World's Freest Country: Introducing Liberland",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Michal Ptačnik"
+    ]
+  },
+  {
+    "id": "dGSBn7lIpyk",
+    "slug": "monerokon23-pseudonymity-is-not-enough-why-monero-misses-out-on-decentralised-identity",
+    "videoId": "dGSBn7lIpyk",
+    "url": "https://www.youtube.com/watch?v=dGSBn7lIpyk",
+    "publishedAt": "2023-10-17T08:57:04Z",
+    "desc": "MoneroKon 2023 - slides: https://github.com/MoneroKon/meta/blob/61fd7c2caabd30d3bb4d1bbd4ca631e6e01196dd/slides/2023/ben.pdf",
+    "duration": 1329,
+    "name": "Pseudonymity Is Not Enough: Why Monero ‘misses out’ on Decentralised Identity",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Ben Biedermann"
+    ]
+  },
+  {
+    "id": "toQ_xGbCmGY",
+    "slug": "monerokon23-the-houdini-act-how-privacy-electronic-cash-and-cypherpunk-tech-increases-freedom",
+    "videoId": "toQ_xGbCmGY",
+    "url": "https://www.youtube.com/watch?v=toQ_xGbCmGY",
+    "publishedAt": "2023-10-21T17:32:16Z",
+    "desc": "#MoneroKon 2023",
+    "duration": 2564,
+    "name": "The Houdini Act: How Privacy, Electronic Cash, & Cypherpunk Tech Increases Freedom?",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "juraj-bednar"
+    ]
+  },
+  {
+    "id": "vf6zb-2dYf0",
+    "slug": "monerokon23-regulating-monero-a-libertarian-strategic-analysis",
+    "videoId": "vf6zb-2dYf0",
+    "url": "https://www.youtube.com/watch?v=vf6zb-2dYf0",
+    "publishedAt": "2023-10-18T07:35:02Z",
+    "desc": "MoneroKon 2023",
+    "duration": 1393,
+    "name": "Regulating Monero: A Libertarian, Strategic Analysis",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "andrea"
+    ]
+  },
+  {
+    "id": "S478LukKlEs",
+    "slug": "monerokon23-seamless-escrowed-markets-with-monero-multisig",
+    "videoId": "S478LukKlEs",
+    "url": "https://www.youtube.com/watch?v=S478LukKlEs",
+    "publishedAt": "2023-10-21T13:20:20Z",
+    "desc": "MoneroKon 2023",
+    "duration": 2163,
+    "name": "Seamless Escrowed Markets with Monero Multisig",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "koe"
+    ]
+  },
+  {
+    "id": "l5P8YkDdQbU",
+    "slug": "monerokon23-welcome-to-the-garden",
+    "videoId": "l5P8YkDdQbU",
+    "url": "https://www.youtube.com/watch?v=l5P8YkDdQbU",
+    "publishedAt": "2023-10-17T20:07:00Z",
+    "desc": "MoneroKon 2023",
+    "duration": 1385,
+    "name": "Welcome to the Garden",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "anhdres"
+    ]
+  },
+  {
+    "id": "s2p6OxB_ohk",
+    "slug": "monerokon23-overcoming-esg-and-financial-censorship-and-why-monero-is-the-digital-cash-we-need-remote",
+    "videoId": "s2p6OxB_ohk",
+    "url": "https://www.youtube.com/watch?v=s2p6OxB_ohk",
+    "publishedAt": "2023-10-22T00:17:06Z",
+    "desc": "#MoneroKon 2023",
+    "duration": 1394,
+    "name": "Overcoming ESG & Financial Censorship & Why Monero is the Digital Cash we Need (Remote)",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Kaj Jež"
+    ]
+  },
+  {
+    "id": "KXRvFnJAeU8",
+    "slug": "monerokon23-quo-vadis",
+    "videoId": "KXRvFnJAeU8",
+    "url": "https://www.youtube.com/watch?v=KXRvFnJAeU8",
+    "publishedAt": "2023-10-18T07:08:52Z",
+    "desc": "MoneroKon 2023",
+    "duration": 1411,
+    "name": "Monerujo - Quo vadis?",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "m2049r"
+    ]
+  },
+  {
+    "id": "tcZGf8Qb_XA",
+    "slug": "monerokon23-flavors-of-atomic-swaps-from-zero-twohero-onchain-logix-in-retrograde",
+    "videoId": "tcZGf8Qb_XA",
+    "url": "https://www.youtube.com/watch?v=tcZGf8Qb_XA",
+    "publishedAt": "2023-10-21T13:50:03Z",
+    "desc": "MoneroKon 2023",
+    "duration": 2033,
+    "name": "Flavors of Atomic Swaps: From Zero Two(he)ro Onchain Logix, in Retrograde",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Lederstrumpf"
+    ]
+  },
+  {
+    "id": "eNCUX4sH1qM",
+    "slug": "monerokon23-lightswap-an-atomic-swap-does-not-require-timeouts-at-both-blockchains-remote",
+    "videoId": "eNCUX4sH1qM",
+    "url": "https://www.youtube.com/watch?v=eNCUX4sH1qM",
+    "publishedAt": "2023-10-22T00:44:18Z",
+    "desc": "#MoneroKon 2023",
+    "duration": 1289,
+    "name": "LightSwap: An Atomic Swap Does Not Require Timeouts At Both Blockchains (Remote)",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Subhra Mazumdar"
+    ]
+  },
+  {
+    "id": "tVk64lLurCU",
+    "slug": "monerokon23-tariscript-non-interactive-protocols-for-mimblewimble",
+    "videoId": "tVk64lLurCU",
+    "url": "https://www.youtube.com/watch?v=tVk64lLurCU",
+    "publishedAt": "2023-10-18T08:19:02Z",
+    "desc": "MoneroKon 2023",
+    "duration": 1314,
+    "name": "TariScript: Non-interactive protocols for Mimblewimble",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Cayle Sharrock"
+    ]
+  },
+  {
+    "id": "Nm9aRfc4SbE",
+    "slug": "monerokon23-lelantus-spark-state-of-the-art-and-future-improvements",
+    "videoId": "Nm9aRfc4SbE",
+    "url": "https://www.youtube.com/watch?v=Nm9aRfc4SbE",
+    "publishedAt": "2023-10-18T07:54:46Z",
+    "desc": "MoneroKon 2023",
+    "duration": 924,
+    "name": "Lelantus Spark: State of the Art and Future Improvements",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Aram Jivanyan"
+    ]
+  },
+  {
+    "id": "TPAxOOnIAnw",
+    "slug": "monerokon23-how-private-is-bitcoin-classification-and-evaluation-of-bitcoin-privacy-techniques",
+    "videoId": "TPAxOOnIAnw",
+    "url": "https://www.youtube.com/watch?v=TPAxOOnIAnw",
+    "publishedAt": "2023-10-21T18:34:29Z",
+    "desc": "#MoneroKon 2023",
+    "duration": 971,
+    "name": "How private is Bitcoin? Classification and Evaluation of Bitcoin Privacy Techniques",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Simin Ghesmati"
+    ]
+  },
+  {
+    "id": "OC2LjmkMj8g",
+    "slug": "monerokon23-a-formal-evaluation-of-privacy-in-monero",
+    "videoId": "OC2LjmkMj8g",
+    "url": "https://www.youtube.com/watch?v=OC2LjmkMj8g",
+    "publishedAt": "2023-10-17T20:04:02Z",
+    "desc": "MoneroKon 2023",
+    "duration": 1161,
+    "name": "A Formal Evaluation of Privacy in Monero",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "François-Xavier Wicht"
+    ]
+  },
+  {
+    "id": "m2ktph0o4as",
+    "slug": "monerokon23-zarcanum-a-proof-of-stake-scheme-for-confidential-transactions-with-hidden-amounts",
+    "videoId": "m2ktph0o4as",
+    "url": "https://www.youtube.com/watch?v=m2ktph0o4as",
+    "publishedAt": "2024-09-22T11:02:18Z",
+    "desc": "Zarcanum (ZPoS) is a first ever secure and private blockchain consensus scheme that enhances traditional Proof of Stake with untraceability and hidden amounts. #monerokon2023",
+    "duration": 1192,
+    "name": "Zarcanum: A Proof-of-Stake Scheme for Confidential Transactions with Hidden Amounts",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Sowle",
+      "Koe"
+    ]
+  },
+  {
+    "id": "1TYbtM9mgMI",
+    "slug": "monerokon23-dominique-schroder-paymo-verifiable-timed-linkable-ring-signatures-for-scalable-payments-for-monero",
+    "videoId": "1TYbtM9mgMI",
+    "url": "https://www.youtube.com/watch?v=1TYbtM9mgMI",
+    "publishedAt": "2023-10-18T07:04:02Z",
+    "desc": "MoneroKon2023",
+    "duration": 1194,
+    "name": "PayMo: Verifiable Timed Linkable Ring Signatures For Scalable Payments For Monero",
+    "people": [
+      "Dominique Schröder"
+    ],
+    "project": "monerokon",
+    "event": "monerokon23"
+  },
+  {
+    "id": "kJfHv_2Vfjc",
+    "slug": "monerokon23-panel-discussion-cryptocurrencies-and-regulations",
+    "videoId": "kJfHv_2Vfjc",
+    "url": "https://www.youtube.com/watch?v=kJfHv_2Vfjc",
+    "publishedAt": "2023-10-21T14:34:52Z",
+    "desc": "MoneroKon 2023",
+    "duration": 3150,
+    "name": "Panel Discussion: Cryptocurrencies and Regulations",
+    "people": [],
+    "project": "monerokon",
+    "event": "monerokon23"
+  },
+  {
+    "id": "kfyhb-GCPEE",
+    "slug": "monerokon23-on-the-anonymity-of-peer-to-peer-network-anonymity-schemes-used-by-cryptocurrencies",
+    "videoId": "kfyhb-GCPEE",
+    "url": "https://www.youtube.com/watch?v=kfyhb-GCPEE",
+    "publishedAt": "2023-10-17T09:28:35Z",
+    "desc": "MoneroKon 2023 - slides: https://github.com/MoneroKon/meta/blob/77fe63260f0c80ad0b11707a7b112abd8010e5f5/slides/2023/Monerokon_2023_p2p_anonymity.pdf",
+    "duration": 1583,
+    "name": "On the Anonymity of Peer-To-Peer Network Anonymity Schemes Used by Cryptocurrencies",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Piyush Sharma"
+    ]
+  },
+  {
+    "id": "-blQZ6b6jRA",
+    "slug": "monerokon23-the-economics-of-privacy",
+    "videoId": "-blQZ6b6jRA",
+    "url": "https://www.youtube.com/watch?v=-blQZ6b6jRA",
+    "publishedAt": "2023-10-17T20:11:21Z",
+    "desc": "MoneroKon 2023",
+    "duration": 1055,
+    "name": "The Economics of Privacy",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Martin Gundinger"
+    ]
+  },
+  {
+    "id": "lFyyJkxb49A",
+    "slug": "monerokon23-anonymous-credentials-with-threshold-issuance",
+    "videoId": "lFyyJkxb49A",
+    "url": "https://www.youtube.com/watch?v=lFyyJkxb49A",
+    "publishedAt": "2023-10-21T09:17:40Z",
+    "desc": "MoneroKon 2023",
+    "duration": 1572,
+    "name": "Anonymous Credentials with Threshold Issuance",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Alfredo Rial"
+    ]
+  },
+  {
+    "id": "4fFzo_plpY4",
+    "slug": "monerokon23-identity-vs-anonymity-battleground-for-the-future-of-finance",
+    "videoId": "4fFzo_plpY4",
+    "url": "https://www.youtube.com/watch?v=4fFzo_plpY4",
+    "publishedAt": "2023-10-17T09:22:16Z",
+    "desc": "MoneroKon 2023 - slides: https://github.com/MoneroKon/meta/blob/fd40c795d3bd02138f0262e61610f7ca77f7ba14/slides/2023/_Identity_v_Anonymity_MoneroKon_2023_v3.pdf",
+    "duration": 703,
+    "name": "Identity vs Anonymity: Battleground for the Future of Finance",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "midipoet"
+    ]
+  },
+  {
+    "id": "jpdiXfqVeuI",
+    "slug": "monerokon23-spats-user-defined-confidential-assets-and-tokens",
+    "videoId": "jpdiXfqVeuI",
+    "url": "https://www.youtube.com/watch?v=jpdiXfqVeuI",
+    "publishedAt": "2023-10-17T09:37:33Z",
+    "desc": "MoneroKon 2023 - slides: https://github.com/MoneroKon/meta/blob/498a67d210e214f5be9f4c6c7c0cab723c994a6c/slides/2023/feickert-spats.pdf",
+    "duration": 1405,
+    "name": "Spats: User-defined Confidential Assets and Tokens",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Aaron Feickert|aaron-feickert"
+    ]
+  },
+  {
+    "id": "KGgBB3pDl3Y",
+    "slug": "monerokon23-mprove-privacy-enhancing-proof-of-reserves-for-monero",
+    "videoId": "KGgBB3pDl3Y",
+    "url": "https://www.youtube.com/watch?v=KGgBB3pDl3Y",
+    "publishedAt": "2023-10-17T09:51:44Z",
+    "desc": "MoneroKon 2023 - slides: https://github.com/MoneroKon/meta/blob/e72b5e19bdd0fc73ba48f902717f0eeada327f29/slides/2023/slides-mproveplus-monerokon-2023.html",
+    "duration": 1864,
+    "name": "MProve+: Privacy Enhancing Proof of Reserves for Monero",
+    "project": "monerokon",
+    "event": "monerokon23",
+    "people": [
+      "Suyash Bagad"
+    ]
+  }
+]

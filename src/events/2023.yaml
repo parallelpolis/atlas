@@ -798,6 +798,22 @@
     meetup: https://www.meetup.com/paralelnipolis/events/294757856/
 
 
+- id: monerokon23
+  name: Monero Konferenco 3
+  project: monerokon
+  seq: 3
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelni Polis Praha
+    - name: La Fabrika
+  date: '2023-06-23'
+  days: 3
+  major: true
+  refs:
+    web: https://www.monerokon.org/past_events/2023.html
+
 - id: 2023-06-21-privacy-and-security-meetup-15
   name: 'Privacy & Security MeetUp #15'
   place:

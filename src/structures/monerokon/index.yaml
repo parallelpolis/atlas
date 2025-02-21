@@ -6,3 +6,9 @@ img: monerokon.jpg
 refs:
   web: https://monerokon.org/
   twitter: MoneroKon
+
+projects:
+
+  - id: monerokon
+    name: Monero Konferenco
+    years: [ 2019 ]

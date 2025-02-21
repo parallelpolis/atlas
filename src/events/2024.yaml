@@ -386,8 +386,10 @@
     meetup: https://www.meetup.com/paralelnipolis/events/300923227/
 
 
-- id: 2024-06-07-monero-konferenco-4
+- id: monerokon24
   name: Monero Konferenco 4
+  project: monerokon
+  seq: 4
   place:
     city: Prague
     country: cz

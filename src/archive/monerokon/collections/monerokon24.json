@@ -1,0 +1,542 @@
+[
+  {
+    "id": "iBOumm2SrcU",
+    "slug": "monerokon24-cypherpunk-past-present-and-future",
+    "videoId": "iBOumm2SrcU",
+    "url": "https://www.youtube.com/watch?v=iBOumm2SrcU",
+    "publishedAt": "2024-06-12T09:17:47Z",
+    "desc": "Cypherpunks were creating a parallel universe of liberty. They were using anonymous communication, encryption, to gain a new territory of liberty. With Bitcoin switching partly to NgU narrative, is Monero taking over the helm of the ship of liberty? And where are we going? Did we solve the technical challenges, or do we have to develop further?\n\nAnd of course …what do we do about the normies? Can they come in?\n\nJoin me in this cypherpunk/lunarpunk journey.",
+    "duration": 1100,
+    "name": "Cypherpunk: Past, Present, and Future",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "juraj-bednar"
+    ]
+  },
+  {
+    "id": "e7xX0TQD2tM",
+    "slug": "monerokon24-bulletproofs",
+    "videoId": "e7xX0TQD2tM",
+    "url": "https://www.youtube.com/watch?v=e7xX0TQD2tM",
+    "publishedAt": "2024-06-12T09:48:25Z",
+    "desc": "Bulletproofs++ is a new transparent confidential transaction protocol based on the Bulletproofs inner product argument. It features shorter proof sizes and much faster verification complexity. It also supports efficient multi-asset confidential transactions. This is all made possible by a novel \"reciprocal argument\" (also known as log derivative lookup).",
+    "duration": 1065,
+    "name": "Bulletproofs++",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Liam Eagen"
+    ]
+  },
+  {
+    "id": "7tw5VJNynfw",
+    "slug": "monerokon24-full-chain-membership-proofs",
+    "videoId": "7tw5VJNynfw",
+    "url": "https://www.youtube.com/watch?v=7tw5VJNynfw",
+    "publishedAt": "2024-06-12T10:12:34Z",
+    "desc": "This talk will go over the newly discussed Full Chain Membership Proofs++ protocol, evolving Full Chain Membership Proofs into an upgrade independent of Seraphis and its associated migration.",
+    "duration": 858,
+    "name": "Full-chain Membership Proofs++",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Luke 'Kayaba' Parker"
+    ]
+  },
+  {
+    "id": "qpxHdadeau4",
+    "slug": "monerokon24-self-custody-inheritance-and-its-risks",
+    "videoId": "qpxHdadeau4",
+    "url": "https://www.youtube.com/watch?v=qpxHdadeau4",
+    "publishedAt": "2024-06-12T10:33:31Z",
+    "desc": "For many of us, self-custody is “the way” of securing our crypto-assets. “True hodlers” keep their crypto stack for the long run, on their own. But one day, when you are “at rest” your crypto will pass to your family or closed ones. Would they know how to get your crypto? In our talk, we will examine potential challenges and risks that can affect self-custody holders and their loved ones who may like to inherit their stack in the future. How can I pass on my heritage securely? And what is important to keep in mind?\n\nLet´s find out!",
+    "duration": 1114,
+    "name": "Self-custody Inheritance and Its Risks",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Jan Jílek",
+      "Tomáš Elbert"
+    ]
+  },
+  {
+    "id": "v6Yf9u95HW0",
+    "slug": "monerokon24-how-do-we-design-secure-protocols",
+    "videoId": "v6Yf9u95HW0",
+    "url": "https://www.youtube.com/watch?v=v6Yf9u95HW0",
+    "publishedAt": "2024-06-12T11:16:20Z",
+    "desc": "When we look at cryptographic protocols like CLSAG and Bulletproofs and Triptych and Seraphis, we often talk about things like security models and proofs. But what does this mean?\n\nIn this talk, we'll take a brief look at what it means to build a secure cryptographic protocol and analyze it. Taking a Monero-centric approach, we'll introduce the idea of a security model and use examples from the Monero ecosystem to show why it's an important part of analyzing these constructions.\n\nThis talk will be accessible to everyone, and will provide a broad look at what cryptographers do behind the scenes to keep Monero safe and secure.",
+    "duration": 1168,
+    "name": "How Do We Design Secure Protocols?",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Aaron Feickert"
+    ]
+  },
+  {
+    "id": "2OpovwMbfGY",
+    "slug": "monerokon24-a-primer-on-elliptic-curve-cryptography-and-its-application-in-monero",
+    "videoId": "2OpovwMbfGY",
+    "url": "https://www.youtube.com/watch?v=2OpovwMbfGY",
+    "publishedAt": "2024-06-13T10:54:33Z",
+    "desc": "This talk is an introduction to Elliptic Curve Cryptography (ECC). Attendees are expected to have a basic to intermediate understanding of the field.\n\nTo begin, we will cover the basic principles of asymmetric cryptography. We then discuss ECC curves and security, along with a comparison of asymmetric non-ECC with ECC. Finally, we will cover the mathematical principles behind ECC, including the fundamental mathematical operations, and how elliptic curves are applied in Monero's cryptographic mechanisms.\n\nEmail for questions: compunerophd@proton.me",
+    "duration": 1405,
+    "name": "A Primer on Elliptic Curve Cryptography and Its Application in Monero",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Compunero, PhD"
+    ]
+  },
+  {
+    "id": "tHGVtGELMUU",
+    "slug": "monerokon24-unorthodox-cryptography-to-scale-monero",
+    "videoId": "tHGVtGELMUU",
+    "url": "https://www.youtube.com/watch?v=tHGVtGELMUU",
+    "publishedAt": "2024-06-13T11:07:25Z",
+    "desc": "Monero is expected to evolve to Seraphis, adopt JAMTIS as our new address scheme, and even adopt Full Chain Membership Proofs for complete sender privacy. All of these rely on Elliptic Curve Cryptography, with the most notable construction being the curve cycle (an elliptic curve whose scalar field embeds the field of an elliptic curve whose scalar field is the original curve's field) proposed.\n\nThis talk will go over alternate cryptographic schemes which can offer a more performant membership proof, decrease the storage requirements of Monero, eliminate the need to iteratively scan transactions for near-instant scan times, and increase privacy for users who don't run their own nodes.",
+    "duration": 1236,
+    "name": "Unorthodox Cryptography to Scale Monero",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Luke 'Kayaba' Parker"
+    ]
+  },
+  {
+    "id": "9RVL6jxMI5k",
+    "slug": "monerokon24-sok-what-dont-we-know-understanding-security-vulnerabilities-in-snarks",
+    "videoId": "9RVL6jxMI5k",
+    "url": "https://www.youtube.com/watch?v=9RVL6jxMI5k",
+    "publishedAt": "2024-06-13T11:23:20Z",
+    "desc": "Zero-knowledge proofs (ZKPs) have evolved from being a theoretical concept providing privacy and verifiability to having practical, real-world implementations, with SNARKs (Succinct Non-Interactive Argument of Knowledge) emerging as one of the most significant innovations. Prior work has mainly focused on designing more efficient SNARK systems and providing security proofs for them. Many think of SNARKs as \"just math,\" implying that what is proven to be correct and secure is correct in practice. In contrast, this paper focuses on assessing end-to-end security properties of real-life SNARK implementations. We start by building foundations with a system model and by establishing threat models and defining adversarial roles for systems that use SNARKs. Our study encompasses an extensive analysis of 141 actual vulnerabilities in SNARK implementations, providing a detailed taxonomy to aid developers and security researchers in understanding the security threats in systems employing SNARKs. Finally, we evaluate existing defense mechanisms and offer recommendations for enhancing the security of SNARK-based systems, paving the way for more robust and reliable implementations in the future.",
+    "duration": 1236,
+    "name": "SoK: What don't we know? Understanding Security Vulnerabilities in SNARKs",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Stefanos Chaliasos"
+    ]
+  },
+  {
+    "id": "GPe6ndIHArU",
+    "slug": "monerokon24-manifesto-for-a-dark-renaissance-anonymity-as-hard-offensive-power",
+    "videoId": "GPe6ndIHArU",
+    "url": "https://www.youtube.com/watch?v=GPe6ndIHArU",
+    "publishedAt": "2024-06-13T11:53:47Z",
+    "desc": "Overview of DarkFi:\n- The coming war on crypto, and how it will undermine states\n- Breakthroughs in cryptography and anonymous smart contracts.\n- DarkFi's plan to merge mine on Monero\n- Overview of the ecosystem",
+    "duration": 1431,
+    "name": "Manifesto for a Dark Renaissance: Anonymity as Hard Offensive Power",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "amir-taaki"
+    ]
+  },
+  {
+    "id": "qQ4ptuh_w84",
+    "slug": "monerokon24-human-meaningful-trustless-anonymous-monero-addresses-with-namecoin",
+    "videoId": "qQ4ptuh_w84",
+    "url": "https://www.youtube.com/watch?v=qQ4ptuh_w84",
+    "publishedAt": "2024-06-13T12:05:33Z",
+    "desc": "Monero addresses are already long and unwieldy, and they’re about to get longer with Jamtis. Namecoin is a DNS-like naming system implemented as the first project forked from Bitcoin, predating Monero by 3 years to the day. This talk will cover using Namecoin as a human-meaningful naming layer for Monero addresses, recent anonymity advances that make Namecoin’s privacy more suitable for this use case, how OpenAlias fits in, and how Namecoin compares to the MoneroDNS approach of creating a Monero sidechain for this purpose.",
+    "duration": 1087,
+    "name": "Human-Meaningful, Trustless, Anonymous Monero Addresses with Namecoin",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Jeremy Rand"
+    ]
+  },
+  {
+    "id": "p6yVMivL5kc",
+    "slug": "monerokon24-monero-is-free-and-open-source-software",
+    "videoId": "p6yVMivL5kc",
+    "url": "https://www.youtube.com/watch?v=p6yVMivL5kc",
+    "publishedAt": "2024-06-13T14:37:02Z",
+    "desc": "This talk will give a brief history of what free and open source software (FOSS) really means and how the term(s) originated. After covering the high level milestones in the history of this nascent movement, I will try to cover how Monero fits in to this landscape in terms of the ways that Monero software is licensed as well as contributions it has made back to the wider ecosystem.",
+    "duration": 1207,
+    "name": "Monero is Free and Open Source Software",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "John Winter Murphy"
+    ]
+  },
+  {
+    "id": "d1f9sBajj10",
+    "slug": "monerokon24-ffts-on-the-projective-line-and-circle-starks",
+    "videoId": "d1f9sBajj10",
+    "url": "https://www.youtube.com/watch?v=d1f9sBajj10",
+    "publishedAt": "2024-06-14T06:34:41Z",
+    "desc": "We'll review recent progress on FFT's from these papers that enables\nfast FFT's over Fp when a large power of two divides p+1.\nThere is recent excitment about this because it enables using very convenient Mersenne prime fields of order 2^k-1\n\nhttps://eprint.iacr.org/2024/278\nhttps://arxiv.org/pdf/2310.14462.pdf",
+    "duration": 1214,
+    "name": "FFT's on the projective line and circle-STARKs",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "ariel-gabizon"
+    ]
+  },
+  {
+    "id": "dTj42N49jdk",
+    "slug": "monerokon24-scaling-monero-in-response-to-blockchain-surveillance",
+    "videoId": "dTj42N49jdk",
+    "url": "https://www.youtube.com/watch?v=dTj42N49jdk",
+    "publishedAt": "2024-06-14T07:15:28Z",
+    "desc": "The current regulatory environment provides serious challenges to the privacy offered by Monero. This can range from Blockchain Surveillance companies making false accusations to the risk of Flood XMR attacks in an attempt to de-anonimize Monero’s ring signatures. The ultimate goal is to remove even the illusion of Blockchain Surveillance. This will require full membership proofs together with a sizable growth in organic Monero adoption. The larger the organic growth the stronger the anonymity set.\nWe will provide a comprehensive set of scaling and fee algorithms that will support a reference transaction size of up to 8000 bytes. This will support the estimated 2 in 2 out transaction size for full membership proofs of approximately 5500 bytes and will even support a ring size of up to 64 using the current proofs as an interim measure. This will further harden the network against Flood XMR by lowering the ratio between the minimum penalty free zone and reference transaction size from 100x to 50x, and by more tightly pricing the growth of the short term median by reducing the surge of the short term median over the long term median from 50x to 16x, while at the same time transferring the growth to the tightly priced long term median. The latter rate of growth will increase from 1.7x to 2x. In addition an ultra long term median of 1,000,000 blocks will be proposed that will cap the overall growth of the network to Nielsen's Law of Internet Bandwidth for a high end consumer or small business upload Internet connection.",
+    "duration": 3171,
+    "name": "Scaling Monero in Response to Blockchain Surveillance",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Francisco 'ArticMine' Cabanas"
+    ]
+  },
+  {
+    "id": "d7SvTTR4Pxo",
+    "slug": "monerokon24-will-new-rich-and-powerful-libertarians-and-cryptoanarchists-save-the-world-from-dystopia",
+    "videoId": "d7SvTTR4Pxo",
+    "url": "https://www.youtube.com/watch?v=d7SvTTR4Pxo",
+    "publishedAt": "2024-06-15T13:20:22Z",
+    "desc": "As far as the political spectrum is concerned, the libertarians and (crypto)anarchists, who have believed in crypto as non-state money from the beginning, are currently the ones who are (and will be) the richest thanks.\n\nRich people can change society the most thanks to capital.\n\nDoes the fact that crypto is going to the moon mean that there will be many rich and influential libertarians (like never before) and society will become more free because of it?\n\nWill the new rich and powerful libertarians and (crypto)anarchists save the world from dystopia?",
+    "duration": 1417,
+    "name": "Will New Rich & Powerful Libertarians & Cryptoanarchists Save the World from Dystopia",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "wilder"
+    ]
+  },
+  {
+    "id": "qm978gqLUGA",
+    "slug": "monerokon24-a-return-to-cypherpunk-values",
+    "videoId": "qm978gqLUGA",
+    "url": "https://www.youtube.com/watch?v=qm978gqLUGA",
+    "publishedAt": "2024-06-15T13:55:35Z",
+    "desc": "Going to provide a talk on returning to cypher punk values and discarding the crypto casino mentality. I will explain what \"cypherpunk\" means and why the crypto casino does not align with those anti-establishment and anti-authoritarian values. In the second part of the talk, I will discuss the importance of developing a \"dark forest\" infrastructure, a la Dark Fi, and how to protect ourselves as we push forward for greater and greater freedom, both online and in the meat space. In the final part of the talk, I will discuss what the unification of all \"punk\" values could look like and why this type of unification is critical.",
+    "duration": 1152,
+    "name": "A Return to Cypherpunk Values",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Sterlin Lujan"
+    ]
+  },
+  {
+    "id": "5pGR03Fj5FE",
+    "slug": "monerokon24-private-smart-contracts-a-way-to-bring-programmability-to-monero",
+    "videoId": "5pGR03Fj5FE",
+    "url": "https://www.youtube.com/watch?v=5pGR03Fj5FE",
+    "publishedAt": "2024-06-15T15:38:10Z",
+    "desc": "Smart contracts are a frequent request for Monero, yet have significant questions about privacy, efficiency, and complexity. Any VM would have several pages for its specification, with opcodes debatable for years. The denial of service risk would threaten Monero's stability, and the lack of privacy seen with most VMs would be unacceptable.\n\nThis talk will establish and go over a potential evolution for the protocol, where smart contracts are expressed in algebraic terms (creating a pure specification) and evaluated in constant time (being without a denial of service risk) while maintaining privacy of the contract code, inputs, and execution without a trusted setup.",
+    "duration": 936,
+    "name": "Private Smart Contracts: A Way to Bring Programmability to Monero",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Luke 'Kayaba' Parker"
+    ]
+  },
+  {
+    "id": "FD2huIa2xyo",
+    "slug": "monerokon24-achieving-various-levels-of-confidentiality-in-tari",
+    "videoId": "FD2huIa2xyo",
+    "url": "https://www.youtube.com/watch?v=FD2huIa2xyo",
+    "publishedAt": "2024-06-15T15:50:02Z",
+    "desc": "Tari allows smart contract developers to choose a level of confidentiality for their use case, ranging from none to strong. In this talk we'll go through each of the levels and what the trade-offs are.",
+    "duration": 1162,
+    "name": "Achieving Various Levels of Confidentiality in Tari",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Mike (Stringhandler)"
+    ]
+  },
+  {
+    "id": "OhK6DcB7pCc",
+    "slug": "monerokon24-p2p-networking-permissionless-approach-with-robust-rate-limiting",
+    "videoId": "OhK6DcB7pCc",
+    "url": "https://www.youtube.com/watch?v=OhK6DcB7pCc",
+    "publishedAt": "2024-06-15T16:00:31Z",
+    "desc": "This presentation explores innovative strategies for developing permissionless peer-to-peer networks that prioritize privacy. It delves into mechanisms for preserving user anonymity while implementing effective rate limiting solutions to ensure network efficiency and security.",
+    "duration": 1229,
+    "name": "P2P Networking: Permissionless Approach with Robust Rate Limiting",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Sasha"
+    ]
+  },
+  {
+    "id": "sT6VtNAOKqI",
+    "slug": "monerokon24-pushing-back-against-regulatory-overreach-the-case-of-bity-vs-finma",
+    "videoId": "sT6VtNAOKqI",
+    "url": "https://www.youtube.com/watch?v=sT6VtNAOKqI",
+    "publishedAt": "2024-06-16T02:30:12Z",
+    "desc": "Bity.com is one of the oldest crypto brokers in Switzerland (selling XMR on its ATMs). In front of the Federal Administrative Tribunal, it is suing the Swiss regulator FINMA for a claimed illegal implementation of two FATF rules, the identification limit of 1000 CHF per month (1) and the Travel Rule (2).\n\nIn both cases, FINMA went beyond what FATF requested, and implemented this through a soft power mechanism that removes the need for the parliament to intervene.\n\nThe talk will describe how FINMA operates and what is the status of the cases.\n\nThis case is novel, because it is the first crowdfunded, transparent case against the regulator pushed by the crypto-community.\n\nAll documents and the crowdfunding (also in XMR) are available here: https://btcpay.nymte.ch/apps/2aks2XSx8ogQFc2CPuKVben8KNcP/crowdfund",
+    "duration": 1132,
+    "name": "Pushing Back Against Regulatory Overreach: The Case of Bity vs. FINMA",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Alexis Roussel"
+    ]
+  },
+  {
+    "id": "Z4BDxfLoVGQ",
+    "slug": "monerokon24-web3privacy-now-advocating-for-privacy-247365",
+    "videoId": "Z4BDxfLoVGQ",
+    "url": "https://www.youtube.com/watch?v=Z4BDxfLoVGQ",
+    "publishedAt": "2024-06-16T02:49:06Z",
+    "desc": "How does privacy advocacy work in crypto?\n\nWeb3Privacy Now core team will share a complex overview on\n- key challenges facing privacy advocacy\n- broad range of market actors contributing to privacy\n- share insights on how enthusiasts, projects, and ecosystem players could scale privacy advocacy & empower critical knowledge infra\n- provide W3PN ecosystem outlook from privacy-focused community building to data-driven Explorer project scoring 600+ privacy services",
+    "duration": 1694,
+    "name": "Web3Privacy Now: Advocating for Privacy 24/7/365",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "mykola-siusko"
+    ]
+  },
+  {
+    "id": "8E-Ni6Crc8I",
+    "slug": "monerokon24-filter-assist-keys-and-flexible-view-tags-more-private-and-adjustable-light-wallets",
+    "videoId": "8E-Ni6Crc8I",
+    "url": "https://www.youtube.com/watch?v=8E-Ni6Crc8I",
+    "publishedAt": "2024-06-16T03:05:20Z",
+    "desc": "New updates to the Jamtis addressing protocol would allow for a tier of light wallets with even greater privacy guarantees and scaling benefits. Before these changes, light wallet servers could tell a client received funds if those funds were sent twice to the same Jamtis address. They could also tell if a client received funds if those funds were sent to a Jamtis address known to the light wallet server. Finally, a light wallet server could identify churning and pocket-change style transactions of the client with high probability. Recent developments to Jamtis fix all those privacy issues, hopefully paving the way for (almost) totally non-deterministic light wallet implementations. In addition to privacy boosts, the addition of \"flexible view-tags\" provide the ability for the community to react to scaling concerns regarding light wallets, adjusting the balance between privacy and computation demands, without requiring network updates. We discuss the pros/cons of these changes in detail, what is theoretically still left to solve, as well as how these changes could enable real-world use cases.",
+    "duration": 926,
+    "name": "Filter-Assist Keys and Flexible View-Tags: More Private and Adjustable Light Wallets",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Jeffro256"
+    ]
+  },
+  {
+    "id": "Vg8n5DAzbGg",
+    "slug": "monerokon24-ocash-fully-anonymous-payments-between-blockchain-light-clients",
+    "videoId": "Vg8n5DAzbGg",
+    "url": "https://www.youtube.com/watch?v=Vg8n5DAzbGg",
+    "publishedAt": "2024-06-16T03:15:50Z",
+    "desc": "We study blockchain-based provably anonymous payment systems between light clients. Such clients interact with the blockchain through full nodes, who can see what the light clients read and write. The goal of our work is to enable light clients to perform anonymous payments, while maintaining privacy even against the full nodes through which they interact with the blockchain.\nWe formalize the problem in the universal composability model and present a provably secure solution to it. In comparison to existing works, we are the first ones that simultaneously provide strong anonymity guarantees, provable security, and anonymity with respect to the full nodes. Along the way, we make several contributions that may be of independent interest.\nWe define and construct efficient compressible randomness beacons, which produce unpredictable values in regular intervals and allow for storing all published values in a short digest. We define and construct anonymous-coin friendly encryption schemes and we show how they can be used within anonymous payment systems. We define and construct strongly oblivious read-once map, which can be seen as a special data structure that needs to satisfy a stronger notion of obliviousness than what is usually considered. We present a new approach, which is compatible with light clients, for mitigating double- spending attacks in anonymous cryptocurrencies.",
+    "duration": 1135,
+    "name": "OCash: Fully Anonymous Payments between Blockchain Light Clients",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Mark Simkin"
+    ]
+  },
+  {
+    "id": "BBLHfSZU_OI",
+    "slug": "monerokon24-serai-decentralizing-exchanges-for-monero",
+    "videoId": "BBLHfSZU_OI",
+    "url": "https://www.youtube.com/watch?v=BBLHfSZU_OI",
+    "publishedAt": "2024-06-16T03:26:47Z",
+    "desc": "This talk will be an introduction and overview for Serai, a decentralized exchange which will support Monero at launch.",
+    "duration": 725,
+    "name": "Serai: Decentralizing Exchanges for Monero",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Luke 'Kayaba' Parker"
+    ]
+  },
+  {
+    "id": "V6B5xtWrohw",
+    "slug": "monerokon24-basicswap-an-atomic-swap-dex-for-monero",
+    "videoId": "V6B5xtWrohw",
+    "url": "https://www.youtube.com/watch?v=V6B5xtWrohw",
+    "publishedAt": "2024-06-16T03:45:26Z",
+    "desc": "An overview of the different moving parts at work behind the BasicSwap DEX protocol, the vision for the project, and exploring how BasicSwap can power a better and more resilient future for XMR, free of central points of failure.",
+    "duration": 1378,
+    "name": "BasicSwap: An Atomic Swap DEX for Monero",
+    "people": [],
+    "project": "monerokon",
+    "event": "monerokon24"
+  },
+  {
+    "id": "0UXgI7fHukc",
+    "slug": "monerokon24-privacy-as-a-kantian-misesian-a-priori-condition-for-the-preservation-of-property-rights",
+    "videoId": "0UXgI7fHukc",
+    "url": "https://www.youtube.com/watch?v=0UXgI7fHukc",
+    "publishedAt": "2024-06-16T03:56:08Z",
+    "desc": "This presentation analyzes the relation between the philosophical notion of privacy, its practical implementation in the domain of cryptocurrencies, and the Western regulatory financial environment. A libertarian (anarcho-capitalist, agorist) perspective is adopted.\nThe ability of governments to extract resources from the economy depends on their ability to surveil it: property that is not seen by authorities cannot be taxed. Privacy-preserving cryptocurrencies such as Monero pose a special danger to the state because they allow buyers and sellers to interact directly without relying on regulated financial institutions, thus bolstering black (free) markets. It comes as no surprise, then, that regulators are cracking down on privacy-centric crypto projects, as shown by the Tornado Cash saga.\nOddly enough, the clamp down on Tornado Cash elicited only a mild response in the cryptocurrency ecosystem. For example, the focus of proposals like Privacy Pools is on finding a practical equilibrium between the preservation of privacy and regulatory compliance without challenging the ability of the state to define the rules of the game. In order to understand why this appeasement strategy cannot work, a proper philosophical debate on the nature of privacy needs to be carried out.\nThe main objective of this presentation is to investigate what kind of theoretical notion privacy is. Utilitarianism, privacy as a natural right, and privacy as a Kantian-Misesian a priori condition for the preservation of property rights are analyzed. Firstly, it is shown that utilitarian (relativistic) approaches do not work because they end up outsourcing the definition of privacy to the government; the powerful, not utilitarians, get to define the costs and benefits of privacy and surveillance. Secondly, the theory of privacy as a natural right is interesting because it does not depend on the arbitrary wishes of politicians and bureaucrats, but it is discarded because it is not compatible with libertarian reductionism, which correctly holds that property is the only natural right. Moreover, privacy is more of a fight than a right. Thirdly, the main proposal of this presentation is to understand privacy as a Kantian-Misesian a priori condition for the preservation of property: that privacy is required to safeguard property is an a priori truth that does not depend on empirical circumstances. This proposal is coherent with libertarian reductionism because privacy is not interpreted as a natural right; in parallel, it is superior to utilitarianism because the a priori status of privacy protects it from human arbitrariness. While the origin of a priori notions is not empirical, their use is: privacy cannot but impact how the acting man protects real-world property and interacts with fellow human beings. The Kantian-Misesian approach leads to the rejection of self-defeating appeasement strategies and to the adoption of a much more effective adversarial mindset.",
+    "duration": 1327,
+    "name": "Privacy as a Kantian-Misesian A Priori Condition for the Preservation of Property Rights",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Andrea"
+    ]
+  },
+  {
+    "id": "bYbPhoIBAEU",
+    "slug": "monerokon24-nurturing-decentralization-in-the-age-of-digital-commons",
+    "videoId": "bYbPhoIBAEU",
+    "url": "https://www.youtube.com/watch?v=bYbPhoIBAEU",
+    "publishedAt": "2024-06-16T04:09:23Z",
+    "desc": "Decentralization has been a pivotal term behind significant technological shifts, yet its essence and potential have often been obscured by its transformation into a buzzword. Satoshi Nakamoto's vision with Bitcoin—to bypass traditional intermediaries—highlighted a path toward decentralization but did not fully avoid the emergence of new middlemen, underscoring the need for continuous engagement with decentralization's principles.\n\nThis presentation examines decentralization as a driver for participatory technology across networked commons, including hardware, web3, and geopolitics. It underscores the promise of fostering equitable and sustainable collaborations, juxtaposed against considerable challenges. The principle that \"convenience always beats security\" reflects a central tension in our digital era, emphasizing that true decentralization requires vigilant effort and adaptability.\n\nMonero exemplifies a decentralized community closely aligned with Nakamoto's initial vision, prioritizing privacy and security to address Bitcoin's shortcomings. This highlights the potential of decentralized models to faithfully implement foundational ideals.\n\nFurthermore, the digital tragedy of the commons, as illustrated by OpenAI's mission to democratize AI, reveals the difficulty of aligning collective benefits with individual incentives within decentralized frameworks. This situation stresses the complexity of managing shared resources in harmony with decentralization's ethos.\n\nThe path toward effective decentralization is fraught with intricacies, advocating for a culture of continuous inquiry. As technology evolves, we stand at a critical juncture, tasked with reevaluating and reshaping control and collaboration mechanisms. Decentralization is not merely a process but a persistent challenge to conventional norms, aiming to create a digital ecosystem that upholds security, sovereignty, and the common good, even when convenience temporarily prevails. This journey demands optimism and scrutiny, reminding us that our digital future should reflect our highest values of equity, participation, and transparency.",
+    "duration": 2087,
+    "name": "Nurturing Decentralization in the Age of Digital Commons",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "matthias-tarasiewicz"
+    ]
+  },
+  {
+    "id": "Fl-QS0-qENw",
+    "slug": "monerokon24-simplex-chat-1st-messaging-platform-bridging-between-privacy-and-mass-market-apps",
+    "videoId": "Fl-QS0-qENw",
+    "url": "https://www.youtube.com/watch?v=Fl-QS0-qENw",
+    "publishedAt": "2024-06-16T11:56:36Z",
+    "desc": "SimpleX Chat (https://simplex.chat/) is the messaging network based on the novel protocol design where users are not assigned any identities, not even random numbers.\n\nIt allows users to communicate, privately and anonymously, over messaging relays. Unlike federated networks, where servers host users' accounts, messaging relays are \"dumb\" - they use anonymous client generated credentials to provide disposable messaging queues, without knowing any users of the network. Unlike mix- and onion-routing networks, SimpleX relays don't communicate directly with each other and don't know about each other existence - clients' themselves form a network. This unique design may provide a higher level of privacy and resilience than traditional federated and p2p network designs.\n\nMonero community has been very supportive of SimpleX Chat design and growth, as the values of privacy and protecting participant identities are shared.\n\nEvgeny, SimpleX Chat founder will also talk about the evolution of SimpleX Chat protocols, how it increased privacy and security since it launched, and also why it's very important that privacy and security becomes a hygiene factor for mass-market technology solutions, and not a product category - real privacy is only possible in the network that is used by a large number of people.",
+    "duration": 1174,
+    "name": "SimpleX Chat: 1st Messaging Platform Bridging Between Privacy & Mass-market Apps",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Evgeny Poberezkin"
+    ]
+  },
+  {
+    "id": "3Bu4pOzITCA",
+    "slug": "monerokon24-harnessing-decentralisation-for-anonymous-chat",
+    "videoId": "3Bu4pOzITCA",
+    "url": "https://www.youtube.com/watch?v=3Bu4pOzITCA",
+    "publishedAt": "2024-06-16T12:08:36Z",
+    "desc": "In an era where privacy concerns loom large and centralized platforms often fall short, the emergence of decentralized, secure chat systems offers a compelling alternative. We will explore how these technologies empower users to engage in confidential conversations without compromising their privacy. Through examples, we highlight the advantages and challenges of leveraging and adapting the decentralized Tari infrastructure to create a secure chat system.",
+    "duration": 1148,
+    "name": "Whispers in the Ether - Harnessing Decentralisation for Anonymous Chat",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Brian",
+      "Adrian Truszczyński"
+    ]
+  },
+  {
+    "id": "OcoS-pi3Xms",
+    "slug": "monerokon24-implementing-confidential-assets-in-powpos-private-blockchain-the-zano-experience",
+    "videoId": "OcoS-pi3Xms",
+    "url": "https://www.youtube.com/watch?v=OcoS-pi3Xms",
+    "publishedAt": "2024-06-16T12:18:46Z",
+    "desc": "In the presentation, we detail the integration of confidential assets within the Zano blockchain. This initiative enables anonymous asset transfers and asset swaps (referred to as 'Ionic swaps') involving multiple asset types within a single transaction. Additionally, we will discuss how Confidential Assets are combined with Zarcanum, a Proof-of-Stake scheme, to facilitate egalitarian and anonymous staking with hidden amounts.",
+    "duration": 1534,
+    "name": "Implementing Confidential Assets in PoW/PoS Private Blockchain: The Zano Experience",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Sowle"
+    ]
+  },
+  {
+    "id": "A232BJEJp3w",
+    "slug": "monerokon24-aura-using-privacy-respecting-technology-to-build-secure-voting",
+    "videoId": "A232BJEJp3w",
+    "url": "https://www.youtube.com/watch?v=A232BJEJp3w",
+    "publishedAt": "2024-06-19T03:21:05Z",
+    "desc": "Electronic voting is hard. Really hard! Existing approaches to this problem make many tradeoffs, like leaking voter information or trusting voting authorities not to cheat. What we want is a way to conduct a vote electronically that respects voter privacy, allows anyone to verify the results are correct, and minimizes trust in voting and tallying authorities.\n\nThis talk will introduce Aura, a voting protocol that meets these goals. Aura uses several privacy-respecting techniques (including some from private transaction protocols!) to do this. We'll provide a high-level overview of how it works and why it's useful.\n\nThis talk should be accessible to everyone, and no particular technical background is assumed.",
+    "duration": 1070,
+    "name": "Aura: Using Privacy-Respecting Technology to Build Secure Voting",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Aaron Feickert"
+    ]
+  },
+  {
+    "id": "fXkNV35alEs",
+    "slug": "monerokon24-the-monero-country",
+    "videoId": "fXkNV35alEs",
+    "url": "https://www.youtube.com/watch?v=fXkNV35alEs",
+    "publishedAt": "2024-06-19T03:35:56Z",
+    "desc": "We build all our systems under the assumption of opting-out of current countries, but if they are everywhere, covering every inch of available land, then where are we opting-out to?\n\nLet's take a sincere look at what we already have and all the tools we're still missing. Then embrace the unavoidable advantages of economies of scale while setting up better private foundations, built new systems on top of them, and become the founding fathers and mothers of a better future.",
+    "duration": 1366,
+    "name": " The Monero Country",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Anhdres"
+    ]
+  },
+  {
+    "id": "l7SuVqfbKR4",
+    "slug": "monerokon24-sidekick",
+    "videoId": "l7SuVqfbKR4",
+    "url": "https://www.youtube.com/watch?v=l7SuVqfbKR4",
+    "publishedAt": "2024-06-19T03:45:14Z",
+    "desc": "Following last year's PocketChange, there's a new Monerujo feature for the hardcore monerians to battle test, live!\n\nSideKick allows users to initiate transactions on their regular phone and then sign them on another spare phone that's kept offline. It works as a hardware wallet, minus the closed source and the data leaks.\n\nThis talk delves into the technical aspects of SideKick, explaining how it works and the reasoning behind some of the team's design decisions and challenges.",
+    "duration": 629,
+    "name": "SideKick!",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Dimi \"m2049r\" Divak"
+    ]
+  },
+  {
+    "id": "Zfeuk69wp0A",
+    "slug": "monerokon24-sovereign-money-and-freedom-where-to-from-here",
+    "videoId": "Zfeuk69wp0A",
+    "url": "https://www.youtube.com/watch?v=Zfeuk69wp0A",
+    "publishedAt": "2024-06-19T03:59:03Z",
+    "desc": "#MoneroKon2024",
+    "duration": 1034,
+    "name": "Sovereign Money and Freedom. Where to From Here?",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "CJ"
+    ]
+  },
+  {
+    "id": "Vb00xFTyu9c",
+    "slug": "monerokon24-a-directory-for-a-monero-circular-economy",
+    "videoId": "Vb00xFTyu9c",
+    "url": "https://www.youtube.com/watch?v=Vb00xFTyu9c",
+    "publishedAt": "2024-06-19T04:07:47Z",
+    "desc": "Monero is the ideal cryptocurrency for building out circular and parallel economies which allow one to transact without a bank account or government ID. Monerica (monerica.com) was created to answer the most important question one should ask about a cryptocurrency: what can I do with it? A discussion of Monerica can address why Monero is the best for real economic activity in a digital world, how one can practically live off Monero, and what attention this project has received since its inception in January 2022.",
+    "duration": 927,
+    "name": "Monerica - A Directory for a Monero Circular Economy",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Ryan"
+    ]
+  },
+  {
+    "id": "ZVLbpC3HBMU",
+    "slug": "monerokon24-practicing-anarchism",
+    "videoId": "ZVLbpC3HBMU",
+    "url": "https://www.youtube.com/watch?v=ZVLbpC3HBMU",
+    "publishedAt": "2024-09-22T10:19:59Z",
+    "desc": "An introduction to practicing anarchism from ab initio to real life. What is necessary to live free and why. How to build it and challenges in doing so. #monerokon2024",
+    "duration": 961,
+    "name": "Practicing Anarchism",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Andriy Khavryuchenko"
+    ]
+  },
+  {
+    "id": "1i6EgP8_AEU",
+    "slug": "monerokon24-townforge-remote",
+    "videoId": "1i6EgP8_AEU",
+    "url": "https://www.youtube.com/watch?v=1i6EgP8_AEU",
+    "publishedAt": "2024-10-13T11:21:03Z",
+    "desc": "#MoneroKon2024",
+    "duration": 2367,
+    "name": "Moneromooo narrated by Syksy - Townforge (Remote)",
+    "project": "monerokon",
+    "event": "monerokon24",
+    "people": [
+      "Syksy"
+    ]
+  }
+]

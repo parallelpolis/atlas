@@ -26,6 +26,7 @@ lists:
 
   - id: external
   - id: ancap
+  - id: nestatni-penize
   - id: hcpp24
     base:
       project: hcpp

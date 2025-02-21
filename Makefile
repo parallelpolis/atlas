@@ -60,4 +60,6 @@ extract-monerokon23:
 extract-monerokon24:
 	node lib/yt-extract.js monerokon-community:monerokon24 playlist PLsSYUeVwrHBk-C3zImaDAQLx453PL7dR- '{"project": "monerokon", "event": "monerokon24"}'
 
+extract-nestatni-penize:
+	node lib/yt-extract.js pp-prague:nestatni-penize playlist PLCY6Q2vuBJALblREr_5E0Wa6MwWIJFVCH '{"people":["Josef Tětek|josef-tetek"], "lang": "cs", "project": "nestatni-penize"}'
 	

@@ -827,6 +827,32 @@
   major: true
   refs:
     web: https://www.monerokon.org/past_events/2022.html
+  speakers:
+    - Luke Parker (kayabaNerve)
+    - Mr P
+    - Libre
+    - MRPT and Nala
+    - Edwin den Boer
+    - sethforprivacy
+    - Geoff Goodell
+    - Justin Berman
+    - amir-taaki
+    - koe
+    - Haruto Yamamoto
+    - Konrad Baechler
+    - Marco Purtschert
+    - Brian Boss
+    - juraj-bednar
+    - Howard Chu (hyc)
+    - max-hampshire
+    - TheCharlatan
+    - AlexAnarcho
+    - b068931cc450442b63f5b3d276ea4297
+    - d2ro
+    - Simin Ghesmati
+    - Andrés
+    - Nathan
+    - Henry
 
 - id: ksp22
   date: "2022-05-28"

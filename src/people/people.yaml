@@ -588,7 +588,9 @@
   img: fluffy-pony.jpg
   refs:
     twitter: fluffypony
-  altNames: [ Fluffy Pony ]
+  altNames: 
+    - Fluffy Pony
+    - Riccardo "fluffypony" Spagni
 
 - id: jim-bell
   name: Jim Bell

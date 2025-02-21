@@ -1397,6 +1397,17 @@
   major: true
   refs:
     web: https://www.monerokon.org/past_events/2019.html
+  speakers:
+    - Howard Chu
+    - Kristy-Leigh Minehan
+    - DLSAG
+    - Paul Shapiro
+    - Jethro Grassie
+    - Brandon "suraeNoether" Goodell
+    - OMI
+    - Sebastian Kung
+    - Andrew Poelstra
+    - fluffy-pony
 
 
 - id: 2019-06-20-vejdi-ven-or-arthur-f-sniegon-safe-elephants

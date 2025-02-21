@@ -1,0 +1,20 @@
+name: MoneroKon Community
+years: [2019]
+labels:
+  - events
+img: monerokon.jpg
+refs:
+  web: https://monerokon.org/
+  twitter: MoneroKon
+
+projects:
+
+  - id: monerokon
+    name: Monero Konferenco
+    years: [ 2019 ]
+    img: monerokon.jpg
+    caption: |
+      A technical conference in privacy and financial technology
+    refs:
+      web: https://monerokon.org
+      twitter: MoneroKon

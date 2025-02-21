@@ -1488,3 +1488,11 @@
   img: liam-eagen.png
   refs:
     twitter: liameagen
+
+- id: matthew-hodgson
+  name: Matthew Hodgson
+  img: matthew-hodgson.jpg
+  caption: project lead matrix.org | CEO/CTO Element
+  refs:
+    bsky: arathorn.net
+    twitter: ara4n

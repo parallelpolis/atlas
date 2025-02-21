@@ -1,0 +1,386 @@
+[
+  {
+    "id": "0vGFd8wfm8M",
+    "slug": "monerokon19-saturday",
+    "videoId": "0vGFd8wfm8M",
+    "url": "https://www.youtube.com/watch?v=0vGFd8wfm8M",
+    "publishedAt": "2019-06-26T20:37:01Z",
+    "desc": "Day 1 livestream of the 2019 Monero Konferenco in Denver, CO.\n\nTimestamps:\n3:50 Omniring: Scaling Up Private Payments without Trusted Setup - Sri Aravinda Krishnan Thyagarajan (Friedrich-Alexander-Universität Erlangen-Nürnberg)\n35:10 Authenticated Data Structures for Blockchain Consensus with Minimal Storage - Ben Fisch (Stanford University)\n1:05:50 Monerokon Maddress: Schorr Signatures - Andrew Poelstra (Blockstream)\n1:51:55 The Monero Hardware Landscape: A review of and progress report on Monero hardware projects - Michael Schloh von Bennewitz\n2:23:00 Critical Decentralisation, Open & Libre Hardware for and with Monero - Matthias Tarasiewicz (RIAT, Institute for Future Cryptoconomics)\n2:53:57 Achieving Secure Deployment of High-Stakes Software - Sebastian King (University of Zurich)\n4:57:42 The Case for Electronic Cash: Why Private Peer-to-Peer Payments are Essential to an Open Society - Jerry Brito (Coin Center)\n5:25:00 Bringing Privacy Mainstream: Building Demand Within Shifting Local and Global Demographics - Amanda Cavaleri (ft. Jerry Brito)\n5:51:42 Money at the Edge: How People Stay Afloat in Venezuela - Jamaal Montasser (Open Money Initiative)\n6:36:13 Network Attacks and Obfuscation of Private Payment Systems - Josh S (Airfoil Capital)\n6:58:30 Dandelion Onions: Protecting Transaction Privacy in Monero - Lee Clagett\n7:49:15 Visualizing Monero: A Figure is Worth a Thousand Logs - Dr. Mitchell Krawiec-Thayer (Insight Data Science)\n8:18:25 Perfect Privacy or Strong Deniability? - Dr. Brandon Goodell\n9:01:00 Spam Mitigation and Blockchain Size Control in Privacy Supporting Permissionless Blockchains - Francisco \"ArticMine\" Cabanas\n\n\nSchedule:\n\n22 June 2019\n\n08:00 - 09:00 : Registration and breakfast\n\n08:45 - 09:00 : Opening remarks\n\n09:00 - 10:30 : Protocols I\n\n    Sri Aravinda Krishnan Thyagarajan, Friedrich-Alexander-Universität Erlangen-Nürnberg. Omniring: Scaling Up Private Payments without Trusted Setup.\n\n    Ben Fisch, Stanford University. An Authenticated Data Structure for Blockchain Consensus with Minimal Storage.\n\n    Andrew Poelstra, Blockstream. Practical Challenges of Compact Threshold Signatures.\n\n10:45 - 12:15 : Secure Hardware and Software\n\n    Michael Schloh von Bennewitz, The Monero Project. The Monero Hardware Landscape: A review of and progress report on Monero hardware projects.\n\n    Matthias Tarasiewicz, RIAT (Institute for Future Cryptoeconomics). Critical Decentralisation, Open & Libre Hardware for and with Monero.\n\n    Sebastian Kung, University of Zurich. Achieving secure deployment of high-stakes software.\n\n12:15 - 13:45 : Lunch break\n\n13:45 - 15:15 : Society, Privacy, and Decentralization I\n\n    Jerry Brito, Coin Center. The Case for Electronic Cash: Why Private Peer-to-Peer Payments are Essential to an Open Society.\n\n    Amanda Cavaleri. Bringing Privacy Mainstream: building demand within shifting local and global demographics.\n\n    Jamaal Montasser, Open Money Initiative. Money at the edge: how people stay afloat in Venezuela.\n\n15:30 - 16:30 : Private Networking\n\n    Josh S, Airfoil Capital. Network Attacks and Obfuscation of Your Payment System.\n\n    Lee Clagett. Dandelion Onions : Protecting Transaction Privacy in Monero.\n\n16:45 - 18:15 : Breaking Monero\n\n    Mitchell Krawiec-Thayer, Insight Data Science. Visualizing Monero: A Figure is Worth A Thousand Logs.\n\n    Brandon Goodell, Monero Research Lab. Perfect privacy or strong deniability?\n\n    Francisco Cabañas, The Monero Project. Spam Mitigation and Blockchain Size Control in Privacy Supporting Permissionless Blockchains.",
+    "duration": 34171,
+    "name": "MoneroKon 2019 Livestream - Saturday",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": []
+  },
+  {
+    "id": "AsJaMw-3gGE",
+    "slug": "monerokon19-sunday",
+    "videoId": "AsJaMw-3gGE",
+    "url": "https://www.youtube.com/watch?v=AsJaMw-3gGE",
+    "publishedAt": "2019-06-26T20:37:01Z",
+    "desc": "Day 2 livestream of the 2019 Monero Konferenco in Denver, CO.\n\nTimestamps:\n8:30 Government and Privacy, What’s Next? Panelists: Jerry Brito, Jack Gavigan, Peter van Valkenburgh, Erik Voorhees. Moderators: Amber Baldet and Dr. Sarang Noether\nNote: video quality increases around 11:00\n1:55:55 The Embedded Future of Monero's Proof of Work - Kristy-Leigh Minehan (Core Scientific)\n2:22:45 ASIC-Resistance Proof of Work: Fact or Fantasy - Howard Chu (Symas Corporation)\n4:22:00 How Criminals Are Mining for Free: Measuring the Crypto-Mining-Malware Ecosystem - Dr. Guillermo Suarez-Tangil (King's College London)\n4:46:50 Crypto for Good: Mining with Probabilistic Hashrate Distribution to Fund Humanitarian UAV Deployment - Leah La Salla (Astral AR)\n5:21:20 The Elephant in the Pool - Jethro Grassie\n6:06:00 Tari: Advancing Monero Through Ecosystem Development - Riccardo Spagni (Tari, GloBee)\n6:36:18 Transaction Efficiency: Then and Now - Dr. Sarang Noether\n7:06:55 Analyzing and Integrating with Monero Core Code - Paul Shapiro (MyMonero)\n7:37:15 Moderating Monero: The Centralization Necessary to Maintain a Decentralized Community - needmoney90\n8:22:23 Dual Outputs: Enabling Payment-Channel Networks in Monero - Dr. Pedro Moreno-Sanchez (TU Wien)\n8:51:15 Lelantus: New Protocol for Private Transactions with Hidden Origins and Amounts Based on DDH - Aram Jivanyan (Zcoin)\n\n\nSchedule:\n\n23 June 2019\n\n08:00 - 09:00 : Registration and Breakfast\n\n09:00 - 10:30 : Government and Privacy, What’s Next? Panelists: Jerry Brito, Jack Gavigan, Peter van Valkenburgh, Erik Voorhees. Moderators: Amber Baldet and Dr. Sarang Noether.\n\n10:45 - 11:45 : Work and Pools I\n\n    Kristy-Leigh Minehan, Core Scientific. The Embedded Future of Monero’s Proof of Work.\n\n    Howard Chu, Symas Corp. ASIC-Resistant Proof of Work: Fact or Fantasy?\n\n11:45 - 13:15 : Lunch break.\n\n13:15 - 14:45 : Work and Pools II\n\n    Guillermo Suarez-Tangil, King’s College London. On how criminals are mining for free: measuring the crypto-mining-malware ecosystem.\n\n    Leah LaSalla, Astral AR. Crypto for Good: Mining with Probabilistic Hashrate Distribution to Fund Humanitarian UAV Deployment.\n\n    Jethro Grassie, The Monero Project. The Elephant in the Pool.\n\n15:00 - 17:00 : State and Future of Monero\n\n    Riccardo Spagni, Tari and The Monero Project. Tari: Advancing Monero through Ecosystem Development  \n\n    Sarang Noether, Monero Research Lab. Transaction Efficiency Then and Now.\n\n    Paul Shapiro, MyMonero. Challenges in Building Software with Monero Code.\n\n    NeedMoney90, The Monero Project. Moderating Monero: The centralization necessary to maintain a decentralized community.\n\n17:15 - 18:15 : Protocols II\n\n    Pedro Moreno-Sanchez, TU Wien. Dual Outputs: Enabling Payment-Channel Networks in Monero.\n\n    Aram Jivanyan, Zcoin. Lelantus: New Protocol for private transactions with hidden origins and amounts based on DDH",
+    "duration": 33313,
+    "name": "MoneroKon 2019 Livestream - Sunday",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": []
+  },
+  {
+    "id": "tmxPHb8QNqE",
+    "slug": "monerokon19-omniring-scaling-up-private-payments-without-trusted-setup",
+    "videoId": "tmxPHb8QNqE",
+    "url": "https://www.youtube.com/watch?v=tmxPHb8QNqE",
+    "publishedAt": "2019-06-26T20:20:54Z",
+    "desc": "Recorded at the Monero Konferenco 2019 in Denver, Colorado.\n\nMonero uses Ring Confidential Transactions (RingCT) for providing anonymity and confidentiality. Prior attempts of analyzing RingCT schemes are either informal, miss fundamental functionality, or introduce undesirable trusted setup assumptions. Moreover, the RingCT scheme currently used in Monero limits the anonymity set due to spend proof size growing linearly with the ring size. As a solution to these problems, we present the first complete and rigorous formalization of RingCT. We then propose a generic construction of RingCT and prove it secure in our formal security model. By instantiating our generic construction with efficient zeroknowledge proofs which extends Bulletproofs, we obtain Omniring: the first RingCT scheme which 1) does not require a trusted setup or pairings, 2) has a proof size logarithmic in ring size, and 3) allows to share the same ring between all source accounts in a transaction. Omniring enables significantly improved privacy levels without sacrificing performance.\n\nSri Aravinda (Aravind) Krishnan Thyagarajan is a PhD student at University of Erlangen-Nuremberg, Germany under the supervision of Prof. Dominique Schroeder. I specialize in analyzing theoretical foundations and various problems pertaining to blockchain and cryptocurrencies namely, privacy, anonymity, scalability and other applications.",
+    "duration": 1841,
+    "name": "Omniring: Scaling Up Private Payments Without Trusted Setup",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": []
+  },
+  {
+    "id": "1ZtufQKY9MI",
+    "slug": "monerokon19-authenticated-data-structure-for-blockchain-consensus-with-minimal-storage",
+    "videoId": "1ZtufQKY9MI",
+    "url": "https://www.youtube.com/watch?v=1ZtufQKY9MI",
+    "publishedAt": "2019-06-26T20:31:14Z",
+    "desc": "Blockchain-based cryptocurrencies (like Bitcoin/Ethereum/Monero etc) are highly replicated transactional databases. More uniquely, they employ a ‘decentralized’ consensus that broadens the participation in the governance of the database as much as possible. Like any transactional database, they grow with use, as does the size of active state (e.g. information on account balances or valid records of ownership) that has to be remembered in order to check the validity of new transactions. This places a storage burden on consensus participants, hindering decentralization. Authenticated data structures (ADS), such as a Merkle tree, can be used to reduce the size of the state required for transaction validation, at the cost of an increased transaction size. However, a Merkle tree would have a very large impact on network communication, as well as the size of transaction logs required for replay. This talk will present a new ADS based on the cryptographic RSA accumulator, which can be applied to achieve the same result with minimal impact on network communication.",
+    "duration": 1796,
+    "name": "Authenticated Data Structure for Blockchain Consensus with Minimal Storage",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": []
+  },
+  {
+    "id": "L6KqkrP_nU4",
+    "slug": "monerokon19-monerokon-madness-schnorr-schnadness",
+    "videoId": "L6KqkrP_nU4",
+    "url": "https://www.youtube.com/watch?v=L6KqkrP_nU4",
+    "publishedAt": "2019-06-26T20:45:34Z",
+    "desc": "Schnorr signatures, like the ed25519 signatures used in Monero, have a simple structure which allows multiple parties to jointly compute a single signature. These signatures can be validated in the ordinary way against a joint public key computed as a combination of individual signers’ keys and for which no individual signer knows the complete secret key. However, while such multi-signatures are simple to describe mathematically, they require a more complex security model able to handle adversarial behavior by individual signers, such as “rogue key attacks”. Further, practical implementations of multiparty protocols such as this require careful consideration of uniform random number generation, denial-of-service attacks, replay attacks and more. In this talk, we discuss our work addressing these challenges using the secp256k1 elliptic curve (which is analogous to ed25519), as well as the additional challenges presented by the generalization from n-of-n multisignatures to k-of-n threshold signatures.\n\nAndrew Poelstra has been working as a cryptographer in the Bitcoin and cryptocurrency space for the last six years. He is best known for his off-brand use of digital signatures in the form of \"scriptless scripts\". Currently he is the Director of Research at Blockstream.",
+    "duration": 1700,
+    "name": "Monerokon Madness: Schnorr Schnadness",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": [
+      "Andrew Poelstra"
+    ]
+  },
+  {
+    "id": "F5KaW6_6nHE",
+    "slug": "monerokon19-the-monero-hardware-landscape-and-progress-report",
+    "videoId": "F5KaW6_6nHE",
+    "url": "https://www.youtube.com/watch?v=F5KaW6_6nHE",
+    "publishedAt": "2019-06-26T20:51:08Z",
+    "desc": "We report progress made on projects at Monero Hardware. Physical, electronmagnetic, and electronic hardware devices protect funds, secrets, and privacy by design. We consider concepts, learn how devices are made, and review a features roadmap. Wallets are distributed for hands on inspection, and a demonstration teaches the basics of embedded firmware development.\n\nMichael is a computer scientist specializing in cryptosecure hardware, embedded development, and networks. He is the founder of the Monero Hardware team and responsible for research, development, and maintenance of Opensource software repositories.",
+    "duration": 1712,
+    "name": "The Monero Hardware Landscape and Progress Report",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": []
+  },
+  {
+    "id": "0jNHw3EfkWA",
+    "slug": "monerokon19-critical-decentralisation-open-and-libre-hardware-for-and-with-monero",
+    "videoId": "0jNHw3EfkWA",
+    "url": "https://www.youtube.com/watch?v=0jNHw3EfkWA",
+    "publishedAt": "2019-06-26T21:02:16Z",
+    "desc": "The ever-growing popularity of mobile devices, ubiquitous technology and (digital/global) real-time communication introduced challenges for technology appropriation and technology-based production cultures. The “smart devices” (tablets, smartphones, etc.) introduced an interface structure that is more intuitive, more easy to use, but also much more closed and opaque. Jonathan Zittrain criticized the dominance of smart devices, describing them as “tethered appliances” (Zittrain, 2006) - a way of tying end-users to the manufacturers. The principle of “closedness” that defines these tethered appliances refers to the hardware itself, which cannot be changed or used in another way than designed (and in some cases cannot even be repaired) as well as to new unprecedented levels of control. The consequent rise of the appstores signals the “decline of the World Wide Web” (Anderson & Wolff, 2010) and the transformation of free culture into a commercialized ecosystem (cf. Schäfer & Tarasiewicz, 2013). In addition to the closure and commercialization of smart devices, data surveillance has become not only very easy to conduct but a pervasive strategy of social control. Although decentralisation presents itself with an impressive history of “revolutions” (the “maker revolution”, “blockchain revolution”), these developments get commodified at an accelerated pace. While Bitcoin is said to have been introduced as a critique on the banking system (“Chancellor on Brink of Second Bailout for Banks” Nakamoto, 2008) it currently appears “as cryptoanarchistic as a car” and “provides all the tools to f* you” (Smuggler at HCPP, 2018). Critical Making and Repair Culture challenge the Maker Culture as unreflective and hedonized practice (cf. Hertz, 2012; Ratto & Ree, 2012). Open Hardware scraches the surface of which degree of “Openism” (RIAT, 2017) is acceptable to critical end users and developers. Convenience always beats security. Decentralisation is a process, and has to be constantly challenged. In this talk i will present the current status of the Open vs. Libre hardware discussion and will outline why this is important for the larger Monero ecosystem. I will also draw parallels to the debates and context of the 35c3 (decentral. community) which I have been co-organising.\n\nMatthias Tarasiewicz is the director of RIAT (Institute for Future Cryptoeconomics) in Vienna, an independent research organisation with focus on open hardware, privacy tech and the future of decentralisation. Matthias also is board member of the Open Source Hardware Association OSHWA.",
+    "duration": 1844,
+    "name": "Critical Decentralisation, Open & Libre Hardware for and with Monero",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": []
+  },
+  {
+    "id": "5xust7eXpDM",
+    "slug": "monerokon19-achieving-secure-deployment-of-high-stakes-software",
+    "videoId": "5xust7eXpDM",
+    "url": "https://www.youtube.com/watch?v=5xust7eXpDM",
+    "publishedAt": "2019-06-26T21:04:33Z",
+    "desc": "A tampered release of Monero could have catastrophic consequences. Widespread methods to secure releases, like publishing a signed checksum of the binary, do not offer protection against rollback attacks, the maintainer releasing a binary containing malicious code, or users not checking signatures. I will present an introduction to reproducible builds, cross platform toolchains, update systems and user-friendly verification methods to ensure binary integrity.\n\nSebastian is a physics student at the university of Zurich, and works for a hardware wallet company. He contributes to various cryptocurrency related projects.",
+    "duration": 1652,
+    "name": "Achieving Secure Deployment of High-Stakes Software",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": [
+      "Sebastian Kung"
+    ]
+  },
+  {
+    "id": "mg9In-WDnFc",
+    "slug": "monerokon19-bringing-privacy-mainstream-building-demand-for-shifting-global-demographics",
+    "videoId": "mg9In-WDnFc",
+    "url": "https://www.youtube.com/watch?v=mg9In-WDnFc",
+    "publishedAt": "2019-06-27T20:32:55Z",
+    "desc": "Technological advancements have gifted Generation Z with tools to shape their futures while at the same time gifting longevity to their grandparents. By 2030, there will be 1 billion humans over the age of 65. This demographic has a dramatic upside in protecting their privacy, including preventing financial fraud, harassing robocalls, and leaking detrimental health data, but where do we begin? Technology that speaks directly to the needs of this cohort will build strong lobbying coalitions and an even stronger consumer base. Protecting and enhancing privacy for the Baby Boomers has the potential to build the foundational user-base for privacy-centric solutions as they largely can afford to support it and value the implications.\n\nAmanda Cavaleri is a results-driven entrepreneur and startup business development executive. She has 10 years experience at the intersection of shifting demographics and emerging technology, ranging from global concern to hyperlocal concerns along the Rocky Mountains. Featuring Jerry Brito of Coin Center.",
+    "duration": 1595,
+    "name": "Bringing Privacy Mainstream: Building Demand for Shifting Global Demographics",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": []
+  },
+  {
+    "id": "wmXDJpYF46E",
+    "slug": "monerokon19-case-for-electronic-cash-why-private-p2p-payments-are-essential",
+    "videoId": "wmXDJpYF46E",
+    "url": "https://www.youtube.com/watch?v=wmXDJpYF46E",
+    "publishedAt": "2019-06-27T20:32:57Z",
+    "desc": "Cash is more than a method of payment. It is a fundamental tool for individual privacy and autonomy, and it is necessary for an open society. This talk will make the case that a cashless economy is a surveillance economy. We will argue that removing the option to freely transact without intermediation greatly limits our economic self determination, placing our economic lives in the hands of financial institutions and governments. The talk will present several case studies demonstrating the dangers of a completely intermediated payments system and concludes that electronic cash is a tool that should not only be tolerated, but fostered and celebrated.\n\nJerry Brito is executive director of Coin Center, the leading non-profit research and advocacy group focused on the public policy issues facing cryptocurrency technologies like Bitcoin, and coauthor of scholarly work on the regulation of cryptocurrencies and Bitcoin: A Primer for Policymakers.",
+    "duration": 1639,
+    "name": "Case for Electronic Cash: Why Private P2P Payments are Essential",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": []
+  },
+  {
+    "id": "wtbg1BD8ppM",
+    "slug": "monerokon19-money-at-the-edge-how-people-stay-afloat-in-venezuela",
+    "videoId": "wtbg1BD8ppM",
+    "url": "https://www.youtube.com/watch?v=wtbg1BD8ppM",
+    "publishedAt": "2019-06-27T20:32:58Z",
+    "desc": "The Open Money Initiative has gone into the field to understand how Venezuelans survive in the midst of heavy capital controls, criminalization of free markets, and hyperinflation. We’ll share stories from places like Cúcuta, where worthless bills are used as art and home decor, and Caracas, where individuals are saving in bitcoin, trading it for local currency only at times of essential purchases. We’ll discuss concepts for products and services in places where regimes have a tight grip on society, and how they relate to cryptocurrency.\n\nJamaal is co-founder of the Open Money Initiative (OMI). Before OMI he spent several years designing new products at IDEO and studied product design and public policy at Stanford.",
+    "duration": 1528,
+    "name": "Money at the Edge: How People Stay Afloat in Venezuela",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": [
+      "OMI"
+    ]
+  },
+  {
+    "id": "4txc2VUwX9o",
+    "slug": "monerokon19-network-attacks-and-obfuscation-of-your-payment-system",
+    "videoId": "4txc2VUwX9o",
+    "url": "https://www.youtube.com/watch?v=4txc2VUwX9o",
+    "publishedAt": "2019-06-27T20:44:40Z",
+    "desc": "There are privacy concerns when using any cryptocurrency. When using a privacy focused cryptocurrency, many of the issues surrounding privacy is overcome. There still remains the issue behind network monitoring. The privacy concerns surrounding your network infrastructure when using Monero and other privacy coins remains an important focal point. With the correct monitoring software, someone could possibly discover that you are using Monero. This type of information helps an attacker gather meta-data on you, which in turn exposes you, widening your attack surface. I will touch on Kovri and what it is trying to solve as well as how individuals can further obfuscate their transactions using services like kovri and others. I will also address other major privacy currencies and discuss where their major flaws are in terms of exposure of the individual over a network, as well as discussing what these currencies get right. Finally, I will address the future for the privacy currencies in terms of network data transmittance, specifically focusing on Monero, and possible solutions on where the community will go from here.\n\nJosh is the CTO at Airfoil Services, his experience stems from years of operational security consulting for clients with a focus on privacy and security best practices. He has been involved in the cryptocurrency security sector for the past 7 years.",
+    "duration": 1364,
+    "name": "Network Attacks and Obfuscation of Your Payment System",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": []
+  },
+  {
+    "id": "bxQ0ic1Fccs",
+    "slug": "monerokon19-dandelion-onions-protecting-transaction-privacy-in-monero",
+    "videoId": "bxQ0ic1Fccs",
+    "url": "https://www.youtube.com/watch?v=bxQ0ic1Fccs",
+    "publishedAt": "2019-06-27T20:46:23Z",
+    "desc": "The Dandelion protocol and Tor/onion routing are the most common techniques for masking the origin IP of a cryptocurrency transaction. Both of these techniques have limitations unless further mitigations are implemented. The Dandelion protocol protects against incoming sybil adversaries, but not passive ISP monitoring. Tor protects against incoming sybil adversaries and basic passive ISP monitoring but increases the threats of eclipse attacks and is susceptible to statistical bandwidth monitoring techniques. Monero will attempt to mitigate against all these threats by using Tor/onion routing only for peer-discovery and “whitened” stem phase (Dandelion++) transaction broadcasting. The talk is a discussion of these threats and mitigations, and the current implementation progress in Monero.\n\nLee Clagett is a programmer whose primary experience is in computer networks/security, and has been a funded code contributor to the Monero project since 2016. He is most active in the PoW tweaks, upcoming \"light\" wallet server, and increasing transaction broadcasting privacy for Monero.",
+    "duration": 1706,
+    "name": "Dandelion Onions: Protecting Transaction Privacy in Monero",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": []
+  },
+  {
+    "id": "XIrqyxU3k5Q",
+    "slug": "monerokon19-visualizing-monero-a-figure-is-worth-a-thousand-logs",
+    "videoId": "XIrqyxU3k5Q",
+    "url": "https://www.youtube.com/watch?v=XIrqyxU3k5Q",
+    "publishedAt": "2019-06-27T21:00:42Z",
+    "desc": "Monero’s approach to privacy relies heavily on ensuring that all transactions are indistinguishable, since any patterns visible to an outside observer can be leveraged for blockchain analysis and transaction linking. Mapping the blockchain history to human-interpretable visualizations is a powerful tool for privacy coin research, since potential heuristics that would be challenging to identify from log files are intuitive to spot as visual patterns or clusters corresponding to information leaks. Consensus-level prevention of identifying features (e.g. custom ring sizes - fixed in v8) is paramount, due to the inherent threat of retroactive deanonymization, statistically-noisy change output traces, and combinable heuristics. I’ll introduce the basics of transaction tree analysis and key tools from the exploratory data analysis toolkit (histograms, heatmaps, and more). Together, we’ll leverage these visualizations to intuit ongoing information leaks and mitigation strategies for the next upgrade.\n\nMitchell Krawiec-Thayer (a.k.a. “Isthmus”) is the Decentralized Consensus Lead at Insight Data Science, a Monero Research Lab contributor, the editor of Mastering Monero, the founder of Noncesense Research Lab, and a hobbyist chess player & bread baker.",
+    "duration": 1691,
+    "name": "Visualizing Monero: A Figure is Worth a Thousand Logs",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": []
+  },
+  {
+    "id": "xicn4rdUj_Q",
+    "slug": "monerokon19-perfect-privacy-or-strong-deniability",
+    "videoId": "xicn4rdUj_Q",
+    "url": "https://www.youtube.com/watch?v=xicn4rdUj_Q",
+    "publishedAt": "2019-06-27T21:00:43Z",
+    "desc": "Most customers (say Alice and Bob) of privacy-respecting ledgers use a custodial exchange (Eve). Such an exchange can easily ascertain what happened in the event that Alice withdraws from Eve, then Alice sends to Bob, and then Bob deposits at Eve. We discuss how heuristics for tracing the flow of money in a privacy-respecting ledger can be used to construct statistical hypotheses, how parallelizable graphtheoretic approaches can be used to construct maximum likelihood estimates under these hypotheses of the transaction history in polylogarithmic time, and how custodial exchanges can leverage their custodial information to assess the goodness of their estimates. These techniques can be used to rapidly test hypotheses of customer behavior, but suffer issues with sensitivity and specificity (especially against customers with knowledge of the underlying heuristics, who may attempt a frame-up on other customers). We show some preliminary results about how the anonymity set size influences both the power of these tests and the time it takes to apply these approaches. We conclude the privacy claims in cryptocurrencies like Monero or Zcash reduce to that of plausible deniability against adversaries with extra knowledge.\n\nBrandon Goodell (Surae Noether) is a mathematician and researcher and Monero Research Lab. He has contributed to the Monero community since 2014. His work has most recently been focused on security proofs for new cryptographic protocols as well as statistical approaches to blockchain analysis.",
+    "duration": 2081,
+    "name": "Perfect Privacy or Strong Deniability?",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": [
+      "Brandon \"suraeNoether\" Goodell"
+    ]
+  },
+  {
+    "id": "Hbm0ub3qWw4",
+    "slug": "monerokon19-spam-mitigation-and-size-control-in-permissionless-blockchains",
+    "videoId": "Hbm0ub3qWw4",
+    "url": "https://www.youtube.com/watch?v=Hbm0ub3qWw4",
+    "publishedAt": "2019-06-27T21:07:42Z",
+    "desc": "The use of privacy technologies in a permissionless blockchain limits the use of many common anti spam measures and also limits the use of many measures to control the overall size of the blockchain. This is especially true where the transaction amount is not visible on the blockchain. Censorship is an example of such an anti spam and size limiting measure. Monero is a good example of a permissionless blockchain with a very high degree of fungibility, privacy and anonymity, that is not optional. We will examine the measures currently in use on the Monero blockchain to mitigate against spam and to control blockchain size with a particular emphasis on the most recent changes. This includes the use of pricing, monetary theory and dynamic limits. We will also examine current challenges including the measurement of technological change by the Monero blockchain and possible areas of research to address these challenges.\n\nBased in Canada, Francisco holds a PhD in Physics and has extensive business and non-profit experience. He has actively researched and invested in cryptocurrencies, since 2011, and focuses on the economic, social, regulatory and long-term economic viability aspects of cryptocurrencies. Francisco has been a Core Team Member of the Monero Project since 2016.",
+    "duration": 1695,
+    "name": "Spam Mitigation and Size Control in Permissionless Blockchains",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": []
+  },
+  {
+    "id": "2lwRTBJskow",
+    "slug": "monerokon19-government-and-privacy-whats-next-brito-gavigan-valkenburgh-voorhees",
+    "videoId": "2lwRTBJskow",
+    "url": "https://www.youtube.com/watch?v=2lwRTBJskow",
+    "publishedAt": "2019-06-28T01:59:09Z",
+    "desc": "Day 2 started with an intercontential livestream panel discussion between Zcon1 in Split, Croatia and Monero Konferenco in Denver, Colorado for an in-depth discussion on the regulatory landscape, governance challenges, and your questions. The ZCash panel was Peter van Valkenburgh, Coin Center and Jack Gavigan, Electric Coin Company moderated by Amber Baldet, Clovyr. Jerry Brito, Coin Center and Erik Voorhees, ShapeShift join moderator Dr. Sarang Noether from Konferenco in Denver.",
+    "duration": 5583,
+    "name": "Government and Privacy, What’s Next? Brito, Gavigan, Valkenburgh, Voorhees",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": []
+  },
+  {
+    "id": "jDSKIr5EPiU",
+    "slug": "monerokon19-the-embedded-future-of-moneros-proof-of-work",
+    "videoId": "jDSKIr5EPiU",
+    "url": "https://www.youtube.com/watch?v=jDSKIr5EPiU",
+    "publishedAt": "2019-06-30T17:16:41Z",
+    "desc": "Full transcript available: https://www.monerooutreach.org/monero-konferenco/kristy-leigh-minehan.php\n\nProof of work forces specialisation, and the choice of algorithms has caused certain chains to favour certain hardware. Join Kristy-Leigh Minehan, CTO of Core Scientific, as she explains the future of embedded mining - where blockchains will be secured by everything from IoT, to drones, to TV’s and toasters, and how this is uniquely suited to Monero’s future of decentralisation and privacy.\n\nMiss Minehan has served as an advisor for multiple companies on blockchain technologies and semiconductor engineering, and currently sits as Chief Technology Officer for Core Scientific, a US-based corporation with a focus on infrastructure at scale.",
+    "duration": 1574,
+    "name": "The Embedded Future of Monero’s Proof of Work",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": [
+      "Kristy-Leigh Minehan"
+    ]
+  },
+  {
+    "id": "4Hkd-n1W_e4",
+    "slug": "monerokon19-asic-resistant-proof-of-work-fact-or-fantasy",
+    "videoId": "4Hkd-n1W_e4",
+    "url": "https://www.youtube.com/watch?v=4Hkd-n1W_e4",
+    "publishedAt": "2019-06-30T17:16:41Z",
+    "desc": "The original CryptoNote whitepaper makes the case for egalitarian mining and defined the CryptoNight PoW algorithm to achieve this objective. Time and technology have progressed, and specialized mining hardware manufacturers have conquered all of CryptoNight’s technical obstacles. The debate over whether ASIC-resistance is actually achievable or even desirable continues, but the Monero Project has so far continued to uphold this principle of egalitarian mining. This talk will investigate the question of ASIC inevitability and what approaches we’ve explored to mitigate the advantages of fixed-function mining ASICs. It will also give an introduction to RandomX, the new PoW algorithm we’ve proposed for Monero, based on the lessons we’ve learned so far.\n\nSoftware engineer and genius of optimization, with proven track record of world's fastest multiprocessor TCP stack, world's fastest Appletalk stack, world's fastest LDAP server, faster than realtime speech recognition, faster than realtime radar data demux/decoders, etc.",
+    "duration": 2176,
+    "name": "ASIC-Resistant Proof of Work: Fact or Fantasy?",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": [
+      "Howard Chu"
+    ]
+  },
+  {
+    "id": "hdLT0QuR_kQ",
+    "slug": "monerokon19-how-criminals-are-mining-for-free-measuring-the-crypto-mining-malware-ecosystem",
+    "videoId": "hdLT0QuR_kQ",
+    "url": "https://www.youtube.com/watch?v=hdLT0QuR_kQ",
+    "publishedAt": "2019-06-28T16:37:51Z",
+    "desc": "Illicit crypto mining uses stolen resources to mine cryptocurrencies for free. This threat is now pervasive and growing rapidly. In this talk, I will cover how this ecosystem is evolving, how much harm it is causing, and how can it be stopped. I will talk about the findings obtained after conducting the largest measurement of binary-based criminal crypto-mining to date. This measurement shows that criminals have illicitly mined about 4.32% of the Monero cryptocurrency (we estimate that this accounts for 57 million USD). We also observe that there is a considerably small number of actors that hold sway this crime. Furthermore, we note that there is an increasing level of support offered by criminals in underground markets, that allow other criminals to run inexpensive malware-driven mining campaigns. This explains why this threat has grown sharply in 2018.\n\nGuillermo Suarez-Tangil is a Lecturer (Assistant Professor) at King's College London (KCL). His research focuses on systems security and malware analysis and detection. He is also interested in detecting and preventing of Mass-Marketing Fraud (MMF) and security and privacy in the social web.",
+    "duration": 1481,
+    "name": "How Criminals Are Mining for Free: Measuring the Crypto-Mining-Malware Ecosystem",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": []
+  },
+  {
+    "id": "6Fx6x_ubuqg",
+    "slug": "monerokon19-crypto-for-good-mining-to-fund-humanitarian-uav-deployment",
+    "videoId": "6Fx6x_ubuqg",
+    "url": "https://www.youtube.com/watch?v=6Fx6x_ubuqg",
+    "publishedAt": "2019-06-28T16:40:57Z",
+    "desc": "The slides were off for this presentation unfortunately, and we did our best to recover given the circumstances.\n\nAs potentially lifesaving innovations become commercially available to law enforcement and emergency responders, a key barrier to adoption is the necessity of competing with conventional budgetary priorities. In the case of Astral AR’s EDNA UAV drone and other always-on GPU-driven device networks, it is possible for the devices to mine cryptocurrency with their idle capacity and thereby defray their own cost of adoption. However, the process of auto-switching mining pools would typically follow a financially-greedy algorithm that distributes hashrate based on various token exchange rates and mining costs and has the potential to adversely impact security and reduce mining incomes for other users. We instead propose an alternate solution: by having the devices probabilistically assign themselves to available currency networks based on the device’s projected hashrate and the current global hashrates of available currencies, we establish that it will be possible to: contribute to the stabilization of hashrates and thus the predictability of mining incomes for participants across each network, diversify the network of miners for relevant currencies away from centralized and dedicated ASIC hardware, and reduce friction for the adoption of lifesaving humanitarian tools such as the EDNA drone.\n\nLeah La Salla is a self-taught, polyglot software architect and inventor. She’s spent a decade software engineering, mentored O(100) women in coding, worked in security, patented 9 inventions, once hacked NASA with a toaster, and builds drones that stop bullets and mine Monero on the side.",
+    "duration": 1345,
+    "name": "Crypto for Good: Mining to Fund Humanitarian UAV Deployment",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": []
+  },
+  {
+    "id": "-IE8rkSx__k",
+    "slug": "monerokon19-the-elephant-in-the-pool",
+    "videoId": "-IE8rkSx__k",
+    "url": "https://www.youtube.com/watch?v=-IE8rkSx__k",
+    "publishedAt": "2019-06-28T16:44:30Z",
+    "desc": "Pool mining has become the de facto way to mine cryptocurrencies. However, in a space where decentralization and censorship resistance are regarded as highly important, it’s surprising in some ways that pool mining, in it’s current form, is so commonplace. This presentation will start with an overview of mining and pools, then outline some of the very real dangers of pool mining to the network as a whole and also to the profits of the individual pool miners. From directing hash power to forks, to stealing shares, this talk will cover how malicious pool operators can exploit their centralized power and ways in which miners can detect this malicious behavior. We’ll finish up with an overview of alternative pool mining implementations with their respective strengths and weaknesses.\n\nJethro is a Monero developer, a mining pool developer, a tooling/framework developer and an active knowledge sharer on the Monero StackExchange.",
+    "duration": 1909,
+    "name": "The Elephant in the Pool",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": [
+      "Jethro Grassie"
+    ]
+  },
+  {
+    "id": "zmeSSnppixY",
+    "slug": "monerokon19-tari-advancing-monero-through-ecosystem-development",
+    "videoId": "zmeSSnppixY",
+    "url": "https://www.youtube.com/watch?v=zmeSSnppixY",
+    "publishedAt": "2019-06-28T16:49:38Z",
+    "desc": "Tari is a new open source, decentralized protocol that reimagines the future of digital assets. Our mission is to steward the most useful decentralized platform that empowers anyone to create digitally scarce things people love.\n\nRiccardo “FluffyPony” has an academic background in informatics and logistics, is a member and lead maintainer of Monero Core Team (the stewards of the Monero Project). In 2017, Riccardo helped launch Globee, a multi-currency payment processor, and in 2018 he helped found Tari Labs. Riccardo and his wife live along the Garden Route on the coast of South Africa, where he spends weekends hanging out with their dogs and playing with LEGO.",
+    "duration": 1814,
+    "name": "Tari: Advancing Monero Through Ecosystem Development",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": [
+      "Riccardo \"fluffypony\" Spagni"
+    ]
+  },
+  {
+    "id": "DY0iE0cBXbc",
+    "slug": "monerokon19-challenges-in-building-software-with-monero-code",
+    "videoId": "DY0iE0cBXbc",
+    "url": "https://www.youtube.com/watch?v=DY0iE0cBXbc",
+    "publishedAt": "2019-06-28T23:03:19Z",
+    "desc": "This talk will examine the approaches taken by different third- and first-party Monero core code integrators like MyMonero, Cake Wallet, Monerujo, Monero official GUI, Monero simplewallet, and the new Monero lightwallet server. Trade-offs of different approaches and suggestions of future directions will be discussed. All of the above integrators share code and should share more code. Monero as a FOSS project is relatively unique in the pace of its development, leading to unique challenges. The impact of these challenges will be discussed, and alternatives will be given.\n\nPaul Shapiro is a veteran software application and UI developer with a focus on interaction and product design and code quality. He serves as the CEO and lead dev at MyMonero.com, is a Monero codebase contributor, and lives in Nashville, TN where he enjoys rock climbing and tending to his garden.",
+    "duration": 1826,
+    "name": "Challenges in Building Software with Monero Code",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": [
+      "Paul Shapiro"
+    ]
+  },
+  {
+    "id": "x4q38ndnQnw",
+    "slug": "monerokon19-dual-outputs-enabling-payment-channel-networks-in-monero",
+    "videoId": "x4q38ndnQnw",
+    "url": "https://www.youtube.com/watch?v=x4q38ndnQnw",
+    "publishedAt": "2019-06-28T23:03:19Z",
+    "desc": "The privacy by design principle separates Monero from the rest of cryptocurrencies and yet maintains it regularly in the top 15 in market capitalization. The crucial privacy goal comes at the price of reduced expressiveness and scalability issues. First, Monero does not support any type of scripting language and current expressiveness is limited to exchange of coins between single addresses. Second, the privacy goal is achieved by building upon privacy tools with a high footprint in the ledger such as ring signatures and range proofs. This leads to a rapid ledger growth which in turn results in scalability issues. In this work, we lay the foundations to extend Monero expressiveness and mitigate the scalability issues. In particular, in this work, we present a novel linkable ring signature scheme DLSAG that enables for the first-time refund transactions natively in Monero. We formally prove that DLSAG achieves the security and privacy properties of interest, namely, unforgeability, signer ambiguity, and linkability. Interestingly, DLSAG enables several applications of interest in Monero such as atomic swaps. We further show how to leverage DLSAG to build different scalability solutions such as payment channels and payment-channel networks. DLSAG is currently being discussed within the Monero community to be adopted as a key building block to improve the expressiveness of Monero and mitigate the scalability issues.\n\nPedro is a postdoctoral researcher at TU Wien. Before that, he got his PhD from Purdue University and he has been an intern researcher at leading blockchain companies such as IBM. His research interests include, among others, security and privacy of blockchain technologies. Recently, his research work has focused on payment-channel networks.",
+    "duration": 1734,
+    "name": "Dual Outputs: Enabling Payment-Channel Networks in Monero",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": [
+      "DLSAG"
+    ]
+  },
+  {
+    "id": "CC6QnEOwV1s",
+    "slug": "monerokon19-moderating-monero-centralization-necessary-to-maintain-a-decentralized-community",
+    "videoId": "CC6QnEOwV1s",
+    "url": "https://www.youtube.com/watch?v=CC6QnEOwV1s",
+    "publishedAt": "2019-06-28T23:03:19Z",
+    "desc": "A look into the organization of the Monero community through the eyes of a moderator. This talk will cover a variety of topics, ranging from the fine line between moderation and censorship, to an in-depth look at the various subgroups that guide the community on a day to day basis. needmoney90 is a moderator of the r/Monero  community and many other Monero communities.",
+    "duration": 1016,
+    "name": "Moderating Monero: Centralization Necessary to Maintain a Decentralized Community",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": []
+  },
+  {
+    "id": "gb53Fe2iuqg",
+    "slug": "monerokon19-lelantus-new-protocol-for-private-transactions-with-hidden-origins-and-amounts",
+    "videoId": "gb53Fe2iuqg",
+    "url": "https://www.youtube.com/watch?v=gb53Fe2iuqg",
+    "publishedAt": "2019-06-28T23:03:19Z",
+    "desc": "We propose Lelantus, a new anonymous payment system which ensures both transactional confidentiality and high anonymity with small proof sizes, short verification times and without requiring a trusted setup. We show how to support efficient aggregation of the transaction proofs, so that the proof verification, while asymptotically linear, is very efficient in practice. Lelantus builds on the techniques of Con fidential Transactions, Zerocoin, and 1-out-of-Many proofs and its efficiency is particularly well-suited for enabling private blockchain transactions with minimal trust required while employing well-studied cryptographic assumptions.\n\nAram is a cryptographer at Zcoin and the founding CEO of Skycryptor, Techstars company pioneering the development of proxy re-encryption algorithms. At Zcoin Aram has invented the Lelantus protocol and now is working on scaling it to the next level. Before founding Skycryptor Aram was a senior cryptography researcher and development team lead at the American University of Armenia where the scientific group conducted cryptography research for big industrial partners.",
+    "duration": 1398,
+    "name": "Lelantus: New Protocol for Private Transactions with Hidden Origins and Amounts",
+    "project": "monerokon",
+    "event": "monerokon19",
+    "people": []
+  },
+  {
+    "id": "ILcDBatEpns",
+    "slug": "monerokon19-howard-hyc-chu-plays-the-fiddle-before-his-monerokon-talk",
+    "videoId": "ILcDBatEpns",
+    "url": "https://www.youtube.com/watch?v=ILcDBatEpns",
+    "publishedAt": "2019-06-30T17:20:53Z",
+    "desc": "",
+    "duration": 60,
+    "name": "Howard \"hyc\" Chu Plays the Fiddle Before His MoneroKon Talk",
+    "people": [],
+    "project": "monerokon",
+    "event": "monerokon19"
+  }
+]

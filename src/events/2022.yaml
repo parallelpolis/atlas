@@ -815,6 +815,19 @@
     meetup_id: '288348882'
     meetup: https://www.meetup.com/paralelnipolis/events/288348882/
 
+- id: monerokon22
+  name: Monero Konferenco 2
+  project: monerokon
+  seq: 2
+  place:
+    city: Lisbon
+    country: pt
+  date: '2022-06-18'
+  days: 2
+  major: true
+  refs:
+    web: https://www.monerokon.org/past_events/2022.html
+
 - id: ksp22
   date: "2022-05-28"
   name: "KSP22: Peníze"

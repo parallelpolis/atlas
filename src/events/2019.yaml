@@ -1385,6 +1385,19 @@
     meetup_id: '257744445'
     meetup: https://www.meetup.com/paralelnipolis/events/257744445/
 
+- id: monerokon19
+  name: Monero Konferenco 1
+  project: monerokon
+  seq: 1
+  place:
+    city: Denver
+    country: us
+  date: '2019-06-22'
+  days: 2
+  major: true
+  refs:
+    web: https://www.monerokon.org/past_events/2019.html
+
 
 - id: 2019-06-20-vejdi-ven-or-arthur-f-sniegon-safe-elephants
   name: 'VEJDI VEN | Arthur F. Sniegon: Safe Elephants'

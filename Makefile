@@ -48,10 +48,16 @@ extract-dod:
 extract-w3p-cypherpunk-congress-2024:
 	node lib/yt-extract.js w3pn:eth-cypherpunk-congress-2024 playlist PLSsVHWrO8Yh2FBmQ3JwauylmYI4F6z5Q3 '{"project": "w3pn", "event": "w3pn-eth-cypherpunk-congress-2024"}'
 
+extract-monerokon19:
+	node lib/yt-extract.js monerokon-community:monerokon19 playlist PLsSYUeVwrHBkJHJg_l2uDgbicDJ1PmAVW '{"project": "monerokon", "event": "monerokon19"}'
+
+extract-monerokon22:
+	node lib/yt-extract.js monerokon-community:monerokon22 playlist PLsSYUeVwrHBndRQoQ-vLezzlHPLRDNzaw '{"project": "monerokon", "event": "monerokon22"}'
+
 extract-monerokon23:
-	node lib/yt-extract.js monerokon:monerokon23 playlist PLsSYUeVwrHBm1m7IaU3JiDVb5EC7cn0KG '{"project": "monerokon", "event": "monerokon23"}'
+	node lib/yt-extract.js monerokon-community:monerokon23 playlist PLsSYUeVwrHBm1m7IaU3JiDVb5EC7cn0KG '{"project": "monerokon", "event": "monerokon23"}'
 
 extract-monerokon24:
-	node lib/yt-extract.js monerokon:monerokon24 playlist PLsSYUeVwrHBk-C3zImaDAQLx453PL7dR- '{"project": "monerokon", "event": "monerokon24"}'
+	node lib/yt-extract.js monerokon-community:monerokon24 playlist PLsSYUeVwrHBk-C3zImaDAQLx453PL7dR- '{"project": "monerokon", "event": "monerokon24"}'
 
 	

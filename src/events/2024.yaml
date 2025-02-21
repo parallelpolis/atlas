@@ -30,6 +30,29 @@
       type: banner
   description: |
     As nation states lose their grasp, innovation emerges to imagine alternatives. Tap into the next wave of leaders, builders, and pioneers on the most important frontier of all. Expect activations, talks and workshops on building network states, pop-up communities, charter cities, decentralised governance and the technology that sustains it.
+  speakers:
+    - Michel Bauwens
+    - David Casey
+    - Kevin Owocki
+    - Veronica Schrenk
+    - Audrey Tang
+    - Timour Kosters
+    - Eva Klaus
+    - Angelo Alessio
+    - William Wang
+    - Mark Lutter
+    - Chance Taken
+    - KC
+    - Edan Yago
+    - Joe Nakamoto
+    - Federico Ast
+    - Eric Alston
+    - Layer0x
+    - Kelsie Nabben
+    - jarrad-hope
+    - Peter Ludlow
+    - Tom W. Bell
+
 
 - id: w3pn-eth-cypherpunk-congress-2024
   date: '2024-11-11'

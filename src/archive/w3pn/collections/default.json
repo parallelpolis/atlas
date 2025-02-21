@@ -45,10 +45,10 @@
     "project": "w3pn-events",
     "event": "w3pn-summit-rome-2023",
     "people": [
-      "Tsu_Kareta",
-      "Mesquka",
+      "Tsu_Kareta|tsu-kareta",
+      "Mesquka|kieran-mesquita",
       "Carlo Chialastri",
-      "Andrea Togni"
+      "Andrea Togni|andrea-togni"
     ],
     "target": "w3pn",
     "imgHash": "9a8636083adf93c1780b8f60362516b75672c8823c049504fb480fc79e5ac236",
@@ -801,7 +801,7 @@
     "people": [
       "Peter Van Valkenburgh|peter-van-valkenburgh",
       "Lefteris Karapetsas|lefteris-karapetsas",
-      "Fatemeh Fannizadeh"
+      "Fatemeh Fannizadeh|fatemeh-fannizadeh"
     ],
     "target": "w3pn",
     "imgHash": "75dee8554567c74ea24589853afc6d8357db0284a623854f2ba6cc98793819dd",
@@ -905,7 +905,7 @@
     "project": "w3pn-events",
     "event": "w3pn-berlin-2024",
     "people": [
-      "Ying Tong"
+      "Ying Tong|ying-tong"
     ],
     "target": "w3pn",
     "imgHash": "e458ad860ab5f8a2ed0e381be2ca46f770de4154485f27357218f213d0824999",
@@ -1562,7 +1562,7 @@
     "project": "w3pn-events",
     "event": "w3pn-summit-rome-2024",
     "people": [
-      "Leona Hioki"
+      "Leona Hioki|leona-hioki"
     ],
     "target": "w3pn",
     "imgHash": "6a906a10dd8f2d75e49e11cef0df07126bc14652f5e00e398e113820c0e1800a",
@@ -1596,7 +1596,7 @@
     "project": "w3pn-events",
     "event": "w3pn-summit-rome-2024",
     "people": [
-      "Andrea Togni"
+      "Andrea Togni|andrea-togni"
     ],
     "target": "w3pn",
     "imgHash": "0a86bd4f7b55e09aed441ed609a0c75b131619c4b02cc599f54261e880c04f73",

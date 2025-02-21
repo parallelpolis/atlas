@@ -526,7 +526,7 @@
     "project": "ethprague",
     "event": "ethprague23",
     "people": [
-      "Radek Svarz"
+      "Radek Svarz|radek-svarz"
     ],
     "target": "pp-prague",
     "imgHash": "8e091b5ae7aa1c2d2d6e3519730e10d74c4344df8d1f068351f5b77b0ee9cb71",
@@ -1338,7 +1338,7 @@
     "project": "ethprague",
     "event": "ethprague23",
     "people": [
-      "Guillaume Ballet"
+      "Guillaume Ballet|guillaume-ballet"
     ],
     "target": "pp-prague",
     "imgHash": "663cbd4d4c5eb66ffe10e1228e3c1953ba67678f19cbfd1640a5ab4658f30628",
@@ -1749,7 +1749,7 @@
     "duration": 299,
     "name": "Livestream Interview with Guillaume Ballet",
     "people": [
-      "Guillaume Ballet"
+      "Guillaume Ballet|guillaume-ballet"
     ],
     "target": "pp-prague",
     "imgHash": "62fd17bb615296be38b457b0851235cb95468bea42d24239499c8e3a87c0ec7e",
@@ -1885,7 +1885,7 @@
     "project": "ethprague",
     "event": "ethprague23",
     "people": [
-      "Camila Ramos Garzon"
+      "Camila Ramos Garzon|camila-ramos-garzon"
     ],
     "target": "pp-prague",
     "imgHash": "50f402c3fbbb710adfe53746ee0e66d4dff4068110df30166859ed3080743ba6",
@@ -2425,7 +2425,7 @@
     "duration": 3406,
     "name": "Crossing the Interoperability Bridge: A Deep Dive into Building Interoperable dApps with IBC",
     "people": [
-      "Federico Kunze Küllmer",
+      "Federico Kunze Küllmer|federico-kunze-kullmer",
       "Daniel Burckhardt"
     ],
     "project": "ethprague",
@@ -2868,7 +2868,7 @@
     "event": "ethprague23",
     "name": "Panel: Exploring the Future and Potential of Zero-Knowledge Technology",
     "people": [
-      "Camila Ramos Garzon",
+      "Camila Ramos Garzon|camila-ramos-garzon",
       "Avihu Mordechai Levy",
       "Laurence Kirk",
       "Toghrul Maharramov",

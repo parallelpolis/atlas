@@ -108,7 +108,7 @@
     "project": "protocol-berg",
     "event": "protocol-berg-2023",
     "people": [
-      "Guillaume Ballet",
+      "Guillaume Ballet|guillaume-ballet",
       "Tanishq Jasoria"
     ],
     "storage": {
@@ -302,7 +302,7 @@
     "project": "protocol-berg",
     "event": "protocol-berg-2023",
     "people": [
-      "Federico Kunze Küllmer"
+      "Federico Kunze Küllmer|federico-kunze-kullmer"
     ],
     "storage": {
       "id": "kEOZ5rPgKdM",
@@ -334,7 +334,7 @@
     "project": "protocol-berg",
     "event": "protocol-berg-2023",
     "people": [
-      "Gavin Wood"
+      "Gavin Wood|gavin-wood"
     ],
     "storage": {
       "id": "j7b8Upipmeg",
@@ -492,7 +492,7 @@
     "project": "protocol-berg",
     "event": "protocol-berg-2023",
     "people": [
-      "Sam Hart",
+      "Sam Hart|sam-hart",
       "Toby Shorin",
       "Laura Lotti"
     ],

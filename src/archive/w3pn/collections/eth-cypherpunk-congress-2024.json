@@ -43,7 +43,7 @@
     "people": [
       "Michelle Lai",
       "Nathan Ginnever",
-      "Kieran Mesquita",
+      "Kieran Mesquita|kieran-mesquita",
       "Garrett Macdonald",
       "Aidan Hyman"
     ],
@@ -111,12 +111,12 @@
     "name": "Panel: Turning Degens Into Cypherpunks",
     "people": [
       "Josh Davila|josh-davila",
-      "Ying Tong",
-      "Alan",
+      "Ying Tong|ying-tong",
+      "Alan|tsu-kareta",
       "PG|pg",
       "Manu Alzuru|manu-alzuru",
       "Luis Bezzenberger",
-      "Shady El Damaty"
+      "Shady El Damaty|shady-el-damaty"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024",
@@ -405,7 +405,7 @@
     "duration": 823,
     "name": "Collective self-determination",
     "people": [
-      "Sam Hart"
+      "Sam Hart|sam-hart"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024",
@@ -533,7 +533,7 @@
     "duration": 1033,
     "name": "Security based on Intrinsic Humanity",
     "people": [
-      "Shady El Damaty"
+      "Shady El Damaty|shady-el-damaty"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024",
@@ -565,7 +565,7 @@
     "duration": 877,
     "name": "Price of Privacy: How much privacy do you have? 100? 1000?",
     "people": [
-      "Leona Hioki"
+      "Leona Hioki|leona-hioki"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024",
@@ -663,7 +663,7 @@
     "duration": 1621,
     "name": "Sovereignists vs. Globalists",
     "people": [
-      "Adrian Brink"
+      "Adrian Brink|adrian-brink"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024",
@@ -729,7 +729,7 @@
     "people": [
       "Yana Matrosova",
       "Park",
-      "Fatemeh Fannizadeh",
+      "Fatemeh Fannizadeh|fatemeh-fannizadeh",
       "Tuba Eldem",
       "Nelly Cornejo",
       "Costanza Gallo|constanza-gallo"
@@ -890,7 +890,7 @@
     "duration": 1443,
     "name": "Naomi Brockwell [NBTV]",
     "people": [
-      "Naomi Brockwell"
+      "Naomi Brockwell|naomi-brockwell"
     ],
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024",

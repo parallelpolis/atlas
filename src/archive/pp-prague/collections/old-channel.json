@@ -915,8 +915,8 @@
     "people": [
       "Oldřich Dědek",
       "Aleš Michl",
-      "Jakub Jedlinský",
-      "Jan Hubík",
+      "Jakub Jedlinský|jakub-jedlinsky",
+      "Jan Hubík|jan-hubik",
       "Maria Staszkiewicz"
     ],
     "storage": {
@@ -2112,7 +2112,7 @@
     "project": "hcpp",
     "event": "hcpp18",
     "people": [
-      "Arno Pfefferling"
+      "Arno Pfefferling|arno-pfefferling"
     ],
     "storage": {
       "id": "6e2XQ-sRVTo",
@@ -2478,7 +2478,7 @@
     "people": [
       "Pavol Lupták|wilder",
       "binaryFate",
-      "Arno Pfefferling",
+      "Arno Pfefferling|arno-pfefferling",
       "Peter Todd|peter-todd"
     ],
     "storage": {

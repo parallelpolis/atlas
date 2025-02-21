@@ -101,6 +101,24 @@
     - lefteris-karapetsas
     - ameen-soleimani
     - Sebastian Bürgel
+    - juan-benet
+    - kieran-mesquita
+    - josh-davila
+    - ying-tong
+    - tsu-kareta
+    - manu-alzuru
+    - shady-el-damaty
+    - robert-degroot
+    - constanza-gallo
+    - sam-hart
+    - daniel-luca
+    - leona-hioki
+    - christopher-goes
+    - adrian-brink
+    - fatemeh-fannizadeh
+    - peter-van-valkenburgh
+    - naomi-brockwell
+    - sebastian-burgel
   caption: |
     Historical communal gathering defining Cypherpunk values, culture and actions within the Ethereum ecosystem.
   description: |
@@ -420,6 +438,9 @@
     - Peter van Valkenburg
     - dr-nick
     - Fatemeh Fannizadeh
+    - christopher-goes
+    - peter-van-valkenburgh
+    - fatemeh-fannizadeh
 
 - id: w3pn-berlin-2024
   name: Web3Privacy Now Berlin 2024
@@ -442,6 +463,9 @@
     - lefteris-karapetsas
     - Fatemeh Fannizadeh
     - stella-r-magnet
+    - josh-davila
+    - peter-van-valkenburgh
+    - fatemeh-fannizadeh
 
 - id: w3pn-summit-prague-2024
   name: Web3Privacy Now Prague 2024
@@ -488,6 +512,8 @@
     - Luca Lezzerini
     - Marco Castignoli
     - Arturo Filastò
+    - andrea-togni
+    - leona-hioki
 
 - id: pd24
   name: "Pizza Day Prague 2024: Scaling Wars"
@@ -818,6 +844,8 @@
     - Tereza Urzová
     - 'Jan Romportl:'
     - O. T.
+    - tereza-anarchy
+    - jan-hubik
 
 - id: 2024-02-17-intro-to-telegram-mini-apps-lecture-workshop-and-networking
   name: 'Intro to Telegram Mini Apps: Lecture, Workshop, and Networking'

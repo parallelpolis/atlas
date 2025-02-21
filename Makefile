@@ -24,6 +24,10 @@ bind: ## bind videos
 speakers: ## detect speakers
 	node lib/detect-speakers.js
 
+.PHONY: speakers
+missing: ## missing speakers stats
+	node lib/missing-speakers.js
+
 extract-pp:
 	node lib/yt-extract.js pp-prague:hcpp24 playlist PLRUSTVWJngiefsTySFA3DuW20v4ehxKb8 '{"project":"hcpp", "event": "hcpp24"}'
 

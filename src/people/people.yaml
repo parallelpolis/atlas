@@ -1341,3 +1341,134 @@
   caption: Executive Director of CoinCenter
   refs:
     twitter: valkenburgh
+
+- id: guillaume-ballet
+  name: Guillaume Ballet
+  img: guillaume-ballet.jpg
+  caption: go-ethereum core dev at the Ethereum Foundation
+  refs:
+    twitter: gballet
+
+- id: fatemeh-fannizadeh
+  name: Fatemeh Fannizadeh
+  img: fatemeh-fannizadeh.jpg
+  refs:
+    twitter: Fatalmeh
+
+- id: tereza-anarchy
+  name: Tereza
+  altNames:
+    - Tereza Urzová
+  img: tereza-anarchy.jpg
+  refs:
+    twitter: TerezAnarchy
+
+- id: adrian-brink
+  name: Adrian Brink
+  caption: Co-founder Namada, Anoma
+  img: adrian-brink.png
+  refs:
+    twitter: adrianbrink
+
+- id: ying-tong
+  name: Ying Tong
+  img: ying-tong.png
+  caption: Independent cryptographer ex-Zcash, Geometry Research
+  refs:
+    twitter: therealyingtong
+
+- id: leona-hioki
+  name: Leona Hioki
+  img: leona-hioki.png
+  caption: Founder Intmax
+  refs:
+    twitter: HiokiLeona
+
+- id: andrea-togni
+  name: Andrea Togni
+  img: andrea-togni.png
+  caption: Privacy Researcher Monero
+
+- id: radek-svarz
+  name: Radek Svarz
+  img: radek-svarz.jpg
+  altNames:
+    - Radek Švarz
+  refs:
+    twitter: radk
+
+- id: sam-hart
+  name: Sam Hart
+  img: sam-hart.jpeg
+  refs:
+    twitter: hxrts
+
+- id: camila-ramos-garzon
+  name: Camila Ramos Garzon
+  img: camila-ramos-garzon.jpg
+  refs:
+    twitter: camiinthisthang
+
+- id: gavin-wood
+  name: Gavin Wood
+  img: gavin-wood.jpg
+  caption: Founded Polkadot, Kusama, Ethereum, Parity, Web3 Foundation
+  refs:
+    twitter: gavofyork
+
+- id: kieran-mesquita
+  name: Kieran Mesquita
+  img: kieran-mesquita.jpg
+  altNames:
+    - Mesquka
+  refs:
+    twitter: mesquka
+
+- id: tsu-kareta
+  name: Alan
+  caption: Core Contributor Railgun
+  altNames:
+    - Tsu_Kareta
+  img: tsu-kareta.png
+  refs:
+    twitter: tsu_kareta
+
+- id: jan-hubik
+  name: Jan Hubík
+  img: jan-hubik.png
+  caption: Former Supervisory Board Member of PP Prague and Institute of Cryptoanarchy
+  refs:
+    twitter: hubikj
+
+- id: jakub-jedlinsky
+  name: Jakub Jedlinský
+  img: jakub-jedlinsky.jpg
+  refs:
+    twitter: Jakub_Jedlinsky
+
+- id: naomi-brockwell
+  name: Naomi Brockwell
+  caption: Founder of Ludlow Institute
+  img: naomi-brockwell.jpg
+  refs:
+    twitter: naomibrockwell
+
+- id: federico-kunze-kullmer
+  name: Federico Kunze Küllmer
+  caption: Founder & Director Evmos
+  img: federico-kunze-kullmer.jpg
+  refs:
+    twitter: fekunze
+
+- id: shady-el-damaty
+  name: Shady El Damaty
+  caption: Founder Holonym
+  img: shady-el-damaty.png
+  refs:
+    twitter: hebbianloop
+
+- id: arno-pfefferling
+  name: Arno Pfefferling
+  img: arno-pfefferling.jpg
+  refs:
+    twitter: mrceebo

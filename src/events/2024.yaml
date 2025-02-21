@@ -183,6 +183,7 @@
     - Neiman
     - Karo Zagorus
     - travin-keith
+    - liam-eagen
   organizers:
     - kx
 
@@ -419,6 +420,40 @@
     web: https://www.monerokon.org/past_events/2024.html
     meetup_id: '300284665'
     meetup: https://www.meetup.com/paralelnipolis/events/300284665/
+  speakers:
+    - Syksy
+    - Andriy Khavryuchenko
+    - Ryan
+    - CJ
+    - Dimi "m2049r" Divak
+    - Anhdres
+    - aaron-feickert
+    - Sowle
+    - Brian
+    - Adrian Truszczyński
+    - Evgeny Poberezkin
+    - matthias-tarasiewicz
+    - Andrea
+    - luke-kayaba-parker
+    - Mark Simkin
+    - Jeffro256
+    - mykola-siusko
+    - Alexis Roussel
+    - Sasha
+    - Mike (Stringhandler)
+    - Sterlin Lujan
+    - wilder
+    - Francisco 'ArticMine' Cabanas
+    - ariel-gabizon
+    - John Winter Murphy
+    - Jeremy Rand
+    - amir-taaki
+    - Stefanos Chaliasos
+    - Compunero, PhD
+    - Jan Jílek
+    - Tomáš Elbert
+    - liam-eagen
+    - juraj-bednar
 
 - id: ethberlin4
   name: ETHBerlin04 (2024)

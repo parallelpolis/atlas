@@ -813,6 +813,40 @@
   major: true
   refs:
     web: https://www.monerokon.org/past_events/2023.html
+  speakers:
+    - Sowle
+    - Koe
+    - Stoic.xmr
+    - noot
+    - Evgeny Poberezkin
+    - Subhra Mazumdar
+    - Kaj Jež
+    - Benedikt Wagner
+    - Simin Ghesmati
+    - Kewde
+    - juraj-bednar
+    - Michal Ptačnik
+    - Lederstrumpf
+    - koe
+    - Justin Berman
+    - amir-taaki
+    - Alfredo Rial
+    - Cayle Sharrock
+    - Aram Jivanyan
+    - andrea
+    - m2049r
+    - Dominique Schröder
+    - Martin Gundinger
+    - anhdres
+    - François-Xavier Wicht
+    - Suyash Bagad
+    - ArticMine
+    - aaron-feickert
+    - Piyush Sharma
+    - midipoet
+    - Ben Biedermann
+    - Luke Parker
+    - wilder
 
 - id: 2023-06-21-privacy-and-security-meetup-15
   name: 'Privacy & Security MeetUp #15'

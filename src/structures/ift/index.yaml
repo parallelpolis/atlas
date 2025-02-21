@@ -16,3 +16,9 @@ projects:
     - technology stack
   refs:
     web: https://logos.co/
+
+- id: parallel-society-congress
+  name: Parallel Society Congress
+  years: [ 2024 ]
+  img: psc24-square.webp
+

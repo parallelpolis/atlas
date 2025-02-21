@@ -25,6 +25,7 @@ projects:
     refs:
       web: https://protocol.berlin
       bsky: protocol.berlin
+      twitter: protocol_berg
 
   - id: cdc
     name: Critical Decentralisation Cluster

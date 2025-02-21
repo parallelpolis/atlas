@@ -48,6 +48,7 @@ extract-dod:
 extract-w3p-cypherpunk-congress-2024:
 	node lib/yt-extract.js w3pn:eth-cypherpunk-congress-2024 playlist PLSsVHWrO8Yh2FBmQ3JwauylmYI4F6z5Q3 '{"project": "w3pn", "event": "w3pn-eth-cypherpunk-congress-2024"}'
 
+# monerokon
 extract-monerokon19:
 	node lib/yt-extract.js monerokon-community:monerokon19 playlist PLsSYUeVwrHBkJHJg_l2uDgbicDJ1PmAVW '{"project": "monerokon", "event": "monerokon19"}'
 
@@ -60,6 +61,10 @@ extract-monerokon23:
 extract-monerokon24:
 	node lib/yt-extract.js monerokon-community:monerokon24 playlist PLsSYUeVwrHBk-C3zImaDAQLx453PL7dR- '{"project": "monerokon", "event": "monerokon24"}'
 
+# nestatni penize
 extract-nestatni-penize:
 	node lib/yt-extract.js pp-prague:nestatni-penize playlist PLCY6Q2vuBJALblREr_5E0Wa6MwWIJFVCH '{"people":["Josef Tětek|josef-tetek"], "lang": "cs", "project": "nestatni-penize"}'
 	
+# parallel society congress
+extract-psc24: 
+	node lib/yt-extract.js ift:psc24 playlist PLZe53tXAogqNNtKdrY8UhN8KsXphKDS_z '{"project": "parallel-society-congress", "event": "psc24"}'

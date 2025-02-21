@@ -13,11 +13,11 @@
 
     We are part of the Community Content Team of 38C3 and helped putting together the [Community Stages program](https://content.events.ccc.de/cfp/38c3-community-stages/index.en.html). We are also hosting our own talks and workshops: [CDC program at 38C3](https://pretalx.riat.at/38c3/cfp).
 
-- id: logos-parallel-society-congress-2024
+- id: psc24
   date: "2024-11-11"
-  project: logos
+  project: parallel-society-congress
   major: true
-  name: Parallel Society Congress
+  name: Parallel Society Congress 2024
   place:
     city: Bangkok
     country: th

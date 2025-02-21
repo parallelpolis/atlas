@@ -11,7 +11,7 @@ caption: |
   The digital-first meta instance of Paralelní Polis, which was born after the closure of the Prague location in 2024. This cypherpunk hub interconnect other structures and preserves the PP legacy (not only) in cyberspace.
 refs:
   web: https://pp0.co
-  github: ParalelniPolis0
+  github: parallelpolis
   bsky: parallelpolis.info
 
 projects:
@@ -26,7 +26,7 @@ projects:
       Data source is [Atlas](/c/atlas) (managed by [PP0](/s/pp0))
     refs:
       web: https://parallelpolis.info
-      github: ParalelniPolis0/parallelpolis.info
+      github: parallelpolis/parallelpolis.info
 
   - id: atlas
     name: Parallel Atlas
@@ -36,7 +36,7 @@ projects:
     caption: |
       Atlas of Parallel Polis ecosystem (open data) - structures, people, events, archive, books
     refs:
-      github: ParalelniPolis0/atlas
+      github: parallelpolis/atlas
   
   - id: pp-archive
     name: Parallel Archives

@@ -13,6 +13,7 @@ refs:
   web: https://pp0.co
   github: parallelpolis
   bsky: parallelpolis.info
+  twitter: 0xParallelPolis
 
 projects:
   - id: parallelpolis-info

@@ -218,3 +218,7 @@ projects:
   - id: bitcoin-kapesni-kapitalismus-serie
     name: "Bitcoin: Kapesní kapitalismus (série)"
     years: [ 2018, 2020 ]
+
+  - id: nestatni-penize
+    name: "Bitcoin: Nestátní peníze (série)"
+    years: [ 2020, 2021 ]

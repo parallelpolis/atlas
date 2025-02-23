@@ -417,6 +417,9 @@
   img: josef-tetek.jpg
   refs:
     twitter: JosefTetek
+  roles:
+    - project: nestatni-penize
+      type: contributor
 
 - id: juraj-karpis
   name: Juraj Karpiš

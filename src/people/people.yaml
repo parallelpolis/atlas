@@ -25,6 +25,8 @@
       type: contributor
     - project: ethprague
       type: contributor
+    - project: hacker-stories-series
+      type: contributor
 
 - id: exiledsurfer
   name: Exiledsurfer
@@ -324,6 +326,11 @@
   img: sara-polak.jpg
   refs:
     twitter: sarapolak_cz
+  roles:
+    - project: saras-atlas-obscura
+      type: contributor
+    - project: na-hrane-chaosu-serie
+      type: contributor
 
 - id: vlad-costea
   name: Vlad Costea
@@ -734,6 +741,9 @@
   refs:
     twitter: sodomak
     github: sodomak
+  roles:
+    - project: digitalni-sebeobrana-serie
+      type: contributor
 
 - id: roman-tyc
   name: Roman Týc
@@ -747,6 +757,8 @@
     - project: hcpp
       type: contributor
     - project: the-coins
+      type: contributor
+    - project: umeni-pres-caru-serie
       type: contributor
 
 - id: kx
@@ -1506,3 +1518,6 @@
   img: martin-tremcinsky.jpg
   refs:
     twitter: AC_Tremcinsky
+  roles:
+    - project: bitcoin-kapesni-kapitalismus-serie
+      type: contributor

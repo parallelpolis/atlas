@@ -191,3 +191,30 @@ projects:
     description_cs: |
       Koncept Paralelní polis lze rozklíčovat návštěvou espresso baru Bitcoin Coffee. Obrácený princip baru se zakládá na otevřeném a sdíleném výrobním postupu. Využití papírové voštiny reprezentuje hledání nových možností známých zajímavých materiálů. Bitcoin jako platební prostředek přivádí pozornost návštěvníka k využívání nových kryptotechnologií v praxi. Koncepce kavárny po vzoru berlínské kávové špičky, značky Bonanza Café, jako kávové laboratoře zacílené na dosažení špičkové chuti pak vyvolává zájem o doposud neobjevené kvality života. Pro pochopení složitých témat Paralelní polis je důležité posilnit se douškem silné kávy.
 
+  - id: hacker-stories-series
+    name: Hacker Stories (series)
+    years: [ 2020, 2021 ]
+  
+  - id: digitalni-sebeobrana-serie
+    name: Digitální Sebeobrana (série)
+    years: [ 2020, 2021 ]
+  
+  - id: saras-atlas-obscura
+    name: Sara's Atlas Obscura (série)
+    years: [ 2020, 2021 ]
+
+  - id: na-hrane-chaosu-serie
+    name: Na hraně chaosu (série)
+    years: [ 2020, 2021 ]
+  
+  - id: umeni-pres-caru-serie
+    name: Umění přes čáru (série)
+    years: [ 2020, 2021 ]
+  
+  - id: scitalks-serie
+    name: Scitalks (série)
+    years: [ 2018, 2020 ]
+  
+  - id: bitcoin-kapesni-kapitalismus-serie
+    name: "Bitcoin: Kapesní kapitalismus (série)"
+    years: [ 2018, 2020 ]

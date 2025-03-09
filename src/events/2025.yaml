@@ -1,3 +1,28 @@
+- id: w3pn-eth-cypherpunk-congress-2025
+  date: '2025-11-16'
+  project: ecc
+  major: true
+  name: Ethereum Cypherpunk Congress 2025
+  seq: 2
+  place:
+    city: Buenos Aires
+    country: ar
+  refs:
+    luma: u2sw5kpv
+    web: https://congress.web3privacy.info/
+  description: |
+    First Congress was a blast: 2000 people, 50 speakers, 30 partners, Chelsea Manning & Vitalik Buterin speaking, Audrey Tang in the audience! We decided to make a sequel and strengthen Cypherpunk values, culture and actions within the Ethereum ecosystem.
+
+    ---
+
+    Join the largest freedom & privacy activism gathering facilitated by the Web3Privacy now collective.
+
+    The wind of change is blowing through Ethereum. The time has come to evolve from mass consumption to a culture of high values.
+
+    Where decentralization, freedom, privacy, and politics are not empty words, but part of activism toward a more just world.
+
+    Join us in Buenos Aires on 16th of November 2025 at this congress as part of [Devconnect](https://devconnect.org/). Watch the [recordings from the 2024 Congress](https://www.youtube.com/playlist?list=PLSsVHWrO8Yh2FBmQ3JwauylmYI4F6z5Q3)
+
 - id: ethbrno3
   name: ETHBrno×3 (2025)
   date: "2025-10-17"
@@ -52,7 +77,7 @@
     - path: w3pn-hackathon25.jpg
       type: square
   refs:
-    web: https://lu.ma/wero3jvo
+    web: https://hackathon.web3privacy.info
     luma: wero3jvo
   description: |
     ​*We are facilitating a unique interdisciplinary privacy-centric hackathon around Berlin Blockchain Week.*

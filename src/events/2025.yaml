@@ -22,21 +22,6 @@
     Where decentralization, freedom, privacy, and politics are not empty words, but part of activism toward a more just world.
 
     Join us in Buenos Aires on 16th of November 2025 at this congress as part of [Devconnect](https://devconnect.org/). Watch the [recordings from the 2024 Congress](https://www.youtube.com/playlist?list=PLSsVHWrO8Yh2FBmQ3JwauylmYI4F6z5Q3)
-
-- id: ethbrno3
-  name: ETHBrno×3 (2025)
-  date: "2025-10-17"
-  major: true
-  project: ethbrno
-  place:
-    city: Brno
-    country: cz
-  days: 3
-  seq: 3
-  refs:
-    web: https://ethbrno.cz
-    bsky: ethbrno.cz
-    twitter: ethbrno
     
 - id: protocol-berg-2025
   date: "2025-06-12"

@@ -8,23 +8,6 @@
     "desc": "Priestor v Prahe, prepájajúci vedu, umenie a nové technológie. Je miestom prvej bitcoinovej kaviarne na svete, coworkingu, laboratória 3D tlače a iných experimentov s decentralizáciou, open source technológiami a sebestačnosťou. Hľadajú lepšiu kávu a slobodnejšie bytie.",
     "duration": 418,
     "name": "Paralelní Polis at PechaKucha Night Bratislava vol. 31, Visegrad Edition",
-    "people": [],
-    "storage": {
-      "id": "xTHLb2T6VJM",
-      "path": "/videos/all/xTHLb2T6VJM",
-      "duration": "418.726",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/xTHLb2T6VJM/source.mp4",
-        "hash": "c06e6f7658ebd505747c9761cb036d8ea424f1a646e560c108f60fbe4ff37191",
-        "size": 15415134,
-        "resolution": "1280x720",
-        "bitrate": "294515",
-        "videoCodec": "avc1",
-        "videoBitrate": 160213,
-        "audioCodec": "mp4a-40-2",
-        "audioBitrate": 128001
-      }
-    }
+    "people": []
   }
 ]

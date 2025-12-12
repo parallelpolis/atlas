@@ -13,24 +13,7 @@
       "Afri Schoedon|afri"
     ],
     "project": "protocol-berg",
-    "event": "protocol-berg-2023",
-    "storage": {
-      "id": "jBJabe_rWIE",
-      "path": "/videos/all/jBJabe_rWIE",
-      "duration": "790.521",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/jBJabe_rWIE/source.mp4",
-        "hash": "ecceb43af3cd86540b1f6a0abc029728f636c0b66d48f0af8877397c342d06df",
-        "size": 56101573,
-        "resolution": "1920x1080",
-        "bitrate": "567743",
-        "videoCodec": "avc1",
-        "videoBitrate": 449579,
-        "audioCodec": "Opus",
-        "audioBitrate": 113353
-      }
-    }
+    "event": "protocol-berg-2023"
   },
   {
     "id": "poF6RaCurQQ",
@@ -45,24 +28,7 @@
     "event": "protocol-berg-2023",
     "people": [
       "Asynchronous Phil"
-    ],
-    "storage": {
-      "id": "poF6RaCurQQ",
-      "path": "/videos/all/poF6RaCurQQ",
-      "duration": "1213.601",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/poF6RaCurQQ/source.mp4",
-        "hash": "7376d5579dbc031330e1e4700ff16a6fd7c3ae79928a27669b6e83a40cc82cd3",
-        "size": 69870740,
-        "resolution": "1920x1080",
-        "bitrate": "460585",
-        "videoCodec": "avc1",
-        "videoBitrate": 301628,
-        "audioCodec": "Opus",
-        "audioBitrate": 154120
-      }
-    }
+    ]
   },
   {
     "id": "Q8V0FuoP2ZQ",
@@ -77,24 +43,7 @@
     "event": "protocol-berg-2023",
     "people": [
       "Jenny Pollack"
-    ],
-    "storage": {
-      "id": "Q8V0FuoP2ZQ",
-      "path": "/videos/all/Q8V0FuoP2ZQ",
-      "duration": "1235.121",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/Q8V0FuoP2ZQ/source.mp4",
-        "hash": "20f26f65e97f7990ca9495755fe846415fcf43fc2bd0c9fab113a2ee135bef42",
-        "size": 96387467,
-        "resolution": "1920x1080",
-        "bitrate": "624311",
-        "videoCodec": "avc1",
-        "videoBitrate": 477062,
-        "audioCodec": "Opus",
-        "audioBitrate": 142443
-      }
-    }
+    ]
   },
   {
     "id": "AJDJvMS8LIE",
@@ -110,24 +59,7 @@
     "people": [
       "Guillaume Ballet|guillaume-ballet",
       "Tanishq Jasoria"
-    ],
-    "storage": {
-      "id": "AJDJvMS8LIE",
-      "path": "/videos/all/AJDJvMS8LIE",
-      "duration": "1501.741",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/AJDJvMS8LIE/source.mp4",
-        "hash": "d5fb074c7b826219a81bbe9d7df94b235c1327367bf09d66955e69b37b36f609",
-        "size": 168999094,
-        "resolution": "1920x1080",
-        "bitrate": "900284",
-        "videoCodec": "avc1",
-        "videoBitrate": 746854,
-        "audioCodec": "Opus",
-        "audioBitrate": 148653
-      }
-    }
+    ]
   },
   {
     "id": "P52kocriqFY",
@@ -142,24 +74,7 @@
     "event": "protocol-berg-2023",
     "people": [
       "Christian Reitwiessner"
-    ],
-    "storage": {
-      "id": "P52kocriqFY",
-      "path": "/videos/all/P52kocriqFY",
-      "duration": "1546.921",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/P52kocriqFY/source.mp4",
-        "hash": "cba0f66d27420c01d02a7cb865b63ac1ee5c79a9a7c46486cdc7a29a8424af92",
-        "size": 114478797,
-        "resolution": "1920x1080",
-        "bitrate": "592034",
-        "videoCodec": "avc1",
-        "videoBitrate": 446541,
-        "audioCodec": "Opus",
-        "audioBitrate": 140678
-      }
-    }
+    ]
   },
   {
     "id": "3vD892-GZ9s",
@@ -174,24 +89,7 @@
     "event": "protocol-berg-2023",
     "people": [
       "Costanza Gallo|constanza-gallo"
-    ],
-    "storage": {
-      "id": "3vD892-GZ9s",
-      "path": "/videos/all/3vD892-GZ9s",
-      "duration": "1202.941",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/3vD892-GZ9s/source.mp4",
-        "hash": "f9050f496d176c8045e8b169cb540871bcb0158319cc0a169eb3b45103904f2c",
-        "size": 120135295,
-        "resolution": "1920x1080",
-        "bitrate": "798944",
-        "videoCodec": "avc1",
-        "videoBitrate": 653076,
-        "audioCodec": "Opus",
-        "audioBitrate": 141090
-      }
-    }
+    ]
   },
   {
     "id": "O9QZveTdW5I",
@@ -206,24 +104,7 @@
     "event": "protocol-berg-2023",
     "people": [
       "eskimor"
-    ],
-    "storage": {
-      "id": "O9QZveTdW5I",
-      "path": "/videos/all/O9QZveTdW5I",
-      "duration": "1221.201",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/O9QZveTdW5I/source.mp4",
-        "hash": "bd17e754b6bbbec0d75570960021b43aa48db30ad28d4557b40d6225dc12fa5d",
-        "size": 62210247,
-        "resolution": "1920x1080",
-        "bitrate": "407535",
-        "videoCodec": "avc1",
-        "videoBitrate": 262685,
-        "audioCodec": "Opus",
-        "audioBitrate": 140021
-      }
-    }
+    ]
   },
   {
     "id": "UkxVcmFDsmI",
@@ -238,24 +119,7 @@
     "event": "protocol-berg-2023",
     "people": [
       "tomaka"
-    ],
-    "storage": {
-      "id": "UkxVcmFDsmI",
-      "path": "/videos/all/UkxVcmFDsmI",
-      "duration": "1420.641",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/UkxVcmFDsmI/source.mp4",
-        "hash": "d22c8f880bb5c0fbee0f9e507413f18cea069fc2f5f5bfc63f7df72bb17364f7",
-        "size": 95930566,
-        "resolution": "1920x1080",
-        "bitrate": "540210",
-        "videoCodec": "avc1",
-        "videoBitrate": 378549,
-        "audioCodec": "Opus",
-        "audioBitrate": 156854
-      }
-    }
+    ]
   },
   {
     "id": "sOddvRJHu50",
@@ -271,24 +135,7 @@
     "people": [
       "Evans",
       "Fei"
-    ],
-    "storage": {
-      "id": "sOddvRJHu50",
-      "path": "/videos/all/sOddvRJHu50",
-      "duration": "1450.401",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/sOddvRJHu50/source.mp4",
-        "hash": "ca7a16dcaca7514f927568eb96d7cedbe720d693d6b6ed24a2566986d223fa54",
-        "size": 107680765,
-        "resolution": "1920x1080",
-        "bitrate": "593937",
-        "videoCodec": "avc1",
-        "videoBitrate": 441174,
-        "audioCodec": "Opus",
-        "audioBitrate": 147961
-      }
-    }
+    ]
   },
   {
     "id": "kEOZ5rPgKdM",
@@ -303,24 +150,7 @@
     "event": "protocol-berg-2023",
     "people": [
       "Federico Kunze Küllmer|federico-kunze-kullmer"
-    ],
-    "storage": {
-      "id": "kEOZ5rPgKdM",
-      "path": "/videos/all/kEOZ5rPgKdM",
-      "duration": "1280.661",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/kEOZ5rPgKdM/source.mp4",
-        "hash": "6fede3c92e8556e14815a47eeedf68b7227a2ad45e37286c6cbab12286c70e62",
-        "size": 83314685,
-        "resolution": "1920x1080",
-        "bitrate": "520448",
-        "videoCodec": "avc1",
-        "videoBitrate": 369489,
-        "audioCodec": "Opus",
-        "audioBitrate": 146142
-      }
-    }
+    ]
   },
   {
     "id": "j7b8Upipmeg",
@@ -335,24 +165,7 @@
     "event": "protocol-berg-2023",
     "people": [
       "Gavin Wood|gavin-wood"
-    ],
-    "storage": {
-      "id": "j7b8Upipmeg",
-      "path": "/videos/all/j7b8Upipmeg",
-      "duration": "2832.961",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/j7b8Upipmeg/source.mp4",
-        "hash": "29a663dd46076aefcef7d402fe3420b562b877d542216312c0a53face977cc85",
-        "size": 166601070,
-        "resolution": "1920x1080",
-        "bitrate": "470465",
-        "videoCodec": "avc1",
-        "videoBitrate": 318547,
-        "audioCodec": "Opus",
-        "audioBitrate": 147082
-      }
-    }
+    ]
   },
   {
     "id": "AQFksVANMew",
@@ -367,24 +180,7 @@
     "event": "protocol-berg-2023",
     "people": [
       "Molly Mackinlay"
-    ],
-    "storage": {
-      "id": "AQFksVANMew",
-      "path": "/videos/all/AQFksVANMew",
-      "duration": "1558.361",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/AQFksVANMew/source.mp4",
-        "hash": "f39e5828c888aa35af0151a5229b94e30cf46201e1c13bcb80eeb1c9e0bd0be3",
-        "size": 125629699,
-        "resolution": "1920x1080",
-        "bitrate": "644932",
-        "videoCodec": "avc1",
-        "videoBitrate": 497381,
-        "audioCodec": "Opus",
-        "audioBitrate": 142739
-      }
-    }
+    ]
   },
   {
     "id": "-9g7ab_FEZY",
@@ -397,24 +193,7 @@
     "name": "Protocol Berg Special: The Blockspace Expo",
     "people": [],
     "project": "protocol-berg",
-    "event": "protocol-berg-2023",
-    "storage": {
-      "id": "-9g7ab_FEZY",
-      "path": "/videos/all/-9g7ab_FEZY",
-      "duration": "4807.741",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/-9g7ab_FEZY/source.mp4",
-        "hash": "b8940f43369c395b552d5b26fa077e39639f641e6538184d1e57665ab2238769",
-        "size": 338528860,
-        "resolution": "1280x720",
-        "bitrate": "563306",
-        "videoCodec": "avc1",
-        "videoBitrate": 412301,
-        "audioCodec": "Opus",
-        "audioBitrate": 146225
-      }
-    }
+    "event": "protocol-berg-2023"
   },
   {
     "id": "MgQHzzTb0zk",
@@ -429,24 +208,7 @@
     "event": "protocol-berg-2023",
     "people": [
       "Richard Meissner"
-    ],
-    "storage": {
-      "id": "MgQHzzTb0zk",
-      "path": "/videos/all/MgQHzzTb0zk",
-      "duration": "1516.841",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/MgQHzzTb0zk/source.mp4",
-        "hash": "a78e5b73f6940e4795d83584d81a58ea806cc6ad5808102b0f49c613ca7203dd",
-        "size": 153602116,
-        "resolution": "1920x1080",
-        "bitrate": "810116",
-        "videoCodec": "avc1",
-        "videoBitrate": 668820,
-        "audioCodec": "Opus",
-        "audioBitrate": 136228
-      }
-    }
+    ]
   },
   {
     "id": "-_R0yiEpjbk",
@@ -461,24 +223,7 @@
     "event": "protocol-berg-2023",
     "people": [
       "Wassim Z. Alsindi"
-    ],
-    "storage": {
-      "id": "-_R0yiEpjbk",
-      "path": "/videos/all/-_R0yiEpjbk",
-      "duration": "1513.801",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/-_R0yiEpjbk/source.mp4",
-        "hash": "1d85040029586b8bbaf491bb0d192046f5b5b60a3432ff7fb4fc86547f3014a7",
-        "size": 170959368,
-        "resolution": "1920x1080",
-        "bitrate": "903471",
-        "videoCodec": "avc1",
-        "videoBitrate": 754758,
-        "audioCodec": "Opus",
-        "audioBitrate": 143929
-      }
-    }
+    ]
   },
   {
     "id": "WMTie5aCK_w",
@@ -495,24 +240,7 @@
       "Sam Hart|sam-hart",
       "Toby Shorin",
       "Laura Lotti"
-    ],
-    "storage": {
-      "id": "WMTie5aCK_w",
-      "path": "/videos/all/WMTie5aCK_w",
-      "duration": "1534.641",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/WMTie5aCK_w/source.mp4",
-        "hash": "b35cf4e95c985a8f9432701ee83637ec0d27ee62f4d98637e2f06a52f848e1bb",
-        "size": 114507378,
-        "resolution": "1920x1080",
-        "bitrate": "596921",
-        "videoCodec": "avc1",
-        "videoBitrate": 444473,
-        "audioCodec": "Opus",
-        "audioBitrate": 147637
-      }
-    }
+    ]
   },
   {
     "id": "gTXYp_ndnKg",
@@ -528,23 +256,6 @@
     "people": [
       "franzi",
       "afri"
-    ],
-    "storage": {
-      "id": "gTXYp_ndnKg",
-      "path": "/videos/all/gTXYp_ndnKg",
-      "duration": "1388.041",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/gTXYp_ndnKg/source.mp4",
-        "hash": "2403c8ab78f87cafa93e95ae1f841b7a0804fd1cc0a1c19f31a955b39bdfef3d",
-        "size": 136036098,
-        "resolution": "1920x1080",
-        "bitrate": "784047",
-        "videoCodec": "avc1",
-        "videoBitrate": 630572,
-        "audioCodec": "Opus",
-        "audioBitrate": 148681
-      }
-    }
+    ]
   }
 ]

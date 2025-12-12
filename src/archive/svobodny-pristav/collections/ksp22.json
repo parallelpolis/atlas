@@ -13,24 +13,7 @@
     "people": [
       "Petr Bartoň"
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "rh2WPOR16lg",
-      "path": "/videos/all/rh2WPOR16lg",
-      "duration": "4037.741",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/rh2WPOR16lg/source.mp4",
-        "hash": "c422d3259793e874a2db89eae1a6c135eae5807f1c8542158e466f44266206af",
-        "size": 320356806,
-        "resolution": "1280x720",
-        "bitrate": "634725",
-        "videoCodec": "avc1",
-        "videoBitrate": 523664,
-        "audioCodec": "Opus",
-        "audioBitrate": 103712
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "pWA28B-Y7gI",
@@ -46,24 +29,7 @@
     "people": [
       "L. Kovanda"
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "pWA28B-Y7gI",
-      "path": "/videos/all/pWA28B-Y7gI",
-      "duration": "3135.761",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/pWA28B-Y7gI/source.mp4",
-        "hash": "b8a17a2add111d3128ad84e9c5421f0be3ae12ccd9467077363287797017e612",
-        "size": 268923817,
-        "resolution": "1280x720",
-        "bitrate": "686082",
-        "videoCodec": "avc1",
-        "videoBitrate": 575674,
-        "audioCodec": "Opus",
-        "audioBitrate": 103079
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "SkiubbsZq4g",
@@ -79,24 +45,7 @@
     "people": [
       "urza"
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "SkiubbsZq4g",
-      "path": "/videos/all/SkiubbsZq4g",
-      "duration": "3333.801",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/SkiubbsZq4g/source.mp4",
-        "hash": "c3e2386d0ee199528d7ea129151e7563b1fd1464e3e04a739ef6e24e673c6e44",
-        "size": 328303622,
-        "resolution": "1280x720",
-        "bitrate": "787818",
-        "videoCodec": "avc1",
-        "videoBitrate": 668206,
-        "audioCodec": "Opus",
-        "audioBitrate": 112085
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "StwrJl0nk9M",
@@ -112,24 +61,7 @@
     "people": [
       "Pepa Tětek|josef-tetek"
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "StwrJl0nk9M",
-      "path": "/videos/all/StwrJl0nk9M",
-      "duration": "1983.041",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/StwrJl0nk9M/source.mp4",
-        "hash": "929ce18d29fe05e7fa1fd8a76430fb5d15eabf093ba42b3583a2441aae296427",
-        "size": 216430154,
-        "resolution": "1280x720",
-        "bitrate": "873124",
-        "videoCodec": "avc1",
-        "videoBitrate": 755960,
-        "audioCodec": "Opus",
-        "audioBitrate": 109480
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "lyBW-fHRfKU",
@@ -145,24 +77,7 @@
     "people": [
       "Mojmír Hampl"
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "lyBW-fHRfKU",
-      "path": "/videos/all/lyBW-fHRfKU",
-      "duration": "2446.061",
-      "framerate": "29.970",
-      "source": {
-        "path": "/videos/all/lyBW-fHRfKU/source.mp4",
-        "hash": "00be12b42d1c616ab3e187f7b4b65e4830896c00675f4e2122c57bd294cd8fbe",
-        "size": 224863676,
-        "resolution": "1280x720",
-        "bitrate": "735431",
-        "videoCodec": "avc1",
-        "videoBitrate": 633859,
-        "audioCodec": "Opus",
-        "audioBitrate": 93461
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "7BoyLIptCWA",
@@ -179,24 +94,7 @@
       "Marianna Sádecká",
       "Palo Lupták|wilder"
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "7BoyLIptCWA",
-      "path": "/videos/all/7BoyLIptCWA",
-      "duration": "3032.701",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/7BoyLIptCWA/source.mp4",
-        "hash": "62cfafe4204f1e89d795072b76a665ef0a731ded559aa50145242ebf17fb9a19",
-        "size": 466804240,
-        "resolution": "1280x720",
-        "bitrate": "1231389",
-        "videoCodec": "avc1",
-        "videoBitrate": 1130953,
-        "audioCodec": "Opus",
-        "audioBitrate": 93244
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "UHuQlCqLfLA",
@@ -212,24 +110,7 @@
     "people": [
       "Honza Pobořil"
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "UHuQlCqLfLA",
-      "path": "/videos/all/UHuQlCqLfLA",
-      "duration": "2466.221",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/UHuQlCqLfLA/source.mp4",
-        "hash": "ba193b904d2bc54b3e0e3e76f68b9811a2331c45fc33a928443d2a5a1de876a3",
-        "size": 361006136,
-        "resolution": "1280x720",
-        "bitrate": "1171042",
-        "videoCodec": "avc1",
-        "videoBitrate": 1036371,
-        "audioCodec": "Opus",
-        "audioBitrate": 127413
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "f-kb3YpLNpA",
@@ -249,23 +130,6 @@
     ],
     "lang": "cs",
     "project": "konference-sp",
-    "event": "ksp22",
-    "storage": {
-      "id": "f-kb3YpLNpA",
-      "path": "/videos/all/f-kb3YpLNpA",
-      "duration": "5110.281",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/f-kb3YpLNpA/source.mp4",
-        "hash": "7283de04eebbd041e801babfdab182a69aadf9b678dd222abe4070be9849afc5",
-        "size": 453037679,
-        "resolution": "1280x720",
-        "bitrate": "709218",
-        "videoCodec": "avc1",
-        "videoBitrate": 590182,
-        "audioCodec": "Opus",
-        "audioBitrate": 110901
-      }
-    }
+    "event": "ksp22"
   }
 ]

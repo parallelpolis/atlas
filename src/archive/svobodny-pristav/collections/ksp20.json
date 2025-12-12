@@ -13,24 +13,7 @@
     "people": [
       "Roman Joch"
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "1G23jA4DR-Y",
-      "path": "/videos/all/1G23jA4DR-Y",
-      "duration": "3614.441",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/1G23jA4DR-Y/source.mp4",
-        "hash": "84c6fe4e1c525d65355b55383e3bd3aa585266eab94c90b485bd67bb9a6311dc",
-        "size": 255281446,
-        "resolution": "1280x720",
-        "bitrate": "565026",
-        "videoCodec": "avc1",
-        "videoBitrate": 460521,
-        "audioCodec": "Opus",
-        "audioBitrate": 96922
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "ajDtXzthTVc",
@@ -46,24 +29,7 @@
     "people": [
       "urza"
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "ajDtXzthTVc",
-      "path": "/videos/all/ajDtXzthTVc",
-      "duration": "3434.721",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/ajDtXzthTVc/source.mp4",
-        "hash": "ec1107d8d2d2fecc99ceee3d6bf969bbbf77a9d0300870e9ed20516987a560fd",
-        "size": 282811552,
-        "resolution": "1280x720",
-        "bitrate": "658712",
-        "videoCodec": "avc1",
-        "videoBitrate": 546813,
-        "audioCodec": "Opus",
-        "audioBitrate": 104081
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "1EsHBxim4KQ",
@@ -79,24 +45,7 @@
     "people": [
       "Richard Vokoun"
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "1EsHBxim4KQ",
-      "path": "/videos/all/1EsHBxim4KQ",
-      "duration": "3296.761",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/1EsHBxim4KQ/source.mp4",
-        "hash": "9026719317a55d45e3229afba0e65629d3717f6006b44fc1f273f81567e6ab82",
-        "size": 498709474,
-        "resolution": "1280x720",
-        "bitrate": "1210180",
-        "videoCodec": "avc1",
-        "videoBitrate": 1108126,
-        "audioCodec": "Opus",
-        "audioBitrate": 94904
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "wEAOT4VmlDg",
@@ -112,24 +61,7 @@
     "people": [
       "Lidija Zavoralová"
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "wEAOT4VmlDg",
-      "path": "/videos/all/wEAOT4VmlDg",
-      "duration": "3181.621",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/wEAOT4VmlDg/source.mp4",
-        "hash": "20d88dd3f3e9e45544569a7a67051b3346fe819ada40c50b18a134811f7254cc",
-        "size": 493524349,
-        "resolution": "1280x720",
-        "bitrate": "1240938",
-        "videoCodec": "avc1",
-        "videoBitrate": 1127678,
-        "audioCodec": "Opus",
-        "audioBitrate": 106061
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "qNK1MJ8KpBs",
@@ -145,24 +77,7 @@
     "people": [
       "Jan Zugar"
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "qNK1MJ8KpBs",
-      "path": "/videos/all/qNK1MJ8KpBs",
-      "duration": "1996.881",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/qNK1MJ8KpBs/source.mp4",
-        "hash": "e601954d88c7c5619a3c727b21a24d8929204efafc8de2f3a4dc854b24406cea",
-        "size": 160814796,
-        "resolution": "1280x720",
-        "bitrate": "644264",
-        "videoCodec": "avc1",
-        "videoBitrate": 538038,
-        "audioCodec": "Opus",
-        "audioBitrate": 98427
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "TAjnaqa7r_A",
@@ -178,24 +93,7 @@
     "people": [
       "Adam Růžička"
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "TAjnaqa7r_A",
-      "path": "/videos/all/TAjnaqa7r_A",
-      "duration": "3279.421",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/TAjnaqa7r_A/source.mp4",
-        "hash": "cdef3ebe9532f236312364356ffa7ff7f0054305d0e3b40ff2feb8e7f45e4b17",
-        "size": 324966720,
-        "resolution": "1280x720",
-        "bitrate": "792742",
-        "videoCodec": "avc1",
-        "videoBitrate": 681830,
-        "audioCodec": "Opus",
-        "audioBitrate": 103278
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "PSTxWutKCTE",
@@ -211,24 +109,7 @@
     "people": [
       "Palo Lupták|wilder"
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "PSTxWutKCTE",
-      "path": "/videos/all/PSTxWutKCTE",
-      "duration": "3274.761",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/PSTxWutKCTE/source.mp4",
-        "hash": "a56cb64cc972aed3c4b47d718c10e76d75888155f54610a29279b809fd58c1e8",
-        "size": 318356662,
-        "resolution": "1280x720",
-        "bitrate": "777722",
-        "videoCodec": "avc1",
-        "videoBitrate": 670656,
-        "audioCodec": "Opus",
-        "audioBitrate": 99720
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "r4uoZ7YQpJ4",
@@ -249,23 +130,6 @@
     ],
     "lang": "cs",
     "project": "konference-sp",
-    "event": "ksp20",
-    "storage": {
-      "id": "r4uoZ7YQpJ4",
-      "path": "/videos/all/r4uoZ7YQpJ4",
-      "duration": "5428.721",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/r4uoZ7YQpJ4/source.mp4",
-        "hash": "c57b892601169cecdcd007850fcf77ce1a71c37be4717f0f7067198652d8760e",
-        "size": 327128657,
-        "resolution": "1280x720",
-        "bitrate": "482071",
-        "videoCodec": "avc1",
-        "videoBitrate": 360932,
-        "audioCodec": "Opus",
-        "audioBitrate": 113770
-      }
-    }
+    "event": "ksp20"
   }
 ]

@@ -14,23 +14,6 @@
       "Oliver Gale",
       "Antoni Zolciak",
       "Mykola Siusko|mykola-siusko"
-    ],
-    "storage": {
-      "id": "mWEyfO53kGU",
-      "path": "/videos/all/mWEyfO53kGU",
-      "duration": "1839.681",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/mWEyfO53kGU/source.mp4",
-        "hash": "823933c051fb6806d65ac1d33d7252dd9586f1ee1831f593f891bb7cf91a92d4",
-        "size": 70465111,
-        "resolution": "1280x720",
-        "bitrate": "306423",
-        "videoCodec": "avc1",
-        "videoBitrate": 190291,
-        "audioCodec": "Opus",
-        "audioBitrate": 108381
-      }
-    }
+    ]
   }
 ]

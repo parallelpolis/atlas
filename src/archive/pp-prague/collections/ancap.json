@@ -12,24 +12,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl první: Stát je nemorální",
-    "storage": {
-      "id": "71EeTJDkQOQ",
-      "path": "/videos/all/71EeTJDkQOQ",
-      "duration": "4361.361",
-      "framerate": "50.000",
-      "source": {
-        "path": "/videos/all/71EeTJDkQOQ/source.mp4",
-        "hash": "e88efa15d4a77a31aab458d577299604968eb2830473df350bc5656c220a1aba",
-        "size": 434186821,
-        "resolution": "1920x1080",
-        "bitrate": "796424",
-        "videoCodec": "vp09",
-        "videoBitrate": 668402,
-        "audioCodec": "Opus",
-        "audioBitrate": 121615
-      }
-    }
+    "name": "Anarchokapitalismus, díl první: Stát je nemorální"
   },
   {
     "id": "UEa1uow2e7c",
@@ -44,24 +27,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl druhý: Stát je špatný sluha, ale zlý pán",
-    "storage": {
-      "id": "UEa1uow2e7c",
-      "path": "/videos/all/UEa1uow2e7c",
-      "duration": "5030.325",
-      "framerate": "50.000",
-      "source": {
-        "path": "/videos/all/UEa1uow2e7c/source.mp4",
-        "hash": "50a5b8cbc0b708eb56987a8f120c2767b56168763ee69aae15adf814d1a33054",
-        "size": 2307594632,
-        "resolution": "1920x1080",
-        "bitrate": "3669894",
-        "videoCodec": "avc1",
-        "videoBitrate": 3532703,
-        "audioCodec": "mp4a-40-2",
-        "audioBitrate": 127999
-      }
-    }
+    "name": "Anarchokapitalismus, díl druhý: Stát je špatný sluha, ale zlý pán"
   },
   {
     "id": "kc6EQ8pgOqc",
@@ -76,24 +42,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl třetí: Peníze",
-    "storage": {
-      "id": "kc6EQ8pgOqc",
-      "path": "/videos/all/kc6EQ8pgOqc",
-      "duration": "5564.201",
-      "framerate": "50.000",
-      "source": {
-        "path": "/videos/all/kc6EQ8pgOqc/source.mp4",
-        "hash": "e73209eddac7fb8d1b9be60ebaba586985502d064727dc13ff2547c6ee7caba8",
-        "size": 1043340506,
-        "resolution": "1920x1080",
-        "bitrate": "1500076",
-        "videoCodec": "avc1",
-        "videoBitrate": 1368775,
-        "audioCodec": "Opus",
-        "audioBitrate": 122044
-      }
-    }
+    "name": "Anarchokapitalismus, díl třetí: Peníze"
   },
   {
     "id": "oTGExJzeiJA",
@@ -108,24 +57,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl čtvrtý: Hasiči",
-    "storage": {
-      "id": "oTGExJzeiJA",
-      "path": "/videos/all/oTGExJzeiJA",
-      "duration": "5039.321",
-      "framerate": "24.000",
-      "source": {
-        "path": "/videos/all/oTGExJzeiJA/source.mp4",
-        "hash": "45ac21fc3b5758423f2956e71c49467c6e2f3e6a267e674c793b89f77349dd36",
-        "size": 529815564,
-        "resolution": "1920x1080",
-        "bitrate": "841090",
-        "videoCodec": "avc1",
-        "videoBitrate": 708892,
-        "audioCodec": "Opus",
-        "audioBitrate": 126753
-      }
-    }
+    "name": "Anarchokapitalismus, díl čtvrtý: Hasiči"
   },
   {
     "id": "avtW9X8ogBU",
@@ -140,24 +72,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl pátý: Kultura",
-    "storage": {
-      "id": "avtW9X8ogBU",
-      "path": "/videos/all/avtW9X8ogBU",
-      "duration": "6659.344",
-      "framerate": "24.000",
-      "source": {
-        "path": "/videos/all/avtW9X8ogBU/source.mp4",
-        "hash": "2611afe5956ff92cec7fa5a4ae777e495a19a16e52b3865181bf31d305e0b88b",
-        "size": 895696670,
-        "resolution": "1920x1080",
-        "bitrate": "1076018",
-        "videoCodec": "vp09",
-        "videoBitrate": 942364,
-        "audioCodec": "mp4a-40-2",
-        "audioBitrate": 127999
-      }
-    }
+    "name": "Anarchokapitalismus, díl pátý: Kultura"
   },
   {
     "id": "bpF7sPNbNyU",
@@ -172,24 +87,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl šestý: Demokracie",
-    "storage": {
-      "id": "bpF7sPNbNyU",
-      "path": "/videos/all/bpF7sPNbNyU",
-      "duration": "8992.001",
-      "framerate": "24.000",
-      "source": {
-        "path": "/videos/all/bpF7sPNbNyU/source.mp4",
-        "hash": "2616deb422ca83068775c31d91a38f7c1f38398a55f3a25d0d6bf6ea44c15946",
-        "size": 1362239939,
-        "resolution": "1920x1080",
-        "bitrate": "1211957",
-        "videoCodec": "vp09",
-        "videoBitrate": 1077967,
-        "audioCodec": "Opus",
-        "audioBitrate": 128675
-      }
-    }
+    "name": "Anarchokapitalismus, díl šestý: Demokracie"
   },
   {
     "id": "5J8WdVjz60U",
@@ -204,24 +102,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl sedmý: Školství",
-    "storage": {
-      "id": "5J8WdVjz60U",
-      "path": "/videos/all/5J8WdVjz60U",
-      "duration": "7238.481",
-      "framerate": "24.000",
-      "source": {
-        "path": "/videos/all/5J8WdVjz60U/source.mp4",
-        "hash": "0f34089594dda7ee53eff2af3636e3e2e866420156cc681ffb945004b42ea4c2",
-        "size": 488730071,
-        "resolution": "1920x1080",
-        "bitrate": "540147",
-        "videoCodec": "vp09",
-        "videoBitrate": 414247,
-        "audioCodec": "Opus",
-        "audioBitrate": 120581
-      }
-    }
+    "name": "Anarchokapitalismus, díl sedmý: Školství"
   },
   {
     "id": "HM73OQxgX9g",
@@ -236,24 +117,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl osmý: Drogy",
-    "storage": {
-      "id": "HM73OQxgX9g",
-      "path": "/videos/all/HM73OQxgX9g",
-      "duration": "5759.548",
-      "framerate": "24.000",
-      "source": {
-        "path": "/videos/all/HM73OQxgX9g/source.mp4",
-        "hash": "299f432c021b45738b0bf3bfb320304f1bdb7e69497d79c909d72cb467769cf8",
-        "size": 428219750,
-        "resolution": "1920x1080",
-        "bitrate": "594796",
-        "videoCodec": "avc1",
-        "videoBitrate": 460920,
-        "audioCodec": "mp4a-40-2",
-        "audioBitrate": 127999
-      }
-    }
+    "name": "Anarchokapitalismus, díl osmý: Drogy"
   },
   {
     "id": "kgAJvVtIWVE",
@@ -268,24 +132,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl devátý: Zbraně",
-    "storage": {
-      "id": "kgAJvVtIWVE",
-      "path": "/videos/all/kgAJvVtIWVE",
-      "duration": "5917.188",
-      "framerate": "24.000",
-      "source": {
-        "path": "/videos/all/kgAJvVtIWVE/source.mp4",
-        "hash": "f5afe39c6669e5db3f4b4ab3124f75a54ccd4e1e585974c665cc1cee196448cc",
-        "size": 523520474,
-        "resolution": "1920x1080",
-        "bitrate": "707796",
-        "videoCodec": "avc1",
-        "videoBitrate": 573752,
-        "audioCodec": "mp4a-40-2",
-        "audioBitrate": 127999
-      }
-    }
+    "name": "Anarchokapitalismus, díl devátý: Zbraně"
   },
   {
     "id": "EeXSGthWoe4",
@@ -300,24 +147,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl desátý: Veřejný prostor a svoboda slova",
-    "storage": {
-      "id": "EeXSGthWoe4",
-      "path": "/videos/all/EeXSGthWoe4",
-      "duration": "6707.801",
-      "framerate": "24.000",
-      "source": {
-        "path": "/videos/all/EeXSGthWoe4/source.mp4",
-        "hash": "6253c0fe191a5e433391265c0eed3486bb22670b7d202b36e179192093e87918",
-        "size": 1313836766,
-        "resolution": "1920x1080",
-        "bitrate": "1566936",
-        "videoCodec": "avc1",
-        "videoBitrate": 1461451,
-        "audioCodec": "Opus",
-        "audioBitrate": 100141
-      }
-    }
+    "name": "Anarchokapitalismus, díl desátý: Veřejný prostor a svoboda slova"
   },
   {
     "id": "mzkxBZK8o9U",
@@ -332,24 +162,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl jedenáctý: Kdo by stavěl silnice?",
-    "storage": {
-      "id": "mzkxBZK8o9U",
-      "path": "/videos/all/mzkxBZK8o9U",
-      "duration": "6684.561",
-      "framerate": "24.000",
-      "source": {
-        "path": "/videos/all/mzkxBZK8o9U/source.mp4",
-        "hash": "bd49486367d7581f5d1784e7ece7d13099c1ecdf7285f59c203dfe5f4a521ec4",
-        "size": 680701331,
-        "resolution": "1920x1080",
-        "bitrate": "814655",
-        "videoCodec": "avc1",
-        "videoBitrate": 680682,
-        "audioCodec": "Opus",
-        "audioBitrate": 128784
-      }
-    }
+    "name": "Anarchokapitalismus, díl jedenáctý: Kdo by stavěl silnice?"
   },
   {
     "id": "QkV8JQSqp9k",
@@ -364,24 +177,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl dvanáctý: Sociální systém",
-    "storage": {
-      "id": "QkV8JQSqp9k",
-      "path": "/videos/all/QkV8JQSqp9k",
-      "duration": "6930.361",
-      "framerate": "24.000",
-      "source": {
-        "path": "/videos/all/QkV8JQSqp9k/source.mp4",
-        "hash": "7c422037ffc85a77bc07f6abbd1fe379785f6be63e79429eb7ea868ad259b568",
-        "size": 473650907,
-        "resolution": "1920x1080",
-        "bitrate": "546755",
-        "videoCodec": "avc1",
-        "videoBitrate": 444854,
-        "audioCodec": "Opus",
-        "audioBitrate": 96366
-      }
-    }
+    "name": "Anarchokapitalismus, díl dvanáctý: Sociální systém"
   },
   {
     "id": "C47PcCkhRqA",
@@ -396,24 +192,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl třináctý: Trh práce",
-    "storage": {
-      "id": "C47PcCkhRqA",
-      "path": "/videos/all/C47PcCkhRqA",
-      "duration": "5303.081",
-      "framerate": "24.000",
-      "source": {
-        "path": "/videos/all/C47PcCkhRqA/source.mp4",
-        "hash": "b3a24e1597228e4ed6654497ba08406bf2cf76dd9a32a9f7e07e353bab93d3fa",
-        "size": 242301350,
-        "resolution": "1920x1080",
-        "bitrate": "365525",
-        "videoCodec": "avc1",
-        "videoBitrate": 261213,
-        "audioCodec": "Opus",
-        "audioBitrate": 98668
-      }
-    }
+    "name": "Anarchokapitalismus, díl třináctý: Trh práce"
   },
   {
     "id": "fuKJlOAmB04",
@@ -428,24 +207,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl čtrnáctý: Zdravotnictví",
-    "storage": {
-      "id": "fuKJlOAmB04",
-      "path": "/videos/all/fuKJlOAmB04",
-      "duration": "6030.432",
-      "framerate": "24.000",
-      "source": {
-        "path": "/videos/all/fuKJlOAmB04/source.mp4",
-        "hash": "193b2f18c55a84454e356ff7fb998cfa2e6cdfe22a94cbc4693e8653067a9193",
-        "size": 467402795,
-        "resolution": "1920x1080",
-        "bitrate": "620059",
-        "videoCodec": "avc1",
-        "videoBitrate": 488843,
-        "audioCodec": "mp4a-40-2",
-        "audioBitrate": 125588
-      }
-    }
+    "name": "Anarchokapitalismus, díl čtrnáctý: Zdravotnictví"
   },
   {
     "id": "jZZapCCYHL4",
@@ -460,24 +222,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl patnáctý: Životní prostředí",
-    "storage": {
-      "id": "jZZapCCYHL4",
-      "path": "/videos/all/jZZapCCYHL4",
-      "duration": "5611.404",
-      "framerate": "24.000",
-      "source": {
-        "path": "/videos/all/jZZapCCYHL4/source.mp4",
-        "hash": "558a1eb5f121bddc6b7443572fe74876839d52fd6d530278166bd1ca4b9da859",
-        "size": 488852353,
-        "resolution": "1920x1080",
-        "bitrate": "696941",
-        "videoCodec": "avc1",
-        "videoBitrate": 563119,
-        "audioCodec": "mp4a-40-2",
-        "audioBitrate": 127999
-      }
-    }
+    "name": "Anarchokapitalismus, díl patnáctý: Životní prostředí"
   },
   {
     "id": "ZUfWlr-Hqek",
@@ -492,24 +237,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl šestnáctý: Soudnictví",
-    "storage": {
-      "id": "ZUfWlr-Hqek",
-      "path": "/videos/all/ZUfWlr-Hqek",
-      "duration": "6374.017",
-      "framerate": "24.000",
-      "source": {
-        "path": "/videos/all/ZUfWlr-Hqek/source.mp4",
-        "hash": "1141587452d0498e09679901cf06f781ed45d93f544dfddb1b3d18c2d3eaf41d",
-        "size": 552244015,
-        "resolution": "1920x1080",
-        "bitrate": "693119",
-        "videoCodec": "avc1",
-        "videoBitrate": 561845,
-        "audioCodec": "mp4a-40-2",
-        "audioBitrate": 125588
-      }
-    }
+    "name": "Anarchokapitalismus, díl šestnáctý: Soudnictví"
   },
   {
     "id": "8B8UZgsABl4",
@@ -524,24 +252,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Křest knihy Anarchokapitalismus",
-    "storage": {
-      "id": "8B8UZgsABl4",
-      "path": "/videos/all/8B8UZgsABl4",
-      "duration": "2759.158",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/8B8UZgsABl4/source.mp4",
-        "hash": "67f227c70f440ec6dce3e67cf7939fa1d592656999f41f58d15e4d1dc99d5c2d",
-        "size": 140550433,
-        "resolution": "1280x720",
-        "bitrate": "407517",
-        "videoCodec": "avc1",
-        "videoBitrate": 273552,
-        "audioCodec": "mp4a-40-2",
-        "audioBitrate": 125588
-      }
-    }
+    "name": "Křest knihy Anarchokapitalismus"
   },
   {
     "id": "CwJCtHGBglE",
@@ -556,24 +267,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl sedmnáctý: Vymáhání práva",
-    "storage": {
-      "id": "CwJCtHGBglE",
-      "path": "/videos/all/CwJCtHGBglE",
-      "duration": "6961.738",
-      "framerate": "24.000",
-      "source": {
-        "path": "/videos/all/CwJCtHGBglE/source.mp4",
-        "hash": "dc2d0bd257791a6f36061104ff72626d5833dd0b31a357417b774b953f20b872",
-        "size": 558686272,
-        "resolution": "1920x1080",
-        "bitrate": "642008",
-        "videoCodec": "avc1",
-        "videoBitrate": 510794,
-        "audioCodec": "mp4a-40-2",
-        "audioBitrate": 125588
-      }
-    }
+    "name": "Anarchokapitalismus, díl sedmnáctý: Vymáhání práva"
   },
   {
     "id": "v3KgBb6mmS0",
@@ -588,24 +282,7 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl osmnáctý: Armáda",
-    "storage": {
-      "id": "v3KgBb6mmS0",
-      "path": "/videos/all/v3KgBb6mmS0",
-      "duration": "5276.549",
-      "framerate": "24.000",
-      "source": {
-        "path": "/videos/all/v3KgBb6mmS0/source.mp4",
-        "hash": "256a575960fb6e8cf03b6fb753b9113dc4b1370edf87f976feec026f16fc7250",
-        "size": 448829616,
-        "resolution": "1920x1080",
-        "bitrate": "680490",
-        "videoCodec": "avc1",
-        "videoBitrate": 549114,
-        "audioCodec": "mp4a-40-2",
-        "audioBitrate": 125588
-      }
-    }
+    "name": "Anarchokapitalismus, díl osmnáctý: Armáda"
   },
   {
     "id": "P1gX-a8bud8",
@@ -620,23 +297,6 @@
     ],
     "lang": "cs",
     "project": "ankap-serie",
-    "name": "Anarchokapitalismus, díl devatenáctý: V širším kontextu…",
-    "storage": {
-      "id": "P1gX-a8bud8",
-      "path": "/videos/all/P1gX-a8bud8",
-      "duration": "6473.352",
-      "framerate": "24.000",
-      "source": {
-        "path": "/videos/all/P1gX-a8bud8/source.mp4",
-        "hash": "8ab02f7cbd3d1186450aa91dd9cffdba399635915d3475d84dcd8e1b54ac7f53",
-        "size": 560001893,
-        "resolution": "1920x1080",
-        "bitrate": "692070",
-        "videoCodec": "avc1",
-        "videoBitrate": 560763,
-        "audioCodec": "mp4a-40-2",
-        "audioBitrate": 125588
-      }
-    }
+    "name": "Anarchokapitalismus, díl devatenáctý: V širším kontextu…"
   }
 ]

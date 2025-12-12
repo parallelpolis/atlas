@@ -1203,24 +1203,7 @@
     "event": "pd23",
     "people": [
       "Juraj Bednar|juraj-bednar"
-    ],
-    "storage": {
-      "id": "NQ_-mv0aILQ",
-      "path": "/videos/all/NQ_-mv0aILQ",
-      "duration": "3494.901",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/NQ_-mv0aILQ/source.mp4",
-        "hash": "7b89a4b9394dbd3349c7d5a5c13b69ccfa4f8bfd6718b63518fcb5a0494212d7",
-        "size": 401990307,
-        "resolution": "1920x1080",
-        "bitrate": "920176",
-        "videoCodec": "avc1",
-        "videoBitrate": 787277,
-        "audioCodec": "Opus",
-        "audioBitrate": 127761
-      }
-    }
+    ]
   },
   {
     "id": "Vu2AHs4jdX8",
@@ -1434,24 +1417,7 @@
     "event": "pd23",
     "people": [
       "exiledsurfer"
-    ],
-    "storage": {
-      "id": "QGE2iLKeau0",
-      "path": "/videos/all/QGE2iLKeau0",
-      "duration": "811.701",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/QGE2iLKeau0/source.mp4",
-        "hash": "1694c46a2676f72186c2031fa48428739cab56b8b5a313d5fd7f68631557e40f",
-        "size": 76783236,
-        "resolution": "1920x1080",
-        "bitrate": "756764",
-        "videoCodec": "avc1",
-        "videoBitrate": 623381,
-        "audioCodec": "Opus",
-        "audioBitrate": 128265
-      }
-    }
+    ]
   },
   {
     "id": "nzTtgek-4GY",
@@ -1763,24 +1729,7 @@
     "event": "hcpp23",
     "people": [
       "Amir Taaki|amir-taaki"
-    ],
-    "storage": {
-      "id": "tuqvTMYx4i0",
-      "path": "/videos/all/tuqvTMYx4i0",
-      "duration": "2925.761",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/tuqvTMYx4i0/source.mp4",
-        "hash": "a970d833315052a6e48e6fc6b6fbf3c0657c0453fa11e12135b23849cd408d7e",
-        "size": 262701412,
-        "resolution": "1920x1080",
-        "bitrate": "718313",
-        "videoCodec": "avc1",
-        "videoBitrate": 602355,
-        "audioCodec": "Opus",
-        "audioBitrate": 111145
-      }
-    }
+    ]
   },
   {
     "id": "vA_qlNP0ag0",
@@ -1878,24 +1827,7 @@
     "event": "hcpp23",
     "people": [
       "Richard M. Stallman|richard-stallman"
-    ],
-    "storage": {
-      "id": "qJTuwqT6p4k",
-      "path": "/videos/all/qJTuwqT6p4k",
-      "duration": "6506.201",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/qJTuwqT6p4k/source.mp4",
-        "hash": "b879c293562828a5ad13482b3f49a1b4fcc333507bc3c99cac60b16b9a83640e",
-        "size": 1717216603,
-        "resolution": "1920x1080",
-        "bitrate": "2111483",
-        "videoCodec": "avc1",
-        "videoBitrate": 1997412,
-        "audioCodec": "Opus",
-        "audioBitrate": 109262
-      }
-    }
+    ]
   },
   {
     "id": "hZIIEPqv0oE",

@@ -12,24 +12,7 @@
     "event": "hcpp24",
     "people": [
       "yisi-liu"
-    ],
-    "storage": {
-      "id": "WyR_Qrp36Eg",
-      "path": "/videos/all/WyR_Qrp36Eg",
-      "duration": "3265.301",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/WyR_Qrp36Eg/source.mp4",
-        "hash": "ca246af4b7147ff37fab8b11c5632c26ae2dd42c55dffef52e74c76006a283b9",
-        "size": 257473628,
-        "resolution": "1920x1080",
-        "bitrate": "630811",
-        "videoCodec": "avc1",
-        "videoBitrate": 507151,
-        "audioCodec": "Opus",
-        "audioBitrate": 118853
-      }
-    }
+    ]
   },
   {
     "id": "G9eNq5o_23Y",
@@ -44,24 +27,7 @@
     "event": "hcpp24",
     "people": [
       "travin-keith"
-    ],
-    "storage": {
-      "id": "G9eNq5o_23Y",
-      "path": "/videos/all/G9eNq5o_23Y",
-      "duration": "3207.681",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/G9eNq5o_23Y/source.mp4",
-        "hash": "1bc05cb3e49357a7d8c7e7688f453f1c9a7b0967c3b464dd1ed05fa1ecb7e6f2",
-        "size": 167645106,
-        "resolution": "1920x1080",
-        "bitrate": "418109",
-        "videoCodec": "avc1",
-        "videoBitrate": 286595,
-        "audioCodec": "Opus",
-        "audioBitrate": 126686
-      }
-    }
+    ]
   },
   {
     "id": "TFasLWSk-rI",
@@ -76,24 +42,7 @@
     "event": "hcpp24",
     "people": [
       "juraj-bednar"
-    ],
-    "storage": {
-      "id": "TFasLWSk-rI",
-      "path": "/videos/all/TFasLWSk-rI",
-      "duration": "3804.581",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/TFasLWSk-rI/source.mp4",
-        "hash": "bc599331fba181476305c53f2463c922bbf53c9f7a4bdf7da3d64edd8dff03b0",
-        "size": 425304228,
-        "resolution": "1920x1080",
-        "bitrate": "894299",
-        "videoCodec": "avc1",
-        "videoBitrate": 761057,
-        "audioCodec": "Opus",
-        "audioBitrate": 128441
-      }
-    }
+    ]
   },
   {
     "id": "QWaHpp70_FU",
@@ -108,24 +57,7 @@
     "event": "hcpp24",
     "people": [
       "Michal Kodnar"
-    ],
-    "storage": {
-      "id": "QWaHpp70_FU",
-      "path": "/videos/all/QWaHpp70_FU",
-      "duration": "3244.701",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/QWaHpp70_FU/source.mp4",
-        "hash": "93a7f7b4d24a451c05b381cc9a404b9faaae67d22905c5c0b1fa159b4988ddbc",
-        "size": 230752750,
-        "resolution": "1920x1080",
-        "bitrate": "568934",
-        "videoCodec": "vp09",
-        "videoBitrate": 436407,
-        "audioCodec": "Opus",
-        "audioBitrate": 128521
-      }
-    }
+    ]
   },
   {
     "id": "3NlJtWcQHP4",
@@ -140,24 +72,7 @@
     "event": "hcpp24",
     "people": [
       "Karo Zagorus"
-    ],
-    "storage": {
-      "id": "3NlJtWcQHP4",
-      "path": "/videos/all/3NlJtWcQHP4",
-      "duration": "2298.701",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/3NlJtWcQHP4/source.mp4",
-        "hash": "c5af08608b09cee29e8e4ed62a409eecb784d71529fab0177108c24f17d05635",
-        "size": 312883115,
-        "resolution": "1920x1080",
-        "bitrate": "1088904",
-        "videoCodec": "avc1",
-        "videoBitrate": 960187,
-        "audioCodec": "Opus",
-        "audioBitrate": 123757
-      }
-    }
+    ]
   },
   {
     "id": "6EH_J8rlG94",
@@ -172,24 +87,7 @@
     "event": "hcpp24",
     "people": [
       "Бого"
-    ],
-    "storage": {
-      "id": "6EH_J8rlG94",
-      "path": "/videos/all/6EH_J8rlG94",
-      "duration": "3097.061",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/6EH_J8rlG94/source.mp4",
-        "hash": "cda6ed8a54eb7bdc53b5344ae8d9d1e58ee7b9b69105b9e857480306cedc0a96",
-        "size": 298777093,
-        "resolution": "1920x1080",
-        "bitrate": "771769",
-        "videoCodec": "avc1",
-        "videoBitrate": 653686,
-        "audioCodec": "Opus",
-        "audioBitrate": 113062
-      }
-    }
+    ]
   },
   {
     "id": "zoJJ2bue76M",
@@ -204,24 +102,7 @@
     "event": "hcpp24",
     "people": [
       "wilder"
-    ],
-    "storage": {
-      "id": "zoJJ2bue76M",
-      "path": "/videos/all/zoJJ2bue76M",
-      "duration": "3893.441",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/zoJJ2bue76M/source.mp4",
-        "hash": "1536b4a0edb5735e6dfaf585cecacb148c9b64ec4acfaa548edb104925e48db4",
-        "size": 442828798,
-        "resolution": "1920x1080",
-        "bitrate": "909897",
-        "videoCodec": "avc1",
-        "videoBitrate": 779235,
-        "audioCodec": "Opus",
-        "audioBitrate": 125758
-      }
-    }
+    ]
   },
   {
     "id": "4rTCekMDVbc",
@@ -236,24 +117,7 @@
     "event": "hcpp24",
     "people": [
       "Neiman"
-    ],
-    "storage": {
-      "id": "4rTCekMDVbc",
-      "path": "/videos/all/4rTCekMDVbc",
-      "duration": "2491.421",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/4rTCekMDVbc/source.mp4",
-        "hash": "5d26bf66c6e217720bdc2233f50d730192056e4cf233913fef8dc962baf875c4",
-        "size": 246786924,
-        "resolution": "1920x1080",
-        "bitrate": "792437",
-        "videoCodec": "avc1",
-        "videoBitrate": 666858,
-        "audioCodec": "Opus",
-        "audioBitrate": 120765
-      }
-    }
+    ]
   },
   {
     "id": "qfTP27e481Y",
@@ -268,24 +132,7 @@
     "event": "hcpp24",
     "people": [
       "exiledsurfer"
-    ],
-    "storage": {
-      "id": "qfTP27e481Y",
-      "path": "/videos/all/qfTP27e481Y",
-      "duration": "1310.281",
-      "framerate": "50.000",
-      "source": {
-        "path": "/videos/all/qfTP27e481Y/source.mp4",
-        "hash": "020da07180133a58621e9c20e04e5157780df95f8eeb3382816dfdfd2678163d",
-        "size": 444843341,
-        "resolution": "1920x1080",
-        "bitrate": "2716018",
-        "videoCodec": "avc1",
-        "videoBitrate": 2589401,
-        "audioCodec": "Opus",
-        "audioBitrate": 118700
-      }
-    }
+    ]
   },
   {
     "id": "yFprpxPtywI",
@@ -300,24 +147,7 @@
     "event": "hcpp24",
     "people": [
       "amin-rafiee"
-    ],
-    "storage": {
-      "id": "yFprpxPtywI",
-      "path": "/videos/all/yFprpxPtywI",
-      "duration": "3516.121",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/yFprpxPtywI/source.mp4",
-        "hash": "d358fb42c9c39b68dda79eb35416e63f3c8cf4dd953f5da66dcc9a2ddc1560df",
-        "size": 446926017,
-        "resolution": "1920x1080",
-        "bitrate": "1016862",
-        "videoCodec": "avc1",
-        "videoBitrate": 899991,
-        "audioCodec": "Opus",
-        "audioBitrate": 112011
-      }
-    }
+    ]
   },
   {
     "id": "XwE1jYUevx4",
@@ -332,24 +162,7 @@
     "event": "hcpp24",
     "people": [
       "habo"
-    ],
-    "storage": {
-      "id": "XwE1jYUevx4",
-      "path": "/videos/all/XwE1jYUevx4",
-      "duration": "1028.461",
-      "framerate": "50.000",
-      "source": {
-        "path": "/videos/all/XwE1jYUevx4/source.mp4",
-        "hash": "ff24c2d779f20eb9f256fd6d3b98bb011bc5aba2b858180edac08971fd5e0a9e",
-        "size": 71852763,
-        "resolution": "1920x1080",
-        "bitrate": "558915",
-        "videoCodec": "avc1",
-        "videoBitrate": 429823,
-        "audioCodec": "Opus",
-        "audioBitrate": 121111
-      }
-    }
+    ]
   },
   {
     "id": "oFRvY5NcULg",
@@ -364,24 +177,7 @@
     "event": "hcpp24",
     "people": [
       "florian-glatz"
-    ],
-    "storage": {
-      "id": "oFRvY5NcULg",
-      "path": "/videos/all/oFRvY5NcULg",
-      "duration": "1236.181",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/oFRvY5NcULg/source.mp4",
-        "hash": "169db9052d4de9a90861ab1089cffd4fc357c7019c50d824d2f8a80b54dc1316",
-        "size": 298075181,
-        "resolution": "1920x1080",
-        "bitrate": "1929007",
-        "videoCodec": "avc1",
-        "videoBitrate": 1805228,
-        "audioCodec": "Opus",
-        "audioBitrate": 118975
-      }
-    }
+    ]
   },
   {
     "id": "CbXlr0M6sCk",
@@ -396,24 +192,7 @@
     "event": "hcpp24",
     "people": [
       "mitch-altman"
-    ],
-    "storage": {
-      "id": "CbXlr0M6sCk",
-      "path": "/videos/all/CbXlr0M6sCk",
-      "duration": "3501.861",
-      "framerate": "50.000",
-      "source": {
-        "path": "/videos/all/CbXlr0M6sCk/source.mp4",
-        "hash": "1234d0e45b1585bab5c59ca5ad501e54b43a8d9c94e650a17b62817afa3e5680",
-        "size": 1155846926,
-        "resolution": "1920x1080",
-        "bitrate": "2640532",
-        "videoCodec": "avc1",
-        "videoBitrate": 2518506,
-        "audioCodec": "Opus",
-        "audioBitrate": 113191
-      }
-    }
+    ]
   },
   {
     "id": "QXInVwICggg",
@@ -430,24 +209,7 @@
       "amir-taaki",
       "jaromil",
       "Vecna"
-    ],
-    "storage": {
-      "id": "QXInVwICggg",
-      "path": "/videos/all/QXInVwICggg",
-      "duration": "4956.121",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/QXInVwICggg/source.mp4",
-        "hash": "2ef74a6c91efb43534c2790f6fffe8164256fa76571ae692ca77408e4723fc09",
-        "size": 1534741263,
-        "resolution": "1920x1080",
-        "bitrate": "2477327",
-        "videoCodec": "avc1",
-        "videoBitrate": 2358096,
-        "audioCodec": "Opus",
-        "audioBitrate": 114435
-      }
-    }
+    ]
   },
   {
     "id": "HmOw73tYzKI",
@@ -462,24 +224,7 @@
     "event": "hcpp24",
     "people": [
       "Oskar Thoren"
-    ],
-    "storage": {
-      "id": "HmOw73tYzKI",
-      "path": "/videos/all/HmOw73tYzKI",
-      "duration": "2602.021",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/HmOw73tYzKI/source.mp4",
-        "hash": "81bc0f3cea3a1967f52b4ff980fec091ebc9666cce8d1b27df58b60aeadf5b70",
-        "size": 277972676,
-        "resolution": "1920x1080",
-        "bitrate": "854636",
-        "videoCodec": "vp09",
-        "videoBitrate": 731333,
-        "audioCodec": "Opus",
-        "audioBitrate": 119299
-      }
-    }
+    ]
   },
   {
     "id": "_I_vLL-mA5o",
@@ -494,24 +239,7 @@
     "event": "hcpp24",
     "people": [
       "paul-rosenberg"
-    ],
-    "storage": {
-      "id": "_I_vLL-mA5o",
-      "path": "/videos/all/_I_vLL-mA5o",
-      "duration": "3538.841",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/_I_vLL-mA5o/source.mp4",
-        "hash": "99743e2746cabbccc217f862fe2bab8cd7df01a248387e1e90250046c6cb3f15",
-        "size": 230210795,
-        "resolution": "1920x1080",
-        "bitrate": "520421",
-        "videoCodec": "vp09",
-        "videoBitrate": 409291,
-        "audioCodec": "Opus",
-        "audioBitrate": 107125
-      }
-    }
+    ]
   },
   {
     "id": "PhO7TflQjpg",
@@ -526,24 +254,7 @@
     "event": "hcpp24",
     "people": [
       "matthias-tarasiewicz"
-    ],
-    "storage": {
-      "id": "PhO7TflQjpg",
-      "path": "/videos/all/PhO7TflQjpg",
-      "duration": "3644.541",
-      "framerate": "50.000",
-      "source": {
-        "path": "/videos/all/PhO7TflQjpg/source.mp4",
-        "hash": "ee561f47982e538e49fd5d8973d0e68545c1c6d5a5b78cdc66f69807904f6356",
-        "size": 411126961,
-        "resolution": "1920x1080",
-        "bitrate": "902450",
-        "videoCodec": "avc1",
-        "videoBitrate": 798646,
-        "audioCodec": "Opus",
-        "audioBitrate": 96099
-      }
-    }
+    ]
   },
   {
     "id": "6TD6mbSHles",
@@ -558,24 +269,7 @@
     "event": "hcpp24",
     "people": [
       "silke-noa"
-    ],
-    "storage": {
-      "id": "6TD6mbSHles",
-      "path": "/videos/all/6TD6mbSHles",
-      "duration": "3801.141",
-      "framerate": "50.000",
-      "source": {
-        "path": "/videos/all/6TD6mbSHles/source.mp4",
-        "hash": "acc815ed26e45209b7f47069051551421879b79106e50be999ef02638ba78902",
-        "size": 400012531,
-        "resolution": "1920x1080",
-        "bitrate": "841879",
-        "videoCodec": "avc1",
-        "videoBitrate": 727871,
-        "audioCodec": "Opus",
-        "audioBitrate": 105975
-      }
-    }
+    ]
   },
   {
     "id": "ouq68bBp_dI",
@@ -590,24 +284,7 @@
     "event": "hcpp24",
     "people": [
       "amir-taaki"
-    ],
-    "storage": {
-      "id": "ouq68bBp_dI",
-      "path": "/videos/all/ouq68bBp_dI",
-      "duration": "4636.821",
-      "framerate": "50.000",
-      "source": {
-        "path": "/videos/all/ouq68bBp_dI/source.mp4",
-        "hash": "49c08c428970ec7471591ba80bde9a925f027d2f64c5b09906a4d900a34f300e",
-        "size": 939473312,
-        "resolution": "1920x1080",
-        "bitrate": "1620892",
-        "videoCodec": "vp09",
-        "videoBitrate": 1505521,
-        "audioCodec": "Opus",
-        "audioBitrate": 108975
-      }
-    }
+    ]
   },
   {
     "id": "NksJf8s0Vvg",
@@ -622,24 +299,7 @@
     "event": "hcpp24",
     "people": [
       "Jeff Strnad"
-    ],
-    "storage": {
-      "id": "NksJf8s0Vvg",
-      "path": "/videos/all/NksJf8s0Vvg",
-      "duration": "3347.701",
-      "framerate": "50.000",
-      "source": {
-        "path": "/videos/all/NksJf8s0Vvg/source.mp4",
-        "hash": "076ce1c084efb053f42b79cd2a232dbafad033e6f4a61b2c11097861b5aa8fc0",
-        "size": 260216661,
-        "resolution": "1920x1080",
-        "bitrate": "621840",
-        "videoCodec": "avc1",
-        "videoBitrate": 515349,
-        "audioCodec": "Opus",
-        "audioBitrate": 98504
-      }
-    }
+    ]
   },
   {
     "id": "27LALVmNhEY",
@@ -654,24 +314,7 @@
     "event": "hcpp24",
     "people": [
       "Rachel-Rose O'Leary|rachel-rose"
-    ],
-    "storage": {
-      "id": "27LALVmNhEY",
-      "path": "/videos/all/27LALVmNhEY",
-      "duration": "3850.581",
-      "framerate": "50.000",
-      "source": {
-        "path": "/videos/all/27LALVmNhEY/source.mp4",
-        "hash": "53ed4ce168e334f9caf9d2a169593fcf066bce6c342a4a1b295c6f87c05febc1",
-        "size": 492908516,
-        "resolution": "1920x1080",
-        "bitrate": "1024071",
-        "videoCodec": "avc1",
-        "videoBitrate": 903243,
-        "audioCodec": "Opus",
-        "audioBitrate": 112706
-      }
-    }
+    ]
   },
   {
     "id": "UXznirqcBd4",
@@ -686,24 +329,7 @@
     "event": "hcpp24",
     "people": [
       "jarrad-hope"
-    ],
-    "storage": {
-      "id": "UXznirqcBd4",
-      "path": "/videos/all/UXznirqcBd4",
-      "duration": "3637.141",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/UXznirqcBd4/source.mp4",
-        "hash": "6d6a59d363cc7329bf95684fd225e4675aa2893a3aa4f2d99600456efa6e0f75",
-        "size": 476084139,
-        "resolution": "1920x1080",
-        "bitrate": "1047161",
-        "videoCodec": "avc1",
-        "videoBitrate": 922818,
-        "audioCodec": "Opus",
-        "audioBitrate": 119530
-      }
-    }
+    ]
   },
   {
     "id": "m5LDhMiAZgQ",
@@ -718,24 +344,7 @@
     "event": "hcpp24",
     "people": [
       "ryan-lackey"
-    ],
-    "storage": {
-      "id": "m5LDhMiAZgQ",
-      "path": "/videos/all/m5LDhMiAZgQ",
-      "duration": "3395.621",
-      "framerate": "50.000",
-      "source": {
-        "path": "/videos/all/m5LDhMiAZgQ/source.mp4",
-        "hash": "6a93fde7cab70cf2d4dd6c7b7996a0638d59d04afed2ac2e7f4f13be48f980ce",
-        "size": 258256592,
-        "resolution": "1920x1080",
-        "bitrate": "608446",
-        "videoCodec": "avc1",
-        "videoBitrate": 477367,
-        "audioCodec": "Opus",
-        "audioBitrate": 122930
-      }
-    }
+    ]
   },
   {
     "id": "aTUKPsRxIPM",
@@ -750,24 +359,7 @@
     "event": "hcpp24",
     "people": [
       "jaromil"
-    ],
-    "storage": {
-      "id": "aTUKPsRxIPM",
-      "path": "/videos/all/aTUKPsRxIPM",
-      "duration": "3458.841",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/aTUKPsRxIPM/source.mp4",
-        "hash": "866b8ed7657f1df74c725a344fc68534706ba853af2df082694bdd19463d6e36",
-        "size": 484682532,
-        "resolution": "1920x1080",
-        "bitrate": "1121029",
-        "videoCodec": "avc1",
-        "videoBitrate": 997875,
-        "audioCodec": "Opus",
-        "audioBitrate": 118278
-      }
-    }
+    ]
   },
   {
     "id": "rEfTyv-7xNo",
@@ -785,23 +377,6 @@
       "Max Hillebrand|max-hillebrand",
       "Max Hampshire|max-hampshire",
       "Liam Eagen|liam-eagen"
-    ],
-    "storage": {
-      "id": "rEfTyv-7xNo",
-      "path": "/videos/all/rEfTyv-7xNo",
-      "duration": "3201.301",
-      "framerate": "50.000",
-      "source": {
-        "path": "/videos/all/rEfTyv-7xNo/source.mp4",
-        "hash": "adcd4a2b15904e98ea2763102fcb93fc7809e85959a44a6e8dd3e52b51fe5902",
-        "size": 1132680681,
-        "resolution": "1920x1080",
-        "bitrate": "2830551",
-        "videoCodec": "avc1",
-        "videoBitrate": 2703427,
-        "audioCodec": "Opus",
-        "audioBitrate": 119202
-      }
-    }
+    ]
   }
 ]

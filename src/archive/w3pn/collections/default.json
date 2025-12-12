@@ -51,24 +51,7 @@
       "Andrea Togni|andrea-togni"
     ],
     "target": "w3pn",
-    "imgHash": "9a8636083adf93c1780b8f60362516b75672c8823c049504fb480fc79e5ac236",
-    "storage": {
-      "id": "lxLjZe2GeIA",
-      "path": "/videos/all/lxLjZe2GeIA",
-      "duration": "2336.781",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/lxLjZe2GeIA/source.mp4",
-        "hash": "6304b4c9b6e0a2d481fac0f583f05924525c896f682b00a9a67d6870e09d8e76",
-        "size": 484766508,
-        "resolution": "1920x1080",
-        "bitrate": "1659604",
-        "videoCodec": "avc1",
-        "videoBitrate": 1555317,
-        "audioCodec": "Opus",
-        "audioBitrate": 99421
-      }
-    }
+    "imgHash": "9a8636083adf93c1780b8f60362516b75672c8823c049504fb480fc79e5ac236"
   },
   {
     "id": "Xb-PDjGLy7k",
@@ -119,24 +102,7 @@
       "Vaclav Pavlin|vaclav-pavlin"
     ],
     "target": "w3pn",
-    "imgHash": "e2c567e41a04f0580e3750077c62418b0ef7bd650a76c33e8c60aca412a9c6de",
-    "storage": {
-      "id": "OLFDe1O2r-A",
-      "path": "/videos/all/OLFDe1O2r-A",
-      "duration": "1163.181",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/OLFDe1O2r-A/source.mp4",
-        "hash": "527f53399a43bcc59260139bf339a361041b8a10196f25d054f795e3fa2d402e",
-        "size": 65524563,
-        "resolution": "1920x1080",
-        "bitrate": "450658",
-        "videoCodec": "avc1",
-        "videoBitrate": 335038,
-        "audioCodec": "Opus",
-        "audioBitrate": 110681
-      }
-    }
+    "imgHash": "e2c567e41a04f0580e3750077c62418b0ef7bd650a76c33e8c60aca412a9c6de"
   },
   {
     "id": "3h1HOg7Tnws",
@@ -222,24 +188,7 @@
       "Roman Prokhorenko"
     ],
     "target": "w3pn",
-    "imgHash": "cdefe28cfe31189f41aca80763bdf43759aacad698e7e130f31747652f733ee5",
-    "storage": {
-      "id": "a5p_pt4HsIY",
-      "path": "/videos/all/a5p_pt4HsIY",
-      "duration": "446.081",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/a5p_pt4HsIY/source.mp4",
-        "hash": "70abe5253d84d5453eac10663d593df0eb0b2eb69367115e9628633b52b7a968",
-        "size": 46067507,
-        "resolution": "1920x1080",
-        "bitrate": "826173",
-        "videoCodec": "avc1",
-        "videoBitrate": 716651,
-        "audioCodec": "Opus",
-        "audioBitrate": 104729
-      }
-    }
+    "imgHash": "cdefe28cfe31189f41aca80763bdf43759aacad698e7e130f31747652f733ee5"
   },
   {
     "id": "g66OspDLnl4",
@@ -426,24 +375,7 @@
       "Seth For Privacy|sethforprivacy"
     ],
     "target": "w3pn",
-    "imgHash": "cc031c11377d43991a397c56129af485fb8e2af8d8cbd2bbc339f4d8119465ff",
-    "storage": {
-      "id": "gnOcZV3e1yI",
-      "path": "/videos/all/gnOcZV3e1yI",
-      "duration": "187.021",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/gnOcZV3e1yI/source.mp4",
-        "hash": "585fc89fe2d630c1cbf7725c5c73003eba740a5a3f73703176b833d2635d52d8",
-        "size": 30489734,
-        "resolution": "1920x1080",
-        "bitrate": "1304227",
-        "videoCodec": "avc1",
-        "videoBitrate": 1187506,
-        "audioCodec": "Opus",
-        "audioBitrate": 108688
-      }
-    }
+    "imgHash": "cc031c11377d43991a397c56129af485fb8e2af8d8cbd2bbc339f4d8119465ff"
   },
   {
     "id": "4rh3T4DTWUs",
@@ -664,24 +596,7 @@
       "Ben West"
     ],
     "target": "w3pn",
-    "imgHash": "6baa30bded159ed6a413d196807fb481c4d69b24ad280e82a0f683b42010418b",
-    "storage": {
-      "id": "g5lIpem25xM",
-      "path": "/videos/all/g5lIpem25xM",
-      "duration": "270.781",
-      "framerate": "24.000",
-      "source": {
-        "path": "/videos/all/g5lIpem25xM/source.mp4",
-        "hash": "9c2d6ddc4370938963e05c8c70d265e177bbc886f602c9cfa4b0074b103f84ce",
-        "size": 39715831,
-        "resolution": "1920x1080",
-        "bitrate": "1173371",
-        "videoCodec": "avc1",
-        "videoBitrate": 1068011,
-        "audioCodec": "Opus",
-        "audioBitrate": 100261
-      }
-    }
+    "imgHash": "6baa30bded159ed6a413d196807fb481c4d69b24ad280e82a0f683b42010418b"
   },
   {
     "id": "_K7MPaAHQg0",

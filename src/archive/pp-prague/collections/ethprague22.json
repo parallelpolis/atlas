@@ -451,24 +451,7 @@
       "Daniel Vaczi"
     ],
     "target": "pp-prague",
-    "imgHash": "fecc4f7578dabbe31204b1a3fba04a91488e0e1ed64605ab905f13a173fa764b",
-    "storage": {
-      "id": "DUCN867FYws",
-      "path": "/videos/all/DUCN867FYws",
-      "duration": "1468.541",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/DUCN867FYws/source.mp4",
-        "hash": "543fd28aae50da0b94fa2cf97faed066f0d9fc5263f0e96203d4f0ca6151d42f",
-        "size": 191381122,
-        "resolution": "1920x1080",
-        "bitrate": "1042565",
-        "videoCodec": "avc1",
-        "videoBitrate": 921308,
-        "audioCodec": "Opus",
-        "audioBitrate": 116352
-      }
-    }
+    "imgHash": "fecc4f7578dabbe31204b1a3fba04a91488e0e1ed64605ab905f13a173fa764b"
   },
   {
     "id": "SU69JpUCpdE",
@@ -1265,24 +1248,7 @@
     "project": "ethprague",
     "event": "ethprague22",
     "target": "pp-prague",
-    "imgHash": "ebabd3e51149d324063facfb4d74b0865208cdf96554a241b53da85b3be98359",
-    "storage": {
-      "id": "Lq8-0xu4lBo",
-      "path": "/videos/all/Lq8-0xu4lBo",
-      "duration": "691.981",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/Lq8-0xu4lBo/source.mp4",
-        "hash": "944d95d3740ad9a54bd59be73c198e9c14ad7bad22bd24311b7c7f81e1819b8e",
-        "size": 195062280,
-        "resolution": "1920x1080",
-        "bitrate": "2255117",
-        "videoCodec": "avc1",
-        "videoBitrate": 2116436,
-        "audioCodec": "Opus",
-        "audioBitrate": 133883
-      }
-    }
+    "imgHash": "ebabd3e51149d324063facfb4d74b0865208cdf96554a241b53da85b3be98359"
   },
   {
     "id": "T2h_0UE3lDU",
@@ -1369,24 +1335,7 @@
       "Camila Ramos Garzon|camila-ramos-garzon"
     ],
     "target": "pp-prague",
-    "imgHash": "1acb789181be49706351d1344927ce3fc781f4d0e8568f58bad753e01ce86239",
-    "storage": {
-      "id": "Enrpgl1oHpo",
-      "path": "/videos/all/Enrpgl1oHpo",
-      "duration": "1068.141",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/Enrpgl1oHpo/source.mp4",
-        "hash": "e597764a061e026eca55528346c3bc552ede453a7e634900ca0376362a2be2ad",
-        "size": 97595349,
-        "resolution": "1920x1080",
-        "bitrate": "730955",
-        "videoCodec": "avc1",
-        "videoBitrate": 611472,
-        "audioCodec": "Opus",
-        "audioBitrate": 114587
-      }
-    }
+    "imgHash": "1acb789181be49706351d1344927ce3fc781f4d0e8568f58bad753e01ce86239"
   },
   {
     "id": "XEGjJ2iWlSE",

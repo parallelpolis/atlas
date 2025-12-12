@@ -867,24 +867,7 @@
       "Rachel-Rose O'Leary|rachel-rose"
     ],
     "target": "pp-prague",
-    "imgHash": "43453523fa3be7093d5348004db81e86cbd18948a66ac5c4e5f992859260389e",
-    "storage": {
-      "id": "Ag5ZduZzSn0",
-      "path": "/videos/all/Ag5ZduZzSn0",
-      "duration": "1586.021",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/Ag5ZduZzSn0/source.mp4",
-        "hash": "005729c7d19158582ea468c4bb098e0dc3765a291b0cb23be5eb71c3d04465df",
-        "size": 106683142,
-        "resolution": "1920x1080",
-        "bitrate": "538117",
-        "videoCodec": "avc1",
-        "videoBitrate": 409422,
-        "audioCodec": "Opus",
-        "audioBitrate": 123870
-      }
-    }
+    "imgHash": "43453523fa3be7093d5348004db81e86cbd18948a66ac5c4e5f992859260389e"
   },
   {
     "id": "nmGyrDpAn-k",
@@ -1069,24 +1052,7 @@
       "Dominik Schmid"
     ],
     "target": "pp-prague",
-    "imgHash": "a7188f63aeead5327bccb9c61a33d06c6a7d9a60887e6a6c027a837a9e99f833",
-    "storage": {
-      "id": "OinSCw9Y24c",
-      "path": "/videos/all/OinSCw9Y24c",
-      "duration": "697.381",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/OinSCw9Y24c/source.mp4",
-        "hash": "f51ed19a97aae55428c3f6a7f8f60d28f8aad1acdb0310eb36869a46fd6ccf8d",
-        "size": 43113542,
-        "resolution": "1920x1080",
-        "bitrate": "494577",
-        "videoCodec": "avc1",
-        "videoBitrate": 375291,
-        "audioCodec": "Opus",
-        "audioBitrate": 114457
-      }
-    }
+    "imgHash": "a7188f63aeead5327bccb9c61a33d06c6a7d9a60887e6a6c027a837a9e99f833"
   },
   {
     "id": "svGPYpksYQ4",
@@ -1718,24 +1684,7 @@
       "Karl Floersch"
     ],
     "target": "pp-prague",
-    "imgHash": "e1ec0dc45f7526dcb6aa621953cc44c786918d8e2af03ba2f20b77b63e69fc3e",
-    "storage": {
-      "id": "NDgy7ewSoAQ",
-      "path": "/videos/all/NDgy7ewSoAQ",
-      "duration": "916.541",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/NDgy7ewSoAQ/source.mp4",
-        "hash": "2f1ef899ca50156c5e299b1b27e2849c5610a8898df122b9335bceee493d45f4",
-        "size": 89460488,
-        "resolution": "1920x1080",
-        "bitrate": "780853",
-        "videoCodec": "avc1",
-        "videoBitrate": 660186,
-        "audioCodec": "Opus",
-        "audioBitrate": 115713
-      }
-    }
+    "imgHash": "e1ec0dc45f7526dcb6aa621953cc44c786918d8e2af03ba2f20b77b63e69fc3e"
   },
   {
     "id": "uH7TiI8XQ68",
@@ -2024,24 +1973,7 @@
       "Tom Teman"
     ],
     "target": "pp-prague",
-    "imgHash": "e8b4e775ea21e15c55edc3007a1ac8245069000ebbd5ebf969496c3e5a077de4",
-    "storage": {
-      "id": "6rYq0I6VDc0",
-      "path": "/videos/all/6rYq0I6VDc0",
-      "duration": "1100.341",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/6rYq0I6VDc0/source.mp4",
-        "hash": "56a63ba6838598b1b89dcfe92d6865d58eaa78a0ac0732357980b93d502bcac3",
-        "size": 105832678,
-        "resolution": "1920x1080",
-        "bitrate": "769454",
-        "videoCodec": "avc1",
-        "videoBitrate": 640233,
-        "audioCodec": "Opus",
-        "audioBitrate": 124402
-      }
-    }
+    "imgHash": "e8b4e775ea21e15c55edc3007a1ac8245069000ebbd5ebf969496c3e5a077de4"
   },
   {
     "id": "Al7Jns8bCO4",
@@ -2362,24 +2294,7 @@
       "Katherine Radeka"
     ],
     "target": "pp-prague",
-    "imgHash": "81303097652ab1bf7765036c34d024ac2f8eb11e3a4ad6bb710ace1b3d69f87f",
-    "storage": {
-      "id": "v3zSCNg3vWE",
-      "path": "/videos/all/v3zSCNg3vWE",
-      "duration": "1332.901",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/v3zSCNg3vWE/source.mp4",
-        "hash": "b2c8f24734c6caf28b9c6c0ab3660462c10be28d4a6af32d679bb50c9a46a7bc",
-        "size": 113957010,
-        "resolution": "1920x1080",
-        "bitrate": "683964",
-        "videoCodec": "avc1",
-        "videoBitrate": 569692,
-        "audioCodec": "Opus",
-        "audioBitrate": 109451
-      }
-    }
+    "imgHash": "81303097652ab1bf7765036c34d024ac2f8eb11e3a4ad6bb710ace1b3d69f87f"
   },
   {
     "id": "vlAYDKzP4vY",
@@ -2567,24 +2482,7 @@
       "Dustin Jacobus"
     ],
     "target": "pp-prague",
-    "imgHash": "e8759bfbded6bfd909321ad15187ceb4b1ed3e9ca11621605d68f317a4787758",
-    "storage": {
-      "id": "BArIRnINK3c",
-      "path": "/videos/all/BArIRnINK3c",
-      "duration": "5312.501",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/BArIRnINK3c/source.mp4",
-        "hash": "cf429f8cb04a3c174ee12df9730b87ef7729f39ba3032e4e90d6d764f00d0b57",
-        "size": 523887819,
-        "resolution": "1920x1080",
-        "bitrate": "788913",
-        "videoCodec": "avc1",
-        "videoBitrate": 683992,
-        "audioCodec": "Opus",
-        "audioBitrate": 100089
-      }
-    }
+    "imgHash": "e8759bfbded6bfd909321ad15187ceb4b1ed3e9ca11621605d68f317a4787758"
   },
   {
     "id": "onFWdsvqKWs",
@@ -2805,24 +2703,7 @@
       "Danny Holland|danny-holland"
     ],
     "target": "pp-prague",
-    "imgHash": "c0a9e4f273b9ff86e68625a4ab2ff8dc57aa793cb4124e8ddc702199d6ff1729",
-    "storage": {
-      "id": "hN6jh0jNhbs",
-      "path": "/videos/all/hN6jh0jNhbs",
-      "duration": "1096.621",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/hN6jh0jNhbs/source.mp4",
-        "hash": "edc58af25e8cea44cba1d0b50903bee17f045e0bc748a6b813980b9af9cb25f2",
-        "size": 94236028,
-        "resolution": "1920x1080",
-        "bitrate": "687465",
-        "videoCodec": "avc1",
-        "videoBitrate": 557553,
-        "audioCodec": "Opus",
-        "audioBitrate": 124883
-      }
-    }
+    "imgHash": "c0a9e4f273b9ff86e68625a4ab2ff8dc57aa793cb4124e8ddc702199d6ff1729"
   },
   {
     "id": "_JJ9Z5JD5oc",
@@ -3283,23 +3164,6 @@
       "Ming Guo"
     ],
     "target": "pp-prague",
-    "imgHash": "9e060e5887b227378a155cb9e8caabea48e62a42a817d8fca2b8c578d000446a",
-    "storage": {
-      "id": "V7Ev1BS6NxA",
-      "path": "/videos/all/V7Ev1BS6NxA",
-      "duration": "1170.621",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/V7Ev1BS6NxA/source.mp4",
-        "hash": "97fa6dccc1e8b4c7fc5132d91b345ec08e5d54a124c5c9b31c7d6b75fe0b115a",
-        "size": 92741324,
-        "resolution": "1920x1080",
-        "bitrate": "633792",
-        "videoCodec": "avc1",
-        "videoBitrate": 522383,
-        "audioCodec": "Opus",
-        "audioBitrate": 106611
-      }
-    }
+    "imgHash": "9e060e5887b227378a155cb9e8caabea48e62a42a817d8fca2b8c578d000446a"
   }
 ]

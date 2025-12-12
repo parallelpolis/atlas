@@ -13,24 +13,7 @@
       "Afri Schoedon|afri"
     ],
     "project": "ethberlin",
-    "event": "ethberlin4",
-    "storage": {
-      "id": "QRDZkJaf84I",
-      "path": "/videos/all/QRDZkJaf84I",
-      "duration": "2430.861",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/QRDZkJaf84I/source.mp4",
-        "hash": "b044e260c5327064adf45b5ce9fd05903b81aac9bff675aee22239d45f1b84bb",
-        "size": 473699729,
-        "resolution": "1920x1080",
-        "bitrate": "1558953",
-        "videoCodec": "avc1",
-        "videoBitrate": 1437853,
-        "audioCodec": "Opus",
-        "audioBitrate": 116233
-      }
-    }
+    "event": "ethberlin4"
   },
   {
     "id": "MXv6E33PX_c",
@@ -45,24 +28,7 @@
     "event": "ethberlin4",
     "people": [
       "Fatemeh Fannizadeh|fatemeh-fannizadeh"
-    ],
-    "storage": {
-      "id": "MXv6E33PX_c",
-      "path": "/videos/all/MXv6E33PX_c",
-      "duration": "977.421",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/MXv6E33PX_c/source.mp4",
-        "hash": "ec9febdce7ff088f740e5c14d078d644325924467222c9e96ec26b708c19530d",
-        "size": 169292780,
-        "resolution": "1920x1080",
-        "bitrate": "1385628",
-        "videoCodec": "avc1",
-        "videoBitrate": 1261451,
-        "audioCodec": "Opus",
-        "audioBitrate": 119329
-      }
-    }
+    ]
   },
   {
     "id": "4msK0Oglazg",
@@ -77,24 +43,7 @@
     "event": "ethberlin4",
     "people": [
       "dr-nick"
-    ],
-    "storage": {
-      "id": "4msK0Oglazg",
-      "path": "/videos/all/4msK0Oglazg",
-      "duration": "2193.281",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/4msK0Oglazg/source.mp4",
-        "hash": "65c52106093d567feaa7c76cdffacec2aaa32ba5fe9e61aa2b3f1acd8c4cc7c7",
-        "size": 350253588,
-        "resolution": "1920x1080",
-        "bitrate": "1277551",
-        "videoCodec": "avc1",
-        "videoBitrate": 1157541,
-        "audioCodec": "Opus",
-        "audioBitrate": 115175
-      }
-    }
+    ]
   },
   {
     "id": "Mkja_if2TBw",
@@ -109,24 +58,7 @@
     "event": "ethberlin4",
     "people": [
       "Peter van Valkenburg|peter-van-valkenburgh"
-    ],
-    "storage": {
-      "id": "Mkja_if2TBw",
-      "path": "/videos/all/Mkja_if2TBw",
-      "duration": "2123.861",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/Mkja_if2TBw/source.mp4",
-        "hash": "6db20fac64514967ade7e9be8f48961ec40608ea2531194293e4070630f2728f",
-        "size": 316696317,
-        "resolution": "1920x1080",
-        "bitrate": "1192908",
-        "videoCodec": "avc1",
-        "videoBitrate": 1062416,
-        "audioCodec": "Opus",
-        "audioBitrate": 125646
-      }
-    }
+    ]
   },
   {
     "id": "OCu9rzW6kBI",
@@ -141,24 +73,7 @@
     "event": "ethberlin4",
     "people": [
       "Christopher Goes|christopher-goes"
-    ],
-    "storage": {
-      "id": "OCu9rzW6kBI",
-      "path": "/videos/all/OCu9rzW6kBI",
-      "duration": "1578.261",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/OCu9rzW6kBI/source.mp4",
-        "hash": "dc7b3e759db5bae2546db3d899745d93e2d49422aae0c8ba861004e37ab46fff",
-        "size": 226423860,
-        "resolution": "1920x1080",
-        "bitrate": "1147713",
-        "videoCodec": "avc1",
-        "videoBitrate": 1015601,
-        "audioCodec": "Opus",
-        "audioBitrate": 127259
-      }
-    }
+    ]
   },
   {
     "id": "ZWlIHHYIafo",
@@ -173,24 +88,7 @@
     "event": "ethberlin4",
     "people": [
       "Matthew Hodgson|matthew-hodgson"
-    ],
-    "storage": {
-      "id": "ZWlIHHYIafo",
-      "path": "/videos/all/ZWlIHHYIafo",
-      "duration": "1776.281",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/ZWlIHHYIafo/source.mp4",
-        "hash": "016ee952c3e07df198b3423efea0e89515ea9def90227a27e5383a84139f043e",
-        "size": 240945233,
-        "resolution": "1920x1080",
-        "bitrate": "1085167",
-        "videoCodec": "avc1",
-        "videoBitrate": 942176,
-        "audioCodec": "Opus",
-        "audioBitrate": 138158
-      }
-    }
+    ]
   },
   {
     "id": "Q64oAI9HxH8",
@@ -205,24 +103,7 @@
     "event": "ethberlin4",
     "people": [
       "Edmund Edgar"
-    ],
-    "storage": {
-      "id": "Q64oAI9HxH8",
-      "path": "/videos/all/Q64oAI9HxH8",
-      "duration": "1924.901",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/Q64oAI9HxH8/source.mp4",
-        "hash": "e9dcb71b37751790eb9f202f9645b5d8dcfd46dd4544e527d7755b1dbbdea87b",
-        "size": 318019500,
-        "resolution": "1920x1080",
-        "bitrate": "1321707",
-        "videoCodec": "avc1",
-        "videoBitrate": 1192015,
-        "audioCodec": "Opus",
-        "audioBitrate": 124835
-      }
-    }
+    ]
   },
   {
     "id": "-mwUQp2qwjk",
@@ -238,24 +119,7 @@
     "people": [
       "Puja Ohlhaver",
       "Mikhail Nikulin"
-    ],
-    "storage": {
-      "id": "-mwUQp2qwjk",
-      "path": "/videos/all/-mwUQp2qwjk",
-      "duration": "1622.041",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/-mwUQp2qwjk/source.mp4",
-        "hash": "65769c82d68ed35b4e22825851684112514c1d180da9416e807f92b87bac83eb",
-        "size": 301723856,
-        "resolution": "1920x1080",
-        "bitrate": "1488120",
-        "videoCodec": "avc1",
-        "videoBitrate": 1376177,
-        "audioCodec": "Opus",
-        "audioBitrate": 107150
-      }
-    }
+    ]
   },
   {
     "id": "C4c58BckCY8",
@@ -270,24 +134,7 @@
     "event": "ethberlin4",
     "people": [
       "ameen-soleimani"
-    ],
-    "storage": {
-      "id": "C4c58BckCY8",
-      "path": "/videos/all/C4c58BckCY8",
-      "duration": "1834.701",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/C4c58BckCY8/source.mp4",
-        "hash": "147dfd9dd6234c9da594b3661f4a06a686109f3dd1dc9e65e63d52a803d12c48",
-        "size": 345539658,
-        "resolution": "1920x1080",
-        "bitrate": "1506685",
-        "videoCodec": "avc1",
-        "videoBitrate": 1381114,
-        "audioCodec": "Opus",
-        "audioBitrate": 120768
-      }
-    }
+    ]
   },
   {
     "id": "S2Ybi2rVoIs",
@@ -304,24 +151,7 @@
       "vitalik-buterin",
       "Franziska Heintel|franzi",
       "Afri Schoedon|afri"
-    ],
-    "storage": {
-      "id": "S2Ybi2rVoIs",
-      "path": "/videos/all/S2Ybi2rVoIs",
-      "duration": "2230.501",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/S2Ybi2rVoIs/source.mp4",
-        "hash": "6d5088546c1f712ddbb0ead9b9b65d60b68e865d98590991f814c27b0692a80a",
-        "size": 516299035,
-        "resolution": "1920x1080",
-        "bitrate": "1851778",
-        "videoCodec": "avc1",
-        "videoBitrate": 1737742,
-        "audioCodec": "Opus",
-        "audioBitrate": 109203
-      }
-    }
+    ]
   },
   {
     "id": "7ZQ2OGASiq8",
@@ -337,23 +167,6 @@
       "Afri Schoedon|afri"
     ],
     "project": "ethberlin",
-    "event": "ethberlin4",
-    "storage": {
-      "id": "7ZQ2OGASiq8",
-      "path": "/videos/all/7ZQ2OGASiq8",
-      "duration": "4920.281",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/7ZQ2OGASiq8/source.mp4",
-        "hash": "f8790ce98d672cee5cfbad48f134a977c9097227b58db39a124f9b5a180a86fc",
-        "size": 1248536073,
-        "resolution": "1920x1080",
-        "bitrate": "2030024",
-        "videoCodec": "avc1",
-        "videoBitrate": 1908195,
-        "audioCodec": "Opus",
-        "audioBitrate": 116974
-      }
-    }
+    "event": "ethberlin4"
   }
 ]

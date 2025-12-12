@@ -12,24 +12,7 @@
       "Juan Benet|juan-benet"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "xCpqpRIQ_sw",
-      "path": "/videos/all/xCpqpRIQ_sw",
-      "duration": "1493.721",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/xCpqpRIQ_sw/source.mp4",
-        "hash": "94b6c2b27a34c58b9a02bf379051d42bffe8d11373fa4347e8cea4f1af6ed877",
-        "size": 177713224,
-        "resolution": "1920x1080",
-        "bitrate": "951788",
-        "videoCodec": "avc1",
-        "videoBitrate": 837313,
-        "audioCodec": "Opus",
-        "audioBitrate": 109528
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "7FKJQut6YPk",
@@ -48,24 +31,7 @@
       "Aidan Hyman"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "7FKJQut6YPk",
-      "path": "/videos/all/7FKJQut6YPk",
-      "duration": "1488.741",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/7FKJQut6YPk/source.mp4",
-        "hash": "e6a5b2b2dc6ad76c73772c31c0a44364494f87915aca6b337cebfef56322eaf5",
-        "size": 456046951,
-        "resolution": "1920x1080",
-        "bitrate": "2450645",
-        "videoCodec": "avc1",
-        "videoBitrate": 2350295,
-        "audioCodec": "Opus",
-        "audioBitrate": 95551
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "9WfQwGL7ygs",
@@ -81,24 +47,7 @@
       "Aqeel Mohammad"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "9WfQwGL7ygs",
-      "path": "/videos/all/9WfQwGL7ygs",
-      "duration": "1766.861",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/9WfQwGL7ygs/source.mp4",
-        "hash": "d136338b00e0553cf589c5135fa3c895ee6236cca0212c14a1ca47b22a3fed6d",
-        "size": 257294581,
-        "resolution": "1920x1080",
-        "bitrate": "1164979",
-        "videoCodec": "avc1",
-        "videoBitrate": 1055811,
-        "audioCodec": "Opus",
-        "audioBitrate": 104380
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "wzGhjGHHgWE",
@@ -119,24 +68,7 @@
       "Shady El Damaty|shady-el-damaty"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "wzGhjGHHgWE",
-      "path": "/videos/all/wzGhjGHHgWE",
-      "duration": "3114.301",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/wzGhjGHHgWE/source.mp4",
-        "hash": "63b6b148a326d8c7f88dd846ed589e8f8224a5225dd7cb6badc2a7cce32854d5",
-        "size": 746711825,
-        "resolution": "1920x1080",
-        "bitrate": "1918149",
-        "videoCodec": "avc1",
-        "videoBitrate": 1817457,
-        "audioCodec": "Opus",
-        "audioBitrate": 95887
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "AOri8sxxr-A",
@@ -151,24 +83,7 @@
       "Bob Summerwill|bob-summerwill"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "AOri8sxxr-A",
-      "path": "/videos/all/AOri8sxxr-A",
-      "duration": "2568.461",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/AOri8sxxr-A/source.mp4",
-        "hash": "2a94226bfa74e83dda774c4511ff4e8be59ddcc6010c8ddbcfcec0f3caa9f089",
-        "size": 219048023,
-        "resolution": "1920x1080",
-        "bitrate": "682270",
-        "videoCodec": "avc1",
-        "videoBitrate": 566908,
-        "audioCodec": "Opus",
-        "audioBitrate": 110473
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "ryvtBhTBy5k",
@@ -184,24 +99,7 @@
       "Robert De Groot|robert-degroot"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "ryvtBhTBy5k",
-      "path": "/videos/all/ryvtBhTBy5k",
-      "duration": "1497.281",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/ryvtBhTBy5k/source.mp4",
-        "hash": "4bcf7d6b5865d5d9255b54ad60a92718b8b4034026ce6c4c17b5dcfd1184ae88",
-        "size": 329579841,
-        "resolution": "1920x1080",
-        "bitrate": "1760951",
-        "videoCodec": "avc1",
-        "videoBitrate": 1660720,
-        "audioCodec": "Opus",
-        "audioBitrate": 95462
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "LguumxmzRKo",
@@ -216,24 +114,7 @@
       "Wassim Alsindi"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "LguumxmzRKo",
-      "path": "/videos/all/LguumxmzRKo",
-      "duration": "1809.601",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/LguumxmzRKo/source.mp4",
-        "hash": "6dd5903b8acd9f7190aaa1130939b0c96ceeaed07829bc0b75cd29a61206f956",
-        "size": 309925775,
-        "resolution": "1920x1080",
-        "bitrate": "1370140",
-        "videoCodec": "avc1",
-        "videoBitrate": 1265792,
-        "audioCodec": "Opus",
-        "audioBitrate": 99540
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "lV1XoF9uxEA",
@@ -248,24 +129,7 @@
       "Costanza Gallo|constanza-gallo"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "lV1XoF9uxEA",
-      "path": "/videos/all/lV1XoF9uxEA",
-      "duration": "1388.861",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/lV1XoF9uxEA/source.mp4",
-        "hash": "002bc03e3b2c4b5111e9e2a7e332a144d5e0d0d3edd007de454b4edd1ea31b5c",
-        "size": 265373390,
-        "resolution": "1920x1080",
-        "bitrate": "1528581",
-        "videoCodec": "avc1",
-        "videoBitrate": 1424497,
-        "audioCodec": "Opus",
-        "audioBitrate": 99259
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "9RmXxcseMQ8",
@@ -280,24 +144,7 @@
       "Oskarth"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "9RmXxcseMQ8",
-      "path": "/videos/all/9RmXxcseMQ8",
-      "duration": "1177.621",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/9RmXxcseMQ8/source.mp4",
-        "hash": "ff6836c85e65c104db9ae478c82cf264818bafca32a183e44d35772cda0a78c5",
-        "size": 141237197,
-        "resolution": "1920x1080",
-        "bitrate": "959475",
-        "videoCodec": "avc1",
-        "videoBitrate": 843216,
-        "audioCodec": "Opus",
-        "audioBitrate": 111408
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "C-i11RN0L2U",
@@ -312,24 +159,7 @@
       "Kris Is"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "C-i11RN0L2U",
-      "path": "/videos/all/C-i11RN0L2U",
-      "duration": "1567.421",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/C-i11RN0L2U/source.mp4",
-        "hash": "236d142671e6f0b5eb598d3d3cf339fab37ba95dff1669befe9eb668f25f55e3",
-        "size": 180466621,
-        "resolution": "1920x1080",
-        "bitrate": "921088",
-        "videoCodec": "avc1",
-        "videoBitrate": 810080,
-        "audioCodec": "Opus",
-        "audioBitrate": 106152
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "OT1MYlona2E",
@@ -344,24 +174,7 @@
       "Julio Linares"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "OT1MYlona2E",
-      "path": "/videos/all/OT1MYlona2E",
-      "duration": "1745.921",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/OT1MYlona2E/source.mp4",
-        "hash": "576484d9a375fa27d3f83e41fdbaac79261231d00706663497ee0d5c2accfff0",
-        "size": 678007754,
-        "resolution": "1920x1080",
-        "bitrate": "3106705",
-        "videoCodec": "avc1",
-        "videoBitrate": 2996719,
-        "audioCodec": "Opus",
-        "audioBitrate": 105274
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "zYjHhCPRP2Q",
@@ -376,24 +189,7 @@
       "Lasha Antatze"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "zYjHhCPRP2Q",
-      "path": "/videos/all/zYjHhCPRP2Q",
-      "duration": "1143.321",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/zYjHhCPRP2Q/source.mp4",
-        "hash": "5d8498d4cda23db4852415b78014f44b82fe52ba59c492d9d922036379f9f862",
-        "size": 305160213,
-        "resolution": "1920x1080",
-        "bitrate": "2135255",
-        "videoCodec": "avc1",
-        "videoBitrate": 2027720,
-        "audioCodec": "Opus",
-        "audioBitrate": 102924
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "fSJly21DtkM",
@@ -408,24 +204,7 @@
       "Sam Hart|sam-hart"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "fSJly21DtkM",
-      "path": "/videos/all/fSJly21DtkM",
-      "duration": "822.401",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/fSJly21DtkM/source.mp4",
-        "hash": "0d41bc0e13c38ed63a9644e4f1564b890968b125ae48c200656cbd510e9a45eb",
-        "size": 51986441,
-        "resolution": "1920x1080",
-        "bitrate": "505704",
-        "videoCodec": "avc1",
-        "videoBitrate": 412723,
-        "audioCodec": "Opus",
-        "audioBitrate": 88109
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "ux5l12IgwH4",
@@ -440,24 +219,7 @@
       "Andreas Fileverse"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "ux5l12IgwH4",
-      "path": "/videos/all/ux5l12IgwH4",
-      "duration": "1002.901",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/ux5l12IgwH4/source.mp4",
-        "hash": "54809d18044e1d1ec49348c64c920c98fdb5934a7174dbd6fda7d88e7f000952",
-        "size": 130410407,
-        "resolution": "1920x1080",
-        "bitrate": "1040265",
-        "videoCodec": "avc1",
-        "videoBitrate": 923504,
-        "audioCodec": "Opus",
-        "audioBitrate": 111959
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "bz6b6YeM4NM",
@@ -472,24 +234,7 @@
       "Daniel Luca|daniel-luca"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "bz6b6YeM4NM",
-      "path": "/videos/all/bz6b6YeM4NM",
-      "duration": "1438.401",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/bz6b6YeM4NM/source.mp4",
-        "hash": "fbba2e2df4fbf0e57a1e3476d99f4b21148505fd937c906bca3c945e3a13eb7a",
-        "size": 127401604,
-        "resolution": "1920x1080",
-        "bitrate": "708574",
-        "videoCodec": "vp09",
-        "videoBitrate": 605358,
-        "audioCodec": "Opus",
-        "audioBitrate": 99217
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "AoYwr5S5iTM",
@@ -504,24 +249,7 @@
       "Nate"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "AoYwr5S5iTM",
-      "path": "/videos/all/AoYwr5S5iTM",
-      "duration": "2017.421",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/AoYwr5S5iTM/source.mp4",
-        "hash": "aa546ceaaa0f3cc72df24462226d9e633b290e565a34f9f06bc14c4e6d2ccbd6",
-        "size": 215988687,
-        "resolution": "1920x1080",
-        "bitrate": "856494",
-        "videoCodec": "avc1",
-        "videoBitrate": 749907,
-        "audioCodec": "Opus",
-        "audioBitrate": 101694
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "d-SWBj3N6nc",
@@ -536,24 +264,7 @@
       "Shady El Damaty|shady-el-damaty"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "d-SWBj3N6nc",
-      "path": "/videos/all/d-SWBj3N6nc",
-      "duration": "1032.701",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/d-SWBj3N6nc/source.mp4",
-        "hash": "e5a4e576f2ae16d418dee9ab6ce2c257174c5b534bc34128082d0c0043f5275f",
-        "size": 261767844,
-        "resolution": "1920x1080",
-        "bitrate": "2027831",
-        "videoCodec": "avc1",
-        "videoBitrate": 1917079,
-        "audioCodec": "Opus",
-        "audioBitrate": 106117
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "aD13oktkf2g",
@@ -568,24 +279,7 @@
       "Leona Hioki|leona-hioki"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "aD13oktkf2g",
-      "path": "/videos/all/aD13oktkf2g",
-      "duration": "876.061",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/aD13oktkf2g/source.mp4",
-        "hash": "bf9f7890ff2eb4004b290e8146c90a250f8f91c303c009bd769fa097cf6bf8ad",
-        "size": 169376303,
-        "resolution": "1920x1080",
-        "bitrate": "1546708",
-        "videoCodec": "avc1",
-        "videoBitrate": 1439416,
-        "audioCodec": "Opus",
-        "audioBitrate": 102476
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "mHEcjQhJiGs",
@@ -600,24 +294,7 @@
       "Amir Taaki|amir-taaki"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "mHEcjQhJiGs",
-      "path": "/videos/all/mHEcjQhJiGs",
-      "duration": "1987.021",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/mHEcjQhJiGs/source.mp4",
-        "hash": "239d63f6d1b5588f0c348d2170033af1282c7bce8569cfd3ea6cc3201ab2158d",
-        "size": 357715491,
-        "resolution": "1920x1080",
-        "bitrate": "1440208",
-        "videoCodec": "avc1",
-        "videoBitrate": 1332790,
-        "audioCodec": "Opus",
-        "audioBitrate": 102448
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "tNRjwxgjZ9Q",
@@ -634,24 +311,7 @@
       "Amit"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "tNRjwxgjZ9Q",
-      "path": "/videos/all/tNRjwxgjZ9Q",
-      "duration": "1565.981",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/tNRjwxgjZ9Q/source.mp4",
-        "hash": "ce830ef6496d932fa2b2689b7fb6432d1a40dd7e0ac83742a85828b2a1b52234",
-        "size": 619325520,
-        "resolution": "1920x1080",
-        "bitrate": "3163898",
-        "videoCodec": "avc1",
-        "videoBitrate": 3057800,
-        "audioCodec": "Opus",
-        "audioBitrate": 101297
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "wb-ne4rF11M",
@@ -666,24 +326,7 @@
       "Adrian Brink|adrian-brink"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "wb-ne4rF11M",
-      "path": "/videos/all/wb-ne4rF11M",
-      "duration": "1620.901",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/wb-ne4rF11M/source.mp4",
-        "hash": "0a8613a84ed30ad37605e64f2cac23c9f38a2e2b5106809001c2be928c244a15",
-        "size": 304405438,
-        "resolution": "1920x1080",
-        "bitrate": "1502401",
-        "videoCodec": "avc1",
-        "videoBitrate": 1384120,
-        "audioCodec": "Opus",
-        "audioBitrate": 113380
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "kbwL-a3c3oc",
@@ -698,24 +341,7 @@
       "Jarrad Hope|jarrad-hope"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "kbwL-a3c3oc",
-      "path": "/videos/all/kbwL-a3c3oc",
-      "duration": "1803.861",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/kbwL-a3c3oc/source.mp4",
-        "hash": "0dd0cd081264071f957951d1cc764510146861721defa29719e76d402f45c341",
-        "size": 151291461,
-        "resolution": "1920x1080",
-        "bitrate": "670967",
-        "videoCodec": "avc1",
-        "videoBitrate": 554734,
-        "audioCodec": "Opus",
-        "audioBitrate": 111300
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "qTKKrOGxzGA",
@@ -735,24 +361,7 @@
       "Costanza Gallo|constanza-gallo"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "qTKKrOGxzGA",
-      "path": "/videos/all/qTKKrOGxzGA",
-      "duration": "2202.421",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/qTKKrOGxzGA/source.mp4",
-        "hash": "7ee76ecaa6c783732933ea55f41f4482cc0751ba8025d420bc96957d7d2f5004",
-        "size": 480013257,
-        "resolution": "1920x1080",
-        "bitrate": "1743584",
-        "videoCodec": "avc1",
-        "videoBitrate": 1638076,
-        "audioCodec": "Opus",
-        "audioBitrate": 100698
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "s5WC1-qaCOI",
@@ -767,24 +376,7 @@
       "Claire Kart"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "s5WC1-qaCOI",
-      "path": "/videos/all/s5WC1-qaCOI",
-      "duration": "1094.581",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/s5WC1-qaCOI/source.mp4",
-        "hash": "3f7ae0c77df401d0998d06bfb21d83c501da4831007155a1bb06f55f5d661ad2",
-        "size": 161399174,
-        "resolution": "1920x1080",
-        "bitrate": "1179623",
-        "videoCodec": "avc1",
-        "videoBitrate": 1070338,
-        "audioCodec": "Opus",
-        "audioBitrate": 104458
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "av2KLxXZz34",
@@ -799,24 +391,7 @@
       "Rachel-Rose O'Leary|rachel-rose"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "av2KLxXZz34",
-      "path": "/videos/all/av2KLxXZz34",
-      "duration": "1588.481",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/av2KLxXZz34/source.mp4",
-        "hash": "a59a4042c360809a647534842dd9a49e97e6f673267f80ee49310cd10b8b3db8",
-        "size": 176013058,
-        "resolution": "1920x1080",
-        "bitrate": "886447",
-        "videoCodec": "avc1",
-        "videoBitrate": 783512,
-        "audioCodec": "Opus",
-        "audioBitrate": 98044
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "J4RlaZT1D9U",
@@ -831,24 +406,7 @@
       "Peter Van Valkenburgh|peter-van-valkenburgh"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "J4RlaZT1D9U",
-      "path": "/videos/all/J4RlaZT1D9U",
-      "duration": "1174.181",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/J4RlaZT1D9U/source.mp4",
-        "hash": "b42578f5cfe80ecf33ec9a6d9b31e9fb6c0e8661fd9356578e560a87a235fcaf",
-        "size": 104708270,
-        "resolution": "1920x1080",
-        "bitrate": "713405",
-        "videoCodec": "avc1",
-        "videoBitrate": 602704,
-        "audioCodec": "Opus",
-        "audioBitrate": 105876
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "-1-qsbZOYtQ",
@@ -861,24 +419,7 @@
     "name": "Unofficial Aftermovie by Alina",
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024",
-    "people": [],
-    "storage": {
-      "id": "-1-qsbZOYtQ",
-      "path": "/videos/all/-1-qsbZOYtQ",
-      "duration": "150.761",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/-1-qsbZOYtQ/source.mp4",
-        "hash": "fa9b6aac26c4df679430c34ba98d0d89e85dad54a842211a20065b28dcc85686",
-        "size": 87826057,
-        "resolution": "1920x1080",
-        "bitrate": "4660413",
-        "videoCodec": "avc1",
-        "videoBitrate": 4535742,
-        "audioCodec": "Opus",
-        "audioBitrate": 118662
-      }
-    }
+    "people": []
   },
   {
     "id": "iwDS8xJMO7Y",
@@ -893,24 +434,7 @@
       "Naomi Brockwell|naomi-brockwell"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "iwDS8xJMO7Y",
-      "path": "/videos/all/iwDS8xJMO7Y",
-      "duration": "1442.841",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/iwDS8xJMO7Y/source.mp4",
-        "hash": "23c3ebafb662bae797b502f2cdac458044864a5ac254fd9f9f8e4e387a4edc01",
-        "size": 194786011,
-        "resolution": "1920x1080",
-        "bitrate": "1080014",
-        "videoCodec": "avc1",
-        "videoBitrate": 969348,
-        "audioCodec": "Opus",
-        "audioBitrate": 105874
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "AGUrqPJDrGM",
@@ -925,24 +449,7 @@
       "Nick Almond|dr-nick"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "AGUrqPJDrGM",
-      "path": "/videos/all/AGUrqPJDrGM",
-      "duration": "1312.001",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/AGUrqPJDrGM/source.mp4",
-        "hash": "f41ad6f445275a6b5745f58872f887c5467275af6e45d3635f5dab35f0219ed3",
-        "size": 133030701,
-        "resolution": "1920x1080",
-        "bitrate": "811162",
-        "videoCodec": "avc1",
-        "videoBitrate": 703145,
-        "audioCodec": "Opus",
-        "audioBitrate": 103166
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "dAC_-1r9ohs",
@@ -957,24 +464,7 @@
       "Lefteris Karapetsas|lefteris-karapetsas"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "dAC_-1r9ohs",
-      "path": "/videos/all/dAC_-1r9ohs",
-      "duration": "1710.261",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/dAC_-1r9ohs/source.mp4",
-        "hash": "e5d3eada098480a3ec9eb6b1bb1b78da179da837943ab085fbdc16c45e7ba6fe",
-        "size": 209805421,
-        "resolution": "1920x1080",
-        "bitrate": "981396",
-        "videoCodec": "avc1",
-        "videoBitrate": 875491,
-        "audioCodec": "Opus",
-        "audioBitrate": 101067
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "43AD82pNV_Q",
@@ -989,24 +479,7 @@
       "Ameen Soleimani|ameen-soleimani"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "43AD82pNV_Q",
-      "path": "/videos/all/43AD82pNV_Q",
-      "duration": "1011.981",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/43AD82pNV_Q/source.mp4",
-        "hash": "d1252cbbe22d7b1aa1cb5b770264f0f2cbfa7eee9aa26babf80bf82724abd794",
-        "size": 192710900,
-        "resolution": "1920x1080",
-        "bitrate": "1523435",
-        "videoCodec": "avc1",
-        "videoBitrate": 1413144,
-        "audioCodec": "Opus",
-        "audioBitrate": 105533
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "Un3_zWjL9PA",
@@ -1019,24 +492,7 @@
     "name": "Ethereum Cypherpunk Congress @ Devcon 7 - Bangkok 2024",
     "project": "w3pn",
     "event": "w3pn-eth-cypherpunk-congress-2024",
-    "people": [],
-    "storage": {
-      "id": "Un3_zWjL9PA",
-      "path": "/videos/all/Un3_zWjL9PA",
-      "duration": "118.741",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/Un3_zWjL9PA/source.mp4",
-        "hash": "126cc001bc25f347910d3834de711c0ff30784f22d39d80436f048196b345ba2",
-        "size": 59131851,
-        "resolution": "1920x1080",
-        "bitrate": "3983921",
-        "videoCodec": "avc1",
-        "videoBitrate": 3852419,
-        "audioCodec": "Opus",
-        "audioBitrate": 127333
-      }
-    }
+    "people": []
   },
   {
     "id": "wJR6pDyarU8",
@@ -1052,24 +508,7 @@
       "Sebastian Bürgel|sebastian-burgel"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "wJR6pDyarU8",
-      "path": "/videos/all/wJR6pDyarU8",
-      "duration": "1626.301",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/wJR6pDyarU8/source.mp4",
-        "hash": "44ebbd0a79dac40e8a5657a3416657e426abccf0ec48d5f6f63f5809addca173",
-        "size": 148869404,
-        "resolution": "1280x720",
-        "bitrate": "732309",
-        "videoCodec": "vp09",
-        "videoBitrate": 619455,
-        "audioCodec": "Opus",
-        "audioBitrate": 108849
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   },
   {
     "id": "EzgN0xEDXow",
@@ -1084,23 +523,6 @@
       "Exiledsurfer|exiledsurfer"
     ],
     "project": "w3pn",
-    "event": "w3pn-eth-cypherpunk-congress-2024",
-    "storage": {
-      "id": "EzgN0xEDXow",
-      "path": "/videos/all/EzgN0xEDXow",
-      "duration": "211.641",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/EzgN0xEDXow/source.mp4",
-        "hash": "6a89fb78073dda053f8b1a4ed7884b0ba08b5832515e4a5b1b9406da915ec70a",
-        "size": 13068817,
-        "resolution": "640x360",
-        "bitrate": "493999",
-        "videoCodec": "vp09",
-        "videoBitrate": 344638,
-        "audioCodec": "Opus",
-        "audioBitrate": 141691
-      }
-    }
+    "event": "w3pn-eth-cypherpunk-congress-2024"
   }
 ]

@@ -13,24 +13,7 @@
     "people": [
       "Jan Hubík|jan-hubik"
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "WEO5TwCl_PA",
-      "path": "/videos/all/WEO5TwCl_PA",
-      "duration": "2284.241",
-      "framerate": "29.970",
-      "source": {
-        "path": "/videos/all/WEO5TwCl_PA/source.mp4",
-        "hash": "08a1c69da5c5c56f9693be9135b442c0f9f41ec6110899801a9381fc604144e8",
-        "size": 180979792,
-        "resolution": "1280x720",
-        "bitrate": "633838",
-        "videoCodec": "vp09",
-        "videoBitrate": 515171,
-        "audioCodec": "Opus",
-        "audioBitrate": 110869
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "tSiKNOkAkWs",
@@ -46,24 +29,7 @@
     "people": [
       "Hynek Jína"
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "tSiKNOkAkWs",
-      "path": "/videos/all/tSiKNOkAkWs",
-      "duration": "2081.181",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/tSiKNOkAkWs/source.mp4",
-        "hash": "452e051edfcf8e93a9613aad10459139cfeae22ec17e3f7c9fbc9523ae3391fa",
-        "size": 172611369,
-        "resolution": "1280x720",
-        "bitrate": "663513",
-        "videoCodec": "vp09",
-        "videoBitrate": 550228,
-        "audioCodec": "Opus",
-        "audioBitrate": 105595
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "UOIOUZHcW8s",
@@ -79,24 +45,7 @@
     "people": [
       "urza"
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "UOIOUZHcW8s",
-      "path": "/videos/all/UOIOUZHcW8s",
-      "duration": "3656.421",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/UOIOUZHcW8s/source.mp4",
-        "hash": "03a4369fb678019ec2c336f620884e72dbbbb7df9a821ed177c944221cf2a8ac",
-        "size": 321265908,
-        "resolution": "1280x720",
-        "bitrate": "702908",
-        "videoCodec": "vp09",
-        "videoBitrate": 591492,
-        "audioCodec": "Opus",
-        "audioBitrate": 103727
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "jHiUCbZeHDc",
@@ -112,24 +61,7 @@
     "people": [
       "O. T."
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "jHiUCbZeHDc",
-      "path": "/videos/all/jHiUCbZeHDc",
-      "duration": "3584.921",
-      "framerate": "25.000",
-      "source": {
-        "path": "/videos/all/jHiUCbZeHDc/source.mp4",
-        "hash": "a86523cb869447349cb03b1518bef074fc9a1d9e8ad1e763f22b5b8c6c22550d",
-        "size": 190606902,
-        "resolution": "1920x1080",
-        "bitrate": "425353",
-        "videoCodec": "vp09",
-        "videoBitrate": 319404,
-        "audioCodec": "Opus",
-        "audioBitrate": 101943
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "7Cz1MX6O_Ss",
@@ -145,24 +77,7 @@
     "people": [
       "Jan Skalický"
     ],
-    "lang": "cs",
-    "storage": {
-      "id": "7Cz1MX6O_Ss",
-      "path": "/videos/all/7Cz1MX6O_Ss",
-      "duration": "3310.761",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/7Cz1MX6O_Ss/source.mp4",
-        "hash": "2a72a68d55c2ba643fa120125345796b5691b62d45a08349a7349db7c3b48fab",
-        "size": 205892201,
-        "resolution": "1280x720",
-        "bitrate": "497510",
-        "videoCodec": "vp09",
-        "videoBitrate": 379705,
-        "audioCodec": "Opus",
-        "audioBitrate": 110119
-      }
-    }
+    "lang": "cs"
   },
   {
     "id": "fcgGKzYU_Qs",
@@ -178,24 +93,7 @@
     ],
     "lang": "cs",
     "project": "konference-sp",
-    "event": "ksp24",
-    "storage": {
-      "id": "fcgGKzYU_Qs",
-      "path": "/videos/all/fcgGKzYU_Qs",
-      "duration": "3545.761",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/fcgGKzYU_Qs/source.mp4",
-        "hash": "77aaa7e0580582efdaeb1fcd4bb7a2d538fbeeff5383439f635caa85cfdc6f4f",
-        "size": 179812886,
-        "resolution": "1280x720",
-        "bitrate": "405697",
-        "videoCodec": "vp09",
-        "videoBitrate": 286658,
-        "audioCodec": "Opus",
-        "audioBitrate": 111351
-      }
-    }
+    "event": "ksp24"
   },
   {
     "id": "1nEhxU7aOUY",
@@ -214,23 +112,6 @@
     ],
     "lang": "cs",
     "project": "konference-sp",
-    "event": "ksp24",
-    "storage": {
-      "id": "1nEhxU7aOUY",
-      "path": "/videos/all/1nEhxU7aOUY",
-      "duration": "5043.741",
-      "framerate": "30.000",
-      "source": {
-        "path": "/videos/all/1nEhxU7aOUY/source.mp4",
-        "hash": "5c363ae53cb941c64bbc5f25f64aec3132d22f6c6f74169e4575993e637c7a5c",
-        "size": 432228567,
-        "resolution": "1280x720",
-        "bitrate": "685568",
-        "videoCodec": "vp09",
-        "videoBitrate": 570431,
-        "audioCodec": "Opus",
-        "audioBitrate": 107447
-      }
-    }
+    "event": "ksp24"
   }
 ]

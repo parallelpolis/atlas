@@ -48,6 +48,9 @@ extract-dod:
 extract-w3p-cypherpunk-congress-2024:
 	node lib/yt-extract.js w3pn:eth-cypherpunk-congress-2024 playlist PLSsVHWrO8Yh2FBmQ3JwauylmYI4F6z5Q3 '{"project": "w3pn", "event": "w3pn-eth-cypherpunk-congress-2024"}'
 
+extract-w3p-ecc-2025:
+	node lib/yt-extract.js w3pn:eth-cypherpunk-congress-2025 playlist PLSsVHWrO8Yh06WlNcYKtIDMjPiUXJjADu '{"project": "w3pn", "event": "w3pn-eth-cypherpunk-congress-2025"}'
+
 # monerokon
 extract-monerokon19:
 	node lib/yt-extract.js monerokon-community:monerokon19 playlist PLsSYUeVwrHBkJHJg_l2uDgbicDJ1PmAVW '{"project": "monerokon", "event": "monerokon19"}'
